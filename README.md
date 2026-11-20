@@ -29,6 +29,11 @@ npm run serve
 
 puis aller sur http://localhost:8123/.
 
+**Sous Windows, plus simple : double-cliquer sur `Lancer Lecture Louange.bat`.** Le fichier installe les outils
+au premier lancement si besoin, génère le site s'il n'existe pas, démarre le serveur local et ouvre le navigateur
+sur http://localhost:8123/. Laisser la fenêtre noire ouverte pendant la lecture ; la fermer arrête le site.
+Si le site tourne déjà, un second double-clic rouvre simplement le navigateur. (Node.js doit être installé.)
+
 ## Modifier ou régénérer
 
 | Fichier | Rôle |

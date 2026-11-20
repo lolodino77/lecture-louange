@@ -9,7 +9,17 @@ const root = path.resolve(process.argv[2] || path.join(__dirname, '..', 'site'))
 const port = parseInt(process.argv[3] || process.env.PORT || '8123', 10);
 const TYPES = { '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.svg': 'image/svg+xml', '.json': 'application/json', '.png': 'image/png', '.ico': 'image/x-icon' };
 
-http
+const url = `http://localhost:${port}/`;
+const wantOpen = process.argv.includes('--open');
+
+// Ouvre le navigateur par défaut du système sur le site.
+function openBrowser() {
+  const { exec } = require('child_process');
+  const cmd = process.platform === 'win32' ? `start "" "${url}"` : process.platform === 'darwin' ? `open "${url}"` : `xdg-open "${url}"`;
+  exec(cmd);
+}
+
+const server = http
   .createServer((req, res) => {
     let p = decodeURIComponent(req.url.split('?')[0]);
     if (p.endsWith('/')) p += 'index.html';
@@ -27,4 +37,18 @@ http
       res.end(buf);
     });
   })
-  .listen(port, () => console.log(`Site servi sur http://localhost:${port}/ (dossier ${root})`));
+  .listen(port, () => {
+    console.log(`Site servi sur ${url} (dossier ${root})`);
+    if (wantOpen) openBrowser();
+  });
+
+// Port déjà pris : le site tourne sans doute déjà (autre fenêtre) ; on ouvre simplement le navigateur dessus.
+server.on('error', (err) => {
+  if (err.code === 'EADDRINUSE') {
+    console.log(`Le port ${port} est déjà utilisé : le site tourne probablement déjà sur ${url}`);
+    if (wantOpen) openBrowser();
+    setTimeout(() => process.exit(0), 500);
+  } else {
+    throw err;
+  }
+});
