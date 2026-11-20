@@ -19,7 +19,7 @@ vocab: 天家=la maison céleste (demeure des croyants auprès de Dieu) | 寄居
 = Luc : Vous me flattez, Mamie. En réalité, à Taïwan, je resterai toujours un invité.
 陳奶奶/chen2nai3nai5 ：傻/sha3 孩子/hai2zi5 ，奶奶/nai3nai5 也/ye3 是/shi4 客人/ke4ren2 啊/a5 。聖經/sheng4jing1 說/shuo1 ，我們/wo3men5 在/zai4 世上/shi4shang4 都/dou1 是/shi4 客旅/ke4lv3 ，是/shi4 寄居/ji4ju1 的/de5 。
 = Mamie Chen : Petit nigaud, Mamie aussi est une invitée. La Bible dit que sur la terre, nous sommes tous des voyageurs et des étrangers.
-她/ta1 慢慢/man4man4 地/de5 說/shuo1 ，好像/hao3xiang4 在/zai4 講/jiang3 一/yi1 件/jian4 很/hen3 平常/ping2chang2 的/de5 事/shi4 ：「這個/zhe4ge5 身體/shen1ti3 就/jiu4 像/xiang4 一/yi1 頂/ding3 舊/jiu4 帳棚/zhang4peng2 ，總/zong3 有/you3 一/yi1 天/tian1 要/yao4 拆/chai1 下來/xia4lai2 。可是/ke3shi4 我/wo3 知道/zhi1dao4 ，天家/tian1jia1 有/you3 一/yi1 個/ge4 地方/di4fang5 在/zai4 等/deng3 我/wo3 。」
+她/ta1 慢慢/man4man4 地/de5 說/shuo1 ，好像/hao3xiang4 在/zai4 講/jiang3 一/yi1 件/jian4 很/hen3 平常/ping2chang2 的/de5 事/shi4 ：「這個/zhe4ge5 身體/shen1ti3 就/jiu4 像/xiang4 一/yi1 頂/ding3 舊/jiu4 帳棚/zhang4peng2 ，總/zong3 有/you3 一/yi1 天/tian1 要/yao4 拆/chai1 下來/xia4lai2 。可是/ke3shi4 我/wo3 知道/zhi1dao4 ，天家/tian1jia1 有/you3 一/yi1 個/ge4 地方/di4fang1 在/zai4 等/deng3 我/wo3 。」
 = Elle parle lentement, comme d'une chose tout ordinaire : « Ce corps est comme une vieille tente ; un jour, il faudra la démonter. Mais je sais qu'une place m'attend dans la maison du Père. »
 小恩/xiao3en1 握/wo4 著/zhe5 奶奶/nai3nai5 的/de5 手/shou3 ，眼眶/yan3kuang4 紅/hong2 了/le5 ，卻/que4 努力/nu3li4 不/bu4 讓/rang4 眼淚/yan3lei4 掉/diao4 下來/xia4lai2 。
 = Xiao En tient la main de sa grand-mère ; ses yeux rougissent, mais elle s'efforce de retenir ses larmes.
@@ -35,11 +35,11 @@ vocab: 天家=la maison céleste (demeure des croyants auprès de Dieu) | 寄居
 = Après le chant, la chambre reste longtemps silencieuse. Le soleil entre en biais par la fenêtre et éclaire le bord du lit.
 陳奶奶/chen2nai3nai5 ：路加/lu4jia1 ，奶奶/nai3nai5 每天/mei3tian1 都/dou1 為/wei4 你/ni3 禱告/dao3gao4 。你/ni3 要/yao4 一心一意/yi1xin1yi1yi4 跟隨/gen1sui2 主/zhu3 ，好好/hao3hao3 照顧/zhao4gu4 小恩/xiao3en1 ，也/ye3 照顧/zhao4gu4 教會/jiao4hui4 的/de5 孩子們/hai2zi5men5 。
 = Mamie Chen : Luc, Mamie prie pour toi chaque jour. Suis le Seigneur de tout ton cœur, prends bien soin de Xiao En, et aussi des enfants de l'église.
-路加/lu4jia1 不/bu4 太/tai4 明白/ming2bai2 奶奶/nai3nai5 為什麼/wei4shen2me5 特別/te4bie2 提到/ti2dao4 「教會/jiao4hui4 的/de5 孩子/hai2zi5 」，只/zhi3 是/shi4 用力/yong4li4 地/de5 點點頭/dian3dian3tou2 。
+路加/lu4jia1 不/bu4 太/tai4 明白/ming2bai5 奶奶/nai3nai5 為什麼/wei4shen2me5 特別/te4bie2 提到/ti2dao4 「教會/jiao4hui4 的/de5 孩子/hai2zi5 」，只/zhi3 是/shi4 用力/yong4li4 地/de5 點點頭/dian3dian3tou2 。
 = Luc ne comprend pas bien pourquoi Mamie parle justement des « enfants de l'église » ; il se contente de hocher vigoureusement la tête.
 離開/li2kai1 醫院/yi1yuan4 的/de5 時候/shi2hou5 ，天/tian1 已經/yi3jing1 黑/hei1 了/le5 。小恩/xiao3en1 終於/zhong1yu2 在/zai4 公車站/gong1che1zhan4 哭/ku1 了/le5 出來/chu1lai2 。
 = Quand ils quittent l'hôpital, il fait déjà nuit. À l'arrêt de bus, Xiao En finit par éclater en sanglots.
-小恩/xiao3en1 ：我/wo3 知道/zhi1dao4 奶奶/nai3nai5 要/yao4 去/qu4 一/yi1 個/ge4 更/geng4 好/hao3 的/de5 地方/di4fang5 ，可是/ke3shi4 我/wo3 還/hai2 沒有/mei2you3 準備/zhun3bei4 好/hao3 說/shuo1 再見/zai4jian4 。
+小恩/xiao3en1 ：我/wo3 知道/zhi1dao4 奶奶/nai3nai5 要/yao4 去/qu4 一/yi1 個/ge4 更/geng4 好/hao3 的/de5 地方/di4fang1 ，可是/ke3shi4 我/wo3 還/hai2 沒有/mei2you3 準備/zhun3bei4 好/hao3 說/shuo1 再見/zai4jian4 。
 = Xiao En : Je sais que Mamie va dans un endroit meilleur, mais je ne suis pas encore prête à lui dire au revoir.
 路加/lu4jia1 沒有/mei2you3 說/shuo1 什麼/shen2me5 大/da4 道理/dao4li3 ，只/zhi3 是/shi4 陪/pei2 她/ta1 站/zhan4 著/zhe5 ，一起/yi1qi3 錯過/cuo4guo4 了/le5 兩/liang3 班/ban1 公車/gong1che1 。
 = Luc ne lui fait pas de grand discours ; il reste simplement debout à ses côtés, et ils laissent passer deux bus ensemble.
@@ -64,7 +64,7 @@ vocab: 安息主懷=s'endormir dans le Seigneur (décès d'un croyant) | 生死=
 = Xiao En : Elle est partie en paix. Hier soir encore, elle a dit à papa : « Ne pleure pas, je rentre à la maison, je ne la quitte pas. »
 路加/lu4jia1 趕到/gan3dao4 陳家/chen2jia1 的/de5 時候/shi2hou5 ，王牧師/wang2mu4shi1 和/he2 師母/shi1mu3 已經/yi3jing1 在/zai4 那裡/na4li3 了/le5 。客廳/ke4ting1 裡/li3 坐滿/zuo4man3 了/le5 人/ren2 ，卻/que4 一點/yi1dian3 也/ye3 不/bu4 吵/chao3 。
 = Quand Luc arrive chez les Chen, le pasteur Wang et sa femme sont déjà là. Le salon est plein de monde, et pourtant tout est silencieux.
-陳媽媽/chen2ma1ma5 的/de5 眼睛/yan3jing5 腫腫/zhong3zhong3 的/de5 ，陳爸爸/chen2ba4ba5 默默/mo4mo4 地/de5 整理/zheng3li3 著/zhe5 奶奶/nai3nai5 那/na4 本/ben3 翻/fan1 得/de5 很/hen3 舊/jiu4 的/de5 聖經/sheng4jing1 。
+陳媽媽/chen2ma1ma5 的/de5 眼睛/yan3jing1 腫腫/zhong3zhong3 的/de5 ，陳爸爸/chen2ba4ba5 默默/mo4mo4 地/de5 整理/zheng3li3 著/zhe5 奶奶/nai3nai5 那/na4 本/ben3 翻/fan1 得/de5 很/hen3 舊/jiu4 的/de5 聖經/sheng4jing1 。
 = Maman Chen a les yeux gonflés ; papa Chen range en silence la Bible de Mamie, usée à force d'avoir été feuilletée.
 王牧師/wang2mu4shi1 ：各位/ge4wei4 ，我們/wo3men5 為/wei4 奶奶/nai3nai5 哭/ku1 ，因為/yin1wei4 我們/wo3men5 愛/ai4 她/ta1 ；但/dan4 我們/wo3men5 不/bu4 是/shi4 沒有/mei2you3 盼望/pan4wang4 地/de5 哭/ku1 。
 = Pasteur Wang : Chers amis, nous pleurons Mamie parce que nous l'aimons ; mais nous ne pleurons pas comme ceux qui n'ont pas d'espérance.
@@ -78,7 +78,7 @@ vocab: 安息主懷=s'endormir dans le Seigneur (décès d'un croyant) | 生死=
 = Au milieu du chant, la voix de Xiao En se brise. Luc éprouve mille émotions mêlées : le déchirement, la gratitude, et une paix indicible.
 他/ta1 想起/xiang3qi3 兩/liang3 年/nian2 多/duo1 前/qian2 第一/di4yi1 次/ci4 來/lai2 教會/jiao4hui4 ，就是/jiu4shi4 陳奶奶/chen2nai3nai5 拉/la1 著/zhe5 他/ta1 的/de5 手/shou3 ，用/yong4 台語/tai2yu3 說/shuo1 「歡迎/huan1ying2 你/ni3 」。
 = Il se souvient de sa première venue à l'église, il y a un peu plus de deux ans : c'est Mamie Chen qui lui avait pris la main pour lui dire « bienvenue » en taïwanais.
-那/na4 時候/shi2hou5 他/ta1 還/hai2 不/bu4 認識/ren4shi5 神/shen2 ，而/er2 奶奶/nai3nai5 早/zao3 就/jiu4 開始/kai1shi3 為/wei4 他/ta1 禱告/dao3gao4 了/le5 。
+那/na4 時候/shi2hou5 他/ta1 還/hai2 不/bu4 認識/ren4shi4 神/shen2 ，而/er2 奶奶/nai3nai5 早/zao3 就/jiu4 開始/kai1shi3 為/wei4 他/ta1 禱告/dao3gao4 了/le5 。
 = À l'époque, il ne connaissait pas encore Dieu, mais Mamie avait déjà commencé à prier pour lui.
 師母/shi1mu3 煮/zhu3 了/le5 一/yi1 大/da4 鍋/guo1 稀飯/xi1fan4 ，招呼/zhao1hu1 每/mei3 個/ge4 人/ren2 吃/chi1 一點/yi1dian3 。她/ta1 說/shuo1 ：「哀傷/ai1shang1 的/de5 時候/shi2hou5 ，身體/shen1ti3 也/ye3 需要/xu1yao4 被/bei4 照顧/zhao4gu4 。」
 = Mme Wang a préparé une grande marmite de bouillie de riz et invite chacun à en manger un peu. « Dans le chagrin, dit-elle, le corps aussi a besoin qu'on prenne soin de lui. »
@@ -86,7 +86,7 @@ vocab: 安息主懷=s'endormir dans le Seigneur (décès d'un croyant) | 生死=
 = À midi, Xiao En sort sur le balcon et contemple les quelques pots d'orchidées que Mamie cultivait.
 小恩/xiao3en1 ：路加/lu4jia1 ，你/ni3 知道/zhi1dao4 嗎/ma5 ？奶奶/nai3nai5 最後/zui4hou4 一/yi1 句/ju4 話/hua4 是/shi4 「哈利路亞/ha1li4lu4ya4 」。我/wo3 想/xiang3 ，她/ta1 現在/xian4zai4 一定/yi1ding4 唱/chang4 得/de5 比/bi3 我們/wo3men5 都/dou1 大聲/da4sheng1 。
 = Xiao En : Luc, tu sais ? Les derniers mots de Mamie ont été « Alléluia ». Je crois qu'en ce moment, elle chante sûrement plus fort que nous tous.
-她/ta1 說/shuo1 著/zhe5 ，含/han2 著/zhe5 眼淚/yan3lei4 笑/xiao4 了/le5 。路加/lu4jia1 第一/di4yi1 次/ci4 明白/ming2bai2 ，原來/yuan2lai2 眼淚/yan3lei4 和/he2 盼望/pan4wang4 可以/ke3yi3 同時/tong2shi2 存在/cun2zai4 。
+她/ta1 說/shuo1 著/zhe5 ，含/han2 著/zhe5 眼淚/yan3lei4 笑/xiao4 了/le5 。路加/lu4jia1 第一/di4yi1 次/ci4 明白/ming2bai5 ，原來/yuan2lai2 眼淚/yan3lei4 和/he2 盼望/pan4wang4 可以/ke3yi3 同時/tong2shi2 存在/cun2zai4 。
 = Elle sourit à travers ses larmes. Pour la première fois, Luc comprend que les larmes et l'espérance peuvent exister en même temps.
 
 === 233
@@ -150,7 +150,7 @@ vocab: 追思禮拜=culte d'action de grâce (funérailles chrétiennes) | 救�
 = Puis papa Chen monte sur l'estrade pour témoigner. Il raconte que, dans son enfance, la famille était très pauvre, mais que chaque matin à cinq heures, sa mère s'agenouillait au bord du lit pour prier.
 陳爸爸/chen2ba4ba5 ：她/ta1 留/liu2 給/gei3 我們/wo3men5 的/de5 不/bu4 是/shi4 財產/cai2chan3 ，而是/er2shi4 這/zhe4 份/fen4 信仰/xin4yang3 的/de5 傳承/chuan2cheng2 。那/na4 個/ge4 跪/gui4 著/zhe5 的/de5 背影/bei4ying3 ，我/wo3 一輩子/yi1bei4zi5 刻骨銘心/ke4gu3ming2xin1 。
 = Papa Chen : Ce qu'elle nous a laissé, ce n'est pas un patrimoine, c'est une foi transmise. Cette silhouette agenouillée restera gravée en moi toute ma vie.
-然後/ran2hou4 ，他/ta1 把/ba3 奶奶/nai3nai5 的/de5 那/na4 本/ben3 舊/jiu4 聖經/sheng4jing1 交/jiao1 給/gei3 小恩/xiao3en1 。書/shu1 邊/bian1 寫/xie3 滿/man3 了/le5 密密麻麻/mi4mi4ma2ma2 的/de5 筆記/bi3ji4 和/he2 日期/ri4qi1 。
+然後/ran2hou4 ，他/ta1 把/ba3 奶奶/nai3nai5 的/de5 那/na4 本/ben3 舊/jiu4 聖經/sheng4jing1 交/jiao1 給/gei3 小恩/xiao3en1 。書/shu1 邊/bian1 寫/xie3 滿/man3 了/le5 密密麻麻/mi4mi4ma2ma2 的/de5 筆記/bi3ji4 和/he2 日期/ri4qi2 。
 = Puis il remet à Xiao En la vieille Bible de Mamie. Les marges sont couvertes de notes serrées et de dates.
 輪到/lun2dao4 敬拜團/jing4bai4tuan2 獻詩/xian4shi1 。他們/ta1men5 唱/chang4 的/de5 是/shi4 《我/wo3 的/de5 救贖者/jiu4shu2zhe3 活/huo2 著/zhe5》。小恩/xiao3en1 堅持/jian1chi2 要/yao4 站/zhan4 在/zai4 台/tai2 上/shang4 唱/chang4 。
 = Vient le tour de l'équipe de louange. Ils chantent « Mon Rédempteur est vivant ». Xiao En a tenu à être sur l'estrade pour chanter.
@@ -201,3 +201,204 @@ vocab: 墓碑=pierre tombale | 復活=ressusciter ; résurrection | 永恆=éter
 = Luc reste interdit une seconde, puis répond, fou de joie : « Commence par l'Évangile de Luc ! Il porte mon nom, tu ne peux pas te tromper. »
 小恩/xiao3en1 在/zai4 後座/hou4zuo4 笑/xiao4 出/chu1 聲/sheng1 來/lai2 。這/zhe4 是/shi4 奶奶/nai3nai5 走/zou3 後/hou4 ，她/ta1 第一/di4yi1 次/ci4 真正/zhen1zheng4 地/de5 笑/xiao4 。
 = Sur la banquette arrière, Xiao En éclate de rire. C'est la première fois qu'elle rit vraiment depuis le départ de Mamie.
+
+=== 236
+series: 231
+title_zh: 恩典不是靠表現換來的
+title_fr: La grâce ne s'obtient pas par performance
+tagline: Grâce et loi — une lecture de Romains, un tableau blanc et la fatigue de vouloir toujours mériter.
+song: 是祢的愛
+vocab: 恩典=grâce | 律法=loi | 稱義=être déclaré juste | 表現=performance, conduite visible | 賺取=gagner, mériter | 釋放=libération
+---
+十一月/shi2yi1yue4 中旬/zhong1xun2 的/de5 查經/cha2jing1 班/ban1 ，張長老/zhang1zhang3lao3 開始/kai1shi3 帶/dai4 大家/da4jia1 讀/du2 羅馬書/luo2ma3shu1 。
+= À la mi-novembre, l'ancien Zhang commença à faire étudier l'épître aux Romains au groupe biblique.
+他/ta1 在/zai4 白板/bai2ban3 上/shang4 寫/xie3 了/le5 兩/liang3 個/ge4 大/da4 字/zi4 ：恩典/en1dian3 、律法/lv4fa3 。
+= Il écrivit deux grands mots au tableau : grâce et loi.
+張長老/zhang1zhang3lao3 ：很多/hen3duo1 人/ren2 以為/yi3wei2 ，基督教/ji1du1jiao4 就/jiu4 是/shi4 叫/jiao4 人/ren2 努力/nu3li4 做/zuo4 好人/hao3ren2 。
+= L'ancien Zhang dit : « Beaucoup pensent que le christianisme consiste simplement à demander aux gens de faire des efforts pour être de bonnes personnes. »
+張長老/zhang1zhang3lao3 ：可是/ke3shi4 保羅/bao3luo2 說/shuo1 ，人/ren2 得救/de2jiu4 、稱義/cheng1yi4 ，不是/bu4shi4 靠/kao4 自己/zi4ji3 的/de5 表現/biao3xian4 ，而是/er2shi4 靠/kao4 神/shen2 的/de5 恩典/en1dian3 。
+= « Mais Paul dit que le salut et la justification ne viennent pas de notre performance, mais de la grâce de Dieu. »
+大衛/da4wei4 這/zhe4 幾/ji3 週/zhou1 也/ye3 常/chang2 常/chang2 來/lai2 旁聽/pang2ting1 。他/ta1 聽/ting1 到/dao4 這/zhe4 裡/li3 ，皺/zhou4 起/qi3 眉頭/mei2tou2 。
+= David assistait souvent aux séances ces dernières semaines. En entendant cela, il fronça les sourcils.
+大衛/da4wei4 ：如果/ru2guo3 不是/bu4shi4 靠/kao4 表現/biao3xian4 ，那/na4 人/ren2 不是/bu4shi4 會/hui4 變/bian4 得/de5 很/hen3 隨便/sui2bian4 嗎/ma5 ？
+= David demanda : « Si ce n'est pas basé sur la conduite, les gens ne vont-ils pas devenir négligents ? »
+張長老/zhang1zhang3lao3 ：這/zhe4 是/shi4 很/hen3 常見/chang2jian4 的/de5 問題/wen4ti2 。可是/ke3shi4 真正/zhen1zheng4 的/de5 恩典/en1dian3 ，不/bu4 會/hui4 叫/jiao4 人/ren2 放縱/fang4zong4 ，反而/fan3er2 會/hui4 叫/jiao4 人/ren2 被/bei4 愛/ai4 改變/gai3bian4 。
+= « C'est une question très fréquente. Mais la vraie grâce ne pousse pas au laisser-aller ; au contraire, elle transforme par l'amour. »
+路加/lu4jia1 聽/ting1 著/zhe5 這/zhe4 些/xie1 話/hua4 ，忽然/hu1ran2 想起/xiang3qi3 自己/zi4ji3 剛/gang1 信主/xin4zhu3 那/na4 段/duan4 時間/shi2jian1 。
+= En entendant ces paroles, Luc repensa soudain à ses débuts dans la foi.
+那/na4 時候/shi2hou5 他/ta1 常/chang2 常/chang2 覺得/jue2de5 ，如果/ru2guo3 自己/zi4ji3 禱告/dao3gao4 不/bu4 夠/gou4 、讀經/du2jing1 不/bu4 夠/gou4 、服事/fu2shi4 不/bu4 夠/gou4 ，神/shen2 就/jiu4 會/hui4 對/dui4 他/ta1 失望/shi1wang4 。
+= À cette époque, il avait souvent l'impression que s'il ne priait pas assez, ne lisait pas assez la Bible ou ne servait pas assez, Dieu serait déçu de lui.
+小恩/xiao3en1 看/kan4 了/le5 他/ta1 一眼/yi1yan3 ，好像/hao3xiang4 猜/cai1 到/dao4 了/le5 他/ta1 在/zai4 想/xiang3 什麼/shen2me5 。
+= Xiao En le regarda, comme si elle avait deviné à quoi il pensait.
+張長老/zhang1zhang3lao3 打開/da3kai1 羅馬書/luo2ma3shu1 三/san1 章/zhang1 二十四/er4shi2si4 節/jie2 ：「如今/ru2jin1 卻/que4 蒙/meng2 神/shen2 的/de5 恩典/en1dian3 ，因/yin1 基督/ji1du1 耶穌/ye1su1 的/de5 救贖/jiu4shu2 ，就/jiu4 白白/bai2bai2 的/de5 稱義/cheng1yi4 。」
+= Il ouvrit Romains 3.24 : « Et ils sont gratuitement justifiés par sa grâce, par le moyen de la rédemption qui est en Jésus-Christ. »
+張長老/zhang1zhang3lao3 ：注意/zhu4yi4 「白白/bai2bai2 的/de5 」這/zhe4 三/san1 個/ge4 字/zi4 。如果/ru2guo3 是/shi4 白白/bai2bai2 的/de5 ，就/jiu4 不是/bu4shi4 你/ni3 賺取/zhuan4qu3 來/lai2 的/de5 。
+= « Remarquez les mots “gratuitement”. Si c'est gratuit, ce n'est pas quelque chose que vous avez mérité. »
+大衛/da4wei4 沉默/chen2mo4 了/le5 一下/yi1xia4 ，說/shuo1 ：「這/zhe4 樣/yang4 聽/ting1 起來/qi3lai2 ，對/dui4 那些/na4xie1 一直/yi1zhi2 想/xiang3 證明/zheng4ming2 自己/zi4ji3 的/de5 人/ren2 ，反而/fan3er2 很/hen3 難/nan2 接受/jie1shou4 。」
+= David resta silencieux un instant, puis dit : « Présenté comme ça, c'est justement très difficile à accepter pour ceux qui veulent toujours faire leurs preuves. »
+路加/lu4jia1 輕輕/qing1qing1 地/de5 點頭/dian3tou2 ：「對/dui4 ，可是/ke3shi4 也/ye3 很/hen3 釋放/shi4fang4 。」
+= Luc hocha doucement la tête : « Oui, mais c'est aussi très libérateur. »
+聚會/ju4hui4 結束/jie2shu4 後/hou4 ，他/ta1 一個人/yi1ge4ren2 留/liu2 在/zai4 教室/jiao4shi4 裡/li3 看/kan4 著/zhe5 白板/bai2ban3 上/shang4 的/de5 那/na4 兩/liang3 個/ge4 字/zi4 。
+= Après la réunion, il resta seul un moment dans la salle, à regarder les deux mots écrits au tableau.
+他/ta1 心裡/xin1li3 默默/mo4mo4 地/de5 說/shuo1 ：「主/zhu3 啊/a5 ，如果/ru2guo3 祢/ni3 的/de5 恩典/en1dian3 真/zhen1 的/de5 不是/bu4shi4 靠/kao4 我/wo3 換/huan4 來/lai2 的/de5 ，那/na4 我/wo3 也/ye3 想/xiang3 學/xue2 著/zhe5 安心/an1xin1 地/de5 接受/jie1shou4 。」
+= Il pria en silence : « Seigneur, si Ta grâce ne s'obtient vraiment pas en échange de mes efforts, alors je veux apprendre à la recevoir dans la paix. »
+
+=== 237
+series: 231
+title_zh: 亞伯拉罕還是摩西？
+title_fr: Abraham ou Moïse ?
+tagline: Une question de chronologie — avant la loi, une promesse ; avant les règles, la foi.
+song: 耶和華我的磐石
+vocab: 應許=promesse | 亞伯拉罕=Abraham | 摩西=Moïse | 先後=ordre, avant et après | 相信=croire | 根基=fondement
+---
+下一/xia4yi1 週/zhou1 ，張長老/zhang1zhang3lao3 在/zai4 白板/bai2ban3 上/shang4 畫/hua4 了/le5 一/yi1 條/tiao2 長/chang2 長/chang2 的/de5 時間線/shi2jian1xian4 。
+= La semaine suivante, l'ancien Zhang traça une longue ligne du temps au tableau.
+左邊/zuo3bian1 寫/xie3 著/zhe5 亞伯拉罕/ya4bo2la1han3 ，右邊/you4bian1 寫/xie3 著/zhe5 摩西/mo2xi1 。
+= À gauche, il écrivit Abraham ; à droite, Moïse.
+小光/xiao3guang1 馬上/ma3shang4 問/wen4 ：「今天/jin1tian1 是/shi4 歷史/li4shi3 課/ke4 還是/hai2shi4 聖經/sheng4jing1 課/ke4 ？」
+= Xiao Guang demanda aussitôt : « Aujourd'hui, c'est un cours d'histoire ou un cours de Bible ? »
+張長老/zhang1zhang3lao3 笑/xiao4 著/zhe5 說/shuo1 ：「兩/liang3 個/ge4 都/dou1 是/shi4 。」
+= L'ancien Zhang répondit en souriant : « Les deux. »
+張長老/zhang1zhang3lao3 ：保羅/bao3luo2 在/zai4 羅馬書/luo2ma3shu1 和/he2 加拉太書/jia1la1tai4shu1 一直/yi1zhi2 強調/qiang2diao4 ，神/shen2 先/xian1 給/gei3 亞伯拉罕/ya4bo2la1han3 應許/ying1xu3 ，後來/hou4lai2 才/cai2 有/you3 摩西/mo2xi1 的/de5 律法/lv4fa3 。
+= « Dans Romains et Galates, Paul insiste sur le fait que Dieu a d'abord donné une promesse à Abraham, puis la loi à Moïse. »
+大衛/da4wei4 ：這/zhe4 個/ge4 先後/xian1hou4 有/you3 那麼/na4me5 重要/zhong4yao4 嗎/ma5 ？
+= David demanda : « Cet ordre est-il vraiment si important ? »
+張長老/zhang1zhang3lao3 ：很/hen3 重要/zhong4yao4 。因為/yin1wei4 這/zhe4 表示/biao3shi4 ，神/shen2 和/he2 人/ren2 的/de5 關係/guan1xi5 ，根基/gen1ji1 不是/bu4shi4 「先/xian1 守/shou3 規矩/gui1ju5 ，再/zai4 被/bei4 接納/jie1na4 」，而是/er2shi4 「先/xian1 被/bei4 神/shen2 應許/ying1xu3 ，再/zai4 學/xue2 著/zhe5 回應/hui2ying4 祂/ta1 」。
+= « Oui, très important. Cela montre que la relation entre Dieu et l'homme n'a pas pour fondement “obéis d'abord, puis tu seras accepté”, mais “Dieu promet d'abord, puis tu apprends à lui répondre”. »
+路加/lu4jia1 聽/ting1 到/dao4 這/zhe4 裡/li3 ，忽然/hu1ran2 覺得/jue2de5 很/hen3 清楚/qing1chu5 。
+= En entendant cela, Luc eut soudain l'impression que tout devenait plus clair.
+小恩/xiao3en1 ：所以/suo3yi3 亞伯拉罕/ya4bo2la1han3 被/bei4 算/suan4 為/wei4 義/yi4 ，是/shi4 因為/yin1wei4 他/ta1 相信/xiang1xin4 神/shen2 ，不是/bu4shi4 因為/yin1wei4 他/ta1 已經/yi3jing1 做/zuo4 得/de5 很/hen3 完美/wan2mei3 。
+= Xiao En résuma : « Donc Abraham a été compté comme juste parce qu'il a cru Dieu, pas parce qu'il était déjà parfait. »
+張長老/zhang1zhang3lao3 ：對/dui4 。這/zhe4 就是/jiu4shi4 福音/fu2yin1 的/de5 根基/gen1ji1 。
+= « Exactement. C'est le fondement de l'Évangile. »
+大衛/da4wei4 低頭/di1tou2 看/kan4 著/zhe5 自己/zi4ji3 的/de5 筆記/bi3ji4 ，慢慢/man4man4 地/de5 說/shuo1 ：「如果/ru2guo3 真/zhen1 的/de5 是/shi4 這樣/zhe4yang4 ，那/na4 神/shen2 比/bi3 我/wo3 想像/xiang3xiang4 的/de5 更/geng4 主動/zhu3dong4 。」
+= David baissa les yeux sur ses notes et dit lentement : « Si c'est vraiment ainsi, alors Dieu est plus actif que je ne l'imaginais. »
+張長老/zhang1zhang3lao3 ：是/shi4 啊/a5 。不是/bu4shi4 人/ren2 先/xian1 找/zhao3 到/dao4 神/shen2 ，而是/er2shi4 神/shen2 先/xian1 來/lai2 找/zhao3 人/ren2 。
+= « Oui. Ce n'est pas l'homme qui trouve Dieu en premier, c'est Dieu qui vient d'abord chercher l'homme. »
+那/na4 晚/wan3 上/shang4 回家/hui2jia1 的/de5 路上/lu4shang4 ，大衛/da4wei4 沒有/mei2you3 像/xiang4 平常/ping2chang2 一樣/yi1yang4 很/hen3 快/kuai4 地/de5 轉/zhuan3 到/dao4 別/bie2 的/de5 話題/hua4ti2 。
+= Sur le chemin du retour, David ne changea pas de sujet aussi vite que d'habitude.
+他/ta1 只是/zhi3shi4 一直/yi1zhi2 看/kan4 著/zhe5 那/na4 條/tiao2 時間線/shi2jian1xian4 的/de5 照片/zhao4pian4 ，好像/hao3xiang4 在/zai4 想/xiang3 一/yi1 件/jian4 很/hen3 久/jiu3 以前/yi3qian2 就/jiu4 該/gai1 想/xiang3 的/de5 事/shi4 。
+= Il regardait simplement la photo de la ligne du temps, comme s'il réfléchissait enfin à quelque chose qu'il aurait dû méditer depuis longtemps.
+
+=== 238
+series: 231
+title_zh: 大衛第一次自己讀福音書
+title_fr: La première lecture personnelle de l'Évangile par David
+tagline: Une Bible ouverte — un café tranquille, l'Évangile de Luc et des mots qui semblent regarder le lecteur.
+song: 豐盛的應許
+vocab: 讀到=arriver à lire, tomber sur | 安靜=calme | 直接=directement | 觸動=toucher profondément | 旁邊=à côté
+---
+星期二/xing1qi2er4 下午/xia4wu3 ，路加/lu4jia1 在/zai4 學校/xue2xiao4 附近/fu4jin4 的/de5 咖啡店/ka1fei1dian4 見/jian4 到/dao4 大衛/da4wei4 。
+= Un mardi après-midi, Luc retrouva David dans un café près de l'université.
+大衛/da4wei4 的/de5 桌上/zhuo1shang4 放/fang4 著/zhe5 一/yi1 本/ben3 聖經/sheng4jing1 ，旁邊/pang2bian1 還/hai2 有/you3 一/yi1 本/ben3 筆記本/bi3ji4ben3 。
+= Sur la table de David se trouvaient une Bible et un carnet de notes.
+路加/lu4jia1 一坐下/yi1zuo4xia4 ，就/jiu4 忍不住/ren3bu4zhu4 笑/xiao4 了/le5 ：「你/ni3 真的/zhen1de5 開始/kai1shi3 讀/du2 了/le5 ？」
+= À peine assis, Luc ne put s'empêcher de sourire : « Tu as vraiment commencé à lire ? »
+大衛/da4wei4 點頭/dian3tou2 ：「嗯/ng4 ，從/cong2 路加福音/lu4jia1fu2yin1 開始/kai1shi3 。因為/yin1wei4 你/ni3 一直/yi1zhi2 推薦/tui1jian4 ，而且/er2qie3 這/zhe4 個/ge4 名字/ming2zi5 我/wo3 已經/yi3jing1 很/hen3 熟/shou2 了/le5 。」
+= David hocha la tête : « Oui, j'ai commencé par l'Évangile de Luc. Parce que tu me le recommandes depuis longtemps, et que ce nom m'est déjà très familier. »
+路加/lu4jia1 ：讀到/du2dao4 哪裡/na3li3 了/le5 ？
+= Luc demanda : « Tu en es où ? »
+大衛/da4wei4 ：還/hai2 不/bu4 算/suan4 很/hen3 多/duo1 ，可是/ke3shi4 我/wo3 發現/fa1xian4 一/yi1 件/jian4 事/shi4 。
+= David répondit : « Pas très loin encore, mais j'ai remarqué quelque chose. »
+大衛/da4wei4 ：以前/yi3qian2 我/wo3 聽/ting1 你們/ni3men5 講/jiang3 耶穌/ye1su1 ，總/zong3 覺得/jue2de5 那/na4 是/shi4 別人/bie2ren2 的/de5 信仰/xin4yang3 。可是/ke3shi4 我/wo3 自己/zi4ji3 讀/du2 的/de5 時候/shi2hou5 ，感覺/gan3jue2 不/bu4 太/tai4 一樣/yi1yang4 。
+= « Avant, quand je vous entendais parler de Jésus, j'avais toujours l'impression que c'était la foi des autres. Mais quand je lis moi-même, ce n'est pas pareil. »
+路加/lu4jia1 ：哪裡/na3li3 不/bu4 一樣/yi1yang4 ？
+= « En quoi ? » demanda Luc.
+大衛/da4wei4 想/xiang3 了/le5 一下/yi1xia4 ：「好像/hao3xiang4 祂/ta1 不是/bu4shi4 在/zai4 很/hen3 遠/yuan3 的/de5 地方/di4fang1 被/bei4 人/ren2 討論/tao3lun4 ，而是/er2shi4 直接/zhi2jie1 走/zou3 到/dao4 我/wo3 面前/mian4qian2 一樣/yi1yang4 。」
+= David réfléchit un instant : « C'est comme s'il n'était pas discuté de loin, mais qu'il venait directement devant moi. »
+他/ta1 翻/fan1 到/dao4 一/yi1 頁/ye4 ，指/zhi3 給/gei3 路加/lu4jia1 看/kan4 。
+= Il tourna quelques pages et montra un passage à Luc.
+大衛/da4wei4 ：我/wo3 今天/jin1tian1 讀/du2 到/dao4 耶穌/ye1su1 呼召/hu1zhao4 利未/li4wei4 的/de5 那/na4 段/duan4 。祂/ta1 只/zhi3 說/shuo1 了/le5 兩/liang3 個/ge4 字/zi4 ：「你/ni3 跟從/gen1cong2 我/wo3 來/lai2 。」
+= David dit : « Aujourd'hui, j'ai lu le passage où Jésus appelle Lévi. Il ne dit que quelques mots : “Suis-moi.” »
+大衛/da4wei4 ：我/wo3 不/bu4 知道/zhi1dao4 為什麼/wei4shen2me5 ，可是/ke3shi4 這/zhe4 句/ju4 話/hua4 讓/rang4 我/wo3 有/you3 一點/yi1dian3 觸動/chu4dong4 。
+= « Je ne sais pas pourquoi, mais cette phrase m'a touché. »
+路加/lu4jia1 沒有/mei2you3 馬上/ma3shang4 回答/hui2da2 ，只/zhi3 是/shi4 看/kan4 著/zhe5 大衛/da4wei4 。
+= Luc ne répondit pas tout de suite ; il regarda simplement David.
+過/guo4 了/le5 一陣子/yi1zhen4zi5 ，他/ta1 才/cai2 說/shuo1 ：「也許/ye3xu3 因為/yin1wei4 耶穌/ye1su1 本來/ben3lai2 就/jiu4 不是/bu4shi4 只/zhi3 對/dui4 別人/bie2ren2 說/shuo1 話/hua4 。」
+= Au bout d'un moment, il dit : « Peut-être parce que Jésus n'a jamais parlé seulement aux autres. »
+大衛/da4wei4 把/ba3 聖經/sheng4jing1 合/he2 上/shang4 ，又/you4 很/hen3 快/kuai4 地/de5 打開/da3kai1 ：「我/wo3 還/hai2 沒有/mei2you3 準備/zhun3bei4 好/hao3 相信/xiang1xin4 ，可是/ke3shi4 我/wo3 好像/hao3xiang4 也/ye3 沒有/mei2you3 辦法/ban4fa3 假裝/jia3zhuang1 這/zhe4 本/ben3 書/shu1 什麼/shen2me5 都/dou1 沒有/mei2you3 對/dui4 我/wo3 說/shuo1 。」
+= David referma la Bible, puis la rouvrit presque aussitôt : « Je ne suis pas encore prêt à croire, mais je ne peux plus faire comme si ce livre ne me disait rien. »
+窗外/chuang1wai4 的/de5 下午/xia4wu3 陽光/yang2guang1 很/hen3 安靜/an1jing4 。
+= Dehors, la lumière de l'après-midi était paisible.
+路加/lu4jia1 心裡/xin1li3 輕輕/qing1qing1 地/de5 感謝/gan3xie4 神/shen2 ，因為/yin1wei4 祂/ta1 的/de5 話/hua4 真的/zhen1de5 比/bi3 人/ren2 的/de5 解釋/jie3shi4 更/geng4 直接/zhi2jie1 。
+= Luc remercia doucement Dieu dans son cœur, parce que Sa parole est vraiment plus directe que toutes les explications humaines.
+
+=== 239
+series: 231
+title_zh: 神的手沒有太短
+title_fr: La main de Dieu n'est pas trop courte
+tagline: Providence — une facture imprévue, une aide discrète et la fidélité de Dieu dans les détails.
+song: 我知誰掌管明天
+vocab: 需要=besoin | 剛好=justement | 擔心=s'inquiéter | 眷顧=prendre soin de
+---
+十二月/shi2er4yue4 初/chu1 ，陳爸爸/chen2ba4ba5 的/de5 公司/gong1si1 突然/tu2ran2 減少/jian3shao3 了/le5 很/hen3 多/duo1 班/ban1 。
+= Début décembre, l'entreprise de papa Chen réduisit soudain beaucoup ses heures de travail.
+家裡/jia1li3 的/de5 收入/shou1ru4 一下子/yi1xia4zi5 少/shao3 了/le5 不/bu4 少/shao3 ，偏偏/pian1pian1 這/zhe4 時候/shi2hou5 又/you4 有/you3 一/yi1 筆/bi3 醫療/yi1liao2 費/fei4 要/yao4 付/fu4 。
+= Les revenus de la famille baissèrent d'un coup, et justement il fallait encore payer une facture médicale.
+小恩/xiao3en1 雖然/sui1ran2 沒有/mei2you3 在/zai4 教會/jiao4hui4 說/shuo1 太/tai4 多/duo1 ，可是/ke3shi4 路加/lu4jia1 看/kan4 得/de5 出/chu1 她/ta1 這/zhe4 幾/ji3 天/tian1 很/hen3 擔心/dan1xin1 。
+= Xiao En n'en parla pas beaucoup à l'église, mais Luc voyait bien qu'elle était très inquiète ces derniers jours.
+星期三/xing1qi2san1 晚上/wan3shang4 小組/xiao3zu3 結束/jie2shu4 後/hou4 ，師母/shi1mu3 悄悄/qiao1qiao1 地/de5 把/ba3 一/yi1 個/ge4 信封/xin4feng1 交/jiao1 給/gei3 陳媽媽/chen2ma1ma5 。
+= Après le groupe de maison du mercredi soir, Mme Wang remit discrètement une enveloppe à maman Chen.
+陳媽媽/chen2ma1ma5 一開始/yi1kai1shi3 不/bu4 肯/ken3 收/shou1 ，眼眶/yan3kuang4 卻/que4 很/hen3 快/kuai4 就/jiu4 紅/hong2 了/le5 。
+= Maman Chen ne voulut d'abord pas l'accepter, mais ses yeux rougirent très vite.
+師母/shi1mu3 ：這/zhe4 不/bu4 是/shi4 我/wo3 們/men5 的/de5 ，是/shi4 教會/jiao4hui4 弟兄姊妹/di4xiong1zi3mei4 的/de5 愛心/ai4xin1 。
+= Mme Wang dit : « Cela ne vient pas de nous, mais de l'amour des frères et sœurs de l'église. »
+師母/shi1mu3 ：有人/you3ren2 知道/zhi1dao4 你們/ni3men5 有/you3 需要/xu1yao4 ，就/jiu4 想/xiang3 先/xian1 幫/bang1 一點/yi1dian3 。
+= « Quelqu'un a appris que vous aviez un besoin, et a voulu aider un peu d'avance. »
+後來/hou4lai2 小恩/xiao3en1 才/cai2 知道/zhi1dao4 ，那/na4 筆/bi3 錢/qian2 幾乎/ji1hu1 剛好/gang1hao3 就/jiu4 是/shi4 那/na4 張/zhang1 帳單/zhang4dan1 的/de5 金額/jin1e2 。
+= Plus tard, Xiao En apprit que la somme correspondait presque exactement au montant de la facture.
+她/ta1 站/zhan4 在/zai4 教會/jiao4hui4 門口/men2kou3 ，一時/yi1shi2 說/shuo1 不/bu4 出/chu1 話/hua4 來/lai2 。
+= Elle resta à l'entrée de l'église, incapable de parler pendant un moment.
+路加/lu4jia1 陪/pei2 她/ta1 走/zou3 到/dao4 巷口/xiang4kou3 ，她/ta1 才/cai2 小聲/xiao3sheng1 說/shuo1 ：「我/wo3 這/zhe4 幾/ji3 天/tian1 一直/yi1zhi2 禱告/dao3gao4 ，可是/ke3shi4 也/ye3 一直/yi1zhi2 擔心/dan1xin1 。」
+= Luc l'accompagna jusqu'au coin de la rue, et elle murmura enfin : « Ces derniers jours, je n'ai cessé de prier, mais aussi de m'inquiéter. »
+路加/lu4jia1 ：我/wo3 想/xiang3 ，這/zhe4 很/hen3 正常/zheng4chang2 。
+= Luc répondit : « Je crois que c'est très normal. »
+小恩/xiao3en1 ：可是/ke3shi4 神/shen2 真的/zhen1de5 有/you3 眷顧/juan4gu4 我們/wo3men5 。不是/bu4shi4 因為/yin1wei4 我們/wo3men5 很/hen3 厲害/li4hai4 ，而是/er2shi4 因為/yin1wei4 祂/ta1 很/hen3 信實/xin4shi2 。
+= Xiao En dit : « Mais Dieu prend vraiment soin de nous. Pas parce que nous sommes remarquables, mais parce qu'Il est fidèle. »
+路加/lu4jia1 想起/xiang3qi3 以賽亞書/yi3sai4ya4shu1 五十九/wu3shi2jiu3 章/zhang1 一/yi1 節/jie2 ：「耶和華/ye1he2hua2 的/de5 膀臂/bang3bi4 ，並/bing4 非/fei1 縮短/suo1duan3 不能/bu4neng2 拯救/zheng3jiu4 。」
+= Luc repensa à Ésaïe 59.1 : « Non, la main de l'Éternel n'est pas trop courte pour sauver. »
+那/na4 一/yi1 晚/wan3 ，小恩/xiao3en1 回家/hui2jia1 前/qian2 ，輕輕/qing1qing1 地/de5 哼/heng1 起/qi3 《我/wo3 知/zhi1 誰/shei2 掌管/zhang3guan3 明天/ming2tian1》。
+= Ce soir-là, avant de rentrer, Xiao En se mit à fredonner doucement « Je sais qui tient demain ».
+這/zhe4 一/yi1 次/ci4 ，她/ta1 的/de5 聲音/sheng1yin1 裡/li3 不/bu4 只有/zhi3you3 眼淚/yan3lei4 ，也/ye3 有/you3 很/hen3 深/shen1 的/de5 安心/an1xin1 。
+= Cette fois, sa voix ne portait pas seulement des larmes, mais aussi une profonde paix.
+
+=== 240
+series: 231
+title_zh: 在冬天裡等候的人
+title_fr: Ceux qui attendent au cœur de l'hiver
+tagline: Espérance et patience — l'Avent approche, David continue à lire et Luc apprend à attendre sans forcer.
+song: 主祢是我盼望
+vocab: 等候=attendre avec espérance | 降臨節=Avent | 冬天=hiver | 安靜=calme | 成熟=mûrir
+---
+十二月/shi2er4yue4 的/de5 風/feng1 已經/yi3jing1 很/hen3 冷/leng3 了/le5 。恩典教會/en1dian3jiao4hui4 開始/kai1shi3 預備/yu4bei4 降臨節/jiang4lin2jie2 的/de5 聚會/ju4hui4 。
+= Le vent de décembre était déjà bien froid. L'église de la Grâce commençait à préparer les réunions de l'Avent.
+禮堂/li3tang2 前面/qian2mian4 放/fang4 了/le5 一/yi1 個/ge4 簡單/jian3dan1 的/de5 花圈/hua1quan1 ，上面/shang4mian4 有/you3 四/si4 支/zhi1 蠟燭/la4zhu2 。
+= Devant l'estrade, on avait placé une couronne simple avec quatre bougies.
+路加/lu4jia1 一邊/yi1bian1 幫/bang1 忙/mang2 排/pai2 椅子/yi3zi5 ，一邊/yi1bian1 想/xiang3 起/qi3 這/zhe4 一/yi1 年/nian2 發生/fa1sheng1 的/de5 很/hen3 多/duo1 事/shi4 。
+= Tout en aidant à disposer les chaises, Luc repensait à tout ce qui s'était passé cette année.
+奶奶/nai3nai5 離開/li2kai1 了/le5 ，大衛/da4wei4 開始/kai1shi3 自己/zi4ji3 讀/du2 福音書/fu2yin1shu1 ，而/er2 他/ta1 自己/zi4ji3 也/ye3 越來越/yue4lai2yue4 常/chang2 想/xiang3 到/dao4 未來/wei4lai2 的/de5 路/lu4 。
+= Mamie était partie, David avait commencé à lire l'Évangile par lui-même, et lui-même pensait de plus en plus souvent au chemin de l'avenir.
+大衛/da4wei4 那/na4 天/tian1 晚上/wan3shang4 也/ye3 來/lai2 了/le5 。他/ta1 手/shou3 上/shang4 還/hai2 拿/na2 著/zhe5 那/na4 本/ben3 已經/yi3jing1 貼/tie1 了/le5 好幾/hao3ji3 張/zhang1 便條紙/bian4tiao2zhi3 的/de5 聖經/sheng4jing1 。
+= David était là lui aussi ce soir-là, avec sa Bible déjà remplie de petits marque-pages.
+路加/lu4jia1 看/kan4 到/dao4 以後/yi3hou4 ，心裡/xin1li3 很/hen3 想/xiang3 問/wen4 他/ta1 ：「你/ni3 現在/xian4zai4 到底/dao4di3 相信/xiang1xin4 了/le5 沒有/mei2you3 ？」
+= En le voyant, Luc eut très envie de lui demander : « Alors, est-ce que tu crois maintenant, oui ou non ? »
+可是/ke3shi4 他/ta1 最後/zui4hou4 沒有/mei2you3 問/wen4 。
+= Mais finalement, il ne posa pas la question.
+王牧師/wang2mu4shi1 在/zai4 聚會/ju4hui4 裡/li3 說/shuo1 ，降臨節/jiang4lin2jie2 是/shi4 一/yi1 個/ge4 等候/deng3hou4 的/de5 季節/ji4jie2 ：等候/deng3hou4 主/zhu3 來/lai2 ，也/ye3 等候/deng3hou4 神/shen2 在/zai4 人/ren2 心裡/xin1li3 慢慢/man4man4 做/zuo4 成/cheng2 祂/ta1 的/de5 工作/gong1zuo4 。
+= Pendant la réunion, le pasteur Wang expliqua que l'Avent est une saison d'attente : attendre la venue du Seigneur, et attendre aussi que Dieu accomplisse peu à peu son œuvre dans le cœur des gens.
+這/zhe4 句/ju4 話/hua4 讓/rang4 路加/lu4jia1 心裡/xin1li3 一/yi1 下/xia4 子/zi5 安靜/an1jing4 下來/xia4lai2 。
+= Cette phrase apaisa soudain le cœur de Luc.
+聚會/ju4hui4 結束/jie2shu4 後/hou4 ，大衛/da4wei4 主動/zhu3dong4 走/zou3 過來/guo4lai2 說/shuo1 ：「我/wo3 最近/zui4jin4 讀/du2 到/dao4 浪子/lang4zi3 回頭/hui2tou2 的/de5 比喻/bi3yu4 。」
+= Après la réunion, David vint de lui-même et dit : « Ces derniers temps, j'ai lu la parabole du fils prodigue. »
+大衛/da4wei4 ：我/wo3 以前/yi3qian2 一直/yi1zhi2 以為/yi3wei2 ，宗教/zong1jiao4 都/dou1 是/shi4 叫/jiao4 人/ren2 先/xian1 把/ba3 自己/zi4ji3 變/bian4 好/hao3 ，再/zai4 回來/hui2lai2 。
+= « Avant, je pensais toujours que les religions demandaient d'abord aux gens de s'améliorer, puis de revenir. »
+大衛/da4wei4 ：可是/ke3shi4 那/na4 個/ge4 父親/fu4qin1 ，好像/hao3xiang4 在/zai4 兒子/er2zi5 還/hai2 很/hen3 遠/yuan3 的/de5 時候/shi2hou5 ，就/jiu4 已經/yi3jing1 跑/pao3 過去/guo4qu4 了/le5 。
+= « Mais dans cette histoire, le père court vers son fils alors qu'il est encore loin. »
+路加/lu4jia1 聽/ting1 完/wan2 ，只/zhi3 是/shi4 輕輕/qing1qing1 地/de5 說/shuo1 ：「對/dui4 ，神/shen2 常/chang2 常/chang2 比/bi3 我們/wo3men5 更/geng4 早/zao3 一步/yi1bu4 。」
+= Après l'avoir écouté, Luc répondit simplement : « Oui. Dieu a souvent une longueur d'avance sur nous. »
+大衛/da4wei4 沒有/mei2you3 再/zai4 多/duo1 說/shuo1 什麼/shen2me5 ，只是/zhi3shi4 把/ba3 聖經/sheng4jing1 抱/bao4 在/zai4 胸前/xiong1qian2 ，看/kan4 著/zhe5 禮堂/li3tang2 前面/qian2mian4 的/de5 蠟燭/la4zhu2 。
+= David n'ajouta rien ; il serra simplement sa Bible contre lui et regarda les bougies devant l'estrade.
+路加/lu4jia1 站/zhan4 在/zai4 他/ta1 旁邊/pang2bian1 ，忽然/hu1ran2 明白/ming2bai5 ，有些/you3xie1 人/ren2 的/de5 成熟/cheng2shu2 ，真的/zhen1de5 像/xiang4 冬天/dong1tian1 裡/li3 的/de5 種子/zhong3zi5 一樣/yi1yang4 。
+= Debout à côté de lui, Luc comprit soudain que la maturation de certaines personnes ressemble vraiment à une graine en hiver.
+外面/wai4mian4 看/kan4 起來/qi3lai2 很/hen3 安靜/an1jing4 ，可是/ke3shi4 裡面/li3mian4 其實/qi2shi2 正在/zheng4zai4 發生/fa1sheng1 很/hen3 重要/zhong4yao4 的/de5 事/shi4 。
+= De l'extérieur, tout paraît très calme, mais à l'intérieur, quelque chose d'important est déjà en train de se produire.

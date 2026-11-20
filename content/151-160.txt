@@ -9,7 +9,7 @@ tagline: Servir — une demande de Meiling, un chinois hésitant et un petit gar
 song: 大手牽著小手
 vocab: 主日學=école du dimanche | 服事=servir (dans l'Église) ; service | 同工=collaborateur, coéquipier dans le service | 恩賜=don (spirituel), talent reçu de Dieu | 緊張=nerveux, tendu
 ---
-九月/jiu3yue4 ，新/xin1 學期/xue2qi1 開始/kai1shi3 了/le5 。主日/zhu3ri4 崇拜/chong2bai4 以後/yi3hou4 ，美玲/mei3ling2 把/ba3 路加/lu4jia1 叫/jiao4 到/dao4 一邊/yi1bian1 。
+九月/jiu3yue4 ，新/xin1 學期/xue2qi2 開始/kai1shi3 了/le5 。主日/zhu3ri4 崇拜/chong2bai4 以後/yi3hou4 ，美玲/mei3ling2 把/ba3 路加/lu4jia1 叫/jiao4 到/dao4 一邊/yi1bian1 。
 = Septembre : un nouveau semestre commence. Après le culte du dimanche, Meiling prend Luc à part.
 美玲/mei3ling2 ：路加/lu4jia1 ，主日學/zhu3ri4xue2 少/shao3 了/le5 一/yi1 個/ge4 老師/lao3shi1 。你/ni3 願意/yuan4yi4 來/lai2 服事/fu2shi4 嗎/ma5 ？
 = Meiling : Luc, il nous manque un moniteur à l'école du dimanche. Tu voudrais venir servir ?
@@ -17,7 +17,7 @@ vocab: 主日學=école du dimanche | 服事=servir (dans l'Église) ; service |
 = Luc : Moi ? Mon chinois n'est pas encore assez bon, même les enfants vont se moquer de moi !
 美玲/mei3ling2 ：別/bie2 擔心/dan1xin1 ，你/ni3 不/bu4 是/shi4 一/yi1 個/ge4 人/ren2 。小恩/xiao3en1 也/ye3 是/shi4 主日學/zhu3ri4xue2 的/de5 同工/tong2gong1 ，她/ta1 會/hui4 帶/dai4 你/ni3 。
 = Meiling : Ne t'inquiète pas, tu ne seras pas seul. Xiao En fait aussi partie de l'équipe de l'école du dimanche, elle va t'accompagner.
-美玲/mei3ling2 ：而且/er2qie3 你/ni3 會/hui4 彈/tan2 吉他/ji2ta1 ，這/zhe4 是/shi4 神/shen2 給/gei3 你/ni3 的/de5 恩賜/en1ci4 。孩子們/hai2zi5men5 最/zui4 喜歡/xi3huan1 唱歌/chang4ge1 了/le5 ！
+美玲/mei3ling2 ：而且/er2qie3 你/ni3 會/hui4 彈/tan2 吉他/ji2ta1 ，這/zhe4 是/shi4 神/shen2 給/gei3 你/ni3 的/de5 恩賜/en1ci4 。孩子們/hai2zi5men5 最/zui4 喜歡/xi3huan5 唱歌/chang4ge1 了/le5 ！
 = Meiling : En plus, tu joues de la guitare : c'est un don que Dieu t'a fait. Les enfants adorent chanter !
 這時/zhe4shi2 ，小光/xiao3guang1 跑/pao3 過來/guo4lai2 ，一下子/yi1xia4zi5 就/jiu4 把/ba3 路加/lu4jia1 的/de5 手/shou3 拉/la1 住/zhu4 。
 = À ce moment-là, Xiao Guang accourt et attrape aussitôt la main de Luc.
@@ -48,7 +48,7 @@ vocab: 牧養=paître, prendre soin (d'un troupeau, de fidèles) | 帶領=condui
 = Dimanche matin, douze enfants sont assis dans la salle de l'école du dimanche.
 小恩/xiao3en1 先/xian1 帶/dai4 大家/da4jia1 禱告/dao3gao4 ，然後/ran2hou4 把/ba3 麥克風/mai4ke4feng1 交給/jiao1gei3 路加/lu4jia1 。
 = Xiao En fait d'abord prier tout le monde, puis passe le micro à Luc.
-路加/lu4jia1 ：今天/jin1tian1 我們/wo3men5 講/jiang3 一/yi1 個/ge4 故事/gu4shi4 。一/yi1 個/ge4 牧人/mu4ren2 有/you3 一百/yi1bai3 隻/zhi1 羊/yang2 ，可是/ke3shi4 有/you3 一/yi1 隻/zhi1 迷路/mi2lu4 了/le5 。
+路加/lu4jia1 ：今天/jin1tian1 我們/wo3men5 講/jiang3 一/yi1 個/ge4 故事/gu4shi5 。一/yi1 個/ge4 牧人/mu4ren2 有/you3 一百/yi1bai3 隻/zhi1 羊/yang2 ，可是/ke3shi4 有/you3 一/yi1 隻/zhi1 迷路/mi2lu4 了/le5 。
 = Luc : Aujourd'hui, on va raconter une histoire. Un berger avait cent brebis, mais l'une d'elles s'est perdue.
 小光/xiao3guang1 ：牧人/mu4ren2 為什麼/wei4shen2me5 不/bu4 管/guan3 牠/ta1 ？還有/hai2you3 九十九/jiu3shi2jiu3 隻/zhi1 啊/a5 ！
 = Xiao Guang : Pourquoi le berger ne la laisse pas tomber ? Il en a encore quatre-vingt-dix-neuf !
@@ -56,7 +56,7 @@ vocab: 牧養=paître, prendre soin (d'un troupeau, de fidèles) | 帶領=condui
 = Luc : Parce que chaque brebis est son trésor. Dès qu'il s'aperçoit qu'il en manque une, il part aussitôt la chercher.
 路加/lu4jia1 說/shuo1 得/de5 很/hen3 慢/man4 ，有/you3 時候/shi2hou5 還/hai2 說/shuo1 錯/cuo4 聲調/sheng1diao4 ，孩子們/hai2zi5men5 都/dou1 笑/xiao4 了/le5 。
 = Luc parle très lentement, et parfois il se trompe de ton ; les enfants éclatent de rire.
-小恩/xiao3en1 小聲/xiao3sheng1 說/shuo1 ：「沒/mei2 關係/guan1xi5 ，他們/ta1men5 越來越/yue4lai2yue4 喜歡/xi3huan1 你/ni3 了/le5 ！」
+小恩/xiao3en1 小聲/xiao3sheng1 說/shuo1 ：「沒/mei2 關係/guan1xi5 ，他們/ta1men5 越來越/yue4lai2yue4 喜歡/xi3huan5 你/ni3 了/le5 ！」
 = Xiao En murmure : « Ce n'est pas grave, ils t'aiment de plus en plus ! »
 路加/lu4jia1 ：後來/hou4lai2 牧人/mu4ren2 找到/zhao3dao4 了/le5 小羊/xiao3yang2 ，就/jiu4 把/ba3 牠/ta1 放/fang4 在/zai4 肩膀/jian1bang3 上/shang4 ，歡歡喜喜/huan1huan1xi3xi3 地/de5 回家/hui2jia1 。
 = Luc : Finalement, le berger a retrouvé la petite brebis ; il l'a mise sur ses épaules et il est rentré chez lui plein de joie.
@@ -68,7 +68,7 @@ vocab: 牧養=paître, prendre soin (d'un troupeau, de fidèles) | 帶領=condui
 = Luc : Exactement ! C'est comme ça que Jésus prend soin de nous : il nous ramène toujours à la maison.
 最後/zui4hou4 ，路加/lu4jia1 彈/tan2 起/qi3 吉他/ji2ta1 ，大家/da4jia1 一起/yi1qi3 唱/chang4 《我/wo3 是/shi4 主/zhu3 的/de5 羊/yang2》。
 = Pour finir, Luc prend sa guitare et tout le monde chante « Je suis la brebis du Seigneur ».
-下課/xia4ke4 後/hou4 ，路加/lu4jia1 的/de5 衣服/yi1fu2 都/dou1 濕/shi1 了/le5 。他/ta1 說/shuo1 ：「教/jiao1 小孩子/xiao3hai2zi5 比/bi3 考試/kao3shi4 還/hai2 難/nan2 ！」
+下課/xia4ke4 後/hou4 ，路加/lu4jia1 的/de5 衣服/yi1fu5 都/dou1 濕/shi1 了/le5 。他/ta1 說/shuo1 ：「教/jiao1 小孩子/xiao3hai2zi5 比/bi3 考試/kao3shi4 還/hai2 難/nan2 ！」
 = Après le cours, la chemise de Luc est trempée. Il dit : « Enseigner aux petits, c'est plus dur qu'un examen ! »
 
 === 153
@@ -95,7 +95,7 @@ vocab: 禱告會=réunion de prière | 守望=veiller (dans la prière), monter 
 = Mamie Chen : À part toi, je prie aussi pour l'église, pour Taïwan, pour chaque enfant.
 陳奶奶/chen2nai3nai5 ：禱告/dao3gao4 的/de5 人/ren2 就/jiu4 像/xiang4 城牆/cheng2qiang2 上/shang4 守望/shou3wang4 的/de5 人/ren2 ：大家/da4jia1 睡覺/shui4jiao4 的/de5 時候/shi2hou5 ，他/ta1 還/hai2 醒/xing3 著/zhe5 。
 = Mamie Chen : Ceux qui prient sont comme les veilleurs sur la muraille : quand tout le monde dort, eux restent éveillés.
-小恩/xiao3en1 ：奶奶/nai3nai5 ，星期五/xing1qi1wu3 晚上/wan3shang4 的/de5 禱告會/dao3gao4hui4 ，人/ren2 越來越/yue4lai2yue4 少/shao3 了/le5 。
+小恩/xiao3en1 ：奶奶/nai3nai5 ，星期五/xing1qi2wu3 晚上/wan3shang4 的/de5 禱告會/dao3gao4hui4 ，人/ren2 越來越/yue4lai2yue4 少/shao3 了/le5 。
 = Xiao En : Mamie, il y a de moins en moins de monde à la réunion de prière du vendredi soir.
 陳奶奶/chen2nai3nai5 ：所以/suo3yi3 才/cai2 需要/xu1yao4 年輕人/nian2qing1ren2 啊/a5 ！路加/lu4jia1 ，你/ni3 要/yao4 不/bu4 要/yao4 一起/yi1qi3 來/lai2 守望/shou3wang4 ？
 = Mamie Chen : C'est justement pour ça qu'on a besoin des jeunes ! Luc, tu veux venir veiller avec nous ?
@@ -114,7 +114,7 @@ tagline: Veiller ensemble — un petit groupe, une prière en chinois hésitant 
 song: 禱告
 vocab: 擔憂=s'inquiéter ; inquiétude | 信靠=se fier à, faire confiance (à Dieu) | 心臟=cœur (organe) | 檢查=examen (médical) ; examiner | 禱告會=réunion de prière | 交託=remettre, confier (à Dieu)
 ---
-星期五/xing1qi1wu3 晚上/wan3shang4 ，教會/jiao4hui4 的/de5 小/xiao3 房間/fang2jian1 裡/li3 只有/zhi3you3 七/qi1 個/ge4 人/ren2 。
+星期五/xing1qi2wu3 晚上/wan3shang4 ，教會/jiao4hui4 的/de5 小/xiao3 房間/fang2jian1 裡/li3 只有/zhi3you3 七/qi1 個/ge4 人/ren2 。
 = Vendredi soir, dans la petite salle de l'église, il n'y a que sept personnes.
 除了/chu2le5 陳奶奶/chen2nai3nai5 和/he2 小恩/xiao3en1 以外/yi3wai4 ，王牧師/wang2mu4shi1 和/he2 王師母/wang2shi1mu3 也/ye3 來/lai2 了/le5 。
 = En plus de Mamie Chen et de Xiao En, le pasteur Wang et sa femme sont venus aussi.
@@ -161,7 +161,7 @@ vocab: 醫治=guérir ; guérison | 安慰=consoler ; consolation | 苦難=souff
 = Xiao Guang : Jésus ne nous aime pas ? Alors pourquoi il laisse oncle Chen tomber malade ?
 路加/lu4jia1 不/bu4 知道/zhi1dao4 怎麼/zen3me5 回答/hui2da2 。他/ta1 自己/zi4ji3 也/ye3 問/wen4 過/guo4 同樣/tong2yang4 的/de5 問題/wen4ti2 。
 = Luc ne sait pas quoi répondre. Lui-même s'est déjà posé la même question.
-小恩/xiao3en1 ：小光/xiao3guang1 ，我/wo3 也/ye3 不/bu4 完全/wan2quan2 明白/ming2bai2 。可是/ke3shi4 我/wo3 知道/zhi1dao4 ，在/zai4 苦難/ku3nan4 中/zhong1 ，耶穌/ye1su1 沒有/mei2you3 離開/li2kai1 我們/wo3men5 。
+小恩/xiao3en1 ：小光/xiao3guang1 ，我/wo3 也/ye3 不/bu4 完全/wan2quan2 明白/ming2bai5 。可是/ke3shi4 我/wo3 知道/zhi1dao4 ，在/zai4 苦難/ku3nan4 中/zhong1 ，耶穌/ye1su1 沒有/mei2you3 離開/li2kai1 我們/wo3men5 。
 = Xiao En : Xiao Guang, moi non plus je ne comprends pas tout. Mais je sais que dans la souffrance, Jésus ne nous abandonne pas.
 小恩/xiao3en1 ：祂/ta1 會/hui4 安慰/an1wei4 我們/wo3men5 ，祂/ta1 也/ye3 能/neng2 醫治/yi1zhi4 我們/wo3men5 。我們/wo3men5 可以/ke3yi3 一起/yi1qi3 為/wei4 爸爸/ba4ba5 禱告/dao3gao4 。
 = Xiao En : Il nous console, et il peut aussi nous guérir. On peut prier ensemble pour papa.
@@ -196,11 +196,11 @@ vocab: 病房=chambre d'hôpital | 探訪=rendre visite (à un malade) | 掌管=
 = Papa Chen : Je sais. Toute ma vie, je n'ai compté que sur moi-même ; et maintenant me voilà couché ici, sans rien pouvoir faire.
 路加/lu4jia1 想起/xiang3qi3 自己/zi4ji3 剛/gang1 來/lai2 台北/tai2bei3 的/de5 時候/shi2hou5 ，也/ye3 是/shi4 這樣/zhe4yang4 。
 = Luc se souvient qu'à son arrivée à Taipei, il était pareil.
-路加/lu4jia1 ：陳爸爸/chen2ba4ba5 ，我/wo3 以前/yi3qian2 也/ye3 只/zhi3 相信/xiang1xin4 自己/zi4ji3 。後來/hou4lai2 我/wo3 才/cai2 明白/ming2bai2 ：雖然/sui1ran2 我/wo3 不/bu4 知道/zhi1dao4 明天/ming2tian1 ，但是/dan4shi4 我/wo3 認識/ren4shi4 掌管/zhang3guan3 明天/ming2tian1 的/de5 那/na4 一/yi1 位/wei4 。
+路加/lu4jia1 ：陳爸爸/chen2ba4ba5 ，我/wo3 以前/yi3qian2 也/ye3 只/zhi3 相信/xiang1xin4 自己/zi4ji3 。後來/hou4lai2 我/wo3 才/cai2 明白/ming2bai5 ：雖然/sui1ran2 我/wo3 不/bu4 知道/zhi1dao4 明天/ming2tian1 ，但是/dan4shi4 我/wo3 認識/ren4shi4 掌管/zhang3guan3 明天/ming2tian1 的/de5 那/na4 一/yi1 位/wei4 。
 = Luc : Papa Chen, avant, moi aussi je ne croyais qu'en moi-même. Plus tard, j'ai compris : même si je ne connais pas demain, je connais Celui qui tient demain entre ses mains.
 陳爸爸/chen2ba4ba5 看/kan4 著/zhe5 他/ta1 ，沒有/mei2you3 說話/shuo1hua4 ，眼睛/yan3jing1 有/you3 一點/yi1dian3 紅/hong2 。
 = Papa Chen le regarde sans rien dire, les yeux un peu rouges.
-小恩/xiao3en1 ：爸/ba4 ，我們/wo3men5 唱/chang4 一/yi1 首/shou3 歌/ge1 給/gei3 你/ni3 聽/ting1 ，好/hao3 不/bu4 好/hao3 ？是/shi4 奶奶/nai3nai5 最/zui4 喜歡/xi3huan1 的/de5 《我/wo3 知/zhi1 誰/shei2 掌管/zhang3guan3 明天/ming2tian1》。
+小恩/xiao3en1 ：爸/ba4 ，我們/wo3men5 唱/chang4 一/yi1 首/shou3 歌/ge1 給/gei3 你/ni3 聽/ting1 ，好/hao3 不/bu4 好/hao3 ？是/shi4 奶奶/nai3nai5 最/zui4 喜歡/xi3huan5 的/de5 《我/wo3 知/zhi1 誰/shei2 掌管/zhang3guan3 明天/ming2tian1》。
 = Xiao En : Papa, on te chante un chant, d'accord ? C'est le préféré de Mamie : « Je sais qui tient demain ».
 路加/lu4jia1 輕輕/qing1qing1 地/de5 彈/tan2 吉他/ji2ta1 ，小恩/xiao3en1 小聲/xiao3sheng1 地/de5 唱/chang4 。隔壁/ge2bi4 床/chuang2 的/de5 老/lao3 先生/xian1sheng5 也/ye3 安靜/an1jing4 下來/xia4lai2 聽/ting1 。
 = Luc joue doucement de la guitare et Xiao En chante à voix basse. Le vieux monsieur du lit d'à côté se calme lui aussi pour écouter.
@@ -266,7 +266,7 @@ vocab: 加護病房=unité de soins intensifs | 傷心=avoir le cœur brisé, tr
 = Luc ne sait pas quoi dire. Il s'assoit simplement à côté d'elle, pour être là.
 過/guo4 了/le5 很/hen3 久/jiu3 ，他/ta1 才/cai2 輕輕/qing1qing1 地/de5 說/shuo1 ：
 = Au bout d'un long moment, il dit doucement :
-路加/lu4jia1 ：小恩/xiao3en1 ，害怕/hai4pa4 不/bu4 是/shi4 罪/zui4 。耶穌/ye1su1 在/zai4 客西馬尼園/ke4xi1ma3ni2yuan2 也/ye3 很/hen3 難過/nan2guo4 ，祂/ta1 明白/ming2bai2 我們/wo3men5 的/de5 軟弱/ruan3ruo4 。
+路加/lu4jia1 ：小恩/xiao3en1 ，害怕/hai4pa4 不/bu4 是/shi4 罪/zui4 。耶穌/ye1su1 在/zai4 客西馬尼園/ke4xi1ma3ni2yuan2 也/ye3 很/hen3 難過/nan2guo4 ，祂/ta1 明白/ming2bai5 我們/wo3men5 的/de5 軟弱/ruan3ruo4 。
 = Luc : Xiao En, avoir peur, ce n'est pas un péché. Jésus aussi était bouleversé au jardin de Gethsémané ; il comprend notre faiblesse.
 路加/lu4jia1 ：妳/ni3 記得/ji4de5 奶奶/nai3nai5 的/de5 那/na4 首/shou3 歌/ge1 嗎/ma5 ？《耶和華/ye1he2hua2 靠近/kao4jin4 傷心/shang1xin1 的/de5 人/ren2》。
 = Luc : Tu te souviens du chant de Mamie ? « L'Éternel est près de ceux qui ont le cœur brisé ».
@@ -287,7 +287,7 @@ tagline: Prière d'église — une salle pleine, une question sur les miracles e
 song: 耶穌祢醫治
 vocab: 神蹟=miracle, prodige (œuvre de Dieu) | 忍耐=patience, persévérance ; endurer | 醫治=guérir ; guérison | 功效=efficacité, effet | 不但=non seulement
 ---
-星期五/xing1qi1wu3 的/de5 禱告會/dao3gao4hui4 ，這/zhe4 次/ci4 來/lai2 了/le5 五十/wu3shi2 多/duo1 個/ge4 人/ren2 ，連/lian2 走廊/zou3lang2 上/shang4 都/dou1 站/zhan4 滿/man3 了/le5 。
+星期五/xing1qi2wu3 的/de5 禱告會/dao3gao4hui4 ，這/zhe4 次/ci4 來/lai2 了/le5 五十/wu3shi2 多/duo1 個/ge4 人/ren2 ，連/lian2 走廊/zou3lang2 上/shang4 都/dou1 站/zhan4 滿/man3 了/le5 。
 = À la réunion de prière du vendredi, il est venu cette fois plus de cinquante personnes : même le couloir est plein.
 王牧師/wang2mu4shi1 ：聖經/sheng4jing1 說/shuo1 ：「義人/yi4ren2 祈禱/qi2dao3 所/suo3 發/fa1 的/de5 力量/li4liang4 是/shi4 大/da4 有/you3 功效/gong1xiao4 的/de5 。」（雅各書/ya3ge4shu1 五/wu3 章/zhang1 十六/shi2liu4 節/jie2）
 = Pasteur Wang : La Bible dit : « La prière agissante du juste a une grande efficacité. » (Jacques 5.16)
@@ -340,7 +340,7 @@ vocab: 奇蹟=miracle, prodige | 退燒=(la fièvre) tomber | 普通=ordinaire, 
 = Mamie Chen : Ça fait cinquante ans que je prie pour toi ; aujourd'hui, enfin, je t'entends dire ça !
 大家/da4jia1 都/dou1 笑/xiao4 了/le5 。路加/lu4jia1 拿/na2 出/chu1 手機/shou3ji1 ，放/fang4 了/le5 一/yi1 首/shou3 歌/ge1 ：《在/zai4 祢/ni3 沒有/mei2you3 難/nan2 成/cheng2 的/de5 事/shi4》。
 = Tout le monde rit. Luc sort son téléphone et passe un chant : « Rien ne t'est impossible ».
-小恩/xiao3en1 ：這/zhe4 首/shou3 歌/ge1 的/de5 名字/ming2zi4 是/shi4 從/cong2 耶利米書/ye1li4mi3shu1 來/lai2 的/de5 。先知/xian1zhi1 在/zai4 最/zui4 難/nan2 的/de5 時候/shi2hou5 ，還是/hai2shi4 相信/xiang1xin4 神/shen2 的/de5 大能/da4neng2 。
+小恩/xiao3en1 ：這/zhe4 首/shou3 歌/ge1 的/de5 名字/ming2zi5 是/shi4 從/cong2 耶利米書/ye1li4mi3shu1 來/lai2 的/de5 。先知/xian1zhi1 在/zai4 最/zui4 難/nan2 的/de5 時候/shi2hou5 ，還是/hai2shi4 相信/xiang1xin4 神/shen2 的/de5 大能/da4neng2 。
 = Xiao En : Le titre de ce chant vient du livre de Jérémie. Au moment le plus dur, le prophète croyait encore à la grande puissance de Dieu.
 陳爸爸/chen2ba4ba5 ：等/deng3 我/wo3 出院/chu1yuan4 ，第一/di4yi1 件/jian4 事/shi4 就/jiu4 是/shi4 回/hui2 教會/jiao4hui4 謝謝/xie4xie5 大家/da4jia1 。
 = Papa Chen : Dès que je sors de l'hôpital, la première chose que je ferai, c'est retourner à l'église pour remercier tout le monde.

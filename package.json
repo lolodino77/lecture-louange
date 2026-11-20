@@ -7,7 +7,9 @@
     "build": "node scripts/build.js",
     "serve": "node scripts/serve.js site 8123",
     "mots": "node scripts/extract_words.js 6",
-    "etat": "node scripts/etat.js"
+    "etat": "node scripts/etat.js",
+    "pinyin:variantes": "node scripts/variantes_pinyin.js",
+    "pinyin:harmoniser": "node scripts/harmoniser_pinyin.js"
   },
   "keywords": [],
   "author": "",

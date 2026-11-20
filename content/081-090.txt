@@ -8,7 +8,7 @@ tagline: Une responsable de louange à bout de forces — une nuit de fièvre, d
 song: 祢的恩典夠我用
 vocab: 軟弱=faible ; faiblesse | 夠=suffire ; assez | 發燒=avoir de la fièvre | 照顧=s'occuper de | 不行=ne plus en pouvoir
 ---
-下/xia4 個/ge4 星期三/xing1qi1san1 ，美玲/mei3ling2 也/ye3 分享/fen1xiang3 了/le5 她/ta1 的/de5 見證/jian4zheng4 。
+下/xia4 個/ge4 星期三/xing1qi2san1 ，美玲/mei3ling2 也/ye3 分享/fen1xiang3 了/le5 她/ta1 的/de5 見證/jian4zheng4 。
 = Le mercredi suivant, Meiling partage elle aussi son témoignage.
 美玲/mei3ling2 ：去年/qu4nian2 ，我/wo3 先生/xian1sheng5 去/qu4 國外/guo2wai4 工作/gong1zuo4 半年/ban4nian2 。我/wo3 一/yi1 個/ge4 人/ren2 照顧/zhao4gu4 小光/xiao3guang1 ，還/hai2 要/yao4 帶/dai4 敬拜團/jing4bai4tuan2 。
 = Meiling : L'an dernier, mon mari est parti travailler six mois à l'étranger. Je m'occupais seule de Xiao Guang, et je devais aussi diriger l'équipe de louange.
@@ -49,7 +49,7 @@ vocab: 新春=Nouvel An (nouveau printemps) | 年夜飯=repas du réveillon | �
 = Luc : Maintenant, je trouve que… c'est moi le plus bizarre !
 小恩/xiao3en1 笑/xiao4 了/le5 ：「小組/xiao3zu3 的/de5 人/ren2 都/dou1 很/hen3 喜歡/xi3huan5 你/ni3 。」
 = Xiao En rit : « Tout le monde t'aime bien au groupe. »
-路加/lu4jia1 ：我/wo3 也/ye3 喜歡/xi3huan5 他們/ta1men5 。每/mei3 個/ge4 星期三/xing1qi1san1 ，我/wo3 都/dou1 很/hen3 期待/qi2dai4 。
+路加/lu4jia1 ：我/wo3 也/ye3 喜歡/xi3huan5 他們/ta1men5 。每/mei3 個/ge4 星期三/xing1qi2san1 ，我/wo3 都/dou1 很/hen3 期待/qi2dai4 。
 = Luc : Moi aussi, je les aime bien. Chaque mercredi, j'ai hâte d'y être.
 小恩/xiao3en1 ：對了/dui4le5 ，下/xia4 個/ge4 月/yue4 是/shi4 農曆/nong2li4 新年/xin1nian2 。教會/jiao4hui4 有/you3 新春/xin1chun1 敬拜/jing4bai4 ，你/ni3 要/yao4 來/lai2 嗎/ma5 ？
 = Xiao En : Au fait, le mois prochain, c'est le Nouvel An lunaire. L'église organise un culte du Nouvel An, tu viens ?
@@ -78,9 +78,9 @@ vocab: 大掃除=grand ménage | 春聯=inscriptions rouges du Nouvel An | 蒙�
 ---
 除夕/chu2xi4 前/qian2 兩/liang3 天/tian1 ，路加/lu4jia1 去/qu4 小恩/xiao3en1 家/jia1 幫忙/bang1mang2 大掃除/da4sao3chu2 。
 = Deux jours avant le réveillon, Luc va chez Xiao En pour aider au grand ménage.
-陳爸爸/chen2ba4ba5 ：路加/lu4jia1 ，你/ni3 來/lai2 得/de5 正好/zheng4hao3 ！窗戶/chuang1hu4 就/jiu4 交給/jiao1gei3 你/ni3 了/le5 ！
+陳爸爸/chen2ba4ba5 ：路加/lu4jia1 ，你/ni3 來/lai2 得/de5 正好/zheng4hao3 ！窗戶/chuang1hu5 就/jiu4 交給/jiao1gei3 你/ni3 了/le5 ！
 = Papa Chen : Luc, tu tombes bien ! Les fenêtres, je te les confie !
-路加/lu4jia1 擦/ca1 了/le5 一/yi1 個/ge4 小時/xiao3shi2 的/de5 窗戶/chuang1hu4 ，累/lei4 得/de5 坐/zuo4 在/zai4 地/di4 上/shang4 。
+路加/lu4jia1 擦/ca1 了/le5 一/yi1 個/ge4 小時/xiao3shi2 的/de5 窗戶/chuang1hu5 ，累/lei4 得/de5 坐/zuo4 在/zai4 地/di4 上/shang4 。
 = Luc nettoie les vitres pendant une heure et se retrouve assis par terre, épuisé.
 陳媽媽/chen2ma1ma5 ：辛苦/xin1ku3 了/le5 ！來/lai2 ，喝/he1 杯/bei1 茶/cha2 。
 = Maman Chen : Merci pour ton travail ! Viens boire une tasse de thé.
@@ -158,7 +158,7 @@ vocab: 紅包=enveloppe rouge | 祝福=bénédiction ; bénir | 結婚=se marier
 = Mamie Chen : L'argent de l'enveloppe sera vite dépensé. Mais la bénédiction de Dieu te suivra toujours.
 陳奶奶/chen2nai3nai5 ：我/wo3 每天/mei3tian1 為/wei4 你/ni3 禱告/dao3gao4 ，求/qiu2 神/shen2 讓/rang4 你/ni3 蒙福/meng2fu2 。
 = Mamie Chen : Je prie pour toi chaque jour, je demande à Dieu de te bénir.
-路加/lu4jia1 不/bu4 知道/zhi1dao5 說/shuo1 什麼/shen2me5 ，只/zhi3 覺得/jue2de5 心/xin1 裡/li3 很/hen3 熱/re4 。
+路加/lu4jia1 不/bu4 知道/zhi1dao4 說/shuo1 什麼/shen2me5 ，只/zhi3 覺得/jue2de5 心/xin1 裡/li3 很/hen3 熱/re4 。
 = Luc ne sait pas quoi dire ; il sent seulement une grande chaleur dans son cœur.
 小恩/xiao3en1 小聲/xiao3sheng1 說/shuo1 ：「奶奶/nai3nai5 的/de5 紅包/hong2bao1 裡/li3 ，最/zui4 好/hao3 的/de5 不/bu4 是/shi4 錢/qian2 ，是/shi4 她/ta1 的/de5 禱告/dao3gao4 。」
 = Xiao En murmure : « Dans les enveloppes de Mamie, le meilleur, ce n'est pas l'argent, ce sont ses prières. »
@@ -173,7 +173,7 @@ tagline: Premier jour de l'année lunaire — un pasteur en rouge, une bénédic
 song: 神要賜福與我們
 vocab: 賜福=accorder sa bénédiction | 講道=prêcher ; sermon | 同在=présence ; être avec | 喜氣=air de fête | 卡片=carte
 ---
-大年/da4nian2 初一/chu1yi1 早上/zao3shang5 ，恩典教會/en1dian3jiao4hui4 有/you3 新春/xin1chun1 敬拜/jing4bai4 。大家/da4jia1 都/dou1 穿/chuan1 了/le5 紅色/hong2se4 的/de5 衣服/yi1fu5 。
+大年/da4nian2 初一/chu1yi1 早上/zao3shang4 ，恩典教會/en1dian3jiao4hui4 有/you3 新春/xin1chun1 敬拜/jing4bai4 。大家/da4jia1 都/dou1 穿/chuan1 了/le5 紅色/hong2se4 的/de5 衣服/yi1fu5 。
 = Le matin du premier jour de l'an, l'église de la Grâce célèbre le culte du Nouvel An. Tout le monde s'est habillé en rouge.
 王牧師/wang2mu4shi1 穿/chuan1 了/le5 一/yi1 件/jian4 紅色/hong2se4 的/de5 外套/wai4tao4 ，看起來/kan4qi3lai2 像/xiang4 一/yi1 個/ge4 大/da4 紅包/hong2bao1 。
 = Le pasteur Wang porte une veste rouge ; on dirait une grande enveloppe rouge.
@@ -218,15 +218,15 @@ vocab: 冠冕=couronne | 年歲=les années | 戴=porter (sur la tête) | 特別
 = Luc : Et « la couronne de l'année » ?
 張長老/zhang1zhang3lao3 ：意思/yi4si5 是/shi4 神/shen2 用/yong4 恩典/en1dian3 讓/rang4 每/mei3 一/yi1 年/nian2 都/dou1 很/hen3 美/mei3 ，好像/hao3xiang4 給/gei3 這/zhe4 一/yi1 年/nian2 戴/dai4 上/shang4 冠冕/guan1mian3 。
 = L'ancien Zhang : Cela veut dire que Dieu rend chaque année belle par sa grâce, comme s'il la couronnait.
-張長老/zhang1zhang3lao3 ：你/ni3 想想/xiang3xiang3 ，去年/qu4nian2 你/ni3 來/lai2 了/le5 台北/tai2bei3 ，認識/ren4shi5 了/le5 朋友/peng2you5 ，聽到/ting1dao4 了/le5 福音/fu2yin1 。
+張長老/zhang1zhang3lao3 ：你/ni3 想想/xiang3xiang3 ，去年/qu4nian2 你/ni3 來/lai2 了/le5 台北/tai2bei3 ，認識/ren4shi4 了/le5 朋友/peng2you5 ，聽到/ting1dao4 了/le5 福音/fu2yin1 。
 = L'ancien Zhang : Réfléchis : l'an dernier, tu es venu à Taipei, tu t'es fait des amis, tu as entendu l'Évangile.
 路加/lu4jia1 ：對/dui4 ，去年/qu4nian2 是/shi4 我/wo3 最/zui4 特別/te4bie2 的/de5 一/yi1 年/nian2 。
 = Luc : C'est vrai, l'an dernier a été l'année la plus particulière de ma vie.
 張長老/zhang1zhang3lao3 ：神/shen2 很/hen3 信實/xin4shi2 ，今年/jin1nian2 也/ye3 會/hui4 一樣/yi1yang4 。
 = L'ancien Zhang : Dieu est fidèle, et cette année sera pareille.
-路加/lu4jia1 ：今年/jin1nian2 我/wo3 想/xiang3 更/geng4 認識/ren4shi5 神/shen2 。我/wo3 已經/yi3jing1 讀/du2 到/dao4 約翰福音/yue1han4fu2yin1 第三/di4san1 章/zhang1 了/le5 ，有/you3 很多/hen3duo1 問題/wen4ti2 。
+路加/lu4jia1 ：今年/jin1nian2 我/wo3 想/xiang3 更/geng4 認識/ren4shi4 神/shen2 。我/wo3 已經/yi3jing1 讀/du2 到/dao4 約翰福音/yue1han4fu2yin1 第三/di4san1 章/zhang1 了/le5 ，有/you3 很多/hen3duo1 問題/wen4ti2 。
 = Luc : Cette année, je voudrais mieux connaître Dieu. J'en suis déjà au chapitre 3 de Jean, et j'ai plein de questions.
-張長老/zhang1zhang3lao3 笑/xiao4 了/le5 ：「有/you3 問題/wen4ti2 最/zui4 好/hao3 ！下/xia4 個/ge4 星期二/xing1qi1er4 ，我們/wo3men5 一起/yi1qi3 從/cong2 第一/di4yi1 章/zhang1 開始/kai1shi3 讀/du2 。」
+張長老/zhang1zhang3lao3 笑/xiao4 了/le5 ：「有/you3 問題/wen4ti2 最/zui4 好/hao3 ！下/xia4 個/ge4 星期二/xing1qi2er4 ，我們/wo3men5 一起/yi1qi3 從/cong2 第一/di4yi1 章/zhang1 開始/kai1shi3 讀/du2 。」
 = L'ancien Zhang sourit : « Les questions, c'est ce qu'il y a de mieux ! Mardi prochain, nous lirons ensemble à partir du chapitre 1. »
 那/na4 天/tian1 晚上/wan3shang4 ，路加/lu4jia1 聽/ting1 著/zhe5 《年歲/nian2sui4 的/de5 冠冕/guan1mian3》，卡片/ka3pian4 就/jiu4 放/fang4 在/zai4 書桌/shu1zhuo1 上/shang4 。
 = Ce soir-là, Luc écoute « La couronne de l'année », la carte posée sur son bureau.
@@ -251,11 +251,11 @@ vocab: 拜年=présenter ses vœux du Nouvel An | 祖先=ancêtres | 尊敬=resp
 = Luc : Je ne suis pas encore chrétien. Mais Xiao En dit que les chrétiens n'adorent pas les ancêtres, tout en les respectant beaucoup et en honorant leurs parents.
 大衛/da4wei4 ：我/wo3 奶奶/nai3nai5 很/hen3 擔心/dan1xin1 這/zhe4 個/ge4 。她/ta1 怕/pa4 信/xin4 耶穌/ye1su1 的/de5 人/ren2 就/jiu4 不/bu4 要/yao4 家人/jia1ren2 了/le5 。
 = David : Ma grand-mère s'inquiète de ça. Elle a peur que ceux qui croient en Jésus abandonnent leur famille.
-路加/lu4jia1 ：可是/ke3shi4 我/wo3 認識/ren4shi5 的/de5 基督徒/ji1du1tu2 都/dou1 很/hen3 愛/ai4 家人/jia1ren2 。你/ni3 看/kan4 小恩/xiao3en1 家/jia1 就/jiu4 知道/zhi1dao5 了/le5 。
+路加/lu4jia1 ：可是/ke3shi4 我/wo3 認識/ren4shi4 的/de5 基督徒/ji1du1tu2 都/dou1 很/hen3 愛/ai4 家人/jia1ren2 。你/ni3 看/kan4 小恩/xiao3en1 家/jia1 就/jiu4 知道/zhi1dao4 了/le5 。
 = Luc : Pourtant, les chrétiens que je connais aiment beaucoup leur famille. Regarde la famille de Xiao En, et tu verras.
 大衛/da4wei4 想/xiang3 了/le5 想/xiang3 ：「好/hao3 吧/ba5 ，這/zhe4 倒是/dao4shi4 真的/zhen1de5 。」
 = David réfléchit : « Bon, ça, c'est vrai. »
-回/hui2 台北/tai2bei3 的/de5 高鐵/gao1tie3 上/shang4 ，路加/lu4jia1 傳/chuan2 訊息/xun4xi1 給/gei3 小恩/xiao3en1 ：「今天/jin1tian1 我/wo3 第一/di4yi1 次/ci4 去/qu4 拜年/bai4nian2 ，學到/xue2dao4 了/le5 很多/hen3duo1 。」
+回/hui2 台北/tai2bei3 的/de5 高鐵/gao1tie3 上/shang4 ，路加/lu4jia1 傳/chuan2 訊息/xun4xi2 給/gei3 小恩/xiao3en1 ：「今天/jin1tian1 我/wo3 第一/di4yi1 次/ci4 去/qu4 拜年/bai4nian2 ，學到/xue2dao4 了/le5 很多/hen3duo1 。」
 = Dans le TGV du retour vers Taipei, Luc envoie un message à Xiao En : « Aujourd'hui, j'ai présenté mes vœux pour la première fois ; j'ai appris plein de choses. »
 小恩/xiao3en1 回/hui2 ：「願/yuan4 神/shen2 賜福/ci4fu2 大衛/da4wei4 一/yi1 家/jia1 ！」還/hai2 傳/chuan2 來/lai2 一/yi1 首/shou3 《賜福/ci4fu2 與/yu3 你/ni3》。
 = Xiao En répond : « Que Dieu bénisse la famille de David ! » et lui envoie le chant « Que Dieu te bénisse ».
@@ -274,7 +274,7 @@ vocab: 福分=bonheur, part de bénédiction | 福氣=chance, bonheur | 永遠=p
 = Luc : Mamie, au Nouvel An, tout le monde parle de « bonheur ». Mais c'est quoi, la vraie chance ?
 陳奶奶/chen2nai3nai5 ：很多/hen3duo1 人/ren2 說/shuo1 ，有/you3 錢/qian2 、有/you3 房子/fang2zi5 、有/you3 好/hao3 工作/gong1zuo4 ，就是/jiu4shi4 福氣/fu2qi4 。
 = Mamie Chen : Beaucoup de gens disent qu'avoir de l'argent, une maison et un bon travail, c'est ça, la chance.
-陳奶奶/chen2nai3nai5 ：我/wo3 年輕/nian2qing1 的/de5 時候/shi2hou5 什麼/shen2me5 都/dou1 沒有/mei2you3 ，可是/ke3shi4 我/wo3 認識/ren4shi5 了/le5 神/shen2 ，這/zhe4 是/shi4 我/wo3 最/zui4 大/da4 的/de5 福分/fu2fen4 。
+陳奶奶/chen2nai3nai5 ：我/wo3 年輕/nian2qing1 的/de5 時候/shi2hou5 什麼/shen2me5 都/dou1 沒有/mei2you3 ，可是/ke3shi4 我/wo3 認識/ren4shi4 了/le5 神/shen2 ，這/zhe4 是/shi4 我/wo3 最/zui4 大/da4 的/de5 福分/fu2fen4 。
 = Mamie Chen : Quand j'étais jeune, je n'avais rien, mais j'ai connu Dieu : c'est mon plus grand bonheur.
 路加/lu4jia1 ：為什麼/wei4shen2me5 是/shi4 最/zui4 大/da4 的/de5 ？
 = Luc : Pourquoi le plus grand ?
@@ -284,9 +284,9 @@ vocab: 福分=bonheur, part de bénédiction | 福氣=chance, bonheur | 永遠=p
 = Mamie Chen : Et puis, un jour, j'irai dans le royaume des cieux, et je serai avec le Seigneur pour toujours.
 路加/lu4jia1 ：天國/tian1guo2 …… 就是/jiu4shi4 天堂/tian1tang2 嗎/ma5 ？
 = Luc : Le royaume des cieux… c'est le paradis ?
-陳奶奶/chen2nai3nai5 ：對/dui4 。所以/suo3yi3 我/wo3 不/bu4 怕/pa4 老/lao3 ，因為/yin1wei4 我/wo3 知道/zhi1dao5 我/wo3 要/yao4 回家/hui2jia1 。
+陳奶奶/chen2nai3nai5 ：對/dui4 。所以/suo3yi3 我/wo3 不/bu4 怕/pa4 老/lao3 ，因為/yin1wei4 我/wo3 知道/zhi1dao4 我/wo3 要/yao4 回家/hui2jia1 。
 = Mamie Chen : Oui. C'est pour ça que je n'ai pas peur de vieillir : je sais que je rentre à la maison.
-路加/lu4jia1 看/kan4 著/zhe5 奶奶/nai3nai5 的/de5 白/bai2 頭髮/tou2fa5 ，覺得/jue2de5 她/ta1 比/bi3 很多/hen3duo1 年輕人/nian2qing1ren2 還/hai2 有/you3 力量/li4liang4 。
+路加/lu4jia1 看/kan4 著/zhe5 奶奶/nai3nai5 的/de5 白/bai2 頭髮/tou2fa3 ，覺得/jue2de5 她/ta1 比/bi3 很多/hen3duo1 年輕人/nian2qing1ren2 還/hai2 有/you3 力量/li4liang4 。
 = Luc regarde les cheveux blancs de Mamie et se dit qu'elle a plus de force que bien des jeunes.
 奶奶/nai3nai5 輕輕/qing1qing1 地/de5 唱/chang4 起/qi3 《最/zui4 大/da4 的/de5 福分/fu2fen4》，路加/lu4jia1 安靜/an1jing4 地/de5 聽/ting1 著/zhe5 。
 = Mamie se met à chanter doucement « Le plus grand bonheur », et Luc l'écoute en silence.
@@ -301,7 +301,7 @@ tagline: Première étude avec l'ancien Zhang — une Parole qui est une personn
 song: 生命的話語
 vocab: 太初=au commencement | 道=la Parole (le Verbe) | 創造=créer ; création | 萬物=toutes choses | 肉身=chair, corps humain
 ---
-星期二/xing1qi1er4 晚上/wan3shang4 ，張長老/zhang1zhang3lao3 和/he2 路加/lu4jia1 打開/da3kai1 約翰福音/yue1han4fu2yin1 第一/di4yi1 章/zhang1 。
+星期二/xing1qi2er4 晚上/wan3shang4 ，張長老/zhang1zhang3lao3 和/he2 路加/lu4jia1 打開/da3kai1 約翰福音/yue1han4fu2yin1 第一/di4yi1 章/zhang1 。
 = Mardi soir, l'ancien Zhang et Luc ouvrent le premier chapitre de Jean.
 張長老/zhang1zhang3lao3 ：「太初/tai4chu1 有/you3 道/dao4 ，道/dao4 與/yu3 神/shen2 同在/tong2zai4 ，道/dao4 就是/jiu4shi4 神/shen2 。」（約翰福音/yue1han4fu2yin1 1:1）
 = L'ancien Zhang : « Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu. » (Jean 1:1)
@@ -323,5 +323,5 @@ vocab: 太初=au commencement | 道=la Parole (le Verbe) | 創造=créer ; créa
 = Luc : Le Dieu qui a créé le monde est devenu un homme… C'est ça, Noël !
 張長老/zhang1zhang3lao3 ：你/ni3 說/shuo1 得/de5 對/dui4 ！
 = L'ancien Zhang : Tu as tout compris !
-回家/hui2jia1 的/de5 路/lu4 上/shang4 ，路加/lu4jia1 聽/ting1 著/zhe5 《生命/sheng1ming4 的/de5 話語/hua4yu3》，一直/yi1zhi2 在/zai4 想/xiang3 ：創造/chuang4zao4 我/wo3 的/de5 神/shen2 ，認識/ren4shi5 我/wo3 嗎/ma5 ？
+回家/hui2jia1 的/de5 路/lu4 上/shang4 ，路加/lu4jia1 聽/ting1 著/zhe5 《生命/sheng1ming4 的/de5 話語/hua4yu3》，一直/yi1zhi2 在/zai4 想/xiang3 ：創造/chuang4zao4 我/wo3 的/de5 神/shen2 ，認識/ren4shi4 我/wo3 嗎/ma5 ？
 = Sur le chemin du retour, Luc écoute « Paroles de vie » et se demande sans cesse : le Dieu qui m'a créé me connaît-il ?

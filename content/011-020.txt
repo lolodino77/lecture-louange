@@ -82,9 +82,9 @@ vocab: 感謝=remercier ; reconnaissance | 祝福=bénir ; bénédiction | 捷�
 = Xiao En : Luc, merci d'être venu aujourd'hui !
 路加/lu4jia1 ：我/wo3 要/yao4 感謝/gan3xie4 你/ni3 ！今天/jin1tian1 很/hen3 好/hao3 。
 = Luc : C'est moi qui te remercie ! C'était une super journée.
-小恩/xiao3en1 ：你/ni3 喜歡/xi3huan1 我們/wo3men5 的/de5 教會/jiao4hui4 嗎/ma5 ？
+小恩/xiao3en1 ：你/ni3 喜歡/xi3huan5 我們/wo3men5 的/de5 教會/jiao4hui4 嗎/ma5 ？
 = Xiao En : Tu aimes notre église ?
-路加/lu4jia1 ：喜歡/xi3huan1 。大家/da4jia1 都/dou1 很/hen3 好/hao3 。
+路加/lu4jia1 ：喜歡/xi3huan5 。大家/da4jia1 都/dou1 很/hen3 好/hao3 。
 = Luc : Oui. Tout le monde est très gentil.
 路加/lu4jia1 ：最後/zui4hou4 ，王牧師/wang2mu4shi1 說/shuo1 「祝福/zhu4fu2 」。
 = Luc : À la fin, le pasteur Wang a parlé de « bénir ».
@@ -111,13 +111,13 @@ tagline: Chez les Chen — une petite maison, une grand-mère souriante et un ma
 song: 我和我的家
 vocab: 奶奶=grand-mère, mamie | 溫暖=chaleureux | 沙發=canapé | 主=Seigneur | 飛機=avion
 ---
-星期六/xing1qi1liu4 ，小恩/xiao3en1 請/qing3 路加/lu4jia1 去/qu4 她/ta1 家/jia1 吃飯/chi1fan4 。
+星期六/xing1qi2liu4 ，小恩/xiao3en1 請/qing3 路加/lu4jia1 去/qu4 她/ta1 家/jia1 吃飯/chi1fan4 。
 = Samedi, Xiao En invite Luc à manger chez elle.
 小恩/xiao3en1 的/de5 家/jia1 很/hen3 小/xiao3 ，可是/ke3shi4 很/hen3 溫暖/wen1nuan3 。
 = La maison de Xiao En est petite, mais très chaleureuse.
 門/men2 上/shang4 有/you3 一/yi1 張/zhang1 紙/zhi3 ：《我/wo3 和/he2 我/wo3 的/de5 家/jia1 》。
 = Sur la porte, il y a une feuille : « Moi et ma maison ».
-小恩/xiao3en1 ：這/zhe4 是/shi4 奶奶/nai3nai5 最/zui4 喜歡/xi3huan1 的/de5 歌/ge1 。
+小恩/xiao3en1 ：這/zhe4 是/shi4 奶奶/nai3nai5 最/zui4 喜歡/xi3huan5 的/de5 歌/ge1 。
 = Xiao En : C'est la chanson préférée de ma grand-mère.
 一/yi1 位/wei4 老/lao3 奶奶/nai3nai5 坐/zuo4 在/zai4 沙發/sha1fa1 上/shang4 。
 = Une vieille dame est assise sur le canapé.
@@ -154,7 +154,7 @@ vocab: 感謝=remercier, rendre grâce | 筷子=baguettes | 食物=nourriture | 
 = Luc repose ses baguettes : « Pardon ! »
 陳奶奶/chen2nai3nai5 禱告/dao3gao4 ：「天父/tian1fu4 ，感謝/gan3xie4 祢/ni3 給/gei3 我們/wo3men5 食物/shi2wu4 。」
 = Mamie Chen prie : « Père céleste, merci de nous donner cette nourriture. »
-「感謝/gan3xie4 祢/ni3 給/gei3 我們/wo3men5 新/xin1 朋友/peng2you3 路加/lu4jia1 。」
+「感謝/gan3xie4 祢/ni3 給/gei3 我們/wo3men5 新/xin1 朋友/peng2you5 路加/lu4jia1 。」
 = « Merci de nous donner un nouvel ami, Luc. »
 「奉/feng4 主/zhu3 耶穌/ye1su1 的/de5 名/ming2 ，阿們/a1men2 ！」
 = « Au nom du Seigneur Jésus, amen ! »
@@ -303,7 +303,7 @@ tagline: À la répétition — un tempo trop rapide, une remarque de Meiling et
 song: 我在這裡敬拜
 vocab: 練習=répéter, s'exercer | 敬拜=adorer ; adoration | 表演=spectacle | 對不起=pardon, désolé | 地方=endroit
 ---
-星期六/xing1qi1liu4 下午/xia4wu3 ，敬拜團/jing4bai4tuan2 練習/lian4xi2 。
+星期六/xing1qi2liu4 下午/xia4wu3 ，敬拜團/jing4bai4tuan2 練習/lian4xi2 。
 = Le samedi après-midi, l'équipe de louange répète.
 小恩/xiao3en1 請/qing3 路加/lu4jia1 來/lai2 看/kan4 。
 = Xiao En a invité Luc à venir regarder.

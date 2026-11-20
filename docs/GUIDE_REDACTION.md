@@ -46,8 +46,23 @@ Règles :
 - La ponctuation chinoise pleine chasse (，。！？：；、「」『』《》……——) se place entre
   les mots, sans pinyin. Aucun caractère chinois ne doit rester sans pinyin.
 - Réplique : `Nom/pinyin ：texte` (deux-points pleine chasse). Narration : pas de nom.
-- Tons : **tons de dictionnaire** (pas de sandhi) : 一/yi1, 不/bu4, 你好/ni3hao3.
-  Pas de 兒化 (écrire 哪裡, 一點 et non 哪兒, 一點兒).
+- Tons : **tons de dictionnaire** (pas de sandhi) : 一/yi1, 不/bu4, 你好/ni3hao3. Donc 一定/yi1ding4,
+  一直/yi1zhi2, 不是/bu4shi4, 不要/bu4yao4 (jamais yi2ding4, yi4zhi2, bu2shi4…).
+  Pas de 兒化 (écrire 哪裡, 一點 et non 哪兒, 一點兒) ; pas de « 一會兒 » (écrire 一下, 一陣子, 一會).
+- **Norme de prononciation : celle de Taïwan** (décidée le 20 novembre 2026, pour rester cohérent avec le
+  chinois traditionnel de Taïwan). Lectures de caractère à appliquer partout : 微 wei2 (微笑 wei2xiao4),
+  期 qi2 (星期 xing1qi2, 學期 xue2qi2, 期待 qi2dai4), 突 tu2 (突然 tu2ran2), 識 shi4 (認識 ren4shi4),
+  息 xi2 (休息 xiu1xi2, 訊息 xun4xi2), 蹟 ji1 (神蹟 shen2ji1, 奇蹟 qi2ji1), 髮 fa3 (頭髮 tou2fa3),
+  跌 die2 (跌倒 die2dao3). Pour les mots dont le dernier syllabe peut être neutre ou plein, on a retenu
+  **une seule forme par mot** dans tout le corpus (la plus fréquente) : 朋友 peng2you5, 喜歡 xi3huan5,
+  知道 zhi1dao4, 名字 ming2zi5, 告訴 gao4su4, 地方 di4fang1, 故事 gu4shi5, 早上 zao3shang4, 明白 ming2bai5,
+  清楚 qing1chu5, 眼睛 yan3jing1, 衣服 yi1fu5, 對不起 dui4bu4qi3, 事情 shi4qing5, 差點 cha4dian3… (liste complète
+  des mots arbitrés : tableau `WORD` de `scripts/harmoniser_pinyin.js`, que l'on relance après chaque nouvelle
+  tranche : `npm run pinyin:harmoniser` ; `npm run pinyin:variantes` liste ce qui reste ambigu). Le validateur connaît ces lectures
+  (`TW_READINGS` dans `scripts/validate.js`) et ne les signale plus comme « inhabituelles ».
+- **ü s'écrit v** dans le pinyin numérique : 女孩/nv3hai2, 旅行/lv3xing2, 驢子/lv2zi5.
+- Un mot de `vocab:` doit apparaître **tel quel comme un seul mot** (token) dans le texte ; si besoin,
+  regrouper les syllabes dans le texte (吃飯/chi1fan4 plutôt que 吃/chi1 飯/fan4).
 - Lectures spéciales : 祢/ni3 (« Tu » adressé à Dieu), 祂/ta1 (« Il » = Dieu),
   耶和華/ye1he2hua2, 阿們/a1men2, 哈利路亞/ha1li4lu4ya4, 以馬內利/yi3ma3nei4li4,
   和散那/he2san3na4, 長老/zhang3lao3, 音樂/yin1yue4, 得救/de2jiu4.

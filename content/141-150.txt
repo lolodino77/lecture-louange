@@ -1,0 +1,299 @@
+# Conversations 141–150 — niveau 3 (Intermédiaire), juillet–août année 2
+
+@series 141 | 夏令營 | Le camp d'été | Après son baptême, Luc découvre que la nouvelle vie est un chemin : une graine à arroser, un camp en montagne, la sainteté, le silence, le prix du suivre Jésus et le retour dans le quotidien.
+
+=== 141
+series: 141
+title_zh: 洗禮不是魔法
+title_fr: Le baptême n'est pas de la magie
+tagline: Une semaine après le baptême — un embouteillage, une colère inattendue et une graine qu'il faut arroser tous les jours.
+song: 煉淨過的生命
+vocab: 魔法=magie | 生氣=se fâcher | 習慣=habitude | 種子=graine | 澆水=arroser
+---
+受洗/shou4xi3 後/hou4 的/de5 第一個/di4yi1ge4 星期/xing1qi2 ，路加/lu4jia1 覺得/jue2de5 自己/zi4ji3 好像/hao3xiang4 變成/bian4cheng2 了/le5 另一個/ling4yi1ge4 人/ren2 。
+= La première semaine après son baptême, Luc a l'impression d'être devenu quelqu'un d'autre.
+可是/ke3shi4 星期三/xing1qi2san1 ，他/ta1 在/zai4 捷運/jie2yun4 站/zhan4 排隊/pai2dui4 的/de5 時候/shi2hou5 ，被/bei4 一個/yi1ge4 人/ren2 插隊/cha1dui4 ，他/ta1 竟然/jing4ran2 大聲/da4sheng1 罵/ma4 了/le5 一句/yi1ju4 。
+= Mais le mercredi, alors qu'il faisait la queue à la station de métro, quelqu'un lui est passé devant et, à sa grande surprise, il lui a crié dessus.
+說/shuo1 完/wan2 以後/yi3hou4 ，他/ta1 馬上/ma3shang4 後悔/hou4hui3 了/le5 。
+= Une fois la phrase dite, il l'a aussitôt regrettée.
+晚上/wan3shang4 ，他/ta1 打/da3 電話/dian4hua4 給/gei3 小恩/xiao3en1 ：我/wo3 都/dou1 受洗/shou4xi3 了/le5 ，為什麼/wei4shen2me5 還是/hai2shi4 會/hui4 生氣/sheng1qi4 ？
+= Le soir, il téléphone à Xiao En : Je suis baptisé, alors pourquoi est-ce que je me fâche encore ?
+小恩/xiao3en1 笑/xiao4 了/le5 ：你/ni3 以為/yi3wei2 洗禮/xi3li3 是/shi4 魔法/mo2fa3 嗎/ma5 ？一下子/yi1xia4zi5 就/jiu4 把/ba3 所有/suo3you3 的/de5 壞/huai4 習慣/xi2guan4 都/dou1 洗掉/xi3diao4 ？
+= Xiao En sourit : Tu croyais que le baptême était de la magie ? Qu'il lavait d'un coup toutes tes mauvaises habitudes ?
+路加/lu4jia1 ：我/wo3 …… 好像/hao3xiang4 真的/zhen1de5 這樣/zhe4yang4 想/xiang3 過/guo4 。
+= Luc : Je… j'avoue que je l'ai vraiment un peu cru.
+小恩/xiao3en1 ：洗禮/xi3li3 是/shi4 一個/yi1ge4 開始/kai1shi3 ，不是/bu4shi4 終點/zhong1dian3 。你/ni3 想想/xiang3xiang3 看/kan4 ，種子/zhong3zi5 被/bei4 種/zhong4 下去/xia4qu4 ，不會/bu4hui4 馬上/ma3shang4 變成/bian4cheng2 大樹/da4shu4 。
+= Xiao En : Le baptême est un commencement, pas une arrivée. Réfléchis : une graine plantée ne devient pas tout de suite un grand arbre.
+路加/lu4jia1 ：那/na4 我/wo3 要/yao4 做/zuo4 什麼/shen2me5 ？
+= Luc : Alors, que dois-je faire ?
+小恩/xiao3en1 ：天天/tian1tian1 澆水/jiao1shui3 ：讀/du2 聖經/sheng4jing1 、禱告/dao3gao4 ，也/ye3 要/yao4 跟/gen1 別人/bie2ren2 在/zai4 一起/yi1qi3 。種子/zhong3zi5 會/hui4 自己/zi4ji3 長/zhang3 ，可是/ke3shi4 我們/wo3men5 要/yao4 把/ba3 它/ta1 放/fang4 在/zai4 有/you3 太陽/tai4yang2 的/de5 地方/di4fang1 。
+= Xiao En : Arroser chaque jour : lire la Bible, prier, et être avec d'autres. La graine pousse toute seule, mais nous devons la mettre là où il y a du soleil.
+路加/lu4jia1 安靜/an1jing4 了/le5 一下/yi1xia4 ：那/na4 明天/ming2tian1 在/zai4 捷運/jie2yun4 站/zhan4 ，我/wo3 要/yao4 先/xian1 跟/gen1 那/na4 個/ge4 人/ren2 道歉/dao4qian4 。
+= Luc se tait un instant : Alors demain, à la station, je vais d'abord présenter mes excuses à cette personne.
+小恩/xiao3en1 ：如果/ru2guo3 你/ni3 找/zhao3 得/de5 到/dao4 他/ta1 ，我/wo3 一定/yi1ding4 請/qing3 你/ni3 吃/chi1 珍珠奶茶/zhen1zhu1nai3cha2 。
+= Xiao En : Si tu le retrouves, je t'offre sûrement un thé aux perles.
+
+=== 142
+series: 141
+title_zh: 夏令營的行李
+title_fr: La valise du camp d'été
+tagline: La veille du départ — une liste interminable, un sac trop petit et un moustique qui n'a pas été invité.
+song: 一同起舞
+vocab: 夏令營=camp d'été | 打包=faire ses bagages | 手電筒=lampe de poche | 蚊子=moustique | 清單=liste
+---
+八月/ba1yue4 初/chu1 ，教會/jiao4hui4 的/de5 青年/qing1nian2 夏令營/xia4ling4ying2 要/yao4 在/zai4 新竹/xin1zhu2 的/de5 山上/shan1shang4 舉行/ju3xing2 ，路加/lu4jia1 是/shi4 第一次/di4yi1ci4 參加/can1jia1 。
+= Début août, le camp d'été des jeunes de l'église aura lieu dans les montagnes de Hsinchu, et c'est la première fois que Luc y participe.
+出發/chu1fa1 的/de5 前/qian2 一/yi1 天/tian1 ，美玲/mei3ling2 傳/chuan2 給/gei3 大家/da4jia1 一/yi1 張/zhang1 長長/chang2chang2 的/de5 清單/qing1dan1 。
+= La veille du départ, Meiling envoie à tout le monde une très longue liste.
+路加/lu4jia1 一邊/yi1bian1 看/kan4 一邊/yi1bian1 打包/da3bao1 ：衣服/yi1fu5 、雨衣/yu3yi1 、手電筒/shou3dian4tong3 、吉他/ji2ta1 ，還有/hai2you3 …… 蚊香/wen2xiang1 ？
+= Luc la lit tout en faisant ses bagages : des vêtements, un imperméable, une lampe de poche, sa guitare, et aussi… de l'anti-moustique ?
+他/ta1 打/da3 電話/dian4hua4 問/wen4 阿傑/a1jie2 ：山上/shan1shang4 真的/zhen1de5 有/you3 這麼/zhe4me5 多/duo1 蚊子/wen2zi5 嗎/ma5 ？
+= Il appelle A-Jie : Il y a vraiment autant de moustiques là-haut ?
+阿傑/a1jie2 ：我/wo3 跟/gen1 你/ni3 說/shuo1 ，那裡/na4li3 的/de5 蚊子/wen2zi5 只要/zhi3yao4 聞到/wen2dao4 外國人/wai4guo2ren2 的/de5 味道/wei4dao4 ，就/jiu4 會/hui4 全部/quan2bu4 跑/pao3 過來/guo4lai2 。
+= A-Jie : Je te préviens, là-bas, dès que les moustiques sentent l'odeur d'un étranger, ils accourent tous.
+路加/lu4jia1 ：你/ni3 在/zai4 開玩笑/kai1wan2xiao4 吧/ba5 ？
+= Luc : Tu plaisantes, n'est-ce pas ?
+阿傑/a1jie2 ：我/wo3 沒有/mei2you3 ，可是/ke3shi4 我/wo3 有/you3 帶/dai4 兩/liang3 瓶/ping2 防蚊液/fang2wen2ye4 ，可以/ke3yi3 借/jie4 你/ni3 一/yi1 瓶/ping2 。
+= A-Jie : Non, pas du tout, mais j'ai apporté deux flacons de répulsif, je peux t'en prêter un.
+路加/lu4jia1 ：真的/zhen1de5 ？謝謝/xie4xie5 ！你/ni3 真是/zhen1shi4 我/wo3 的/de5 好/hao3 弟兄/di4xiong1 。
+= Luc : Vraiment ? Merci ! Tu es vraiment un frère en or.
+阿傑/a1jie2 ：不用/bu4yong4 客氣/ke4qi4 ，不過/bu4guo4 你/ni3 要/yao4 先/xian1 把/ba3 你/ni3 那/na4 個/ge4 大/da4 吉他/ji2ta1 放/fang4 進/jin4 巴士/ba1shi4 下面/xia4mian4 ，我/wo3 的/de5 位子/wei4zi5 已經/yi3jing1 夠/gou4 擠/ji3 了/le5 。
+= A-Jie : De rien, mais mets d'abord ta grande guitare dans la soute du bus, ma place est déjà assez serrée comme ça.
+路加/lu4jia1 看/kan4 了/le5 看/kan4 自己/zi4ji3 那/na4 個/ge4 快/kuai4 爆開/bao4kai1 的/de5 背包/bei1bao1 ，嘆/tan4 了/le5 一/yi1 口/kou3 氣/qi4 ：我/wo3 覺得/jue2de5 這/zhe4 個/ge4 夏令營/xia4ling4ying2 ，從/cong2 打包/da3bao1 就/jiu4 開始/kai1shi3 考驗/kao3yan4 我/wo3 了/le5 。
+= Luc regarde son sac à dos qui menace d'éclater et soupire : J'ai l'impression que ce camp d'été commence à m'éprouver dès les bagages.
+
+=== 143
+series: 141
+title_zh: 巴士上的歌聲
+title_fr: Des chants dans le bus
+tagline: Quatre heures de route sinueuse — des cœurs au bord des lèvres, un chauffeur qui chante faux et une joie qui gagne tout le monde.
+song: 來歡呼來讚美
+vocab: 巴士=bus, autocar | 暈車=avoir le mal des transports | 山路=route de montagne | 司機=chauffeur | 歌聲=voix qui chante
+---
+星期一/xing1qi2yi1 早上/zao3shang4 ，三十/san1shi2 個/ge4 年輕人/nian2qing1ren2 坐/zuo4 上/shang4 一/yi1 輛/liang4 大/da4 巴士/ba1shi4 ，往/wang3 新竹/xin1zhu2 的/de5 山上/shan1shang4 出發/chu1fa1 。
+= Lundi matin, trente jeunes montent dans un grand autocar en direction des montagnes de Hsinchu.
+車子/che1zi5 一/yi1 開/kai1 ，阿傑/a1jie2 就/jiu4 拿/na2 起/qi3 吉他/ji2ta1 ，大家/da4jia1 唱/chang4 起/qi3 《來/lai2 歡呼/huan1hu1 來/lai2 讚美/zan4mei3 》，連/lian2 司機/si1ji1 都/dou1 跟/gen1 著/zhe5 哼/heng1 。
+= Dès que le car démarre, A-Jie prend sa guitare, tout le monde chante « Venez acclamer, venez louer », et même le chauffeur fredonne avec eux.
+可是/ke3shi4 路/lu4 越來越/yue4lai2yue4 彎/wan1 ，路加/lu4jia1 的/de5 臉/lian3 越來越/yue4lai2yue4 白/bai2 。
+= Mais la route devient de plus en plus sinueuse, et le visage de Luc de plus en plus pâle.
+小恩/xiao3en1 ：你/ni3 是/shi4 不/bu4 是/shi4 暈車/yun4che1 了/le5 ？
+= Xiao En : Tu as le mal des transports ?
+路加/lu4jia1 ：沒有/mei2you3 …… 我/wo3 只是/zhi3shi4 在/zai4 想/xiang3 …… 聖經/sheng4jing1 裡/li3 有/you3 沒有/mei2you3 …… 說/shuo1 過/guo4 暈車/yun4che1 的/de5 事/shi4 ……
+= Luc : Non… je me demandais seulement… si la Bible parle du mal des transports…
+小恩/xiao3en1 忍不住/ren3bu4zhu4 笑/xiao4 ，從/cong2 包包/bao1bao1 裡/li3 拿/na2 出/chu1 一/yi1 顆/ke1 薑糖/jiang1tang2 ：吃/chi1 這/zhe4 個/ge4 ，比/bi3 讀/du2 聖經/sheng4jing1 更/geng4 有用/you3yong4 。
+= Xiao En ne peut s'empêcher de rire et sort de son sac un bonbon au gingembre : Mange ça, c'est plus efficace que lire la Bible.
+路加/lu4jia1 含/han2 著/zhe5 糖/tang2 ，閉/bi4 上/shang4 眼睛/yan3jing1 ，聽/ting1 著/zhe5 後面/hou4mian4 的/de5 歌聲/ge1sheng1 ，慢慢/man4man4 覺得/jue2de5 好/hao3 一點/yi1dian3 。
+= Luc garde le bonbon en bouche, ferme les yeux, écoute les chants derrière lui et se sent peu à peu mieux.
+山路/shan1lu4 一/yi1 彎/wan1 又/you4 一/yi1 彎/wan1 ，車/che1 上/shang4 的/de5 歌/ge1 也/ye3 一/yi1 首/shou3 又/you4 一/yi1 首/shou3 ，從/cong2 敬拜/jing4bai4 的/de5 歌/ge1 唱/chang4 到/dao4 兒歌/er2ge1 ，再/zai4 唱/chang4 到/dao4 老/lao3 歌/ge1 。
+= La route serpente et les chants se succèdent, des chants de louange aux comptines puis aux vieilles chansons.
+快/kuai4 到/dao4 營地/ying2di4 的/de5 時候/shi2hou5 ，司機/si1ji1 在/zai4 前面/qian2mian4 大聲/da4sheng1 說/shuo1 ：你們/ni3men5 唱/chang4 得/de5 比/bi3 我/wo3 開/kai1 車/che1 還/hai2 好聽/hao3ting1 ！
+= Quand ils approchent du camp, le chauffeur lance à haute voix : Vous chantez mieux que je ne conduis !
+大家/da4jia1 笑/xiao4 成/cheng2 一/yi1 團/tuan2 ，連/lian2 路加/lu4jia1 也/ye3 睜/zheng1 開/kai1 眼睛/yan3jing1 ，跟/gen1 著/zhe5 笑/xiao4 了/le5 。
+= Tout le monde éclate de rire, et même Luc ouvre les yeux et rit avec eux.
+
+=== 144
+series: 141
+title_zh: 清晨的聖潔
+title_fr: La sainteté au petit matin
+tagline: Cinq heures et demie, dans le brouillard — un chant ancien, un prophète terrifié et un étudiant qui se sent très petit.
+song: 祢是聖潔
+vocab: 聖潔=saint ; sainteté | 晨更=temps de prière matinal | 霧=brouillard | 先知=prophète | 渺小=minuscule
+---
+第二天/di4er4tian1 清晨/qing1chen2 五點半/wu3dian3ban4 ，山上/shan1shang4 的/de5 霧/wu4 很/hen3 濃/nong2 ，大家/da4jia1 穿/chuan1 著/zhe5 外套/wai4tao4 ，坐/zuo4 在/zai4 草地/cao3di4 上/shang4 參加/can1jia1 晨更/chen2geng1 。
+= Le deuxième jour, à cinq heures et demie du matin, le brouillard est épais en montagne ; tous, vêtus de leurs vestes, sont assis sur l'herbe pour le temps de prière matinal.
+王牧師/wang2mu4shi1 ：今天/jin1tian1 我們/wo3men5 讀/du2 以賽亞書/yi3sai4ya4shu1 第六章/di4liu4zhang1 。先知/xian1zhi1 以賽亞/yi3sai4ya4 看到/kan4dao4 神/shen2 坐/zuo4 在/zai4 高/gao1 高/gao1 的/de5 寶座/bao3zuo4 上/shang4 ，天使/tian1shi3 在/zai4 旁邊/pang2bian1 喊/han3 著/zhe5 ：聖哉/sheng4zai1 ，聖哉/sheng4zai1 ，聖哉/sheng4zai1 。
+= Pasteur Wang : Aujourd'hui, nous lisons Ésaïe chapitre 6. Le prophète Ésaïe voit Dieu assis sur un trône très haut, et à ses côtés les anges crient : Saint, saint, saint.
+王牧師/wang2mu4shi1 ：以賽亞/yi3sai4ya4 的/de5 反應/fan3ying4 是/shi4 什麼/shen2me5 ？他/ta1 沒有/mei2you3 笑/xiao4 ，也/ye3 沒有/mei2you3 唱歌/chang4ge1 ，他/ta1 說/shuo1 ：「禍/huo4 哉/zai1 ！我/wo3 滅亡/mie4wang2 了/le5 ！」
+= Pasteur Wang : Quelle fut la réaction d'Ésaïe ? Il n'a pas ri, il n'a pas chanté ; il a dit : « Malheur à moi ! Je suis perdu ! »
+路加/lu4jia1 小聲/xiao3sheng1 對/dui4 小恩/xiao3en1 說/shuo1 ：他/ta1 為什麼/wei4shen2me5 這麼/zhe4me5 害怕/hai4pa4 ？
+= Luc murmure à Xiao En : Pourquoi a-t-il tellement peur ?
+小恩/xiao3en1 ：因為/yin1wei4 他/ta1 看到/kan4dao4 神/shen2 是/shi4 多麼/duo1me5 聖潔/sheng4jie2 ，才/cai2 發現/fa1xian4 自己/zi4ji3 是/shi4 多麼/duo1me5 渺小/miao3xiao3 、多麼/duo1me5 不/bu4 乾淨/gan1jing4 。
+= Xiao En : Parce qu'en voyant combien Dieu est saint, il a découvert combien lui-même était petit et impur.
+王牧師/wang2mu4shi1 ：可是/ke3shi4 神/shen2 沒有/mei2you3 丟下/diu1xia4 他/ta1 ，祂/ta1 派/pai4 天使/tian1shi3 ，用/yong4 炭火/tan4huo3 沾/zhan1 他/ta1 的/de5 嘴/zui3 ：「你/ni3 的/de5 罪孽/zui4nie4 都/dou1 除掉/chu2diao4 了/le5 。」
+= Pasteur Wang : Mais Dieu ne l'a pas abandonné : Il a envoyé un ange qui a touché sa bouche avec un charbon ardent : « Ta faute est ôtée. »
+王牧師/wang2mu4shi1 ：聖潔/sheng4jie2 的/de5 神/shen2 ，不是/bu4shi4 要/yao4 把/ba3 我們/wo3men5 嚇跑/xia4pao3 ，而是/er2shi4 要/yao4 先/xian1 潔淨/jie2jing4 我們/wo3men5 ，再/zai4 差遣/chai1qian3 我們/wo3men5 。
+= Pasteur Wang : Le Dieu saint ne veut pas nous faire fuir ; Il veut d'abord nous purifier, puis nous envoyer.
+路加/lu4jia1 看/kan4 著/zhe5 霧/wu4 裡/li3 慢慢/man4man4 亮/liang4 起來/qi3lai2 的/de5 山/shan1 ，輕輕/qing1qing1 地/de5 說/shuo1 ：我/wo3 好/hao3 小/xiao3 ，可是/ke3shi4 我/wo3 沒有/mei2you3 想/xiang3 逃/tao2 。
+= Luc regarde la montagne qui s'éclaircit peu à peu dans la brume et dit doucement : Je me sens tout petit, mais je n'ai pas envie de fuir.
+小恩/xiao3en1 ：那/na4 就/jiu4 是/shi4 悔改/hui3gai3 的/de5 開始/kai1shi3 ，也/ye3 是/shi4 被/bei4 愛/ai4 的/de5 開始/kai1shi3 。
+= Xiao En : C'est le début de la repentance, et le début d'être aimé.
+大家/da4jia1 開始/kai1shi3 唱/chang4 《祢/ni3 是/shi4 聖潔/sheng4jie2 》，歌聲/ge1sheng1 在/zai4 霧/wu4 裡/li3 慢慢/man4man4 飄/piao1 遠/yuan3 了/le5 。
+= Tous se mettent à chanter « Tu es saint », et les voix s'éloignent lentement dans la brume.
+
+=== 145
+series: 141
+title_zh: 營火晚會
+title_fr: La veillée autour du feu
+tagline: Une nuit sans nuages — des flammes qui crépitent, des histoires qu'on n'avait jamais osé raconter et une étoile filante pour conclure.
+song: 聖靈的火
+vocab: 營火=feu de camp | 圓圈=cercle | 流星=étoile filante | 故事=histoire | 木頭=bois
+---
+第三天/di4san1tian1 晚上/wan3shang4 ，大家/da4jia1 圍/wei2 著/zhe5 營火/ying2huo3 坐/zuo4 成/cheng2 一/yi1 個/ge4 大/da4 圓圈/yuan2quan1 ，阿傑/a1jie2 輕輕/qing1qing1 地/de5 彈/tan2 著/zhe5 吉他/ji2ta1 。
+= Le troisième soir, tous forment un grand cercle autour du feu de camp pendant qu'A-Jie gratte doucement sa guitare.
+一個/yi1ge4 戴/dai4 眼鏡/yan3jing4 的/de5 高中生/gao1zhong1sheng1 ，叫/jiao4 阿豪/a1hao2 ，第一個/di4yi1ge4 站/zhan4 起來/qi3lai2 ：我/wo3 從/cong2 小/xiao3 就/jiu4 覺得/jue2de5 ，爸媽/ba4ma1 只/zhi3 愛/ai4 成績/cheng2ji4 好/hao3 的/de5 孩子/hai2zi5 。
+= Un lycéen à lunettes nommé A-Hao se lève le premier : Depuis tout petit, j'ai l'impression que mes parents n'aiment que les enfants qui ont de bonnes notes.
+大家/da4jia1 都/dou1 沒有/mei2you3 說/shuo1 話/hua4 ，只有/zhi3you3 木頭/mu4tou5 在/zai4 火/huo3 裡/li3 輕輕/qing1qing1 地/de5 響/xiang3 。
+= Personne ne dit mot, il n'y a que le bois qui crépite doucement dans le feu.
+阿豪/a1hao2 ：可是/ke3shi4 這/zhe4 幾天/ji3tian1 ，我/wo3 聽到/ting1dao4 大家/da4jia1 說/shuo1 ，神/shen2 愛/ai4 我們/wo3men5 ，不是/bu4shi4 因為/yin1wei4 我們/wo3men5 很/hen3 棒/bang4 。我/wo3 …… 想/xiang3 相信/xiang1xin4 。
+= A-Hao : Mais ces jours-ci, j'ai entendu dire que Dieu nous aime, non parce que nous sommes formidables. Je… veux le croire.
+路加/lu4jia1 心/xin1 裡/li3 一/yi1 震/zhen4 ，因為/yin1wei4 這/zhe4 就/jiu4 是/shi4 他/ta1 自己/zi4ji3 的/de5 故事/gu4shi5 。
+= Le cœur de Luc tressaille, car c'est justement sa propre histoire.
+輪到/lun2dao4 路加/lu4jia1 的/de5 時候/shi2hou5 ，他/ta1 說/shuo1 ：阿豪/a1hao2 ，我/wo3 跟/gen1 你/ni3 一樣/yi1yang4 。我/wo3 以前/yi3qian2 也/ye3 覺得/jue2de5 ，要/yao4 考/kao3 一百分/yi1bai3fen1 ，才/cai2 有/you3 人/ren2 愛/ai4 我/wo3 。
+= Quand vient son tour, Luc dit : A-Hao, j'étais comme toi. Avant, je pensais qu'il fallait avoir cent sur cent pour que quelqu'un m'aime.
+路加/lu4jia1 ：可是/ke3shi4 我/wo3 發現/fa1xian4 ，神/shen2 愛/ai4 我/wo3 ，不是/bu4shi4 因為/yin1wei4 我/wo3 考/kao3 得/de5 好/hao3 ，而是/er2shi4 祂/ta1 本來/ben3lai2 就/jiu4 愛/ai4 我/wo3 。
+= Luc : Mais j'ai découvert que Dieu m'aime non parce que je réussis mes examens, mais parce qu'Il m'aimait déjà.
+阿豪/a1hao2 的/de5 眼睛/yan3jing1 紅/hong2 了/le5 ，他/ta1 對/dui4 路加/lu4jia1 點/dian3 了/le5 點頭/dian3tou2 。
+= Les yeux d'A-Hao deviennent rouges ; il fait un signe de tête à Luc.
+大家/da4jia1 一起/yi1qi3 唱/chang4 起/qi3 《聖靈/sheng4ling2 的/de5 火/huo3 》，火光/huo3guang1 照/zhao4 在/zai4 每/mei3 個/ge4 人/ren2 的/de5 臉/lian3 上/shang4 。
+= Tous entonnent ensemble « Le feu de l'Esprit », et la lueur des flammes éclaire le visage de chacun.
+唱/chang4 到/dao4 一半/yi1ban4 ，天上/tian1shang4 忽然/hu1ran2 劃/hua2 過/guo4 一/yi1 顆/ke1 流星/liu2xing1 ，小恩/xiao3en1 小聲/xiao3sheng1 說/shuo1 ：不/bu4 要/yao4 許願/xu3yuan4 ，我們/wo3men5 禱告/dao3gao4 吧/ba5 。
+= En plein chant, une étoile filante traverse soudain le ciel ; Xiao En murmure : Ne fais pas de vœu, prions plutôt.
+
+=== 146
+series: 141
+title_zh: 把手機放一邊
+title_fr: Poser son téléphone
+tagline: Vingt-quatre heures sans écran — une boîte en carton, des mains qui tremblent un peu et un bruit de ruisseau qu'on n'avait jamais entendu.
+song: 想要安靜
+vocab: 手機=téléphone portable | 收=ranger, collecter | 戒掉=se défaire de (une habitude) | 溪水=eau du ruisseau | 聽見=entendre
+---
+第四天/di4si4tian1 早上/zao3shang4 ，美玲/mei3ling2 拿/na2 出/chu1 一/yi1 個/ge4 紙箱/zhi3xiang1 ：今天/jin1tian1 開始/kai1shi3 ，二十四/er4shi2si4 小時/xiao3shi2 ，所有/suo3you3 的/de5 手機/shou3ji1 都/dou1 要/yao4 收/shou1 起來/qi3lai2 。
+= Le quatrième matin, Meiling sort une boîte en carton : à partir d'aujourd'hui, pendant vingt-quatre heures, tous les téléphones seront rangés.
+路加/lu4jia1 的/de5 手/shou3 在/zai4 口袋/kou3dai4 裡/li3 停/ting2 了/le5 很/hen3 久/jiu3 ，才/cai2 慢慢/man4man4 把/ba3 手機/shou3ji1 放/fang4 進去/jin4qu4 。
+= La main de Luc reste longtemps dans sa poche avant de poser doucement son téléphone dans la boîte.
+阿傑/a1jie2 ：我/wo3 的/de5 手/shou3 好像/hao3xiang4 在/zai4 發抖/fa1dou3 ，我/wo3 是/shi4 不/bu4 是/shi4 生病/sheng1bing4 了/le5 ？
+= A-Jie : Mes mains tremblent, je suis peut-être malade ?
+小恩/xiao3en1 ：你/ni3 只是/zhi3shi4 太/tai4 久/jiu3 沒有/mei2you3 離開/li2kai1 手機/shou3ji1 了/le5 。
+= Xiao En : Tu as simplement passé trop longtemps sans lâcher ton téléphone.
+上午/shang4wu3 ，大家/da4jia1 一/yi1 個/ge4 人/ren2 找/zhao3 一/yi1 個/ge4 地方/di4fang1 靜/jing4 靜/jing4 坐/zuo4 著/zhe5 ，不/bu4 可以/ke3yi3 說/shuo1 話/hua4 。
+= Dans la matinée, chacun cherche un coin pour rester assis en silence, sans parler.
+路加/lu4jia1 坐/zuo4 在/zai4 一/yi1 塊/kuai4 大/da4 石頭/shi2tou5 上/shang4 ，一開始/yi1kai1shi3 腦子/nao3zi5 裡/li3 吵/chao3 得/de5 要命/yao4ming4 ，什麼/shen2me5 事/shi4 都/dou1 在/zai4 想/xiang3 。
+= Luc s'assoit sur un gros rocher ; au début, sa tête est affreusement bruyante, il pense à tout.
+半/ban4 個/ge4 小時/xiao3shi2 以後/yi3hou4 ，他/ta1 忽然/hu1ran2 聽見/ting1jian4 了/le5 溪水/xi1shui3 的/de5 聲音/sheng1yin1 ，也/ye3 聽見/ting1jian4 了/le5 自己/zi4ji3 的/de5 呼吸/hu1xi1 。
+= Une demi-heure plus tard, il entend soudain le bruit du ruisseau, et aussi sa propre respiration.
+他/ta1 想起/xiang3qi3 約翰福音/yue1han4fu2yin1 裡/li3 的/de5 那/na4 句/ju4 話/hua4 ：我/wo3 的/de5 羊/yang2 聽/ting1 我/wo3 的/de5 聲音/sheng1yin1 。
+= Il repense à la phrase de l'évangile de Jean : Mes brebis entendent ma voix.
+他/ta1 閉上/bi4shang4 眼睛/yan3jing1 ，輕輕/qing1qing1 地/de5 禱告/dao3gao4 ：主/zhu3 啊/a5 ，平常/ping2chang2 我/wo3 太/tai4 吵/chao3 了/le5 ，現在/xian4zai4 ，請/qing3 祢/ni3 說/shuo1 話/hua4 。
+= Il ferme les yeux et prie doucement : Seigneur, d'habitude je fais trop de bruit ; maintenant, parle, je t'en prie.
+中午/zhong1wu3 ，大家/da4jia1 在/zai4 餐桌/can1zhuo1 上/shang4 重新/chong2xin1 說/shuo1 話/hua4 ，每/mei3 個/ge4 人/ren2 的/de5 眼睛/yan3jing1 好像/hao3xiang4 都/dou1 比/bi3 前/qian2 一/yi1 天/tian1 更/geng4 亮/liang4 。
+= À midi, tous reprennent la parole à table, et les yeux de chacun semblent plus brillants que la veille.
+阿傑/a1jie2 小聲/xiao3sheng1 說/shuo1 ：我/wo3 要/yao4 偷偷/tou1tou1 告訴/gao4su4 你們/ni3men5 ，我/wo3 …… 其實/qi2shi2 有/you3 一點/yi1dian3 想/xiang3 把/ba3 手機/shou3ji1 戒掉/jie4diao4 。
+= A-Jie dit tout bas : Je vais vous confier un secret : en fait, j'ai un peu envie de me défaire du téléphone.
+
+=== 147
+series: 141
+title_zh: 背起我的十字架
+title_fr: Porter sa croix
+tagline: Une montée sous le soleil — un sac à dos qui pèse le double, une phrase de Jésus et un prix que personne ne cache.
+song: 主啊我要跟隨祢
+vocab: 背=porter sur le dos | 十字架=croix | 代價=prix, coût | 重=lourd | 山頂=sommet
+---
+第五天/di4wu3tian1 ，營隊/ying2dui4 要/yao4 爬/pa2 到/dao4 山頂/shan1ding3 ，每/mei3 個/ge4 人/ren2 都/dou1 要/yao4 背/bei1 一/yi1 個/ge4 裝滿/zhuang1man3 水/shui3 的/de5 背包/bei1bao1 。
+= Le cinquième jour, le camp doit gravir jusqu'au sommet, et chacun porte un sac à dos plein d'eau.
+走/zou3 了/le5 一/yi1 個/ge4 小時/xiao3shi2 ，太陽/tai4yang2 越來越/yue4lai2yue4 大/da4 ，路加/lu4jia1 的/de5 背包/bei1bao1 好像/hao3xiang4 越來越/yue4lai2yue4 重/zhong4 。
+= Après une heure de marche, le soleil devient de plus en plus fort, et le sac de Luc semble de plus en plus lourd.
+阿豪/a1hao2 在/zai4 他/ta1 後面/hou4mian4 喘/chuan3 著/zhe5 氣/qi4 說/shuo1 ：路加/lu4jia1 哥/ge1 ，我/wo3 好/hao3 想/xiang3 把/ba3 這/zhe4 個/ge4 包/bao1 丟/diu1 掉/diao4 。
+= A-Hao, essoufflé derrière lui, dit : Grand frère Luc, j'ai tellement envie de jeter ce sac.
+美玲/mei3ling2 回頭/hui2tou2 ，笑/xiao4 著/zhe5 說/shuo1 ：今天/jin1tian1 的/de5 經文/jing1wen2 ，就是/jiu4shi4 你們/ni3men5 現在/xian4zai4 的/de5 感覺/gan3jue2 。
+= Meiling se retourne en souriant : Le verset du jour décrit exactement ce que vous ressentez en ce moment.
+她/ta1 站/zhan4 在/zai4 一/yi1 塊/kuai4 石頭/shi2tou5 上/shang4 ：耶穌/ye1su1 說/shuo1 ：「若/ruo4 有/you3 人/ren2 要/yao4 跟/gen1 從/cong2 我/wo3 ，就/jiu4 當/dang1 捨/she3 己/ji3 ，背/bei1 起/qi3 他/ta1 的/de5 十字架/shi2zi4jia4 來/lai2 跟/gen1 從/cong2 我/wo3 。」（馬太福音/ma3tai4fu2yin1 16:24）
+= Elle se tient debout sur un rocher : Jésus dit : « Si quelqu'un veut venir après moi, qu'il renonce à lui-même, qu'il se charge de sa croix, et qu'il me suive. » (Matthieu 16:24)
+阿傑/a1jie2 ：所以/suo3yi3 跟從/gen1cong2 耶穌/ye1su1 ，不是/bu4shi4 輕輕鬆鬆/qing1qing1song1song1 的/de5 事/shi4 ？
+= A-Jie : Donc suivre Jésus, ce n'est pas une chose facile ?
+美玲/mei3ling2 ：對/dui4 。耶穌/ye1su1 從來/cong2lai2 沒有/mei2you3 騙/pian4 過/guo4 任何/ren4he2 人/ren2 ，祂/ta1 一/yi1 開始/kai1shi3 就/jiu4 說/shuo1 ，要/yao4 付/fu4 代價/dai4jia4 。
+= Meiling : Non. Jésus n'a jamais trompé personne ; dès le début, Il a dit qu'il faudrait en payer le prix.
+路加/lu4jia1 喘/chuan3 著/zhe5 氣/qi4 ：可是/ke3shi4 祂/ta1 自己/zi4ji3 先/xian1 背/bei1 了/le5 最/zui4 重/zhong4 的/de5 那/na4 一/yi1 個/ge4 。
+= Luc, tout essoufflé : Mais Lui-même a d'abord porté la plus lourde.
+美玲/mei3ling2 看/kan4 了/le5 他/ta1 一/yi1 眼/yan3 ：沒/mei2 錯/cuo4 ，所以/suo3yi3 我們/wo3men5 不是/bu4shi4 一個人/yi1ge4ren2 背/bei1 。
+= Meiling le regarde : Exact, c'est pourquoi nous ne portons pas seuls.
+快/kuai4 到/dao4 山頂/shan1ding3 的/de5 時候/shi2hou5 ，路加/lu4jia1 伸/shen1 手/shou3 ，幫/bang1 阿豪/a1hao2 提/ti2 了/le5 一/yi1 半/ban4 的/de5 水/shui3 。
+= Peu avant le sommet, Luc tend la main et porte la moitié de l'eau d'A-Hao.
+
+=== 148
+series: 141
+title_zh: 漏水的帳篷
+title_fr: La tente qui fuit
+tagline: Une nuit d'orage — une toile qui goutte, une couverture partagée et un petit frère qui ne veut pas être un fardeau.
+song: 雨過會天晴
+vocab: 帳篷=tente | 漏水=fuir (liquide) | 毛毯=couverture | 暴雨=averse violente | 互相=mutuellement
+---
+第五天/di4wu3tian1 半夜/ban4ye4 ，山上/shan1shang4 突然/tu2ran2 下起/xia4qi3 暴雨/bao4yu3 ，雷聲/lei2sheng1 一/yi1 聲/sheng1 比/bi3 一/yi1 聲/sheng1 大/da4 。
+= Au cœur de la cinquième nuit, un orage violent éclate soudain en montagne, chaque coup de tonnerre plus fort que le précédent.
+路加/lu4jia1 的/de5 帳篷/zhang4peng2 漏水/lou4shui3 了/le5 ，水/shui3 滴/di1 在/zai4 他/ta1 的/de5 睡袋/shui4dai4 上/shang4 ，他/ta1 只好/zhi3hao3 抱/bao4 著/zhe5 毛毯/mao2tan3 跑/pao3 出去/chu1qu4 。
+= La tente de Luc fuit ; l'eau goutte sur son sac de couchage, et il n'a pas d'autre choix que de courir dehors avec sa couverture.
+他/ta1 看到/kan4dao4 阿豪/a1hao2 的/de5 帳篷/zhang4peng2 還/hai2 亮/liang4 著/zhe5 燈/deng1 ，就/jiu4 敲/qiao1 了/le5 敲/qiao1 。
+= Il voit que la tente d'A-Hao est encore éclairée et frappe à la toile.
+阿豪/a1hao2 拉/la1 開/kai1 拉鍊/la1lian4 ：路加/lu4jia1 哥/ge1 ！你/ni3 怎麼/zen3me5 全身/quan2shen1 都/dou1 濕/shi1 了/le5 ？
+= A-Hao ouvre la fermeture éclair : Grand frère Luc ! Pourquoi es-tu trempé de la tête aux pieds ?
+路加/lu4jia1 ：我/wo3 的/de5 帳篷/zhang4peng2 漏水/lou4shui3 了/le5 ，可以/ke3yi3 讓/rang4 我/wo3 進去/jin4qu4 嗎/ma5 ？
+= Luc : Ma tente fuit, je peux entrer ?
+阿豪/a1hao2 馬上/ma3shang4 讓/rang4 出/chu1 一半/yi1ban4 的/de5 位子/wei4zi5 ，可是/ke3shi4 小聲/xiao3sheng1 說/shuo1 ：對不起/dui4bu4qi3 ，我/wo3 的/de5 帳篷/zhang4peng2 很/hen3 小/xiao3 ，我/wo3 是/shi4 不/bu4 是/shi4 很/hen3 麻煩/ma2fan5 ？
+= A-Hao fait aussitôt de la place, mais murmure : Désolé, ma tente est toute petite, est-ce que je suis très encombrant ?
+路加/lu4jia1 愣/leng4 了/le5 一下/yi1xia4 ，因為/yin1wei4 這/zhe4 句/ju4 話/hua4 ，他/ta1 以前/yi3qian2 也/ye3 常常/chang2chang2 對/dui4 自己/zi4ji3 說/shuo1 。
+= Luc reste un instant interdit, car cette phrase, il se l'était souvent dite à lui-même.
+路加/lu4jia1 ：阿豪/a1hao2 ，你/ni3 不/bu4 麻煩/ma2fan5 。耶穌/ye1su1 說/shuo1 ，我們/wo3men5 要/yao4 互相/hu4xiang1 背/bei1 重擔/zhong4dan4 ，我/wo3 現在/xian4zai4 就是/jiu4shi4 要/yao4 你/ni3 背/bei1 我/wo3 一下/yi1xia4 。
+= Luc : A-Hao, tu n'es pas encombrant. Jésus a dit que nous devons porter les fardeaux les uns des autres, et là, c'est justement toi qui dois me porter un instant.
+阿豪/a1hao2 笑/xiao4 出來/chu1lai2 ：我/wo3 的/de5 毛毯/mao2tan3 比/bi3 你/ni3 的/de5 乾/gan1 。
+= A-Hao éclate de rire : Ma couverture est plus sèche que la tienne.
+兩個/liang3ge4 人/ren2 擠/ji3 在/zai4 一/yi1 條/tiao2 毛毯/mao2tan3 下面/xia4mian4 ，聽/ting1 著/zhe5 外面/wai4mian4 的/de5 雨聲/yu3sheng1 ，不知不覺/bu4zhi1bu4jue2 就/jiu4 睡/shui4 著/zhao2 了/le5 。
+= Serrés sous une seule couverture, les deux garçons écoutent la pluie dehors et s'endorment sans s'en rendre compte.
+天亮/tian1liang4 的/de5 時候/shi2hou5 ，雨/yu3 停/ting2 了/le5 ，一/yi1 道/dao4 彩虹/cai3hong2 掛/gua4 在/zai4 山/shan1 的/de5 另一邊/ling4yi1bian1 。
+= Au lever du jour, la pluie s'est arrêtée, et un arc-en-ciel est suspendu de l'autre côté de la montagne.
+
+=== 149
+series: 141
+title_zh: 山頂和山谷
+title_fr: Le sommet et la vallée
+tagline: Le dernier matin — un sac déjà bouclé, un sentiment de nostalgie et un avertissement que Meiling donne avec le sourire.
+song: 恩典之路
+vocab: 山頂=sommet | 山谷=vallée | 日常=quotidien | 持續=continuer, persévérer | 回到=retourner à
+---
+營會/ying2hui4 的/de5 最後/zui4hou4 一/yi1 個/ge4 早上/zao3shang4 ，大家/da4jia1 坐/zuo4 在/zai4 草地/cao3di4 上/shang4 ，每/mei3 個/ge4 人/ren2 都/dou1 有/you3 一點/yi1dian3 捨不得/she3bu5de5 。
+= Le dernier matin du camp, tous sont assis sur l'herbe, et chacun a un peu de mal à partir.
+美玲/mei3ling2 ：我/wo3 要/yao4 先/xian1 提醒/ti2xing3 你們/ni3men5 一/yi1 件/jian4 事/shi4 。山上/shan1shang4 的/de5 感動/gan3dong4 ，不/bu4 一定/yi1ding4 會/hui4 一直/yi1zhi2 在/zai4 。
+= Meiling : Je dois d'abord vous avertir d'une chose. L'émotion ressentie en montagne ne va pas forcément durer.
+阿豪/a1hao2 舉手/ju3shou3 ：為什麼/wei4shen2me5 ？我/wo3 現在/xian4zai4 覺得/jue2de5 好/hao3 像/xiang4 什麼/shen2me5 都/dou1 變/bian4 好/hao3 了/le5 。
+= A-Hao lève la main : Pourquoi ? J'ai maintenant l'impression que tout va mieux.
+美玲/mei3ling2 ：因為/yin1wei4 我們/wo3men5 一/yi1 下山/xia4shan1 ，就/jiu4 會/hui4 回到/hui2dao4 功課/gong1ke4 、考試/kao3shi4 、爸媽/ba4ma1 的/de5 嘮叨/lao2dao5 ，還有/hai2you3 手機/shou3ji1 。
+= Meiling : Parce que dès que nous serons redescendus, nous retrouverons les devoirs, les examens, les sermons des parents, et aussi le téléphone.
+王牧師/wang2mu4shi1 笑/xiao4 了/le5 ：耶穌/ye1su1 也/ye3 是/shi4 這樣/zhe4yang4 。祂/ta1 在/zai4 山上/shan1shang4 變/bian4 了/le5 形像/xing2xiang4 ，可是/ke3shi4 馬上/ma3shang4 就/jiu4 帶/dai4 著/zhe5 門徒/men2tu2 下山/xia4shan1 ，去/qu4 醫治/yi1zhi4 山下/shan1xia4 的/de5 病人/bing4ren2 。
+= Le pasteur Wang sourit : C'était pareil pour Jésus. Il a été transfiguré sur la montagne, mais Il est aussitôt redescendu avec ses disciples pour guérir les malades en bas.
+路加/lu4jia1 ：所以/suo3yi3 山頂/shan1ding3 不是/bu4shi4 終點/zhong1dian3 ，山谷/shan1gu3 才/cai2 是/shi4 我們/wo3men5 真正/zhen1zheng4 生活/sheng1huo2 的/de5 地方/di4fang1 ？
+= Luc : Donc le sommet n'est pas le but, c'est la vallée qui est le vrai lieu de notre vie ?
+美玲/mei3ling2 ：對/dui4 。只要/zhi3yao4 我們/wo3men5 每天/mei3tian1 一點點/yi1dian3dian3 持續/chi2xu4 地/de5 讀/du2 經/jing1 、禱告/dao3gao4 ，山上/shan1shang4 的/de5 光/guang1 ，就/jiu4 會/hui4 慢慢/man4man4 走/zou3 進/jin4 山谷/shan1gu3 。
+= Meiling : Oui. Pourvu que chaque jour nous lisions et priions un tout petit peu, avec persévérance, la lumière de la montagne descendra peu à peu dans la vallée.
+大家/da4jia1 一起/yi1qi3 閉上/bi4shang4 眼睛/yan3jing1 ，為/wei4 下山/xia4shan1 以後/yi3hou4 的/de5 日常/ri4chang2 禱告/dao3gao4 。
+= Tous ferment les yeux ensemble pour prier pour le quotidien qui les attend en bas.
+上車/shang4che1 以前/yi3qian2 ，阿豪/a1hao2 把/ba3 自己/zi4ji3 的/de5 手機/shou3ji1 號碼/hao4ma3 寫/xie3 在/zai4 路加/lu4jia1 的/de5 手/shou3 上/shang4 ：路加/lu4jia1 哥/ge1 ，我/wo3 回家/hui2jia1 以後/yi3hou4 ，可以/ke3yi3 打/da3 給/gei3 你/ni3 嗎/ma5 ？
+= Avant de monter dans le car, A-Hao écrit son numéro de téléphone sur la main de Luc : Grand frère Luc, quand je serai rentré, est-ce que je pourrai t'appeler ?
+路加/lu4jia1 ：當然/dang1ran2 可以/ke3yi3 ，我/wo3 的/de5 手機/shou3ji1 ，以後/yi3hou4 要/yao4 有/you3 時間/shi2jian1 為/wei4 你/ni3 開/kai1 著/zhe5 。
+= Luc : Bien sûr, désormais mon téléphone sera ouvert pour toi.
+
+=== 150
+series: 141
+title_zh: 營會以後的第一個早晨
+title_fr: Le premier matin après le camp
+tagline: Un café sur le campus — un philosophe curieux, un carnet de notes à moitié rempli et un message qui change l'après-midi.
+song: 每一天我需要祢
+vocab: 營會=camp, retraite | 筆記本=carnet | 習慣=habitude | 計畫=plan, projet | 神蹟=miracle
+---
+營會/ying2hui4 結束/jie2shu4 的/de5 第二天/di4er4tian1 ，路加/lu4jia1 和/he2 大衛/da4wei4 約/yue1 在/zai4 學校/xue2xiao4 旁邊/pang2bian1 的/de5 咖啡館/ka1fei1guan3 見面/jian4mian4 。
+= Le lendemain de la fin du camp, Luc et David se retrouvent dans un café près de l'université.
+大衛/da4wei4 ：你/ni3 的/de5 臉/lian3 都/dou1 曬/shai4 黑/hei1 了/le5 ，營會/ying2hui4 怎麼樣/zen3me5yang4 ？有/you3 沒有/mei2you3 看到/kan4dao4 什麼/shen2me5 神蹟/shen2ji1 ？
+= David : Ton visage est tout bronzé ; alors, ce camp ? As-tu vu des miracles ?
+路加/lu4jia1 想/xiang3 了/le5 想/xiang3 ：沒有/mei2you3 打雷/da3lei2 ，也/ye3 沒有/mei2you3 看到/kan4dao4 天使/tian1shi3 。可是/ke3shi4 有/you3 一/yi1 個/ge4 很/hen3 小/xiao3 的/de5 孩子/hai2zi5 ，終於/zhong1yu2 敢/gan3 說/shuo1 出/chu1 他/ta1 的/de5 心裡話/xin1li3hua4 。
+= Luc réfléchit : Pas de coup de tonnerre, ni d'ange. Mais un tout jeune garçon a enfin osé dire ce qu'il avait sur le cœur.
+大衛/da4wei4 ：這/zhe4 就是/jiu4shi4 神蹟/shen2ji1 嗎/ma5 ？
+= David : C'est ça, le miracle ?
+路加/lu4jia1 ：我/wo3 覺得/jue2de5 是/shi4 。而且/er2qie3 我/wo3 自己/zi4ji3 也/ye3 學/xue2 到/dao4 一/yi1 件/jian4 事/shi4 ：跟從/gen1cong2 耶穌/ye1su1 ，不是/bu4shi4 一/yi1 次/ci4 的/de5 感動/gan3dong4 ，而是/er2shi4 每天/mei3tian1 的/de5 習慣/xi2guan4 。
+= Luc : Moi, je crois que oui. Et j'ai aussi appris une chose : suivre Jésus, ce n'est pas une émotion d'un jour, mais une habitude de chaque jour.
+大衛/da4wei4 笑/xiao4 了/le5 一下/yi1xia4 ：這/zhe4 句/ju4 話/hua4 ，聽起來/ting1qi3lai2 不/bu4 像/xiang4 一/yi1 個/ge4 新/xin1 信徒/xin4tu2 ，倒/dao4 像/xiang4 一/yi1 個/ge4 哲學家/zhe2xue2jia1 。
+= David sourit : Cette phrase ne ressemble pas à celle d'un nouveau croyant, plutôt à celle d'un philosophe.
+路加/lu4jia1 翻/fan1 開/kai1 他/ta1 的/de5 筆記本/bi3ji4ben3 ，上面/shang4mian4 寫/xie3 著/zhe5 ：每天/mei3tian1 讀/du2 一/yi1 段/duan4 、禱告/dao3gao4 五/wu3 分鐘/fen1zhong1 、找/zhao3 一/yi1 個/ge4 人/ren2 說/shuo1 話/hua4 。
+= Luc ouvre son carnet, où est écrit : lire un passage par jour, prier cinq minutes, aller parler à quelqu'un.
+大衛/da4wei4 ：這/zhe4 樣/yang4 的/de5 計畫/ji4hua4 ，我/wo3 自己/zi4ji3 也/ye3 做/zuo4 得/de5 到/dao4 ，不過/bu4guo4 …… 我/wo3 不/bu4 知道/zhi1dao4 要/yao4 對/dui4 誰/shei2 禱告/dao3gao4 。
+= David : Un plan comme ça, je pourrais le suivre moi-même, mais… je ne sais pas à qui je prierais.
+路加/lu4jia1 笑/xiao4 了/le5 ：那/na4 就/jiu4 先/xian1 從/cong2 找/zhao3 一/yi1 個/ge4 人/ren2 說/shuo1 話/hua4 開始/kai1shi3 吧/ba5 。
+= Luc sourit : Alors commence par aller parler à quelqu'un.
+這時候/zhe4shi2hou5 ，路加/lu4jia1 的/de5 手機/shou3ji1 亮/liang4 了/le5 ：是/shi4 美玲/mei3ling2 傳/chuan2 來/lai2 的/de5 ，上面/shang4mian4 寫/xie3 著/zhe5 ：這/zhe4 個/ge4 星期天/xing1qi2tian1 有/you3 空/kong4 嗎/ma5 ？我/wo3 有/you3 一/yi1 件/jian4 事/shi4 想/xiang3 請/qing3 你/ni3 幫忙/bang1mang2 。
+= À ce moment-là, le téléphone de Luc s'allume : c'est un message de Meiling : Es-tu libre dimanche ? J'ai quelque chose à te demander.

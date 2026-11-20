@@ -1,7 +1,7 @@
 你好	nǐ hǎo	ㄋㄧˇ ㄏㄠˇ	bonjour	路加：你好！我是路加。	Luc : Bonjour ! Je suis Luc.	n° 001
 學生	xué shēng	ㄒㄩㄝˊ ㄕㄥ	étudiant	小恩：你是學生嗎？	Xiao En : Tu es étudiant ?	n° 001
-朋友	péng yǒu	ㄆㄥˊ ㄧㄡˇ	ami(e)	路加：好！我們做朋友吧！	Luc : Très bien ! Soyons amis !	n° 001
-喜歡	xǐ huān	ㄒㄧˇ ㄏㄨㄢ	aimer (bien)	小恩：我很喜歡這首歌。	Xiao En : J'aime beaucoup cette chanson.	n° 001
+朋友	péng you	ㄆㄥˊ ˙ㄧㄡ	ami(e)	路加：好！我們做朋友吧！	Luc : Très bien ! Soyons amis !	n° 001
+喜歡	xǐ huan	ㄒㄧˇ ˙ㄏㄨㄢ	aimer (bien)	小恩：我很喜歡這首歌。	Xiao En : J'aime beaucoup cette chanson.	n° 001
 歌	gē	ㄍㄜ	chanson	小恩在聽歌。	Xiao En écoute une chanson.	n° 001
 唱歌	chàng gē	ㄔㄤˋ ㄍㄜ	chanter	小恩：我喜歡唱歌！	Xiao En : J'aime chanter !	n° 002
 教會	jiào huì	ㄐㄧㄠˋ ㄏㄨㄟˋ	église (communauté, bâtiment)	小恩：我在教會唱歌。	Xiao En : Je chante à l'église.	n° 002
@@ -12,7 +12,7 @@
 上帝	shàng dì	ㄕㄤˋ ㄉㄧˋ	Dieu (autre nom courant)	小恩：「神」也叫「上帝」。	Xiao En : « 神 », on dit aussi « 上帝 » : c'est Dieu.	n° 003
 愛	ài	ㄞˋ	aimer ; amour	本子上有四個字：《神愛世人》。	Sur le cahier, il y a quatre caractères : « Dieu aime les hommes ».	n° 003
 世人	shì rén	ㄕˋ ㄖㄣˊ	les hommes, les gens du monde	本子上有四個字：《神愛世人》。	Sur le cahier, il y a quatre caractères : « Dieu aime les hommes ».	n° 003
-認識	rèn shi	ㄖㄣˋ ˙ㄕ	connaître (quelqu'un)	路加：愛我？神認識我嗎？	Luc : M'aimer, moi ? Dieu me connaît ?	n° 003
+認識	rèn shì	ㄖㄣˋ ㄕˋ	connaître (quelqu'un)	路加：愛我？神認識我嗎？	Luc : M'aimer, moi ? Dieu me connaît ?	n° 003
 捷運	jié yùn	ㄐㄧㄝˊ ㄩㄣˋ	métro (MRT de Taipei)	路加和小恩坐捷運。	Luc et Xiao En prennent le métro.	n° 004
 耶穌	yē sū	ㄧㄝ ㄙㄨ	Jésus	小恩：你聽，這是《耶穌愛我》。	Xiao En : Écoute, c'est « Jésus m'aime ».	n° 004
 基督徒	jī dū tú	ㄐㄧ ㄉㄨ ㄊㄨˊ	chrétien(ne)	小恩：你是基督徒嗎？	Xiao En : Tu es chrétien ?	n° 004
@@ -135,3 +135,109 @@
 羊	yáng	ㄧㄤˊ	mouton, brebis	美玲：牧人有一百隻羊，一隻迷路。	Meiling : Un berger a cent brebis ; l'une d'elles se perd.	n° 030
 迷路	mí lù	ㄇㄧˊ ㄌㄨˋ	se perdre	美玲：牧人有一百隻羊，一隻迷路。	Meiling : Un berger a cent brebis ; l'une d'elles se perd.	n° 030
 幫忙	bāng máng	ㄅㄤ ㄇㄤˊ	aider	美玲請路加去主日學幫忙。	Meiling demande à Luc de venir aider à l'école du dimanche.	n° 030
+哪裡	nǎ lǐ	ㄋㄚˇ ㄌㄧˇ	où	小光：路加，你知道天堂在哪裡嗎？	Xiao Guang : Luc, tu sais où est le paradis ?	n° 031
+抬頭	tái tóu	ㄊㄞˊ ㄊㄡˊ	lever la tête	路加抬頭看天空：在白雲上面？	Luc lève la tête vers le ciel : Au-dessus des nuages ?	n° 031
+白雲	bái yún	ㄅㄞˊ ㄩㄣˊ	nuage blanc	路加抬頭看天空：在白雲上面？	Luc lève la tête vers le ciel : Au-dessus des nuages ?	n° 031
+希望	xī wàng	ㄒㄧ ㄨㄤˋ	espérance	小光：可是主日學老師也說，有時候天堂的希望也會在我們心裡。	Xiao Guang : Mais la maîtresse du dimanche a aussi dit que parfois l'espérance du ciel est aussi dans notre cœur.	n° 031
+黑	hēi	ㄏㄟ	obscur, noir	小光：我害怕黑！	Xiao Guang : J'ai peur du noir !	n° 032
+停電	tíng diàn	ㄊㄧㄥˊ ㄉㄧㄢˋ	panne de courant	晚上下雨，美玲家突然停電了。	Le soir, il pleut, et chez Meiling il y a soudain une panne de courant.	n° 032
+害怕	hài pà	ㄏㄞˋ ㄆㄚˋ	avoir peur	小光：我害怕黑！	Xiao Guang : J'ai peur du noir !	n° 032
+抱住	bào zhù	ㄅㄠˋ ㄓㄨˋ	serrer dans ses bras	小光馬上抱住媽媽。	Xiao Guang serre aussitôt sa maman dans ses bras.	n° 032
+安心	ān xīn	ㄢ ㄒㄧㄣ	être rassuré	大家閉上眼睛，美玲禱告：耶穌，求祢叫小光安心。	Tout le monde ferme les yeux, et Meiling prie : Jésus, rassure Xiao Guang.	n° 032
+十字架	shí zì jià	ㄕˊ ㄗˋ ㄐㄧㄚˋ	croix	畫上有一個很大的十字架。	Sur le dessin, il y a une très grande croix.	n° 033
+為什麼	wèi shén me	ㄨㄟˋ ㄕㄣˊ ˙ㄇㄜ	pourquoi	小光：路加，為什麼耶穌要在十字架上流血？	Xiao Guang : Luc, pourquoi Jésus a-t-il dû verser son sang sur la croix ?	n° 033
+流血	liú xiě	ㄌㄧㄡˊ ㄒㄧㄝˇ	saigner, verser son sang	小光：路加，為什麼耶穌要在十字架上流血？	Xiao Guang : Luc, pourquoi Jésus a-t-il dû verser son sang sur la croix ?	n° 033
+安靜	ān jìng	ㄢ ㄐㄧㄥˋ	en silence	王牧師安靜了一下：很痛。	Le pasteur Wang se tait un instant : Oui, très mal.	n° 033
+吃飯	chī fàn	ㄔ ㄈㄢˋ	manger	小光：可是我想快點吃飯。	Xiao Guang : Mais moi, je veux manger vite.	n° 034
+快點	kuài diǎn	ㄎㄨㄞˋ ㄉㄧㄢˇ	vite	小光：可是我想快點吃飯。	Xiao Guang : Mais moi, je veux manger vite.	n° 034
+桌子	zhuō zi	ㄓㄨㄛ ˙ㄗ	table	晚上，王牧師家的桌子上有很多菜。	Le soir, il y a beaucoup de plats sur la table chez le pasteur Wang.	n° 034
+肚子	dù zi	ㄉㄨˋ ˙ㄗ	ventre	小光看著雞腿，肚子已經很餓了。	Xiao Guang regarde la cuisse de poulet ; il a déjà très faim.	n° 034
+生日	shēng rì	ㄕㄥ ㄖˋ	anniversaire	主日以後，大家在教會小房間裡幫小光過生日。	Après le culte, tout le monde fête l'anniversaire de Xiao Guang dans une petite salle de l'église.	n° 035
+卡片	kǎ piàn	ㄎㄚˇ ㄆㄧㄢˋ	carte	桌子上有蛋糕，旁邊還放著五顏六色的卡片和筆。	Sur la table, il y a un gâteau, et à côté des cartes colorées et des stylos.	n° 035
+蛋糕	dàn gāo	ㄉㄢˋ ㄍㄠ	gâteau	桌子上有蛋糕，旁邊還放著五顏六色的卡片和筆。	Sur la table, il y a un gâteau, et à côté des cartes colorées et des stylos.	n° 035
+蠟燭	là zhú	ㄌㄚˋ ㄓㄨˊ	bougie	美玲點上蠟燭：好了，先吹蠟燭，再吃蛋糕。	Meiling allume les bougies : Bon, on souffle d'abord les bougies, puis on mange le gâteau.	n° 035
+寫	xiě	ㄒㄧㄝˇ	écrire	小恩：路加，我們一起寫祝福給小光吧。	Xiao En : Luc, écrivons ensemble une bénédiction pour Xiao Guang.	n° 035
+講道	jiǎng dào	ㄐㄧㄤˇ ㄉㄠˋ	prêcher ; sermon	小光壓低聲音：弟兄姐妹，今天我要講道。	Xiao Guang, d'une voix grave : Frères et sœurs, aujourd'hui je vais prêcher.	n° 036
+椅子	yǐ zi	ㄧˇ ˙ㄗ	chaise	他拿起一本很大的聖經，站在椅子上。	Il prend une très grande Bible et monte sur une chaise.	n° 036
+長大	zhǎng dà	ㄓㄤˇ ㄉㄚˋ	grandir	小光：有！我長大以後要當牧師。	Xiao Guang : Oui ! Quand je serai grand, je veux devenir pasteur.	n° 036
+放假	fàng jià	ㄈㄤˋ ㄐㄧㄚˋ	être en vacances	小光：路加，天使會放假嗎？	Xiao Guang : Luc, est-ce que les anges ont des vacances ?	n° 037
+熱	rè	ㄖㄜˋ	chaud	下午很熱，教會小教室的電風扇壞了。	L'après-midi, il fait très chaud, et le ventilateur de la petite salle de l'église est en panne.	n° 037
+午覺	wǔ jiào	ㄨˇ ㄐㄧㄠˋ	sieste	教會兒童活動的中午，老師叫小朋友們躺下來睡午覺。	À midi, pendant une activité pour enfants à l'église, la maîtresse demande aux enfants de s'allonger pour la sieste.	n° 038
+躺	tǎng	ㄊㄤˇ	être allongé	教會兒童活動的中午，老師叫小朋友們躺下來睡午覺。	À midi, pendant une activité pour enfants à l'église, la maîtresse demande aux enfants de s'allonger pour la sieste.	n° 038
+雨傘	yǔ sǎn	ㄩˇ ㄙㄢˇ	parapluie	小光從書包裡拿出一把很小的雨傘。	Xiao Guang sort de son sac un tout petit parapluie.	n° 039
+下雨	xià yǔ	ㄒㄧㄚˋ ㄩˇ	pleuvoir	聚會結束的時候，外面突然下雨了。	À la fin de la réunion, il se met soudain à pleuvoir dehors.	n° 039
+淋濕	lín shī	ㄌㄧㄣˊ ㄕ	être trempé	路加看了看那把小雨傘：我們兩個人一定會淋濕。	Luc regarde le petit parapluie : à deux dessous, on va forcément être trempés.	n° 039
+回家	huí jiā	ㄏㄨㄟˊ ㄐㄧㄚ	retourner à la maison	小光閉上眼睛：耶穌，求祢幫助我和路加回家，不要淋濕太多。	Xiao Guang ferme les yeux : Jésus, aide Luc et moi à rentrer sans être trop trempés.	n° 039
+笑	xiào	ㄒㄧㄠˋ	rire, sourire	王師母：來，大家一起笑！	Mme Wang : Allez, tout le monde sourit !	n° 040
+照片	zhào piàn	ㄓㄠˋ ㄆㄧㄢˋ	photo	主日下午，大家在教會門口拍照片。	Dimanche après-midi, tout le monde prend des photos devant l'église.	n° 040
+閉上	bì shàng	ㄅㄧˋ ㄕㄤˋ	fermer	快門一按，小光就閉上了眼睛。	Au moment où l'appareil déclenche, Xiao Guang ferme les yeux.	n° 040
+一定	yī dìng	ㄧ ㄉㄧㄥˋ	sûrement	小光：那也很好啊。耶穌一定喜歡笑，也喜歡看我們開心。	Xiao Guang : Ce n'est pas grave. Jésus aime sûrement rire, et il aime sûrement nous voir heureux.	n° 040
+哲學	zhé xué	ㄓㄜˊ ㄒㄩㄝˊ	philosophie	小恩：路加，這是我的同學，大衛。他學哲學。	Xiao En : Luc, voici mon camarade David. Il étudie la philosophie.	n° 041
+同學	tóng xué	ㄊㄨㄥˊ ㄒㄩㄝˊ	camarade de classe	小恩：路加，這是我的同學，大衛。他學哲學。	Xiao En : Luc, voici mon camarade David. Il étudie la philosophie.	n° 041
+謝謝	xiè xie	ㄒㄧㄝˋ ˙ㄒㄧㄝ	merci	路加閉上眼睛，小聲說：神啊，謝謝祢。	Luc ferme les yeux et dit tout bas : Dieu, merci.	n° 042
+聽	tīng	ㄊㄧㄥ	écouter, entendre	大衛：祂會聽嗎？	David : Est-ce qu'Il écoute ?	n° 042
+答案	dá àn	ㄉㄚˊ ㄢˋ	réponse	大衛安靜了一下：好，這個答案我要想一想。	David se tait un instant : Bon, cette réponse, il faut que j'y réfléchisse.	n° 043
+張長老	zhāng zhǎng lǎo	ㄓㄤ ㄓㄤˇ ㄌㄠˇ	l'ancien Zhang (un 長老 est un ancien d'église)	小恩：路加，這是張長老。	Xiao En : Luc, voici l'ancien Zhang.	n° 044
+眼鏡	yǎn jìng	ㄧㄢˇ ㄐㄧㄥˋ	lunettes	他戴著眼鏡，手裡拿著一個小保溫瓶。	Il porte des lunettes et tient un petit thermos.	n° 044
+熱茶	rè chá	ㄖㄜˋ ㄔㄚˊ	thé chaud	張長老：你好，歡迎你。要不要喝一杯熱茶？	L'ancien Zhang : Bonjour, bienvenue. Tu veux une tasse de thé chaud ?	n° 044
+歡迎	huān yíng	ㄏㄨㄢ ㄧㄥˊ	bienvenue ; accueillir	張長老：你好，歡迎你。要不要喝一杯熱茶？	L'ancien Zhang : Bonjour, bienvenue. Tu veux une tasse de thé chaud ?	n° 044
+位子	wèi zi	ㄨㄟˋ ˙ㄗ	place assise	路加馬上站起來：奶奶，這個位子請您坐。	Luc se lève aussitôt : Madame, prenez ma place, je vous en prie.	n° 045
+老太太	lǎo tài tai	ㄌㄠˇ ㄊㄞˋ ˙ㄊㄞ	vieille dame	一位老太太提著很重的袋子，站在路加旁邊。	Une vieille dame, chargée d'un sac très lourd, se tient debout à côté de Luc.	n° 045
+保佑	bǎo yòu	ㄅㄠˇ ㄧㄡˋ	protéger, bénir	老太太笑著說：好孩子，神保佑你。	La vieille dame dit en souriant : Brave enfant, que Dieu te protège.	n° 045
+請	qǐng	ㄑㄧㄥˇ	s'il vous plaît ; inviter	路加馬上站起來：奶奶，這個位子請您坐。	Luc se lève aussitôt : Madame, prenez ma place, je vous en prie.	n° 045
+附近	fù jìn	ㄈㄨˋ ㄐㄧㄣˋ	aux alentours	可是他迷路了，附近沒有他認識的路。	Mais il se perd, et aux alentours il ne reconnaît aucune rue.	n° 046
+地圖	dì tú	ㄉㄧˋ ㄊㄨˊ	plan, carte	手機裡的地圖也打不開。	La carte de son téléphone ne s'ouvre pas non plus.	n° 046
+手機	shǒu jī	ㄕㄡˇ ㄐㄧ	téléphone portable	手機裡的地圖也打不開。	La carte de son téléphone ne s'ouvre pas non plus.	n° 046
+早餐	zǎo cān	ㄗㄠˇ ㄘㄢ	petit déjeuner	星期天早上，阿傑請路加吃早餐。	Dimanche matin, A-Jie invite Luc à prendre le petit déjeuner.	n° 047
+豆漿	dòu jiāng	ㄉㄡˋ ㄐㄧㄤ	lait de soja	路加喝了一口豆漿：哇，很燙！	Luc boit une gorgée de lait de soja : Waouh, c'est très chaud !	n° 047
+棒	bàng	ㄅㄤˋ	génial, super	阿傑：我來教你一句台灣人常常說的話：很棒！	A-Jie : Je vais t'apprendre une expression que les Taïwanais disent tout le temps : « Génial ! »	n° 047
+教	jiāo	ㄐㄧㄠ	enseigner	阿傑：我來教你一句台灣人常常說的話：很棒！	A-Jie : Je vais t'apprendre une expression que les Taïwanais disent tout le temps : « Génial ! »	n° 047
+颱風	tái fēng	ㄊㄞˊ ㄈㄥ	typhon	今天有颱風，學校放假，路加一個人在家。	Aujourd'hui, il y a un typhon ; l'école est fermée et Luc est seul chez lui.	n° 048
+窗戶	chuāng hu	ㄔㄨㄤ ˙ㄏㄨ	fenêtre	外面的風很大，窗戶一直在響。	Dehors, le vent est très fort et la fenêtre n'arrête pas de cogner.	n° 048
+傳	chuán	ㄔㄨㄢˊ	envoyer	這時候，手機亮了，小恩傳來一句話。	À ce moment-là, son téléphone s'allume : Xiao En vient d'envoyer un message.	n° 048
+夜市	yè shì	ㄧㄝˋ ㄕˋ	marché de nuit	星期六晚上，美玲帶著小光、小恩和路加去士林夜市。	Samedi soir, Meiling emmène Xiao Guang, Xiao En et Luc au marché de nuit de Shilin.	n° 049
+臭豆腐	chòu dòu fu	ㄔㄡˋ ㄉㄡˋ ˙ㄈㄨ	tofu fermenté (« tofu puant »)	小光：是臭豆腐！路加，你要不要吃？	Xiao Guang : C'est du tofu puant ! Luc, tu en veux ?	n° 049
+分	fēn	ㄈㄣ	partager	大家分著吃，路加付了錢，心裡很開心。	Ils partagent la nourriture, Luc paie, et son cœur est tout joyeux.	n° 049
+腳踏車	jiǎo tà chē	ㄐㄧㄠˇ ㄊㄚˋ ㄔㄜ	vélo	星期天下午，小恩和路加租了兩台腳踏車。	Dimanche après-midi, Xiao En et Luc louent deux vélos.	n° 050
+騎	qí	ㄑㄧˊ	rouler (à vélo), monter	他們沿著河邊騎，風很涼，樹葉慢慢掉下來。	Ils roulent le long de la rivière ; le vent est frais, et les feuilles tombent doucement.	n° 050
+河邊	hé biān	ㄏㄜˊ ㄅㄧㄢ	bord de la rivière	他們沿著河邊騎，風很涼，樹葉慢慢掉下來。	Ils roulent le long de la rivière ; le vent est frais, et les feuilles tombent doucement.	n° 050
+風景	fēng jǐng	ㄈㄥ ㄐㄧㄥˇ	paysage	小恩：這裡的風景，是神做的。	Xiao En : Ce paysage, c'est Dieu qui l'a fait.	n° 050
+累	lèi	ㄌㄟˋ	fatigué	路加：我只覺得好累。	Luc : Moi, je trouve surtout que je suis très fatigué.	n° 050
+字	zì	ㄗˋ	caractère	星期三下午，路加在陳奶奶家學寫字。	Mercredi après-midi, Luc apprend à écrire des caractères chez Mamie Chen.	n° 051
+中間	zhōng jiān	ㄓㄨㄥ ㄐㄧㄢ	milieu	陳奶奶：路加，你看，這個「愛」字，中間有一個「心」。	Mamie Chen : Luc, regarde ce caractère « 愛 » : au milieu, il y a un « 心 ».	n° 051
+筆	bǐ	ㄅㄧˇ	pinceau, stylo	路加拿起筆，慢慢寫，可是他的「愛」看起來像一隻小蟲。	Luc prend le pinceau et écrit lentement, mais son « 愛 » ressemble à un petit insecte.	n° 051
+慢慢	màn màn	ㄇㄢˋ ㄇㄢˋ	lentement	路加拿起筆，慢慢寫，可是他的「愛」看起來像一隻小蟲。	Luc prend le pinceau et écrit lentement, mais son « 愛 » ressemble à un petit insecte.	n° 051
+感冒	gǎn mào	ㄍㄢˇ ㄇㄠˋ	rhume ; attraper un rhume	路加感冒了，他一整天都躺在床上。	Luc s'est enrhumé et passe toute la journée couché dans son lit.	n° 052
+雞湯	jī tāng	ㄐㄧ ㄊㄤ	soupe de poulet	小恩：我做了雞湯，趁熱喝吧。	Xiao En : J'ai fait une soupe de poulet, bois-la pendant qu'elle est chaude.	n° 052
+藥	yào	ㄧㄠˋ	médicament	小恩：藥也要吃，明天好好休息。	Xiao En : Il faut aussi prendre ton médicament et bien te reposer demain.	n° 052
+休息	xiū xí	ㄒㄧㄡ ㄒㄧˊ	se reposer	小恩：藥也要吃，明天好好休息。	Xiao En : Il faut aussi prendre ton médicament et bien te reposer demain.	n° 052
+好	hǎo	ㄏㄠˇ	guérir ; aller bien	路加喝了一口：啊，好好喝！	Luc en boit une gorgée : Ah, c'est délicieux !	n° 052
+卷	juàn	ㄐㄩㄢˋ	livre (d'un recueil)	小恩：聖經不是一本書，是六十六卷書。	Xiao En : La Bible n'est pas un seul livre, ce sont soixante-six livres.	n° 053
+舊約	jiù yuē	ㄐㄧㄡˋ ㄩㄝ	Ancien Testament	小恩：前面是舊約，後面是新約。	Xiao En : La première partie, c'est l'Ancien Testament ; la dernière, le Nouveau Testament.	n° 053
+新約	xīn yuē	ㄒㄧㄣ ㄩㄝ	Nouveau Testament	小恩：前面是舊約，後面是新約。	Xiao En : La première partie, c'est l'Ancien Testament ; la dernière, le Nouveau Testament.	n° 053
+薄	báo	ㄅㄠˊ	mince	路加翻開一頁：哇，紙這麼薄！	Luc ouvre une page : Waouh, que le papier est fin !	n° 053
+筆記本	bǐ jì běn	ㄅㄧˇ ㄐㄧˋ ㄅㄣˇ	cahier	阿傑：她的筆記本已經很舊了。	A-Jie : Son cahier est déjà très usé.	n° 054
+草莓	cǎo méi	ㄘㄠˇ ㄇㄟˊ	fraise	阿傑：她最愛草莓蛋糕。可是要給她一個驚喜，不能讓她知道。	A-Jie : Ce qu'elle préfère, c'est le gâteau aux fraises. Mais il faut lui faire une surprise, elle ne doit pas le savoir.	n° 054
+驚喜	jīng xǐ	ㄐㄧㄥ ㄒㄧˇ	surprise	阿傑：她最愛草莓蛋糕。可是要給她一個驚喜，不能讓她知道。	A-Jie : Ce qu'elle préfère, c'est le gâteau aux fraises. Mais il faut lui faire une surprise, elle ne doit pas le savoir.	n° 054
+選	xuǎn	ㄒㄩㄢˇ	choisir	路加：不，我要選一個比較好的，還要一枝筆。	Luc : Non, je veux en choisir un meilleur, et aussi un stylo.	n° 055
+便宜	pián yi	ㄆㄧㄢˊ ˙ㄧ	bon marché	大衛笑了：你不要便宜的，你要好的，你只是朋友？	David sourit : Tu ne veux pas du bon marché, tu veux du bon… et tu n'es « que » son ami ?	n° 055
+臉	liǎn	ㄌㄧㄢˇ	visage	大衛：朋友的臉不會這麼紅。	David : Le visage d'un ami ne devient pas aussi rouge.	n° 055
+紅	hóng	ㄏㄨㄥˊ	rouge	大衛：朋友的臉不會這麼紅。	David : Le visage d'un ami ne devient pas aussi rouge.	n° 055
+秘密	mì mì	ㄇㄧˋ ㄇㄧˋ	secret	美玲小聲說：今天是秘密，小恩不可以知道。	Meiling dit à voix basse : Aujourd'hui, c'est un secret : Xiao En ne doit pas le savoir.	n° 056
+藏	cáng	ㄘㄤˊ	cacher	阿傑把蛋糕藏在鋼琴後面。	A-Jie cache le gâteau derrière le piano.	n° 056
+小聲	xiǎo shēng	ㄒㄧㄠˇ ㄕㄥ	à voix basse	美玲小聲說：今天是秘密，小恩不可以知道。	Meiling dit à voix basse : Aujourd'hui, c'est un secret : Xiao En ne doit pas le savoir.	n° 056
+生日歌	shēng rì gē	ㄕㄥ ㄖˋ ㄍㄜ	chanson d'anniversaire	大家小聲地練習生日歌，連吉他也彈得很小聲。	Tout le monde répète la chanson d'anniversaire à voix basse, et même la guitare est jouée très doucement.	n° 056
+許	xǔ	ㄒㄩˇ	faire (un vœu)	美玲點上蠟燭：小恩，許一個願望吧。	Meiling allume les bougies : Xiao En, fais un vœu.	n° 057
+眼淚	yǎn lèi	ㄧㄢˇ ㄌㄟˋ	larme	小恩嚇了一跳，然後眼淚一直流下來。	Xiao En sursaute, puis les larmes se mettent à couler sans s'arrêter.	n° 057
+願望	yuàn wàng	ㄩㄢˋ ㄨㄤˋ	vœu	美玲點上蠟燭：小恩，許一個願望吧。	Meiling allume les bougies : Xiao En, fais un vœu.	n° 057
+心願	xīn yuàn	ㄒㄧㄣ ㄩㄢˋ	souhait du cœur	小恩：我的心願是，希望每一個人都認識耶穌。	Xiao En : Mon souhait, c'est que chacun apprenne à connaître Jésus.	n° 058
+每	měi	ㄇㄟˇ	chaque	小恩：我的心願是，希望每一個人都認識耶穌。	Xiao En : Mon souhait, c'est que chacun apprenne à connaître Jésus.	n° 058
+星星	xīng xīng	ㄒㄧㄥ ㄒㄧㄥ	étoile	天上有很多星星，空氣有一點冷。	Il y a beaucoup d'étoiles dans le ciel, et l'air est un peu froid.	n° 058
+視訊	shì xùn	ㄕˋ ㄒㄩㄣˋ	appel vidéo	星期天晚上，路加和媽媽視訊。	Dimanche soir, Luc fait un appel vidéo avec sa maman.	n° 059
+擔心	dān xīn	ㄉㄢ ㄒㄧㄣ	s'inquiéter	媽媽：你一個人在台灣，我很擔心。	Maman : Tu es tout seul à Taïwan, je m'inquiète beaucoup.	n° 059
+大家庭	dà jiā tíng	ㄉㄚˋ ㄐㄧㄚ ㄊㄧㄥˊ	grande famille	路加：媽媽，我不是一個人，我在這裡有一個大家庭。	Luc : Maman, je ne suis pas seul, j'ai ici une grande famille.	n° 059
+好玩	hǎo wán	ㄏㄠˇ ㄨㄢˊ	amusant	路加：我還在學，可是很好玩。	Luc : J'apprends encore, mais c'est très chouette.	n° 059
+冷	lěng	ㄌㄥˇ	froid	十一月的最後一個星期天，天氣突然變冷了。	Le dernier dimanche de novembre, le temps devient soudain froid.	n° 060
+圍巾	wéi jīn	ㄨㄟˊ ㄐㄧㄣ	écharpe	紙袋裡是一條灰色的圍巾。	Dans le sac, il y a une écharpe grise.	n° 060
+天氣	tiān qì	ㄊㄧㄢ ㄑㄧˋ	temps (météo)	十一月的最後一個星期天，天氣突然變冷了。	Le dernier dimanche de novembre, le temps devient soudain froid.	n° 060
+織	zhī	ㄓ	tricoter	王師母笑了：不是，是我織的，有一點長。	Mme Wang sourit : Non, je l'ai tricotée moi-même ; elle est un peu longue.	n° 060

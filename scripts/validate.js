@@ -15,8 +15,14 @@ const CONTENT = path.join(ROOT, 'content');
 const t2c = OpenCC.Converter({ from: 'tw', to: 'cn' });
 const c2t = OpenCC.Converter({ from: 'cn', to: 'tw' });
 
-const ALLOW_CHARS = new Set(['台', '祢', '祂']);
+const ALLOW_CHARS = new Set(['台', '祢', '祂', '游']); // 游 : forme standard de Taïwan pour « nager » (游泳)
 const PY_OVERRIDE = { 祢: ['ni3'], 祂: ['ta1'], 們: ['men5', 'men2'], 哪: ['na3', 'nei3', 'na5'], 誰: ['shei2', 'shui2'], 這: ['zhe4', 'zhei4'], 那: ['na4', 'nei4', 'na3'], 一: ['yi1', 'yi2', 'yi4'], 不: ['bu4', 'bu2'] };
+
+// Lectures de Taïwan (norme du projet, voir docs/GUIDE_REDACTION.md §1) que le dictionnaire continental de pinyin-pro ne connaît pas.
+const TW_READINGS = { 微: ['wei2'], 期: ['qi2'], 突: ['tu2'], 識: ['shi4'], 息: ['xi2'], 蹟: ['ji1'], 髮: ['fa3'], 跌: ['die2'], 檔: ['dang3'], 質: ['zhi2'], 撒: ['sa4'], 夕: ['xi4'], 差: ['chai4'], 惜: ['xi2'], 同: ['tong1'], 熄: ['xi2'] };
+
+// Mots dont la lecture en contexte diffère du dictionnaire automatique mais est correcte (vérifiés à la main).
+const KNOWN_OK = { 流血: 'liu2xie3', 樂手: 'yue4shou3', 聖樂: 'sheng4yue4', 降服: 'xiang2fu2', 抹布: 'mo3bu4', 哽咽: 'geng3ye4', 露出: 'lou4chu1', 測度: 'ce4duo2', 角色: 'jiao3se4', 同行: 'tong2xing2' };
 
 const args = process.argv.slice(2);
 const quiet = args.includes('--quiet');
@@ -51,6 +57,7 @@ function readingsOf(ch) {
       for (const r of pinyin(c, { toneType: 'num', multiple: true, type: 'array' })) set.add(norm(r));
     }
   }
+  (TW_READINGS[ch] || []).forEach((x) => set.add(x));
   readCache.set(ch, set);
   return set;
 }
@@ -92,7 +99,7 @@ for (const file of files) {
       for (const g of sen.segs) {
         if (g.t === 'p') {
           if (P.HAN.test(g.text)) push('error', W(sen.lineNo), `Caractère(s) chinois sans pinyin : « ${g.text} » (forme attendue 漢字/pin1yin1).`);
-          if (/[A-Za-z]{2,}/.test(g.text)) push('warn', W(sen.lineNo), `Lettres latines dans la ligne chinoise : « ${g.text} ».`);
+          if (/[A-Za-z]{2,}/.test(g.text) && !/alpha|beta|gamma|omega/.test(g.text)) push('warn', W(sen.lineNo), `Lettres latines dans la ligne chinoise : « ${g.text} ».`);
           continue;
         }
         tokensInStory.add(g.zh);
@@ -124,7 +131,7 @@ for (const file of files) {
         if (chars.length > 1) {
           const ref = pinyin(t2c(g.zh), { toneType: 'num', type: 'array' }).map(norm);
           const diff = ref.some((x, i) => base(x) !== base(g.syl[i]));
-          if (diff) push('warn', W(sen.lineNo), `${g.zh}/${g.py} : à vérifier (dictionnaire : ${ref.join('')}).`);
+          if (diff && KNOWN_OK[g.zh] !== g.py.replace(/d/g, (d) => d) && !(KNOWN_OK[g.zh] && KNOWN_OK[g.zh] === g.py)) push('warn', W(sen.lineNo), `${g.zh}/${g.py} : à vérifier (dictionnaire : ${ref.join('')}).`);
         }
       }
     }

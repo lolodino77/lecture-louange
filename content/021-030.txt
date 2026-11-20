@@ -8,7 +8,7 @@ tagline: Pendant la pause — une première leçon de guitare, des doigts doulou
 song: 我有喜樂
 vocab: 吉他=guitare | 老師=professeur | 手指=doigt | 痛=avoir mal ; douleur | 喜樂=joie | 心裡=dans le cœur
 ---
-休息/xiu1xi5 的/de5 時候/shi2hou5 ，阿傑/a1jie2 叫/jiao4 路加/lu4jia1 過來/guo4lai2 。
+休息/xiu1xi2 的/de5 時候/shi2hou5 ，阿傑/a1jie2 叫/jiao4 路加/lu4jia1 過來/guo4lai2 。
 = Pendant la pause, A-Jie appelle Luc.
 阿傑/a1jie2 ：你/ni3 想/xiang3 學/xue2 吉他/ji2ta1 嗎/ma5 ？
 = A-Jie : Tu veux apprendre la guitare ?
@@ -86,15 +86,15 @@ vocab: 唱詩班=chorale | 衣服=vêtements | 爺爺=grand-père, papi | 聲部
 = Xiao En : L'équipe de louange a des guitares et une batterie.
 小恩/xiao3en1 ：唱詩班/chang4shi1ban1 有/you3 鋼琴/gang1qin2 和/he2 很/hen3 多/duo1 聲部/sheng1bu4 。
 = Xiao En : La chorale a le piano et plein de voix différentes.
-路加/lu4jia1 ：你/ni3 喜歡/xi3huan1 哪/na3 一/yi1 個/ge4 ？
+路加/lu4jia1 ：你/ni3 喜歡/xi3huan5 哪/na3 一/yi1 個/ge4 ？
 = Luc : Laquelle tu préfères ?
-小恩/xiao3en1 ：都/dou1 喜歡/xi3huan1 ！都/dou1 是/shi4 讚美/zan4mei3 神/shen2 。
+小恩/xiao3en1 ：都/dou1 喜歡/xi3huan5 ！都/dou1 是/shi4 讚美/zan4mei3 神/shen2 。
 = Xiao En : J'aime les deux ! Les deux louent Dieu.
 陳奶奶/chen2nai3nai5 坐/zuo4 在/zai4 前面/qian2mian4 ，也/ye3 小/xiao3 聲/sheng1 地/de5 唱/chang4 。
 = Mamie Chen, assise devant, chante aussi à voix basse.
 路加/lu4jia1 ：奶奶/nai3nai5 還/hai2 記得/ji4de5 每/mei3 個/ge4 字/zi4 ！
 = Luc : Mamie se souvient encore de chaque mot !
-小恩/xiao3en1 ：這/zhe4 是/shi4 奶奶/nai3nai5 的/de5 老/lao3 朋友/peng2you3 ！
+小恩/xiao3en1 ：這/zhe4 是/shi4 奶奶/nai3nai5 的/de5 老/lao3 朋友/peng2you5 ！
 = Xiao En : Ce chant, c'est un vieil ami de Mamie !
 
 === 024
@@ -105,7 +105,7 @@ tagline: Échange linguistique — deux caractères pour Dieu, une phrase d'entr
 song: 耶穌我愛祢
 vocab: 祢=Tu, Toi (pour Dieu) | 祂=Il, Lui (pour Dieu) | 問題=question ; problème | 語言=langue | 左邊=côté gauche
 ---
-星期三/xing1qi1san1 是/shi4 語言/yu3yan2 交換/jiao1huan4 的/de5 時間/shi2jian1 。
+星期三/xing1qi2san1 是/shi4 語言/yu3yan2 交換/jiao1huan4 的/de5 時間/shi2jian1 。
 = Le mercredi, c'est l'heure de l'échange linguistique.
 路加/lu4jia1 ：小恩/xiao3en1 ，我/wo3 有/you3 問題/wen4ti2 。
 = Luc : Xiao En, j'ai une question.
@@ -216,7 +216,7 @@ vocab: 相信=croire | 外國人=étranger | 歲=an (âge) | 風=vent | 涼快=f
 = Xiao Guang : Tu crois en Jésus ?
 路加/lu4jia1 ：我/wo3 ……我/wo3 不/bu4 知道/zhi1dao4 。
 = Luc : Je… je ne sais pas.
-小光/xiao3guang1 ：我/wo3 相信/xiang1xin4 ！耶穌/ye1su1 是/shi4 我/wo3 的/de5 好/hao3 朋友/peng2you3 。
+小光/xiao3guang1 ：我/wo3 相信/xiang1xin4 ！耶穌/ye1su1 是/shi4 我/wo3 的/de5 好/hao3 朋友/peng2you5 。
 = Xiao Guang : Moi, j'y crois ! Jésus, c'est mon copain.
 路加/lu4jia1 ：你/ni3 看/kan4 不/bu4 到/dao4 祂/ta1 ，怎麼/zen3me5 相信/xiang1xin4 ？
 = Luc : Tu ne le vois pas ; comment peux-tu croire en lui ?
@@ -301,7 +301,7 @@ vocab: 聖經=Bible | 故事=histoire | 牧人=berger | 羊=mouton, brebis | 迷
 ---
 美玲/mei3ling2 請/qing3 路加/lu4jia1 去/qu4 主日學/zhu3ri4xue2 幫忙/bang1mang2 。
 = Meiling demande à Luc de venir aider à l'école du dimanche.
-教室/jiao4shi4 裡/li3 有/you3 十/shi2 個/ge4 小/xiao3 朋友/peng2you3 。
+教室/jiao4shi4 裡/li3 有/you3 十/shi2 個/ge4 小/xiao3 朋友/peng2you5 。
 = Dans la salle, il y a dix enfants.
 美玲/mei3ling2 拿/na2 出/chu1 一/yi1 本/ben3 大/da4 書/shu1 ：「這/zhe4 是/shi4 聖經/sheng4jing1 。」
 = Meiling sort un gros livre : « Voici la Bible. »

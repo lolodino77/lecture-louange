@@ -50,9 +50,9 @@ tagline: Promenade nocturne — le saut de la foi selon Kierkegaard, Freud et la
 song: 選擇相信
 vocab: 信心的跳躍=le saut de la foi | 深淵=gouffre, abîme | 交託=confier, s'en remettre à | 啟示=révélation | 投射=projection | 信靠=se fier à, faire confiance
 ---
-五月/wu3yue4 底/di3 的/de5 深夜/shen1ye4 ，大衛/da4wei4 傳/chuan2 訊息/xun4xi1 給/gei3 路加/lu4jia1 ：「睡/shui4 了/le5 嗎/ma5 ？想/xiang3 去/qu4 河堤/he2di1 走走/zou3zou3 。」
+五月/wu3yue4 底/di3 的/de5 深夜/shen1ye4 ，大衛/da4wei4 傳/chuan2 訊息/xun4xi2 給/gei3 路加/lu4jia1 ：「睡/shui4 了/le5 嗎/ma5 ？想/xiang3 去/qu4 河堤/he2di1 走走/zou3zou3 。」
 = Fin mai, tard dans la nuit, David envoie un message à Luc : « Tu dors ? J'ai envie d'aller marcher sur la berge. »
-淡水河/dan4shui3he2 畔/pan4 ，風/feng1 很/hen3 涼/liang2 。兩/liang3 人/ren2 默默/mo4mo4 走/zou3 了/le5 很/hen3 久/jiu3 ，路加/lu4jia1 才/cai2 問/wen4 ：怎麼/zen3me5 了/le5 ？期末考/qi1mo4kao3 考/kao3 壞/huai4 了/le5 嗎/ma5 ？
+淡水河/dan4shui3he2 畔/pan4 ，風/feng1 很/hen3 涼/liang2 。兩/liang3 人/ren2 默默/mo4mo4 走/zou3 了/le5 很/hen3 久/jiu3 ，路加/lu4jia1 才/cai2 問/wen4 ：怎麼/zen3me5 了/le5 ？期末考/qi2mo4kao3 考/kao3 壞/huai4 了/le5 嗎/ma5 ？
 = Au bord du fleuve Tamsui, le vent est frais. Ils marchent longtemps en silence avant que Luc ne demande : Qu'est-ce qui se passe ? Tu as raté un examen ?
 大衛/da4wei4 ：不是/bu4shi4 。是/shi4 我/wo3 心裡/xin1li3 的/de5 那/na4 場/chang3 考試/kao3shi4 ，一直/yi1zhi2 交/jiao1 不/bu4 出/chu1 答案/da2an4 。
 = David : Non. C'est l'examen que je passe intérieurement : je n'arrive toujours pas à rendre ma copie.
@@ -60,7 +60,7 @@ vocab: 信心的跳躍=le saut de la foi | 深淵=gouffre, abîme | 交託=confi
 = David : Ça fait plus de deux ans que je lis la Bible, et j'ai consulté beaucoup de choses. Les arguments pour la résurrection sont plus solides que je ne l'imaginais, et la Trinité n'est pas contradictoire. Mais entre « savoir » et « croire », on dirait qu'il y a un gouffre.
 大衛/da4wei4 ：齊克果/qi2ke4guo3 把/ba3 這/zhe4 叫做/jiao4zuo4 「信心的跳躍/xin4xin1de5tiao4yue4 」。我/wo3 好像/hao3xiang4 站/zhan4 在/zai4 懸崖/xuan2ya2 邊/bian1 ，看/kan4 得/de5 見/jian4 對岸/dui4an4 ，卻/que4 不敢/bu4gan3 跳/tiao4 。
 = David : Kierkegaard appelle ça le « saut de la foi ». C'est comme si j'étais au bord d'une falaise : je vois l'autre rive, mais je n'ose pas sauter.
-路加/lu4jia1 ：林老師/lin2lao3shi1 提醒/ti2xing3 過/guo4 我們/wo3men5 ，信心/xin4xin1 不是/bu4shi4 閉/bi4 著/zhe5 眼睛/yan3jing1 往/wang3 黑暗/hei1an4 裡/li3 跳/tiao4 。它/ta1 更/geng4 像/xiang4 是/shi4 ，你/ni3 認識/ren4shi5 一/yi1 個/ge4 人/ren2 夠/gou4 久/jiu3 了/le5 ，終於/zhong1yu2 決定/jue2ding4 把/ba3 自己/zi4ji3 交託/jiao1tuo1 給/gei3 他/ta1 。
+路加/lu4jia1 ：林老師/lin2lao3shi1 提醒/ti2xing3 過/guo4 我們/wo3men5 ，信心/xin4xin1 不是/bu4shi4 閉/bi4 著/zhe5 眼睛/yan3jing1 往/wang3 黑暗/hei1an4 裡/li3 跳/tiao4 。它/ta1 更/geng4 像/xiang4 是/shi4 ，你/ni3 認識/ren4shi4 一/yi1 個/ge4 人/ren2 夠/gou4 久/jiu3 了/le5 ，終於/zhong1yu2 決定/jue2ding4 把/ba3 自己/zi4ji3 交託/jiao1tuo1 給/gei3 他/ta1 。
 = Luc : Le professeur Lin nous a rappelé que la foi, ce n'est pas sauter dans le noir les yeux fermés. C'est plutôt comme connaître quelqu'un depuis assez longtemps pour finir par se confier à lui.
 路加/lu4jia1 ：就/jiu4 像/xiang4 結婚/jie2hun1 。沒有/mei2you3 人/ren2 能/neng2 百分之百/bai3fen1zhi1bai3 證明/zheng4ming2 對方/dui4fang1 會/hui4 愛/ai4 你/ni3 一輩子/yi1bei4zi5 ，但/dan4 總/zong3 有/you3 一/yi1 天/tian1 ，你/ni3 得/dei3 說/shuo1 出/chu1 那/na4 句/ju4 「我/wo3 願意/yuan4yi4 」。
 = Luc : C'est comme le mariage. Personne ne peut prouver à cent pour cent que l'autre l'aimera toute sa vie, mais un jour, il faut bien prononcer le « oui, je le veux ».
@@ -115,7 +115,7 @@ vocab: 悔改歸主=se repentir et se convertir au Seigneur | 歸信=se converti
 = David : Je crois que Tu es mort pour moi et que Tu es ressuscité. Désormais, je veux Te suivre. Mon Seigneur et mon Dieu !
 一/yi1 陣/zhen4 長長/chang2chang2 的/de5 安靜/an1jing4 之後/zhi1hou4 ，王牧師/wang2mu4shi1 說/shuo1 ：「阿們/a1men2 。」小恩/xiao3en1 早已/zao3yi3 淚流滿面/lei4liu2man3mian4 ——她/ta1 注意/zhu4yi4 到/dao4 ，大衛/da4wei4 第一/di4yi1 次/ci4 稱/cheng1 耶穌/ye1su1 為/wei2 「祢/ni3 」。
 = Après un long silence, le pasteur Wang dit : « Amen. » Xiao En a déjà le visage baigné de larmes : elle a remarqué que, pour la première fois, David a dit « Tu » à Jésus.
-路加/lu4jia1 站/zhan4 起來/qi3lai2 ，緊緊/jin3jin3 抱住/bao4zhu4 這/zhe4 位/wei4 認識/ren4shi5 多年/duo1nian2 的/de5 老朋友/lao3peng2you5 ，一/yi1 句/ju4 話/hua4 也/ye3 說/shuo1 不/bu4 出來/chu1lai2 。
+路加/lu4jia1 站/zhan4 起來/qi3lai2 ，緊緊/jin3jin3 抱住/bao4zhu4 這/zhe4 位/wei4 認識/ren4shi4 多年/duo1nian2 的/de5 老朋友/lao3peng2you5 ，一/yi1 句/ju4 話/hua4 也/ye3 說/shuo1 不/bu4 出來/chu1lai2 。
 = Luc se lève et serre fort dans ses bras cet ami de longue date, incapable de prononcer un mot.
 王牧師/wang2mu4shi1 翻開/fan1kai1 聖經/sheng4jing1 ，念/nian4 出/chu1 耶穌/ye1su1 對/dui4 多馬/duo1ma3 說/shuo1 的/de5 下/xia4 一/yi1 句/ju4 話/hua4 ：「你/ni3 因/yin1 看見/kan4jian4 了/le5 我/wo3 才/cai2 信/xin4 ；那/na4 沒有/mei2you3 看見/kan4jian4 就/jiu4 信/xin4 的/de5 有福/you3fu2 了/le5 。」
 = Le pasteur Wang ouvre la Bible et lit la phrase suivante de Jésus à Thomas : « Parce que tu m'as vu, tu as cru. Heureux ceux qui n'ont pas vu, et qui ont cru ! »
@@ -158,7 +158,7 @@ vocab: 使徒信經=Symbole des apôtres | 祖先=ancêtres | 孝敬=honorer (se
 = Luc sent son cœur se réchauffer. Bien avant que David ne dise « je crois », Dieu travaillait donc déjà en lui, sans bruit.
 王牧師/wang2mu4shi1 端/duan1 著/zhe5 便當/bian4dang1 坐/zuo4 過來/guo4lai2 ：大衛/da4wei4 ，送/song4 你/ni3 一/yi1 節/jie2 經文/jing1wen2 ：「若/ruo4 有/you3 人/ren2 在/zai4 基督/ji1du1 裡/li3 ，他/ta1 就是/jiu4shi4 新造/xin1zao4 的/de5 人/ren2 ，舊事/jiu4shi4 已/yi3 過/guo4 ，都/dou1 變成/bian4cheng2 新/xin1 的/de5 了/le5 。」
 = Le pasteur Wang s'assied près d'eux, sa boîte-repas à la main : David, je t'offre un verset : « Si quelqu'un est en Christ, il est une nouvelle créature. Les choses anciennes sont passées ; voici, toutes choses sont devenues nouvelles. »
-王牧師/wang2mu4shi1 ：不過/bu4guo4 新造/xin1zao4 的/de5 人/ren2 也/ye3 需要/xu1yao4 慢慢/man4man4 長大/zhang3da4 。別/bie2 期待/qi1dai4 自己/zi4ji3 一夜/yi1ye4 之間/zhi1jian1 變成/bian4cheng2 聖人/sheng4ren2 ，你/ni3 的/de5 問題/wen4ti2 也/ye3 不/bu4 會/hui4 一下子/yi1xia4zi5 全部/quan2bu4 消失/xiao1shi1 。
+王牧師/wang2mu4shi1 ：不過/bu4guo4 新造/xin1zao4 的/de5 人/ren2 也/ye3 需要/xu1yao4 慢慢/man4man4 長大/zhang3da4 。別/bie2 期待/qi2dai4 自己/zi4ji3 一夜/yi1ye4 之間/zhi1jian1 變成/bian4cheng2 聖人/sheng4ren2 ，你/ni3 的/de5 問題/wen4ti2 也/ye3 不/bu4 會/hui4 一下子/yi1xia4zi5 全部/quan2bu4 消失/xiao1shi1 。
 = Pasteur Wang : Mais une nouvelle créature a aussi besoin de grandir lentement. Ne t'attends pas à devenir un saint du jour au lendemain, et tes questions ne disparaîtront pas toutes d'un coup non plus.
 大衛/da4wei4 ：那/na4 太/tai4 好/hao3 了/le5 。我/wo3 還/hai2 擔心/dan1xin1 信/xin4 了/le5 以後/yi3hou4 ，就/jiu4 不能/bu4neng2 再/zai4 問/wen4 問題/wen4ti2 了/le5 。
 = David : Tant mieux. J'avais peur qu'une fois croyant, je n'aie plus le droit de poser des questions.

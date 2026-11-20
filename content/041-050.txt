@@ -1,0 +1,285 @@
+# Conversations 041–050 — niveau 1 (Débutant)
+
+@series 041 | 新朋友大衛 | David, un nouvel ami | Luc fait la connaissance de David, étudiant en philosophie et sceptique honnête, et découvre l'ancien Zhang et la gentillesse d'une inconnue dans le métro.
+
+=== 041
+series: 041
+title_zh: 這是我的朋友大衛
+title_fr: Voici mon ami David
+tagline: Au restaurant universitaire — un étudiant en philosophie, une question simple et un sourire un peu sceptique.
+song: 認識祢真好
+vocab: 哲學=philosophie | 同學=camarade de classe | 認識=connaître ; faire connaissance | 問題=question | 朋友=ami
+---
+中午/zhong1wu3 ，路加/lu4jia1 和/he2 小恩/xiao3en1 在/zai4 學生/xue2sheng1 餐廳/can1ting1 吃飯/chi1fan4 。
+= À midi, Luc et Xiao En mangent au restaurant universitaire.
+小恩/xiao3en1 ：大衛/da4wei4 ，這裡/zhe4li3 ！
+= Xiao En : David, par ici !
+一/yi1 個/ge4 高高/gao1gao1 的/de5 男生/nan2sheng1 走/zou3 過來/guo4lai2 。
+= Un grand garçon s'approche.
+小恩/xiao3en1 ：路加/lu4jia1 ，這/zhe4 是/shi4 我/wo3 的/de5 同學/tong2xue2 ，大衛/da4wei4 。他/ta1 學/xue2 哲學/zhe2xue2 。
+= Xiao En : Luc, voici mon camarade David. Il étudie la philosophie.
+路加/lu4jia1 ：你好/ni3hao3 ！很/hen3 高興/gao1xing4 認識/ren4shi4 你/ni3 。哲學/zhe2xue2 是/shi4 什麼/shen2me5 ？
+= Luc : Bonjour ! Enchanté de te connaître. La philosophie, c'est quoi ?
+大衛/da4wei4 ：就是/jiu4shi4 常常/chang2chang2 問/wen4 問題/wen4ti2 。
+= David : C'est poser des questions, tout simplement.
+路加/lu4jia1 ：那/na4 我們/wo3men5 一定/yi1ding4 可以/ke3yi3 當/dang1 朋友/peng2you5 ，我/wo3 也/ye3 有/you3 很多/hen3duo1 問題/wen4ti2 。
+= Luc : Alors on peut sûrement devenir amis, moi aussi j'ai beaucoup de questions.
+大衛/da4wei4 笑/xiao4 了/le5 ：好/hao3 ，可是/ke3shi4 我/wo3 要/yao4 先/xian1 說/shuo1 ，我/wo3 不/bu4 去/qu4 教會/jiao4hui4 。
+= David sourit : D'accord, mais je préviens d'abord : je ne vais pas à l'église.
+小恩/xiao3en1 ：沒關係/mei2guan1xi5 ，我們/wo3men5 先/xian1 一起/yi1qi3 吃飯/chi1fan4 吧/ba5 。
+= Xiao En : Pas de souci, commençons par manger ensemble.
+
+=== 042
+series: 041
+title_zh: 吃飯以前先禱告
+title_fr: Prier avant de manger
+tagline: À la cafétéria — des yeux fermés, un ami qui observe et une question : à qui parles-tu ?
+song: 謝謝祢
+vocab: 禱告=prier | 謝謝=merci | 神=Dieu | 閉上=fermer | 聽=écouter, entendre
+---
+大衛/da4wei4 買/mai3 了/le5 一/yi1 碗/wan3 牛肉麵/niu2rou4mian4 ，路加/lu4jia1 買/mai3 了/le5 雞腿飯/ji1tui3fan4 。
+= David a pris un bol de nouilles au bœuf, Luc un riz au poulet.
+路加/lu4jia1 閉上/bi4shang4 眼睛/yan3jing1 ，小聲/xiao3sheng1 說/shuo1 ：神/shen2 啊/a5 ，謝謝/xie4xie5 祢/ni3 。
+= Luc ferme les yeux et dit tout bas : Dieu, merci.
+大衛/da4wei4 ：你/ni3 在/zai4 做/zuo4 什麼/shen2me5 ？
+= David : Qu'est-ce que tu fais ?
+路加/lu4jia1 ：我/wo3 在/zai4 學/xue2 禱告/dao3gao4 。小恩/xiao3en1 吃飯/chi1fan4 以前/yi3qian2 都/dou1 會/hui4 禱告/dao3gao4 ，所以/suo3yi3 我/wo3 也/ye3 想/xiang3 學/xue2 。
+= Luc : J'apprends à prier. Xiao En prie toujours avant de manger, alors j'ai envie d'apprendre aussi.
+大衛/da4wei4 ：你/ni3 對/dui4 誰/shei2 說/shuo1 話/hua4 ？
+= David : À qui est-ce que tu parles ?
+路加/lu4jia1 ：對/dui4 神/shen2 。我/wo3 還/hai2 不/bu4 太/tai4 懂/dong3 ，可是/ke3shi4 我/wo3 想/xiang3 學/xue2 。
+= Luc : À Dieu. Je ne comprends pas encore très bien, mais je veux apprendre.
+大衛/da4wei4 ：祂/ta1 會/hui4 聽/ting1 嗎/ma5 ？
+= David : Est-ce qu'Il écoute ?
+小恩/xiao3en1 笑/xiao4 著/zhe5 說/shuo1 ：會/hui4 ，祂/ta1 一定/yi1ding4 會/hui4 聽/ting1 。
+= Xiao En répond en souriant : Oui, Il écoute sûrement.
+小恩/xiao3en1 ：好/hao3 了/le5 ，現在/xian4zai4 快點/kuai4dian3 吃/chi1 ，麵/mian4 要/yao4 涼/liang2 了/le5 。
+= Xiao En : Bon, maintenant mangeons vite, les nouilles vont refroidir.
+大衛/da4wei4 ：這/zhe4 個/ge4 我/wo3 懂/dong3 。
+= David : Ça, je comprends.
+
+=== 043
+series: 041
+title_zh: 神在哪裡
+title_fr: Où est Dieu ?
+tagline: Sur un banc du campus — une question de David, un souvenir de Xiao Guang et une réponse qui n'est pas une carte.
+song: 我渴望看見
+vocab: 相信=croire | 答案=réponse | 心=cœur | 天上=au ciel | 風=vent
+---
+下課/xia4ke4 以後/yi3hou4 ，大衛/da4wei4 、路加/lu4jia1 和/he2 小恩/xiao3en1 坐/zuo4 在/zai4 校園/xiao4yuan2 的/de5 椅子/yi3zi5 上/shang4 。
+= Après les cours, David, Luc et Xiao En sont assis sur un banc du campus.
+大衛/da4wei4 ：我/wo3 有/you3 一/yi1 個/ge4 問題/wen4ti2 ：神/shen2 在/zai4 哪裡/na3li3 ？
+= David : J'ai une question : où est Dieu ?
+路加/lu4jia1 想起/xiang3qi3 小光/xiao3guang1 ，笑/xiao4 了/le5 ：這/zhe4 個/ge4 問題/wen4ti2 ，有/you3 人/ren2 先/xian1 問/wen4 過/guo4 我/wo3 了/le5 。
+= Luc pense à Xiao Guang et sourit : Quelqu'un m'a déjà posé cette question.
+小恩/xiao3en1 ：祂/ta1 在/zai4 天上/tian1shang4 ，也/ye3 在/zai4 我們/wo3men5 的/de5 心/xin1 裡/li3 。
+= Xiao En : Il est au ciel, et aussi dans notre cœur.
+大衛/da4wei4 ：可是/ke3shi4 我/wo3 看/kan4 不/bu4 見/jian4 祂/ta1 ，所以/suo3yi3 我/wo3 不/bu4 相信/xiang1xin4 。
+= David : Mais je ne peux pas Le voir, donc je ne crois pas.
+路加/lu4jia1 ：風/feng1 呢/ne5 ？你/ni3 看/kan4 得/de5 見/jian4 風/feng1 嗎/ma5 ？
+= Luc : Et le vent ? Tu peux voir le vent ?
+大衛/da4wei4 ：看/kan4 不/bu4 見/jian4 ，可是/ke3shi4 我/wo3 知道/zhi1dao4 有/you3 風/feng1 。
+= David : Non, mais je sais qu'il y a du vent.
+大衛/da4wei4 安靜/an1jing4 了/le5 一下/yi1xia4 ：好/hao3 ，這/zhe4 個/ge4 答案/da2an4 我/wo3 要/yao4 想/xiang3 一/yi1 想/xiang3 。
+= David se tait un instant : Bon, cette réponse, il faut que j'y réfléchisse.
+小恩/xiao3en1 ：不/bu4 急/ji2 ，慢慢/man4man4 想/xiang3 。
+= Xiao En : Pas de hâte, réfléchis tranquillement.
+
+=== 044
+series: 041
+title_zh: 戴眼鏡的張長老
+title_fr: L'ancien Zhang et ses lunettes
+tagline: Un dimanche matin — un thermos de thé chaud, un homme aux cheveux gris et une porte toujours ouverte pour les questions.
+song: 傾聽我的心
+vocab: 張長老=l'ancien Zhang (un 長老 est un ancien d'église) | 眼鏡=lunettes | 熱茶=thé chaud | 老師=professeur | 歡迎=bienvenue ; accueillir
+---
+星期天/xing1qi2tian1 早上/zao3shang4 ，路加/lu4jia1 在/zai4 教會/jiao4hui4 門口/men2kou3 看到/kan4dao4 一/yi1 位/wei4 老/lao3 先生/xian1sheng5 。
+= Dimanche matin, Luc aperçoit à l'entrée de l'église un vieux monsieur.
+他/ta1 戴/dai4 著/zhe5 眼鏡/yan3jing4 ，手/shou3 裡/li3 拿/na2 著/zhe5 一/yi1 個/ge4 小/xiao3 保溫瓶/bao3wen1ping2 。
+= Il porte des lunettes et tient un petit thermos.
+小恩/xiao3en1 ：路加/lu4jia1 ，這是/zhe4shi4 張長老/zhang1zhang3lao3 。
+= Xiao En : Luc, voici l'ancien Zhang.
+張長老/zhang1zhang3lao3 ：你好/ni3hao3 ，歡迎/huan1ying2 你/ni3 。要/yao4 不/bu4 要/yao4 喝/he1 一/yi1 杯/bei1 熱茶/re4cha2 ？
+= L'ancien Zhang : Bonjour, bienvenue. Tu veux une tasse de thé chaud ?
+路加/lu4jia1 ：好/hao3 ，謝謝/xie4xie5 。
+= Luc : Oui, merci.
+小恩/xiao3en1 ：張長老/zhang1zhang3lao3 以前/yi3qian2 是/shi4 大學/da4xue2 老師/lao3shi1 ，現在/xian4zai4 教/jiao1 大家/da4jia1 聖經/sheng4jing1 。
+= Xiao En : L'ancien Zhang était professeur d'université, et maintenant il enseigne la Bible à tout le monde.
+張長老/zhang1zhang3lao3 ：路加/lu4jia1 ，你/ni3 有/you3 問題/wen4ti2 就/jiu4 來/lai2 找/zhao3 我/wo3 。
+= L'ancien Zhang : Luc, si tu as des questions, viens me trouver.
+路加/lu4jia1 ：真的/zhen1de5 嗎/ma5 ？我/wo3 有/you3 很多/hen3duo1 問題/wen4ti2 。
+= Luc : Vraiment ? J'ai beaucoup de questions.
+張長老/zhang1zhang3lao3 笑/xiao4 了/le5 ：我/wo3 的/de5 茶/cha2 很/hen3 多/duo1 ，時間/shi2jian1 也/ye3 很/hen3 多/duo1 。
+= L'ancien Zhang sourit : J'ai beaucoup de thé, et aussi beaucoup de temps.
+
+=== 045
+series: 041
+title_zh: 捷運上的位子
+title_fr: Une place dans le métro
+tagline: Heure de pointe — un sac lourd, une grand-mère fatiguée et une bénédiction murmurée.
+song: 讓愛走動
+vocab: 位子=place assise | 老太太=vieille dame | 保佑=protéger, bénir | 請=s'il vous plaît ; inviter | 捷運=métro (MRT)
+---
+下午/xia4wu3 ，路加/lu4jia1 坐/zuo4 捷運/jie2yun4 回家/hui2jia1 ，車上/che1shang4 有/you3 很多/hen3duo1 人/ren2 。
+= L'après-midi, Luc rentre en métro ; il y a beaucoup de monde dans la rame.
+一/yi1 位/wei4 老太太/lao3tai4tai5 提/ti2 著/zhe5 很/hen3 重/zhong4 的/de5 袋子/dai4zi5 ，站/zhan4 在/zai4 路加/lu4jia1 旁邊/pang2bian1 。
+= Une vieille dame, chargée d'un sac très lourd, se tient debout à côté de Luc.
+路加/lu4jia1 馬上/ma3shang4 站/zhan4 起來/qi3lai2 ：奶奶/nai3nai5 ，這/zhe4 個/ge4 位子/wei4zi5 請/qing3 您/nin2 坐/zuo4 。
+= Luc se lève aussitôt : Madame, prenez ma place, je vous en prie.
+老太太/lao3tai4tai5 ：哎呀/ai1ya1 ，謝謝/xie4xie5 你/ni3 ，你/ni3 真/zhen1 好/hao3 。
+= La vieille dame : Oh là là, merci, tu es vraiment gentil.
+老太太/lao3tai4tai5 ：你/ni3 是/shi4 外國人/wai4guo2ren2 嗎/ma5 ？
+= La vieille dame : Tu es étranger ?
+路加/lu4jia1 ：對/dui4 ，我/wo3 是/shi4 法國人/fa3guo2ren2 。我/wo3 來/lai2 台灣/tai2wan1 學/xue2 中文/zhong1wen2 。
+= Luc : Oui, je suis français. Je suis venu à Taïwan apprendre le chinois.
+老太太/lao3tai4tai5 笑/xiao4 著/zhe5 說/shuo1 ：好/hao3 孩子/hai2zi5 ，神/shen2 保佑/bao3you4 你/ni3 。
+= La vieille dame dit en souriant : Brave enfant, que Dieu te protège.
+路加/lu4jia1 愣/leng4 了/le5 一下/yi1xia4 ：您/nin2 也/ye3 信/xin4 神/shen2 嗎/ma5 ？
+= Luc marque un temps d'arrêt : Vous aussi, vous croyez en Dieu ?
+老太太/lao3tai4tai5 ：對/dui4 啊/a5 ，我/wo3 在/zai4 教會/jiao4hui4 很/hen3 多/duo1 年/nian2 了/le5 。
+= La vieille dame : Oui, je suis à l'église depuis de nombreuses années.
+下/xia4 車/che1 的/de5 時候/shi2hou5 ，路加/lu4jia1 心/xin1 裡/li3 很/hen3 溫暖/wen1nuan3 。
+= En descendant du train, Luc a le cœur tout chaud.
+
+@series 046 | 秋天的台北 | Taipei en automne | Octobre – novembre : se perdre, un typhon, le marché de nuit, une promenade à vélo, l'écriture du caractère « amour », un rhume et la Bible.
+
+=== 046
+series: 046
+title_zh: 路加迷路了
+title_fr: Luc est perdu
+tagline: Un quartier inconnu — un téléphone presque vide, un petit plan griffonné et une prière toute simple.
+song: 陪我走
+vocab: 迷路=se perdre | 附近=aux alentours | 地圖=plan, carte | 手機=téléphone portable | 幫助=aider ; aide
+---
+星期六/xing1qi2liu4 下午/xia4wu3 ，路加/lu4jia1 一/yi1 個/ge4 人/ren2 去/qu4 找/zhao3 教會/jiao4hui4 。
+= Samedi après-midi, Luc part seul chercher l'église.
+可是/ke3shi4 他/ta1 迷路/mi2lu4 了/le5 ，附近/fu4jin4 沒有/mei2you3 他/ta1 認識/ren4shi4 的/de5 路/lu4 。
+= Mais il se perd, et aux alentours il ne reconnaît aucune rue.
+手機/shou3ji1 裡/li3 的/de5 地圖/di4tu2 也/ye3 打不開/da3bu4kai1 。
+= La carte de son téléphone ne s'ouvre pas non plus.
+路加/lu4jia1 小聲/xiao3sheng1 說/shuo1 ：神/shen2 啊/a5 ，請/qing3 幫助/bang1zhu4 我/wo3 。
+= Luc murmure : Dieu, aide-moi, s'il te plaît.
+他/ta1 走/zou3 進/jin4 一/yi1 家/jia1 便利商店/bian4li4shang1dian4 ，問/wen4 店員/dian4yuan2 ：請問/qing3wen4 ，恩典教會/en1dian3jiao4hui4 在/zai4 哪裡/na3li3 ？
+= Il entre dans un magasin de proximité et demande à l'employé : Excusez-moi, où est l'église de la Grâce ?
+店員/dian4yuan2 ：對不起/dui4bu4qi3 ，我/wo3 不/bu4 知道/zhi1dao4 。
+= L'employé : Désolé, je ne sais pas.
+這時候/zhe4shi2hou5 ，路加/lu4jia1 的/de5 手機/shou3ji1 響/xiang3 了/le5 ，是/shi4 小恩/xiao3en1 。
+= À ce moment-là, le téléphone de Luc sonne : c'est Xiao En.
+小恩/xiao3en1 ：你/ni3 在/zai4 哪裡/na3li3 ？大家/da4jia1 都/dou1 在/zai4 等/deng3 你/ni3 。
+= Xiao En : Où es-tu ? Tout le monde t'attend.
+路加/lu4jia1 ：我/wo3 迷路/mi2lu4 了/le5 ，我/wo3 在/zai4 便利商店/bian4li4shang1dian4 。
+= Luc : Je suis perdu, je suis dans un magasin de proximité.
+小恩/xiao3en1 ：不要/bu4yao4 動/dong4 ，我/wo3 去/qu4 找/zhao3 你/ni3 。
+= Xiao En : Ne bouge pas, je viens te chercher.
+十/shi2 分鐘/fen1zhong1 以後/yi3hou4 ，小恩/xiao3en1 笑/xiao4 著/zhe5 走進來/zou3jin4lai2 ：你/ni3 的/de5 禱告/dao3gao4 有/you3 回答/hui2da2 了/le5 。
+= Dix minutes plus tard, Xiao En entre en riant : Ta prière a reçu une réponse.
+
+=== 047
+series: 046
+title_zh: 阿傑的台灣話課
+title_fr: Le cours de langue locale d'A-Jie
+tagline: Petit déjeuner au bord de la route — un lait de soja brûlant, une crêpe aux œufs et des mots pas du tout dans le manuel.
+song: 盡情地微笑
+vocab: 早餐=petit déjeuner | 豆漿=lait de soja | 棒=génial, super | 教=enseigner | 笑=rire, sourire
+---
+星期天/xing1qi2tian1 早上/zao3shang4 ，阿傑/a1jie2 請/qing3 路加/lu4jia1 吃/chi1 早餐/zao3can1 。
+= Dimanche matin, A-Jie invite Luc à prendre le petit déjeuner.
+路加/lu4jia1 喝/he1 了/le5 一/yi1 口/kou3 豆漿/dou4jiang1 ：哇/wa1 ，很/hen3 燙/tang4 ！
+= Luc boit une gorgée de lait de soja : Waouh, c'est très chaud !
+阿傑/a1jie2 ：我/wo3 來/lai2 教/jiao1 你/ni3 一/yi1 句/ju4 台灣/tai2wan1 人/ren2 常常/chang2chang2 說/shuo1 的/de5 話/hua4 ：很/hen3 棒/bang4 ！
+= A-Jie : Je vais t'apprendre une expression que les Taïwanais disent tout le temps : « Génial ! »
+路加/lu4jia1 ：很/hen3 棒/bang4 ！這/zhe4 個/ge4 蛋餅/dan4bing3 很/hen3 棒/bang4 ！
+= Luc : Génial ! Cette crêpe aux œufs est géniale !
+阿傑/a1jie2 ：對/dui4 ，你/ni3 學/xue2 得/de5 很/hen3 快/kuai4 。
+= A-Jie : Oui, tu apprends vite.
+路加/lu4jia1 ：那/na4 你/ni3 也/ye3 要/yao4 教/jiao1 我/wo3 彈/tan2 吉他/ji2ta1 。
+= Luc : Alors tu dois aussi m'apprendre à jouer de la guitare.
+阿傑/a1jie2 ：沒/mei2 問題/wen4ti2 ！可是/ke3shi4 你/ni3 先/xian1 要/yao4 練習/lian4xi2 笑/xiao4 。
+= A-Jie : Pas de problème ! Mais d'abord, tu dois t'entraîner à sourire.
+路加/lu4jia1 ：為什麼/wei4shen2me5 ？
+= Luc : Pourquoi ?
+阿傑/a1jie2 ：因為/yin1wei4 敬拜/jing4bai4 的/de5 時候/shi2hou5 ，大家/da4jia1 都/dou1 要/yao4 看起來/kan4qi3lai2 很/hen3 開心/kai1xin1 啊/a5 。
+= A-Jie : Parce que pendant la louange, tout le monde doit avoir l'air heureux.
+路加/lu4jia1 笑/xiao4 了/le5 ：這/zhe4 個/ge4 我/wo3 現在/xian4zai4 就/jiu4 可以/ke3yi3 。
+= Luc sourit : Ça, je peux le faire dès maintenant.
+
+=== 048
+series: 046
+title_zh: 颱風天
+title_fr: Un jour de typhon
+tagline: Fenêtres fermées — du vent qui hurle, un message de Xiao En et une paix qui ne dépend pas du temps.
+song: 雲上太陽
+vocab: 颱風=typhon | 風=vent | 平安=paix, sain et sauf | 窗戶=fenêtre | 傳=envoyer
+---
+今天/jin1tian1 有/you3 颱風/tai2feng1 ，學校/xue2xiao4 放假/fang4jia4 ，路加/lu4jia1 一/yi1 個/ge4 人/ren2 在/zai4 家/jia1 。
+= Aujourd'hui, il y a un typhon ; l'école est fermée et Luc est seul chez lui.
+外面/wai4mian4 的/de5 風/feng1 很/hen3 大/da4 ，窗戶/chuang1hu5 一直/yi1zhi2 在/zai4 響/xiang3 。
+= Dehors, le vent est très fort et la fenêtre n'arrête pas de cogner.
+路加/lu4jia1 有/you3 一點/yi1dian3 害怕/hai4pa4 。
+= Luc a un peu peur.
+這時候/zhe4shi2hou5 ，手機/shou3ji1 亮/liang4 了/le5 ，小恩/xiao3en1 傳/chuan2 來/lai2 一/yi1 句/ju4 話/hua4 。
+= À ce moment-là, son téléphone s'allume : Xiao En vient d'envoyer un message.
+小恩/xiao3en1 ：你/ni3 還/hai2 好/hao3 嗎/ma5 ？不要/bu4yao4 出去/chu1qu4 ，我們/wo3men5 都/dou1 在/zai4 家/jia1 禱告/dao3gao4 。
+= Xiao En : Tu vas bien ? Ne sors pas, nous prions tous à la maison.
+路加/lu4jia1 ：謝謝/xie4xie5 ，我/wo3 很/hen3 平安/ping2an1 ，只是/zhi3shi4 風/feng1 太/tai4 大/da4 了/le5 。
+= Luc : Merci, je vais bien, c'est seulement que le vent est trop fort.
+小恩/xiao3en1 ：聖經/sheng4jing1 裡/li3 說/shuo1 ，耶穌/ye1su1 叫/jiao4 風浪/feng1lang4 安靜/an1jing4 下來/xia4lai2 。
+= Xiao En : La Bible raconte que Jésus a calmé le vent et les vagues.
+路加/lu4jia1 看/kan4 著/zhe5 窗戶/chuang1hu5 ：希望/xi1wang4 祂/ta1 也/ye3 叫/jiao4 這/zhe4 個/ge4 風/feng1 小/xiao3 一點/yi1dian3 。
+= Luc regarde la fenêtre : J'espère qu'Il fera aussi baisser un peu ce vent.
+晚上/wan3shang4 ，風/feng1 真的/zhen1de5 小/xiao3 了/le5 ，路加/lu4jia1 也/ye3 睡/shui4 得/de5 很/hen3 好/hao3 。
+= Le soir, le vent faiblit vraiment, et Luc dort très bien.
+
+=== 049
+series: 046
+title_zh: 士林夜市
+title_fr: Le marché de nuit de Shilin
+tagline: Une soirée de samedi — du tofu qui sent fort, des petits plats à partager et une question de Xiao Guang qui fait rire tout le monde.
+song: 一切歌頌讚美
+vocab: 夜市=marché de nuit | 臭豆腐=tofu fermenté (« tofu puant ») | 好吃=bon (à manger) | 分=partager | 錢=argent
+---
+星期六/xing1qi2liu4 晚上/wan3shang4 ，美玲/mei3ling2 帶/dai4 著/zhe5 小光/xiao3guang1 、小恩/xiao3en1 和/he2 路加/lu4jia1 去/qu4 士林/shi4lin2 夜市/ye4shi4 。
+= Samedi soir, Meiling emmène Xiao Guang, Xiao En et Luc au marché de nuit de Shilin.
+路加/lu4jia1 ：這/zhe4 是/shi4 什麼/shen2me5 味道/wei4dao4 ？好/hao3 臭/chou4 ！
+= Luc : C'est quoi, cette odeur ? Ça sent vraiment fort !
+小光/xiao3guang1 ：是/shi4 臭豆腐/chou4dou4fu5 ！路加/lu4jia1 ，你/ni3 要/yao4 不/bu4 要/yao4 吃/chi1 ？
+= Xiao Guang : C'est du tofu puant ! Luc, tu en veux ?
+路加/lu4jia1 ：我/wo3 …… 想/xiang3 試/shi4 一下/yi1xia4 。
+= Luc : Je… je veux bien essayer.
+他/ta1 吃/chi1 了/le5 一/yi1 口/kou3 ，眼睛/yan3jing1 慢慢/man4man4 張大/zhang1da4 了/le5 ：咦/yi2 ，很/hen3 好吃/hao3chi1 ！
+= Il en mange un morceau et ses yeux s'écarquillent peu à peu : Tiens, c'est très bon !
+小光/xiao3guang1 ：為什麼/wei4shen2me5 臭/chou4 的/de5 東西/dong1xi5 也/ye3 好吃/hao3chi1 ？
+= Xiao Guang : Pourquoi une chose qui sent mauvais peut-elle aussi être bonne ?
+美玲/mei3ling2 ：因為/yin1wei4 很/hen3 多/duo1 東西/dong1xi5 ，不要/bu4yao4 只/zhi3 看/kan4 外面/wai4mian4 ，要/yao4 試/shi4 了/le5 才/cai2 知道/zhi1dao4 。
+= Meiling : Parce que beaucoup de choses, il ne faut pas seulement regarder l'extérieur ; il faut goûter pour savoir.
+小恩/xiao3en1 笑/xiao4 著/zhe5 說/shuo1 ：聖經/sheng4jing1 也/ye3 說/shuo1 ，你們/ni3men5 要/yao4 嘗/chang2 嘗/chang2 主/zhu3 恩/en1 的/de5 滋味/zi1wei4 。
+= Xiao En dit en souriant : La Bible dit aussi de goûter combien le Seigneur est bon.
+大家/da4jia1 分/fen1 著/zhe5 吃/chi1 ，路加/lu4jia1 付/fu4 了/le5 錢/qian2 ，心/xin1 裡/li3 很/hen3 開心/kai1xin1 。
+= Ils partagent la nourriture, Luc paie, et son cœur est tout joyeux.
+
+=== 050
+series: 046
+title_zh: 河邊騎腳踏車
+title_fr: À vélo au bord de la rivière
+tagline: Après-midi doré — deux vélos de location, des feuilles qui tombent et un chant fredonné sans le savoir.
+song: 晨光
+vocab: 腳踏車=vélo | 騎=rouler (à vélo), monter | 河邊=bord de la rivière | 風景=paysage | 累=fatigué
+---
+星期天/xing1qi2tian1 下午/xia4wu3 ，小恩/xiao3en1 和/he2 路加/lu4jia1 租/zu1 了/le5 兩/liang3 台/tai2 腳踏車/jiao3ta4che1 。
+= Dimanche après-midi, Xiao En et Luc louent deux vélos.
+他們/ta1men5 沿著/yan2zhe5 河邊/he2bian1 騎/qi2 ，風/feng1 很/hen3 涼/liang2 ，樹葉/shu4ye4 慢慢/man4man4 掉/diao4 下來/xia4lai2 。
+= Ils roulent le long de la rivière ; le vent est frais, et les feuilles tombent doucement.
+路加/lu4jia1 ：台北/tai2bei3 的/de5 秋天/qiu1tian1 很/hen3 漂亮/piao4liang5 。
+= Luc : L'automne à Taipei est très beau.
+小恩/xiao3en1 ：這裡/zhe4li3 的/de5 風景/feng1jing3 ，是/shi4 神/shen2 做/zuo4 的/de5 。
+= Xiao En : Ce paysage, c'est Dieu qui l'a fait.
+路加/lu4jia1 ：你/ni3 看/kan4 到/dao4 什麼/shen2me5 都/dou1 會/hui4 想/xiang3 到/dao4 神/shen2 嗎/ma5 ？
+= Luc : Quoi que tu voies, tu penses à Dieu ?
+小恩/xiao3en1 ：差不多/cha4bu5duo1 。你/ni3 看/kan4 ，那/na4 邊/bian1 的/de5 太陽/tai4yang2 ，像/xiang4 不/bu4 像/xiang4 一/yi1 首/shou3 歌/ge1 ？
+= Xiao En : À peu près. Regarde, le soleil là-bas : on dirait un chant, non ?
+路加/lu4jia1 ：我/wo3 只/zhi3 覺得/jue2de5 好/hao3 累/lei4 。
+= Luc : Moi, je trouve surtout que je suis très fatigué.
+小恩/xiao3en1 大聲/da4sheng1 笑/xiao4 ：我們/wo3men5 休息/xiu1xi2 一下/yi1xia4 吧/ba5 。
+= Xiao En éclate de rire : Reposons-nous un moment.
+他們/ta1men5 坐/zuo4 在/zai4 河邊/he2bian1 ，一/yi1 句/ju4 話/hua4 也/ye3 不/bu4 說/shuo1 ，只/zhi3 看/kan4 著/zhe5 太陽/tai4yang2 慢慢/man4man4 下山/xia4shan1 。
+= Ils s'assoient au bord de la rivière sans dire un mot, regardant seulement le soleil descendre lentement.

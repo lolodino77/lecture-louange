@@ -1,0 +1,400 @@
+# Conversations 221-230 — niveau 4 (Intermédiaire +), août–septembre année 3
+@series 221 | 馬偕與台灣 | Mackay et Taïwan | Après l'été, Luc découvre l'histoire de l'Église à Taïwan à travers George Leslie Mackay, les premiers croyants et la fidélité de Dieu dans le temps.
+
+=== 221
+series: 221
+title_zh: 一位從海上來的宣教士
+title_fr: Un missionnaire venu par la mer
+tagline: Histoire de l'Église à Taïwan — un exposé de l'ancien Zhang, un port du nord et un homme venu de loin.
+song: 我在這裡
+vocab: 宣教士=missionnaire | 登陸=débarquer | 北台灣=le nord de Taïwan | 福音=Évangile | 獻上=offrir, consacrer
+---
+九月/jiu3yue4 初/chu1 的/de5 主日學/zhu3ri4xue2 ，張長老/zhang1zhang3lao3 說/shuo1 要/yao4 帶/dai4 大家/da4jia1 認識/ren4shi4 台灣/tai2wan1 教會/jiao4hui4 的/de5 歷史/li4shi3 。
+= Au début de septembre, à l'école du dimanche, l'ancien Zhang annonça qu'il allait faire découvrir à tous l'histoire de l'Église à Taïwan.
+他/ta1 在/zai4 白板/bai2ban3 上/shang4 寫/xie3 下/xia4 一/yi1 個/ge4 名字/ming2zi5 ：馬偕/ma3xie2 。
+= Il écrivit un nom au tableau blanc : Mackay.
+小光/xiao3guang1 馬上/ma3shang4 舉手/ju3shou3 ：「他/ta1 是/shi4 台灣人/tai2wan1ren2 嗎/ma5 ？」
+= Xiao Guang leva aussitôt la main : « C'était un Taïwanais ? »
+張長老/zhang1zhang3lao3 笑/xiao4 著/zhe5 搖頭/yao2tou2 ：「不/bu4 ，他/ta1 是/shi4 從/cong2 加拿大/jia1na2da4 來/lai2 的/de5 宣教士/xuan1jiao4shi4 ，一八七二/yi1ba1qi1er4 年/nian2 在/zai4 淡水/dan4shui3 登陸/deng1lu4 。」
+= L'ancien Zhang secoua la tête en souriant : « Non. C'était un missionnaire venu du Canada, qui a débarqué à Tamsui en 1872. »
+路加/lu4jia1 聽/ting1 到/dao4 「從/cong2 加拿大/jia1na2da4 來/lai2 」這/zhe4 幾/ji3 個/ge4 字/zi4 ，忽然/hu1ran2 覺得/jue2de5 很/hen3 親切/qin1qie4 。
+= En entendant « venu du Canada », Luc ressentit soudain une certaine proximité.
+張長老/zhang1zhang3lao3 ：那時/na4shi2 的/de5 北台灣/bei3tai2wan1 ，對/dui4 外國人/wai4guo2ren2 來說/lai2shuo1 並/bing4 不/bu4 容易/rong2yi4 生活/sheng1huo2 。語言/yu3yan2 不同/bu4tong2 ，氣候/qi4hou4 不同/bu4tong2 ，連/lian2 飲食/yin3shi2 也/ye3 很/hen3 不/bu4 一樣/yi1yang4 。
+= À cette époque, vivre dans le nord de Taïwan n'était pas facile pour un étranger. La langue, le climat, même la nourriture, tout était différent.
+張長老/zhang1zhang3lao3 ：可是/ke3shi4 馬偕/ma3xie2 沒有/mei2you3 只/zhi3 待/dai1 在/zai4 港口/gang3kou3 ，他/ta1 走/zou3 進/jin4 鄉村/xiang1cun1 ，學/xue2 台語/tai2yu3 ，也/ye3 傳/chuan2 福音/fu2yin1 。
+= Mais Mackay ne resta pas au port. Il entra dans les villages, apprit le taïwanais et annonça l'Évangile.
+大衛/da4wei4 也/ye3 來/lai2 旁聽/pang2ting1 這/zhe4 堂/tang2 課/ke4 。他/ta1 問/wen4 ：「一/yi1 個/ge4 外國人/wai4guo2ren2 ，為什麼/wei4shen2me5 願意/yuan4yi4 跑/pao3 這麼/zhe4me5 遠/yuan3 來/lai2 ？」
+= David assistait lui aussi au cours. Il demanda : « Pourquoi un étranger accepterait-il de venir d'aussi loin ? »
+張長老/zhang1zhang3lao3 ：因為/yin1wei4 他/ta1 相信/xiang1xin4 ，耶穌/ye1su1 的/de5 福音/fu2yin1 值得/zhi2de2 他/ta1 把/ba3 一生/yi1sheng1 獻上/xian4shang4 。
+= L'ancien Zhang répondit : « Parce qu'il croyait que l'Évangile de Jésus valait qu'on lui consacre toute une vie. »
+張長老/zhang1zhang3lao3 ：他/ta1 不是/bu4shi4 來/lai2 做/zuo4 觀光/guan1guang1 的/de5 ，而是/er2shi4 來/lai2 愛/ai4 這/zhe4 塊/kuai4 土地/tu3di4 的/de5 人/ren2 。
+= « Il n'était pas venu faire du tourisme, mais aimer les gens de cette terre. »
+小恩/xiao3en1 低聲/di1sheng1 對/dui4 路加/lu4jia1 說/shuo1 ：「有/you3 一點/yi1dian3 像/xiang4 你/ni3 。」
+= Xiao En murmura à Luc : « Ça te ressemble un peu. »
+路加/lu4jia1 連忙/lian2mang2 搖頭/yao2tou2 ：「我/wo3 只是/zhi3shi4 來/lai2 交換/jiao1huan4 的/de5 ，差/chai4 很/hen3 多/duo1 。」
+= Luc secoua vite la tête : « Moi, je ne suis venu qu'en échange universitaire. C'est très différent. »
+張長老/zhang1zhang3lao3 又/you4 放/fang4 出/chu1 幾/ji3 張/zhang1 老/lao3 照片/zhao4pian4 ，有/you3 教堂/jiao4tang2 、有/you3 山路/shan1lu4 ，也/ye3 有/you3 一群/yi1qun2 孩子/hai2zi5 。
+= L'ancien Zhang montra ensuite quelques vieilles photos : une église, des chemins de montagne, et un groupe d'enfants.
+張長老/zhang1zhang3lao3 ：今天/jin1tian1 我們/wo3men5 在/zai4 台北/tai2bei3 可以/ke3yi3 很/hen3 自由/zi4you2 地/de5 聚會/ju4hui4 、唱歌/chang4ge1 、讀/du2 聖經/sheng4jing1 ，不是/bu4shi4 理所當然/li3suo3dang1ran2 的/de5 。前面/qian2mian4 有/you3 很/hen3 多/duo1 人/ren2 走/zou3 過/guo4 這/zhe4 條/tiao2 路/lu4 。
+= « Si aujourd'hui nous pouvons nous réunir librement à Taipei, chanter et lire la Bible, ce n'est pas quelque chose d'évident. Beaucoup d'autres ont marché sur ce chemin avant nous. »
+課程/ke4cheng2 結束/jie2shu4 前/qian2 ，大家/da4jia1 一起/yi1qi3 唱/chang4 《我/wo3 在/zai4 這裡/zhe4li3》。
+= Avant la fin du cours, tout le monde chanta ensemble « Me voici ».
+路加/lu4jia1 一邊/yi1bian1 唱/chang4 ，一邊/yi1bian1 想/xiang3 ：如果/ru2guo3 神/shen2 真的/zhen1de5 呼召/hu1zhao4 一/yi1 個/ge4 人/ren2 ，那/na4 個/ge4 人/ren2 真的/zhen1de5 可以/ke3yi3 走/zou3 得/de5 很/hen3 遠/yuan3 。
+= En chantant, Luc se dit que si Dieu appelle vraiment quelqu'un, cette personne peut aller très loin.
+
+=== 222
+series: 221
+title_zh: 拔牙和傳福音
+title_fr: Arracher des dents et annoncer l'Évangile
+tagline: Une histoire surprenante — un dentiste missionnaire, des pinces étranges et des villageois qui écoutent.
+song: 興起發光
+vocab: 拔牙=arracher une dent | 醫療=soins médicaux | 村莊=village | 接近=s'approcher de | 服事=servir
+---
+下/xia4 一/yi1 週/zhou1 的/de5 小組/xiao3zu3 ，張長老/zhang1zhang3lao3 帶/dai4 來/lai2 一/yi1 個/ge4 小/xiao3 盒子/he2zi5 。
+= La semaine suivante, l'ancien Zhang apporta une petite boîte au groupe de maison.
+他/ta1 打開/da3kai1 盒子/he2zi5 ，裡面/li3mian4 居然/ju1ran2 是/shi4 一/yi1 把/ba3 舊/jiu4 的/de5 拔牙/ba2ya2 鉗/qian2 。
+= Quand il l'ouvrit, on y découvrit, à la surprise générale, une vieille pince à arracher les dents.
+阿傑/a1jie2 往/wang3 後/hou4 縮/suo1 了/le5 一下/yi1xia4 ：「長老/zhang3lao3 ，今天/jin1tian1 的/de5 查經/cha2jing1 這麼/zhe4me5 可怕/ke3pa4 嗎/ma5 ？」
+= A-Jie recula d'un coup : « Ancien, l'étude biblique d'aujourd'hui va être aussi effrayante que ça ? »
+大家/da4jia1 都/dou1 笑/xiao4 了/le5 。
+= Tout le monde éclata de rire.
+張長老/zhang1zhang3lao3 ：馬偕/ma3xie2 除了/chu2le5 傳/chuan2 福音/fu2yin1 ，也/ye3 常/chang2 幫/bang1 人/ren2 看/kan4 病/bing4 、拔牙/ba2ya2 。
+= L'ancien Zhang expliqua : « En plus d'annoncer l'Évangile, Mackay soignait les malades et arrachait aussi des dents. »
+小光/xiao3guang1 睜大/zheng1da4 眼睛/yan3jing1 ：「所以/suo3yi3 他/ta1 是/shi4 宣教士/xuan1jiao4shi4 ，也是/ye3shi4 牙醫/ya2yi1 ？」
+= Xiao Guang ouvrit grand les yeux : « Donc il était missionnaire et dentiste ? »
+張長老/zhang1zhang3lao3 ：可以/ke3yi3 這樣/zhe4yang4 說/shuo1 。那時/na4shi2 很/hen3 多/duo1 村莊/cun1zhuang1 沒有/mei2you3 醫療/yi1liao2 ，人/ren2 牙痛/ya2tong4 得/de5 很/hen3 厲害/li4hai4 。他/ta1 幫/bang1 他們/ta1men5 解除/jie3chu2 痛苦/tong4ku3 ，人/ren2 就/jiu4 比較/bi3jiao4 願意/yuan4yi4 接近/jie1jin4 他/ta1 。
+= « On peut dire ça. À l'époque, beaucoup de villages n'avaient pas de soins médicaux, et les gens souffraient terriblement des dents. En les soulageant, il gagnait leur confiance et ils acceptaient plus volontiers de l'approcher. »
+路加/lu4jia1 ：原來/yuan2lai2 服事/fu2shi4 不/bu4 只是/zhi3shi4 講/jiang3 道理/dao4li3 ，也/ye3 是/shi4 幫/bang1 人/ren2 解決/jie3jue2 真正/zhen1zheng4 的/de5 需要/xu1yao4 。
+= Luc dit : « Donc servir, ce n'est pas seulement parler, c'est aussi répondre à de vrais besoins. »
+張長老/zhang1zhang3lao3 點頭/dian3tou2 ：「對/dui4 。耶穌/ye1su1 也是/ye3shi4 這樣/zhe4yang4 ，祂/ta1 傳/chuan2 天國/tian1guo2 的/de5 福音/fu2yin1 ，也/ye3 醫治/yi1zhi4 病人/bing4ren2 。」
+= L'ancien Zhang hocha la tête : « Oui. Jésus faisait pareil : il annonçait l'Évangile du royaume et guérissait les malades. »
+大衛/da4wei4 若有所思/ruo4you3suo3si1 地/de5 說/shuo1 ：「這/zhe4 樣/yang4 聽/ting1 起來/qi3lai2 ，比/bi3 我/wo3 想像/xiang3xiang4 的/de5 宣教/xuan1jiao4 真實/zhen1shi2 多/duo1 了/le5 。」
+= David dit pensivement : « Présentée comme ça, la mission me paraît beaucoup plus concrète que je ne l'imaginais. »
+小恩/xiao3en1 ：有些/you3xie1 人/ren2 先/xian1 因為/yin1wei4 被/bei4 幫助/bang1zhu4 而/er2 打開/da3kai1 心/xin1 ，後來/hou4lai2 才/cai2 願意/yuan4yi4 聽/ting1 福音/fu2yin1 。
+= Xiao En ajouta : « Certaines personnes ouvrent d'abord leur cœur parce qu'elles ont été aidées, puis elles acceptent d'écouter l'Évangile. »
+阿傑/a1jie2 看/kan4 著/zhe5 那/na4 把/ba3 鉗子/qian2zi5 ，還是/hai2shi4 皺/zhou4 著/zhe5 眉頭/mei2tou2 ：「我/wo3 覺得/jue2de5 ，如果/ru2guo3 是/shi4 我/wo3 ，我/wo3 可能/ke3neng2 先/xian1 跑/pao3 掉/diao4 。」
+= A-Jie regarda encore la pince en fronçant les sourcils : « Moi, à sa place, je crois que je me serais enfui avant. »
+張長老/zhang1zhang3lao3 ：所以/suo3yi3 神/shen2 沒有/mei2you3 叫/jiao4 你/ni3 去/qu4 拔牙/ba2ya2 ，只/zhi3 叫/jiao4 你/ni3 好好/hao3hao3 彈/tan2 吉他/ji2ta1 。
+= L'ancien Zhang répondit : « C'est pour ça que Dieu ne t'a pas appelé à arracher des dents, mais à bien jouer de la guitare. »
+大家/da4jia1 又/you4 笑/xiao4 了/le5 一次/yi1ci4 。
+= Tout le monde rit de nouveau.
+最後/zui4hou4 ，張長老/zhang1zhang3lao3 說/shuo1 ：「無論/wu2lun4 是/shi4 拔牙/ba2ya2 、教書/jiao1shu1 、做飯/zuo4fan4 ，只要/zhi3yao4 是/shi4 為/wei4 主/zhu3 而/er2 做/zuo4 ，都/dou1 可以/ke3yi3 成為/cheng2wei2 傳/chuan2 福音/fu2yin1 的/de5 路/lu4 。」
+= Enfin, l'ancien Zhang conclut : « Qu'il s'agisse d'arracher des dents, d'enseigner ou de cuisiner, si c'est fait pour le Seigneur, cela peut devenir un chemin pour l'Évangile. »
+回家/hui2jia1 的/de5 路上/lu4shang4 ，路加/lu4jia1 想/xiang3 ，也許/ye3xu3 神/shen2 真的/zhen1de5 會/hui4 用/yong4 每/mei3 個/ge4 人/ren2 手/shou3 上/shang4 不同/bu4tong2 的/de5 工具/gong1ju4 。
+= Sur le chemin du retour, Luc se dit que Dieu se sert peut-être vraiment d'outils différents dans les mains de chacun.
+
+=== 223
+series: 221
+title_zh: 雨中的長路
+title_fr: Une longue route sous la pluie
+tagline: Persévérance — des chemins de montagne, des chaussures trempées et un Évangile porté à pied.
+song: 從早晨到夜晚
+vocab: 山路=chemin de montagne | 風雨=vent et pluie | 堅持=persévérer | 偏遠=éloigné | 腳步=pas
+---
+星期三/xing1qi2san1 晚上/wan3shang4 ，張長老/zhang1zhang3lao3 繼續/ji4xu4 講/jiang3 馬偕/ma3xie2 的/de5 故事/gu4shi5 。
+= Le mercredi soir, l'ancien Zhang poursuivit le récit de la vie de Mackay.
+他/ta1 說/shuo1 ，那時/na4shi2 沒有/mei2you3 現在/xian4zai4 這樣/zhe4yang4 方便/fang1bian4 的/de5 交通/jiao1tong1 ，很多/hen3duo1 偏遠/pian1yuan3 的/de5 地方/di4fang1 只能/zhi3neng2 靠/kao4 走路/zou3lu4 去/qu4 。
+= Il expliqua qu'à l'époque, il n'existait pas de moyens de transport aussi pratiques qu'aujourd'hui, et que beaucoup d'endroits reculés n'étaient accessibles qu'à pied.
+小恩/xiao3en1 ：所以/suo3yi3 他/ta1 常/chang2 常/chang2 走/zou3 山路/shan1lu4 ？
+= Xiao En demanda : « Donc il marchait souvent sur des chemins de montagne ? »
+張長老/zhang1zhang3lao3 ：對/dui4 ，而且/er2qie3 常常/chang2chang2 是/shi4 在/zai4 風雨/feng1yu3 裡/li3 走/zou3 。
+= « Oui, et souvent sous le vent et la pluie. »
+路加/lu4jia1 想起/xiang3qi3 自己/zi4ji3 上/shang4 次/ci4 去/qu4 花蓮/hua1lian2 短宣/duan3xuan1 時/shi2 的/de5 山路/shan1lu4 ，立刻/li4ke4 覺得/jue2de5 腳/jiao3 都/dou1 酸/suan1 了/le5 。
+= Luc repensa aussitôt aux chemins de montagne de leur mission à Hualien, et ses jambes lui semblèrent déjà douloureuses.
+張長老/zhang1zhang3lao3 ：有/you3 人/ren2 記錄/ji4lu4 ，馬偕/ma3xie2 一生/yi1sheng1 走/zou3 過/guo4 很/hen3 多/duo1 路/lu4 ，去/qu4 探訪/tan4fang3 村莊/cun1zhuang1 、講道/jiang3dao4 、看病/kan4bing4 、建立/jian4li4 教會/jiao4hui4 。
+= L'ancien Zhang raconta que Mackay avait parcouru d'innombrables routes pour visiter des villages, prêcher, soigner et fonder des églises.
+大衛/da4wei4 ：如果/ru2guo3 沒有/mei2you3 人/ren2 歡迎/huan1ying2 他/ta1 呢/ne5 ？
+= David demanda : « Et si personne ne l'accueillait ? »
+張長老/zhang1zhang3lao3 ：那/na4 他/ta1 就/jiu4 繼續/ji4xu4 走/zou3 到/dao4 下/xia4 一/yi1 個/ge4 地方/di4fang1 。宣教/xuan1jiao4 不/bu4 是/shi4 一/yi1 次/ci4 就/jiu4 成功/cheng2gong1 的/de5 事/shi4 ，而是/er2shi4 長久/chang2jiu3 的/de5 堅持/jian1chi2 。
+= « Alors il continuait jusqu'au lieu suivant. La mission n'est pas quelque chose qui réussit en une seule fois, c'est une persévérance de longue haleine. »
+阿傑/a1jie2 ：我/wo3 現在/xian4zai4 只是/zhi3shi4 想/xiang3 一下/yi1xia4 ，鞋子/xie2zi5 濕/shi1 掉/diao4 的/de5 感覺/gan3jue2 ，就/jiu4 已經/yi3jing1 累/lei4 了/le5 。
+= A-Jie soupira : « Rien qu'en imaginant mes chaussures trempées, je suis déjà fatigué. »
+張長老/zhang1zhang3lao3 ：所以/suo3yi3 我們/wo3men5 今天/jin1tian1 要/yao4 學/xue2 的/de5 ，不/bu4 只是/zhi3shi4 歷史/li4shi3 ，也是/ye3shi4 忠心/zhong1xin1 。
+= « C'est pourquoi, dit l'ancien Zhang, ce que nous apprenons aujourd'hui n'est pas seulement de l'histoire, mais aussi la fidélité. »
+他/ta1 打開/da3kai1 聖經/sheng4jing1 ，讀/du2 了/le5 加拉太書/jia1la1tai4shu1 六/liu4 章/zhang1 九/jiu3 節/jie2 ：「我們/wo3men5 行善/xing2shan4 ，不可/bu4ke3 喪志/sang4zhi4 ；若/ruo4 不/bu4 灰心/hui1xin1 ，到了/dao4le5 時候/shi2hou5 就/jiu4 要/yao4 收成/shou1cheng2 。」
+= Il ouvrit la Bible et lut Galates 6.9 : « Ne nous lassons pas de faire le bien ; car nous moissonnerons au temps convenable, si nous ne nous relâchons pas. »
+小恩/xiao3en1 輕輕/qing1qing1 地/de5 說/shuo1 ：「有時候/you3shi2hou5 我/wo3 覺得/jue2de5 自己/zi4ji3 只是/zhi3shi4 在/zai4 做/zuo4 很/hen3 小/xiao3 的/de5 事/shi4 ，可是/ke3shi4 神/shen2 也/ye3 會/hui4 記得/ji4de5 。」
+= Xiao En murmura : « Parfois j'ai l'impression de ne faire que de toutes petites choses, mais Dieu s'en souvient aussi. »
+路加/lu4jia1 點頭/dian3tou2 ：「從/cong2 早上/zao3shang4 到/dao4 晚上/wan3shang4 ，一步/yi1bu4 一步/yi1bu4 地/de5 走/zou3 ，也/ye3 是/shi4 一/yi1 種/zhong3 忠心/zhong1xin1 。」
+= Luc hocha la tête : « Marcher pas à pas, du matin au soir, c'est aussi une forme de fidélité. »
+那/na4 晚/wan3 上/shang4 回家/hui2jia1 時/shi2 ，他/ta1 一邊/yi1bian1 騎/qi2 捷運/jie2yun4 ，一邊/yi1bian1 聽/ting1 《從/cong2 早晨/zao3chen2 到/dao4 夜晚/ye4wan3》。
+= En rentrant ce soir-là, il écouta « Du matin jusqu'au soir » dans le métro.
+他/ta1 忽然/hu1ran2 明白/ming2bai5 ，有些/you3xie1 人/ren2 留下/liu2xia4 的/de5 ，不是/bu4shi4 一/yi1 次/ci4 偉大/wei3da4 的/de5 表現/biao3xian4 ，而是/er2shi4 很/hen3 多/duo1 年/nian2 沒有/mei2you3 停/ting2 下/xia4 的/de5 腳步/jiao3bu4 。
+= Il comprit soudain que ce que certaines personnes laissent derrière elles n'est pas un seul exploit, mais des années de pas qui ne se sont jamais arrêtés.
+
+=== 224
+series: 221
+title_zh: 第一間小教會
+title_fr: La première petite église
+tagline: Commencements modestes — une maison simple, quelques bancs et une poignée de croyants.
+song: 安靜
+vocab: 聚會=réunion, culte | 信徒=croyant | 建立=fonder, établir | 簡陋=simple, rudimentaire | 開始=commencement | 同心=un même cœur
+---
+主日/zhu3ri4 下午/xia4wu3 ，王牧師/wang2mu4shi1 帶/dai4 幾/ji3 個/ge4 年輕人/nian2qing1ren2 去/qu4 參觀/can1guan1 一/yi1 個/ge4 跟/gen1 馬偕/ma3xie2 有關/you3guan1 的/de5 舊/jiu4 教會/jiao4hui4 。
+= Le dimanche après-midi, le pasteur Wang emmena quelques jeunes visiter une vieille église liée à Mackay.
+那/na4 棟/dong4 建築/jian4zhu2 不/bu4 大/da4 ，牆/qiang2 也/ye3 不/bu4 新/xin1 ，可是/ke3shi4 一/yi1 走/zou3 進去/jin4qu4 ，大家/da4jia1 就/jiu4 自然/zi4ran2 地/de5 安靜/an1jing4 下來/xia4lai2 。
+= Le bâtiment n'était ni grand ni neuf, mais dès qu'ils y entrèrent, tous se turent naturellement.
+王牧師/wang2mu4shi1 ：你們/ni3men5 看/kan4 ，最/zui4 早/zao3 的/de5 聚會/ju4hui4 地方/di4fang1 常常/chang2chang2 很/hen3 簡陋/jian3lou4 。
+= Le pasteur Wang dit : « Regardez, les premiers lieux de culte étaient souvent très rudimentaires. »
+王牧師/wang2mu4shi1 ：沒有/mei2you3 漂亮/piao4liang5 的/de5 燈光/deng1guang1 ，沒有/mei2you3 很/hen3 好/hao3 的/de5 音響/yin1xiang3 ，甚至/shen4zhi4 連/lian2 椅子/yi3zi5 都/dou1 不/bu4 一定/yi1ding4 夠/gou4 。
+= « Pas de beaux éclairages, pas de bonne sonorisation, parfois même pas assez de chaises. »
+阿傑/a1jie2 看/kan4 了/le5 看/kan4 四周/si4zhou1 ：「如果/ru2guo3 在/zai4 這裡/zhe4li3 練團/lian4tuan2 ，我/wo3 的/de5 吉他/ji2ta1 可能/ke3neng2 會/hui4 比/bi3 我/wo3 還/hai2 大聲/da4sheng1 。」
+= A-Jie regarda autour de lui : « Si on répétait ici, ma guitare serait sans doute plus forte que moi. »
+小恩/xiao3en1 卻/que4 說/shuo1 ：「可是/ke3shi4 我/wo3 覺得/jue2de5 這裡/zhe4li3 很/hen3 溫暖/wen1nuan3 。」
+= Xiao En dit au contraire : « Pourtant, je trouve cet endroit très chaleureux. »
+王牧師/wang2mu4shi1 ：因為/yin1wei4 教會/jiao4hui4 最/zui4 重要/zhong4yao4 的/de5 ，從/cong2 來/lai2 不/bu4 是/shi4 建築/jian4zhu2 ，而是/er2shi4 人/ren2 。
+= « Parce que ce qui compte le plus dans l'Église, ce n'est jamais le bâtiment, mais les personnes. »
+他/ta1 指/zhi3 著/zhe5 前面/qian2mian4 的/de5 木頭/mu4tou5 長椅/chang2yi3 說/shuo1 ：「也許/ye3xu3 當年/dang1nian2 只有/zhi3you3 幾/ji3 個/ge4 信徒/xin4tu2 坐/zuo4 在/zai4 這裡/zhe4li3 ，可是/ke3shi4 他們/ta1men5 同心/tong2xin1 禱告/dao3gao4 ，神/shen2 就/jiu4 讓/rang4 福音/fu2yin1 慢慢/man4man4 長/zhang3 起來/qi3lai2 。」
+= Il montra les bancs de bois devant eux : « Peut-être qu'à l'époque seuls quelques croyants s'asseyaient ici, mais ils priaient d'un même cœur, et Dieu a fait grandir l'Évangile peu à peu. »
+大衛/da4wei4 站/zhan4 在/zai4 後面/hou4mian4 ，沒有/mei2you3 說/shuo1 太/tai4 多/duo1 話/hua4 。
+= David se tenait au fond et parlait peu.
+過/guo4 了/le5 一陣子/yi1zhen4zi5 ，他/ta1 才/cai2 問/wen4 ：「所以/suo3yi3 一/yi1 開始/kai1shi3 ，真的/zhen1de5 只有/zhi3you3 這麼/zhe4me5 少/shao3 的/de5 人/ren2 ？」
+= Au bout d'un moment, il demanda : « Donc au début, ils étaient vraiment si peu nombreux ? »
+王牧師/wang2mu4shi1 ：對/dui4 。很多/hen3duo1 神/shen2 的/de5 工作/gong1zuo4 ，開始/kai1shi3 的/de5 時候/shi2hou5 看起來/kan4qi3lai2 都/dou1 很/hen3 小/xiao3 。
+= « Oui. Beaucoup d'œuvres de Dieu paraissent très petites au commencement. »
+王牧師/wang2mu4shi1 ：可是/ke3shi4 只要/zhi3yao4 是/shi4 神/shen2 親自/qin1zi4 建立/jian4li4 的/de5 ，就/jiu4 不/bu4 會/hui4 白白/bai2bai2 開始/kai1shi3 。
+= « Mais si c'est Dieu lui-même qui les établit, leur commencement n'est jamais vain. »
+離開/li2kai1 前/qian2 ，大家/da4jia1 安靜/an1jing4 地/de5 坐/zuo4 了/le5 一/yi1 分鐘/fen1zhong1 。
+= Avant de repartir, tous restèrent assis en silence pendant une minute.
+路加/lu4jia1 心裡/xin1li3 想/xiang3 ，也許/ye3xu3 很/hen3 多/duo1 偉大/wei3da4 的/de5 故事/gu4shi5 ，都是/dou1shi4 從/cong2 一/yi1 間/jian1 小/xiao3 教會/jiao4hui4 、幾/ji3 個/ge4 同心/tong2xin1 的/de5 人/ren2 開始/kai1shi3 的/de5 。
+= Luc se dit que bien des grandes histoires commencent peut-être dans une petite église, avec quelques personnes d'un même cœur.
+
+=== 225
+series: 221
+title_zh: 學台語的理由
+title_fr: Pourquoi apprendre le taïwanais
+tagline: Langue et amour — un vieux carnet, des mots difficiles et le désir de se faire comprendre.
+song: 是祢的應許
+vocab: 台語=taïwanais | 語言=langue | 溝通=communiquer | 尊重=respecter | 聽懂=comprendre en entendant | 用心=avec attention, de tout cœur
+---
+星期五/xing1qi2wu3 晚上/wan3shang4 ，小恩/xiao3en1 在/zai4 教會/jiao4hui4 圖書角/tu2shu1jiao3 找到/zhao3dao4 一/yi1 本/ben3 介紹/jie4shao4 馬偕/ma3xie2 的/de5 小冊子/xiao3ce4zi5 。
+= Le vendredi soir, Xiao En trouva dans le coin bibliothèque de l'église un petit livret sur Mackay.
+裡面/li3mian4 提到/ti2dao4 ，他/ta1 很/hen3 努力/nu3li4 學/xue2 台語/tai2yu3 ，因為/yin1wei4 他/ta1 不/bu4 想/xiang3 只/zhi3 靠/kao4 翻譯/fan1yi4 傳/chuan2 福音/fu2yin1 。
+= On y expliquait qu'il avait travaillé dur pour apprendre le taïwanais, parce qu'il ne voulait pas annoncer l'Évangile uniquement par l'intermédiaire d'un traducteur.
+路加/lu4jia1 看/kan4 完/wan2 以後/yi3hou4 ，忍不住/ren3bu4zhu4 說/shuo1 ：「我/wo3 光/guang1 學/xue2 中文/zhong1wen2 就/jiu4 已經/yi3jing1 很/hen3 辛苦/xin1ku3 了/le5 ，他/ta1 還/hai2 要/yao4 學/xue2 台語/tai2yu3 。」
+= Après l'avoir lu, Luc ne put s'empêcher de dire : « Moi, rien qu'avec le chinois, j'ai déjà du mal, et lui devait encore apprendre le taïwanais. »
+小恩/xiao3en1 ：因為/yin1wei4 語言/yu3yan2 不/bu4 只是/zhi3shi4 工具/gong1ju4 ，也是/ye3shi4 一/yi1 種/zhong3 愛/ai4 和/he2 尊重/zun1zhong4 。
+= Xiao En répondit : « Parce qu'une langue n'est pas seulement un outil, c'est aussi une manière d'aimer et de respecter. »
+大衛/da4wei4 正在/zheng4zai4 旁邊/pang2bian1 看/kan4 書/shu1 ，聽到/ting1dao4 這/zhe4 句/ju4 話/hua4 ，抬頭/tai2tou2 看/kan4 了/le5 一眼/yi1yan3 。
+= David lisait à côté ; en entendant cette phrase, il leva les yeux.
+大衛/da4wei4 ：所以/suo3yi3 他/ta1 學/xue2 台語/tai2yu3 ，不是/bu4shi4 為/wei4 了/le5 顯得/xian3de5 自己/zi4ji3 很/hen3 厲害/li4hai4 ，而是/er2shi4 為/wei4 了/le5 讓/rang4 人/ren2 聽懂/ting1dong3 ？
+= David demanda : « Donc il apprenait le taïwanais non pour montrer qu'il était fort, mais pour que les gens comprennent ? »
+小恩/xiao3en1 點頭/dian3tou2 ：「對/dui4 。如果/ru2guo3 你/ni3 真的/zhen1de5 在乎/zai4hu1 一/yi1 個/ge4 人/ren2 ，你/ni3 就/jiu4 會/hui4 想/xiang3 用/yong4 他/ta1 聽/ting1 得/de5 懂/dong3 的/de5 方式/fang1shi4 跟/gen1 他/ta1 說話/shuo1hua4 。」
+= Xiao En hocha la tête : « Oui. Si tu tiens vraiment à quelqu'un, tu veux lui parler d'une manière qu'il puisse comprendre. »
+路加/lu4jia1 突然/tu2ran2 想起/xiang3qi3 自己/zi4ji3 剛/gang1 到/dao4 台北/tai2bei3 時/shi2 ，連/lian2 點/dian3 餐/can1 都/dou1 常/chang2 常/chang2 出錯/chu1cuo4 。
+= Luc repensa soudain à ses débuts à Taipei, quand il se trompait même pour commander à manger.
+他/ta1 說/shuo1 ：「那時/na4shi2 如果/ru2guo3 沒有/mei2you3 你們/ni3men5 願意/yuan4yi4 慢慢/man4man4 聽/ting1 我/wo3 說/shuo1 ，我/wo3 可能/ke3neng2 早/zao3 就/jiu4 放棄/fang4qi4 了/le5 。」
+= Il dit : « Si vous n'aviez pas accepté de m'écouter patiemment à l'époque, j'aurais peut-être abandonné depuis longtemps. »
+小恩/xiao3en1 笑/xiao4 著/zhe5 說/shuo1 ：「所以/suo3yi3 現在/xian4zai4 輪/lun2 到/dao4 你/ni3 去/qu4 用心/yong4xin1 聽/ting1 別人/bie2ren2 了/le5 。」
+= Xiao En sourit : « Alors maintenant, c'est à ton tour d'écouter les autres avec attention. »
+張長老/zhang1zhang3lao3 後來/hou4lai2 補充/bu3chong1 說/shuo1 ，馬偕/ma3xie2 不/bu4 只/zhi3 學/xue2 語言/yu3yan2 ，也/ye3 學/xue2 當地/dang1di4 人/ren2 的/de5 生活/sheng1huo2 習慣/xi2guan4 。
+= Plus tard, l'ancien Zhang ajouta que Mackay n'avait pas seulement appris la langue, mais aussi les habitudes de vie des gens du pays.
+張長老/zhang1zhang3lao3 ：福音/fu2yin1 不/bu4 會/hui4 因為/yin1wei4 進/jin4 到/dao4 一/yi1 個/ge4 新/xin1 地方/di4fang1 就/jiu4 改變/gai3bian4 ，可是/ke3shi4 我們/wo3men5 傳/chuan2 福音/fu2yin1 的/de5 方式/fang1shi4 可以/ke3yi3 更/geng4 謙卑/qian1bei1 。
+= « L'Évangile ne change pas quand il entre dans un nouveau lieu, dit-il, mais notre manière de l'annoncer peut devenir plus humble. »
+那/na4 晚/wan3 上/shang4 ，路加/lu4jia1 回家/hui2jia1 後/hou4 ，特別/te4bie2 打電話/da3dian4hua4 給/gei3 法國/fa3guo2 的/de5 媽媽/ma1ma5 ，耐心/nai4xin1 地/de5 聽/ting1 她/ta1 講/jiang3 了/le5 很/hen3 久/jiu3 。
+= Ce soir-là, en rentrant, Luc appela spécialement sa mère en France et l'écouta longuement avec patience.
+他/ta1 想/xiang3 ，也許/ye3xu3 真正/zhen1zheng4 的/de5 溝通/gou1tong1 ，本來/ben3lai2 就/jiu4 是/shi4 一/yi1 種/zhong3 愛/ai4 的/de5 練習/lian4xi2 。
+= Il se dit que la vraie communication est peut-être, depuis le début, un exercice d'amour.
+
+=== 226
+series: 221
+title_zh: 一顆種子和一棵樹
+title_fr: Une graine et un arbre
+tagline: Croissance — un jardin d'église, une image simple et la patience de Dieu dans l'histoire.
+song: 這一生最美的祝福
+vocab: 種子=graine | 成長=grandir, croissance | 歷代=au fil des générations | 祝福=bénédiction | 看不見=invisible, qu'on ne voit pas
+---
+星期天/xing1qi2tian1 中午/zhong1wu3 ，師母/shi1mu3 在/zai4 教會/jiao4hui4 後面/hou4mian4 的/de5 小/xiao3 花園/hua1yuan2 澆水/jiao1shui3 。
+= Le dimanche midi, Mme Wang arrosait le petit jardin derrière l'église.
+路加/lu4jia1 和/he2 小恩/xiao3en1 幫/bang1 她/ta1 搬/ban1 花盆/hua1pen2 ，順便/shun4bian4 聊/liao2 到/dao4 這/zhe4 幾/ji3 週/zhou1 學/xue2 的/de5 台灣/tai2wan1 教會/jiao4hui4 歷史/li4shi3 。
+= Luc et Xiao En l'aidaient à déplacer des pots de fleurs, tout en parlant de l'histoire de l'Église à Taïwan qu'ils étudiaient depuis quelques semaines.
+師母/shi1mu3 拿/na2 起/qi3 一/yi1 包/bao1 種子/zhong3zi5 ，說/shuo1 ：「你們/ni3men5 看/kan4 ，這/zhe4 麼/me5 小/xiao3 的/de5 東西/dong1xi5 ，以後/yi3hou4 可以/ke3yi3 長/zhang3 成/cheng2 很/hen3 大/da4 的/de5 樹/shu4 。」
+= Mme Wang prit un sachet de graines et dit : « Regardez, quelque chose d'aussi petit peut devenir plus tard un grand arbre. »
+小恩/xiao3en1 ：有點/you3dian3 像/xiang4 福音/fu2yin1 在/zai4 台灣/tai2wan1 的/de5 開始/kai1shi3 。
+= Xiao En répondit : « C'est un peu comme les débuts de l'Évangile à Taïwan. »
+師母/shi1mu3 點頭/dian3tou2 ：「對/dui4 。一/yi1 開始/kai1shi3 也許/ye3xu3 只有/zhi3you3 幾/ji3 個/ge4 人/ren2 ，可是/ke3shi4 神/shen2 讓/rang4 它/ta1 慢慢/man4man4 成長/cheng2zhang3 。」
+= Mme Wang hocha la tête : « Oui. Au début, il n'y a peut-être que quelques personnes, mais Dieu fait grandir cela peu à peu. »
+大衛/da4wei4 剛好/gang1hao3 經過/jing1guo4 ，聽到/ting1dao4 這/zhe4 句/ju4 話/hua4 ，就/jiu4 停/ting2 下來/xia4lai2 幫忙/bang1mang2 。
+= David passait justement par là ; en entendant cette phrase, il s'arrêta pour donner un coup de main.
+大衛/da4wei4 ：可是/ke3shi4 種子/zhong3zi5 埋/mai2 在/zai4 土裡/tu3li3 的/de5 時候/shi2hou5 ，看起來/kan4qi3lai2 什麼/shen2me5 都/dou1 沒有/mei2you3 發生/fa1sheng1 。
+= David dit : « Mais quand une graine est enterrée dans la terre, on dirait qu'il ne se passe rien. »
+師母/shi1mu3 ：是/shi4 啊/a5 ，所以/suo3yi3 人/ren2 常/chang2 常/chang2 沒有/mei2you3 耐心/nai4xin1 。
+= « Oui, répondit Mme Wang, c'est pour ça que les gens manquent souvent de patience. »
+師母/shi1mu3 ：我們/wo3men5 喜歡/xi3huan5 馬上/ma3shang4 看見/kan4jian4 結果/jie2guo3 ，可是/ke3shi4 神/shen2 很/hen3 會/hui4 做/zuo4 那些/na4xie1 我們/wo3men5 看不見/kan4bu4jian4 的/de5 工作/gong1zuo4 。
+= « Nous aimons voir des résultats tout de suite, mais Dieu sait très bien accomplir les œuvres invisibles. »
+路加/lu4jia1 想起/xiang3qi3 大衛/da4wei4 這/zhe4 幾/ji3 個/ge4 月/yue4 來/lai2 的/de5 改變/gai3bian4 ，卻/que4 沒有/mei2you3 說/shuo1 出來/chu1lai2 。
+= Luc pensa aux changements de David ces derniers mois, mais ne dit rien.
+師母/shi1mu3 又/you4 說/shuo1 ：「馬偕/ma3xie2 種/zhong4 下/xia4 的/de5 ，不是/bu4shi4 只/zhi3 有/you3 一/yi1 代/dai4 的/de5 祝福/zhu4fu2 ，而是/er2shi4 歷代/li4dai4 的/de5 祝福/zhu4fu2 。」
+= Mme Wang ajouta : « Ce que Mackay a semé n'a pas béni une seule génération, mais des générations entières. »
+小恩/xiao3en1 輕輕/qing1qing1 哼/heng1 起/qi3 《這/zhe4 一/yi1 生/sheng1 最/zui4 美/mei3 的/de5 祝福/zhu4fu2》。
+= Xiao En se mit à fredonner doucement « La plus belle bénédiction de cette vie ».
+阿傑/a1jie2 從/cong2 旁邊/pang2bian1 經過/jing1guo4 ，聽到/ting1dao4 以後/yi3hou4 說/shuo1 ：「你們/ni3men5 現在/xian4zai4 連/lian2 澆花/jiao1hua1 都/dou1 可以/ke3yi3 變/bian4 成/cheng2 查經/cha2jing1 。」
+= A-Jie passa à côté d'eux et lança : « Vous arrivez même à transformer l'arrosage des fleurs en étude biblique. »
+師母/shi1mu3 笑/xiao4 著/zhe5 回答/hui2da2 ：「因為/yin1wei4 神/shen2 的/de5 道/dao4 本來/ben3lai2 就/jiu4 在/zai4 很/hen3 多/duo1 小/xiao3 事情/shi4qing5 裡/li3 。」
+= Mme Wang répondit en souriant : « Parce que la parole de Dieu se trouve déjà dans beaucoup de petites choses. »
+那/na4 天/tian1 下午/xia4wu3 ，路加/lu4jia1 看/kan4 著/zhe5 花園/hua1yuan2 裡/li3 的/de5 小/xiao3 苗/miao2 ，忽然/hu1ran2 對/dui4 「慢慢/man4man4 長/zhang3 大/da4 」這/zhe4 四/si4 個/ge4 字/zi4 有/you3 了/le5 新/xin1 的/de5 感覺/gan3jue2 。
+= Cet après-midi-là, en regardant les jeunes pousses du jardin, Luc eut une nouvelle compréhension des mots « grandir lentement ».
+
+=== 227
+series: 221
+title_zh: 淡水河邊的下午
+title_fr: Un après-midi au bord de la rivière Tamsui
+tagline: Mémoire et appel — une promenade, un vieux quai et une question sur ce que Dieu demande à chacun.
+song: 我在這裡
+vocab: 河邊=bord de rivière | 碼頭=quai, embarcadère | 呼召=appel de Dieu | 回應=répondre
+---
+星期六/xing1qi2liu4 下午/xia4wu3 ，路加/lu4jia1 和/he2 小恩/xiao3en1 去/qu4 淡水/dan4shui3 散步/san4bu4 。
+= Le samedi après-midi, Luc et Xiao En allèrent se promener à Tamsui.
+河邊/he2bian1 的/de5 風/feng1 很/hen3 舒服/shu1fu5 ，觀光客/guan1guang1ke4 很/hen3 多/duo1 ，可是/ke3shi4 他們/ta1men5 走/zou3 到/dao4 舊/jiu4 碼頭/ma3tou2 附近/fu4jin4 時/shi2 ，腳步/jiao3bu4 自然/zi4ran2 慢/man4 了/le5 下來/xia4lai2 。
+= Le vent au bord de la rivière était agréable et il y avait beaucoup de touristes, mais en arrivant près de l'ancien quai, leurs pas ralentirent d'eux-mêmes.
+小恩/xiao3en1 ：想/xiang3 到/dao4 一百/yi1bai3 多/duo1 年/nian2 前/qian2 ，馬偕/ma3xie2 也是/ye3shi4 從/cong2 這/zhe4 一帶/yi1dai4 上岸/shang4an4 的/de5 ，感覺/gan3jue2 很/hen3 奇妙/qi2miao4 。
+= Xiao En dit : « C'est étrange de penser qu'il y a plus de cent ans, Mackay a lui aussi débarqué dans ce secteur. »
+路加/lu4jia1 看/kan4 著/zhe5 河面/he2mian4 ，說/shuo1 ：「如果/ru2guo3 是/shi4 我/wo3 ，我/wo3 可能/ke3neng2 會/hui4 很/hen3 害怕/hai4pa4 。」
+= Luc regarda la rivière : « Si ça avait été moi, j'aurais probablement eu très peur. »
+小恩/xiao3en1 ：可是/ke3shi4 他/ta1 還是/hai2shi4 來/lai2 了/le5 。
+= Xiao En répondit : « Pourtant, il est venu quand même. »
+兩/liang3 個/ge4 人/ren2 安靜/an1jing4 了/le5 一陣子/yi1zhen4zi5 。
+= Ils restèrent silencieux un moment.
+後來/hou4lai2 ，小恩/xiao3en1 問/wen4 ：「路加/lu4jia1 ，你/ni3 有/you3 沒有/mei2you3 想過/xiang3guo4 ，神/shen2 以後/yi3hou4 可能/ke3neng2 要/yao4 你/ni3 做/zuo4 什麼/shen2me5 ？」
+= Puis Xiao En demanda : « Luc, as-tu déjà pensé à ce que Dieu pourrait te demander plus tard ? »
+路加/lu4jia1 被/bei4 這/zhe4 個/ge4 問題/wen4ti2 嚇/xia4 了/le5 一下/yi1xia4 。
+= Cette question surprit Luc.
+路加/lu4jia1 ：我/wo3 不/bu4 知道/zhi1dao4 。以前/yi3qian2 我/wo3 只/zhi3 想/xiang3 把/ba3 中文/zhong1wen2 學/xue2 好/hao3 ，把/ba3 大學/da4xue2 念/nian4 完/wan2 。
+= Luc répondit : « Je ne sais pas. Avant, je voulais seulement bien apprendre le chinois et finir l'université. »
+路加/lu4jia1 ：可是/ke3shi4 這/zhe4 一/yi1 年/nian2 ，我/wo3 常/chang2 常/chang2 覺得/jue2de5 ，神/shen2 好像/hao3xiang4 不/bu4 只/zhi3 是/shi4 要/yao4 我/wo3 當/dang1 一/yi1 個/ge4 來/lai2 台灣/tai2wan1 讀書/du2shu1 的/de5 人/ren2 。
+= « Mais cette année, j'ai souvent l'impression que Dieu ne veut pas seulement que je sois quelqu'un venu étudier à Taïwan. »
+小恩/xiao3en1 沒有/mei2you3 立刻/li4ke4 接話/jie1hua4 ，只/zhi3 是/shi4 輕輕/qing1qing1 地/de5 說/shuo1 ：「如果/ru2guo3 祂/ta1 真的/zhen1de5 呼召/hu1zhao4 你/ni3 ，祂/ta1 也/ye3 會/hui4 給/gei3 你/ni3 回應/hui2ying4 的/de5 力量/li4liang4 。」
+= Xiao En ne répondit pas tout de suite ; elle dit seulement doucement : « S'il t'appelle vraiment, il te donnera aussi la force de répondre. »
+路加/lu4jia1 苦笑/ku3xiao4 ：「你/ni3 說/shuo1 得/de5 很/hen3 輕鬆/qing1song1 。」
+= Luc eut un sourire gêné : « Tu dis ça comme si c'était facile. »
+小恩/xiao3en1 ：我/wo3 沒有/mei2you3 說/shuo1 容易/rong2yi4 啊/a5 。我/wo3 只是/zhi3shi4 覺得/jue2de5 ，神/shen2 不/bu4 會/hui4 亂/luan4 帶/dai4 人/ren2 走/zou3 路/lu4 。
+= Xiao En répondit : « Je n'ai pas dit que c'était facile. Je pense seulement que Dieu ne conduit pas les gens au hasard. »
+夕陽/xi1yang2 慢慢/man4man4 落/luo4 下/xia4 去/qu4 ，河面/he2mian4 變/bian4 得/de5 金金/jin1jin1 的/de5 。
+= Le soleil couchant descendit peu à peu, et la rivière prit une couleur dorée.
+路加/lu4jia1 心裡/xin1li3 忽然/hu1ran2 有/you3 一點/yi1dian3 緊張/jin3zhang1 ，也/ye3 有/you3 一點/yi1dian3 平安/ping2an1 。
+= Luc sentit soudain à la fois un peu de tension et un peu de paix.
+他/ta1 想/xiang3 ，也許/ye3xu3 「我/wo3 在/zai4 這裡/zhe4li3 」這/zhe4 四/si4 個/ge4 字/zi4 ，有時候/you3shi2hou5 不/bu4 只是/zhi3shi4 唱/chang4 給/gei3 神/shen2 聽/ting1 的/de5 ，也是/ye3shi4 要/yao4 自己/zi4ji3 真的/zhen1de5 說/shuo1 出來/chu1lai2 的/de5 。
+= Il se dit que les mots « me voici » ne sont pas toujours seulement chantés pour Dieu ; parfois, il faut vraiment les prononcer soi-même.
+
+=== 228
+series: 221
+title_zh: 不是一個人的故事
+title_fr: Ce n'est pas l'histoire d'un seul homme
+tagline: Communauté — derrière un grand nom, beaucoup de croyants fidèles, des femmes, des enfants et des familles entières.
+song: 愛中相遇
+vocab: 同工=collaborateur dans l'œuvre | 家庭=famille | 一起=ensemble | 背後=derrière | 默默=discrètement
+---
+這/zhe4 週/zhou1 的/de5 查經/cha2jing1 快/kuai4 結束/jie2shu4 時/shi2 ，大衛/da4wei4 忽然/hu1ran2 問/wen4 ：「我們/wo3men5 一直/yi1zhi2 在/zai4 講/jiang3 馬偕/ma3xie2 ，可是/ke3shi4 歷史/li4shi3 真的/zhen1de5 只/zhi3 是/shi4 一/yi1 個/ge4 人/ren2 的/de5 故事/gu4shi5 嗎/ma5 ？」
+= À la fin de l'étude biblique de la semaine, David demanda soudain : « On parle toujours de Mackay, mais l'histoire est-elle vraiment celle d'un seul homme ? »
+張長老/zhang1zhang3lao3 聽/ting1 了/le5 很/hen3 高興/gao1xing4 ：「這/zhe4 是/shi4 很/hen3 好/hao3 的/de5 問題/wen4ti2 。當然/dang1ran2 不/bu4 是/shi4 。」
+= L'ancien Zhang parut très heureux d'entendre cette question : « C'est une très bonne question. Bien sûr que non. »
+張長老/zhang1zhang3lao3 ：任何/ren4he2 神/shen2 的/de5 工作/gong1zuo4 ，背後/bei4hou4 都/dou1 有/you3 很/hen3 多/duo1 默默/mo4mo4 忠心/zhong1xin1 的/de5 人/ren2 。
+= « Derrière toute œuvre de Dieu, il y a beaucoup de personnes discrètes et fidèles. »
+他/ta1 提到/ti2dao4 當年/dang1nian2 的/de5 同工/tong2gong1 、信徒/xin4tu2 家庭/jia1ting2 、幫忙/bang1mang2 接待/jie1dai4 的/de5 婦女/fu4nv3 ，還/hai2 有/you3 願意/yuan4yi4 讓/rang4 孩子/hai2zi5 讀書/du2shu1 的/de5 父母/fu4mu3 。
+= Il parla des collaborateurs de l'époque, des familles croyantes, des femmes qui accueillaient les gens, et des parents qui acceptaient d'envoyer leurs enfants à l'école.
+小恩/xiao3en1 ：所以/suo3yi3 不是/bu4shi4 只有/zhi3you3 一/yi1 個/ge4 人/ren2 在/zai4 服事/fu2shi4 ，而是/er2shi4 很/hen3 多/duo1 人/ren2 一起/yi1qi3 。
+= Xiao En résuma : « Donc ce n'était pas le service d'une seule personne, mais de beaucoup de gens ensemble. »
+張長老/zhang1zhang3lao3 ：對/dui4 。有些/you3xie1 人/ren2 站/zhan4 在/zai4 前面/qian2mian4 ，有些/you3xie1 人/ren2 在/zai4 後面/hou4mian4 禱告/dao3gao4 、做飯/zuo4fan4 、照顧/zhao4gu4 孩子/hai2zi5 。
+= « Oui. Certains sont devant, d'autres prient à l'arrière, cuisinent ou s'occupent des enfants. »
+阿傑/a1jie2 馬上/ma3shang4 指/zhi3 著/zhe5 自己/zi4ji3 說/shuo1 ：「那/na4 我/wo3 應該/ying1gai1 算/suan4 站/zhan4 在/zai4 前面/qian2mian4 的/de5 吧/ba5 ？」
+= A-Jie se désigna aussitôt : « Alors moi, je fais partie de ceux qui sont devant, non ? »
+美玲/mei3ling2 看/kan4 了/le5 他/ta1 一眼/yi1yan3 ：「如果/ru2guo3 你/ni3 下/xia4 次/ci4 練習/lian4xi2 不/bu4 遲到/chi2dao4 的/de5 話/hua4 ，也許/ye3xu3 可以/ke3yi3 算/suan4 。」
+= Meiling lui lança un regard : « Si tu n'arrives pas en retard à la prochaine répétition, peut-être. »
+大家/da4jia1 都/dou1 笑/xiao4 了/le5 。
+= Tout le monde rit.
+張長老/zhang1zhang3lao3 ：保羅/bao3luo2 說/shuo1 ，教會/jiao4hui4 像/xiang4 一/yi1 個/ge4 身體/shen1ti3 ，有/you3 很/hen3 多/duo1 肢體/zhi1ti3 。
+= L'ancien Zhang poursuivit : « Paul dit que l'Église est comme un corps, avec beaucoup de membres. »
+張長老/zhang1zhang3lao3 ：如果/ru2guo3 只有/zhi3you3 一/yi1 隻/zhi1 手/shou3 ，沒有/mei2you3 眼睛/yan3jing1 、沒有/mei2you3 腳/jiao3 ，那/na4 就/jiu4 不/bu4 是/shi4 身體/shen1ti3 了/le5 。
+= « S'il n'y avait qu'une main, sans yeux ni pieds, ce ne serait plus un corps. »
+大衛/da4wei4 點點頭/dian3dian3tou2 ：「這/zhe4 樣/yang4 聽/ting1 起來/qi3lai2 ，我/wo3 比/bi3 較/jiao4 能/neng2 理解/li3jie3 為什麼/wei4shen2me5 你們/ni3men5 常/chang2 常/chang2 說/shuo1 『教會/jiao4hui4 是/shi4 家/jia1 』。」
+= David hocha la tête : « Présenté comme ça, je comprends mieux pourquoi vous dites souvent que l'Église est une famille. »
+小恩/xiao3en1 笑/xiao4 著/zhe5 說/shuo1 ：「對/dui4 啊/a5 ，而且/er2qie3 家/jia1 裡/li3 不/bu4 只有/zhi3you3 一/yi1 個/ge4 人/ren2 會/hui4 說話/shuo1hua4 。」
+= Xiao En sourit : « Oui, et dans une famille, il n'y a pas qu'une seule personne qui parle. »
+那/na4 晚/wan3 上/shang4 回家/hui2jia1 時/shi2 ，路加/lu4jia1 想/xiang3 ，也許/ye3xu3 神/shen2 最/zui4 喜歡/xi3huan5 的/de5 ，不是/bu4shi4 一/yi1 個/ge4 人/ren2 的/de5 名字/ming2zi5 被/bei4 記住/ji4zhu4 ，而是/er2shi4 很/hen3 多/duo1 人/ren2 一起/yi1qi3 活/huo2 出/chu1 愛/ai4 、喜樂/xi3le4 和/he2 生命/sheng1ming4 。
+= En rentrant, Luc se dit que ce que Dieu aime le plus n'est peut-être pas qu'on retienne le nom d'une seule personne, mais que beaucoup vivent ensemble l'amour, la joie et la vie.
+
+=== 229
+series: 221
+title_zh: 醫館、學校、教會
+title_fr: Dispensaire, école et église
+tagline: Une foi qui touche toute la vie — soigner, enseigner, prier et servir sans séparer les choses.
+song: 把冷漠變成愛
+vocab: 醫館=dispensaire, clinique | 學校=école | 分開=séparer | 需要=besoin | 恩典=grâce
+---
+主日/zhu3ri4 下午/xia4wu3 的/de5 青年/qing1nian2 分享/fen1xiang3 時間/shi2jian1 ，王牧師/wang2mu4shi1 在/zai4 白板/bai2ban3 上/shang4 畫/hua4 了/le5 三/san1 個/ge4 圓圈/yuan2quan1 ：醫館/yi1guan3 、學校/xue2xiao4 、教會/jiao4hui4 。
+= Pendant le partage des jeunes le dimanche après-midi, le pasteur Wang dessina trois cercles au tableau : dispensaire, école, église.
+王牧師/wang2mu4shi1 ：你們/ni3men5 覺得/jue2de5 ，這/zhe4 三/san1 樣/yang4 東西/dong1xi5 有/you3 什麼/shen2me5 關係/guan1xi5 ？
+= « À votre avis, demanda-t-il, quel lien y a-t-il entre ces trois choses ? »
+阿傑/a1jie2 ：我/wo3 知道/zhi1dao4 ！如果/ru2guo3 我/wo3 小時候/xiao3shi2hou5 數學/shu4xue2 沒有/mei2you3 學/xue2 好/hao3 ，現在/xian4zai4 就/jiu4 看/kan4 不/bu4 懂/dong3 樂譜/yue4pu3 。
+= A-Jie répondit : « Je sais ! Si je n'avais pas bien appris les maths quand j'étais petit, je ne saurais pas lire une partition aujourd'hui. »
+美玲/mei3ling2 ：這/zhe4 個/ge4 關係/guan1xi5 有/you3 一點/yi1dian3 遠/yuan3 。
+= Meiling répliqua : « Le lien est un peu lointain. »
+大家/da4jia1 都/dou1 笑/xiao4 了/le5 。
+= Tout le monde rit.
+王牧師/wang2mu4shi1 ：馬偕/ma3xie2 在/zai4 台灣/tai2wan1 不/bu4 只/zhi3 建立/jian4li4 教會/jiao4hui4 ，也/ye3 建立/jian4li4 學校/xue2xiao4 和/he2 醫療/yi1liao2 工作/gong1zuo4 。
+= Le pasteur Wang expliqua : « À Taïwan, Mackay n'a pas seulement fondé des églises, mais aussi des écoles et des œuvres médicales. »
+王牧師/wang2mu4shi1 ：因為/yin1wei4 福音/fu2yin1 不是/bu4shi4 只/zhi3 管/guan3 人/ren2 星期天/xing1qi2tian1 的/de5 靈魂/ling2hun2 ，而是/er2shi4 關心/guan1xin1 人/ren2 整個/zheng3ge4 生命/sheng1ming4 的/de5 需要/xu1yao4 。
+= « Parce que l'Évangile ne concerne pas seulement l'âme des gens le dimanche, mais tous les besoins de leur vie entière. »
+大衛/da4wei4 聽/ting1 到/dao4 這/zhe4 裡/li3 ，慢慢/man4man4 地/de5 點頭/dian3tou2 。
+= En entendant cela, David hocha lentement la tête.
+大衛/da4wei4 ：所以/suo3yi3 你們/ni3men5 的/de5 信仰/xin4yang3 ，不是/bu4shi4 把/ba3 生活/sheng1huo2 分開/fen1kai1 成/cheng2 「屬靈/shu3ling2 的/de5 」和/he2 「不/bu4 屬靈/shu3ling2 的/de5 」？
+= David demanda : « Donc votre foi ne sépare pas la vie en choses “spirituelles” et “non spirituelles” ? »
+王牧師/wang2mu4shi1 ：至少/zhi4shao3 不/bu4 應該/ying1gai1 這樣/zhe4yang4 分/fen1 。
+= « En tout cas, elle ne devrait pas le faire », répondit le pasteur Wang.
+王牧師/wang2mu4shi1 ：如果/ru2guo3 一/yi1 個/ge4 人/ren2 肚子/du4zi5 餓/e4 、身體/shen1ti3 痛/tong4 、孩子/hai2zi5 沒有/mei2you3 書/shu1 可/ke3 讀/du2 ，我們/wo3men5 卻/que4 只/zhi3 跟/gen1 他/ta1 說/shuo1 「神/shen2 愛/ai4 你/ni3 」，那/na4 句/ju4 話/hua4 會/hui4 變/bian4 得/de5 很/hen3 輕/qing1 。
+= « Si quelqu'un a faim, souffre physiquement ou n'a pas de livres pour ses enfants, et que nous nous contentons de lui dire “Dieu t'aime”, cette phrase devient bien légère. »
+小恩/xiao3en1 ：所以/suo3yi3 愛/ai4 一/yi1 個/ge4 人/ren2 ，有時候/you3shi2hou5 是/shi4 陪/pei2 他/ta1 禱告/dao3gao4 ，有時候/you3shi2hou5 是/shi4 陪/pei2 他/ta1 去/qu4 看/kan4 醫生/yi1sheng1 。
+= Xiao En ajouta : « Aimer quelqu'un, c'est parfois prier avec lui, et parfois l'accompagner chez le médecin. »
+路加/lu4jia1 想起/xiang3qi3 陳奶奶/chen2nai3nai5 生病/sheng1bing4 的/de5 那/na4 段/duan4 日子/ri4zi5 ，心裡/xin1li3 輕輕/qing1qing1 地/de5 動/dong4 了/le5 一下/yi1xia4 。
+= Luc repensa aux jours de maladie de Mamie Chen, et quelque chose bougea doucement en lui.
+王牧師/wang2mu4shi1 ：神/shen2 的/de5 恩典/en1dian3 不/bu4 會/hui4 離開/li2kai1 人/ren2 真實/zhen1shi2 的/de5 生活/sheng1huo2 。
+= Le pasteur Wang conclut : « La grâce de Dieu ne s'éloigne pas de la vie réelle des gens. »
+分享/fen1xiang3 結束/jie2shu4 後/hou4 ，大衛/da4wei4 沒有/mei2you3 馬上/ma3shang4 離開/li2kai1 。
+= Après le partage, David ne partit pas tout de suite.
+他/ta1 看/kan4 著/zhe5 白板/bai2ban3 上/shang4 的/de5 三/san1 個/ge4 圓圈/yuan2quan1 ，低聲/di1sheng1 說/shuo1 ：「如果/ru2guo3 真/zhen1 的/de5 是/shi4 這樣/zhe4yang4 ，那/na4 這/zhe4 種/zhong3 信仰/xin4yang3 比/bi3 我/wo3 想像/xiang3xiang4 的/de5 大/da4 多/duo1 了/le5 。」
+= Il regarda les trois cercles au tableau et murmura : « Si c'est vraiment ainsi, alors cette foi est bien plus vaste que je ne l'imaginais. »
+
+=== 230
+series: 221
+title_zh: 歷史沒有停在昨天
+title_fr: L'histoire ne s'est pas arrêtée hier
+tagline: Héritage vivant — après Mackay, à chacun son tour de marcher, de servir et de transmettre.
+song: 與祢同行
+vocab: 歷史=histoire | 接棒=prendre le relais | 今天=aujourd'hui | 同在=présence, être avec
+---
+九月/jiu3yue4 最後/zui4hou4 一/yi1 次/ci4 的/de5 歷史/li4shi3 系列/xi4lie4 ，張長老/zhang1zhang3lao3 沒有/mei2you3 再/zai4 講/jiang3 新/xin1 的/de5 故事/gu4shi5 ，而是/er2shi4 問/wen4 大家/da4jia1 ：「你們/ni3men5 這/zhe4 幾/ji3 週/zhou1 學/xue2 到/dao4 什麼/shen2me5 ？」
+= Pour la dernière séance de la série historique de septembre, l'ancien Zhang ne raconta pas de nouvelle histoire ; il demanda simplement : « Qu'avez-vous appris ces dernières semaines ? »
+小光/xiao3guang1 第一/di4yi1 個/ge4 舉手/ju3shou3 ：「我/wo3 學/xue2 到/dao4 ，如果/ru2guo3 牙痛/ya2tong4 ，也/ye3 可以/ke3yi3 變/bian4 成/cheng2 傳福音/chuan2fu2yin1 的/de5 機會/ji1hui4 。」
+= Xiao Guang leva la main le premier : « J'ai appris que même un mal de dents peut devenir une occasion pour l'Évangile. »
+大家/da4jia1 笑/xiao4 得/de5 很/hen3 大聲/da4sheng1 。
+= Tout le monde éclata de rire.
+阿傑/a1jie2 ：我/wo3 學/xue2 到/dao4 ，神/shen2 真的/zhen1de5 會/hui4 用/yong4 很/hen3 不同/bu4tong2 的/de5 人/ren2 。有些/you3xie1 人/ren2 會/hui4 講道/jiang3dao4 ，有些/you3xie1 人/ren2 會/hui4 拔牙/ba2ya2 ，有些/you3xie1 人/ren2 只/zhi3 會/hui4 彈/tan2 吉他/ji2ta1 。
+= A-Jie dit : « J'ai appris que Dieu se sert vraiment de gens très différents. Certains prêchent, certains arrachent des dents, et certains savent seulement jouer de la guitare. »
+美玲/mei3ling2 ：你/ni3 那/na4 個/ge4 「只/zhi3 會/hui4 」可以/ke3yi3 拿掉/na2diao4 。
+= Meiling répliqua : « Tu peux enlever le “seulement”. »
+小恩/xiao3en1 ：我/wo3 學/xue2 到/dao4 ，神/shen2 的/de5 工作/gong1zuo4 常/chang2 常/chang2 開始/kai1shi3 得/de5 很/hen3 小/xiao3 ，可是/ke3shi4 不/bu4 代表/dai4biao3 它/ta1 不/bu4 重要/zhong4yao4 。
+= Xiao En dit : « J'ai appris que l'œuvre de Dieu commence souvent très petit, mais cela ne veut pas dire qu'elle n'est pas importante. »
+大衛/da4wei4 沉默/chen2mo4 了/le5 一陣子/yi1zhen4zi5 ，最後/zui4hou4 也/ye3 開口/kai1kou3 ：「我/wo3 學/xue2 到/dao4 ，原來/yuan2lai2 基督教/ji1du1jiao4 在/zai4 台灣/tai2wan1 的/de5 歷史/li4shi3 ，不是/bu4shi4 一/yi1 個/ge4 外國人/wai4guo2ren2 的/de5 傳奇/chuan2qi2 ，而是/er2shi4 很/hen3 多/duo1 人/ren2 一起/yi1qi3 活/huo2 出/chu1 來/lai2 的/de5 東西/dong1xi5 。」
+= David garda le silence un moment, puis prit lui aussi la parole : « J'ai appris que l'histoire du christianisme à Taïwan n'est pas la légende d'un étranger, mais quelque chose que beaucoup de gens ont vécu ensemble. »
+張長老/zhang1zhang3lao3 聽/ting1 完/wan2 以後/yi3hou4 ，滿意/man3yi4 地/de5 點頭/dian3tou2 。
+= Après les avoir écoutés, l'ancien Zhang hocha la tête avec satisfaction.
+張長老/zhang1zhang3lao3 ：很好/hen3hao3 。可是/ke3shi4 還/hai2 有/you3 最後/zui4hou4 一/yi1 件/jian4 事/shi4 ：歷史/li4shi3 沒有/mei2you3 停/ting2 在/zai4 昨天/zuo2tian1 。
+= « Très bien. Mais il reste une dernière chose : l'histoire ne s'est pas arrêtée hier. »
+張長老/zhang1zhang3lao3 ：今天/jin1tian1 的/de5 教會/jiao4hui4 ，明天/ming2tian1 的/de5 見證/jian4zheng4 ，都/dou1 要/yao4 有/you3 人/ren2 接棒/jie1bang4 。
+= « L'Église d'aujourd'hui et le témoignage de demain ont besoin de gens qui prennent le relais. »
+路加/lu4jia1 聽/ting1 到/dao4 「接棒/jie1bang4 」這/zhe4 兩/liang3 個/ge4 字/zi4 ，心裡/xin1li3 微微/wei2wei2 一/yi1 震/zhen4 。
+= En entendant les mots « prendre le relais », Luc sentit quelque chose vibrer en lui.
+張長老/zhang1zhang3lao3 ：也許/ye3xu3 你/ni3 不/bu4 會/hui4 像/xiang4 馬偕/ma3xie2 一樣/yi1yang4 走/zou3 同樣/tong2yang4 的/de5 路/lu4 ，可是/ke3shi4 神/shen2 也/ye3 會/hui4 給/gei3 你/ni3 自己/zi4ji3 的/de5 路/lu4 。
+= « Peut-être que vous ne marcherez pas sur exactement le même chemin que Mackay, mais Dieu vous donnera aussi votre propre route. »
+聚會/ju4hui4 結束/jie2shu4 前/qian2 ，大家/da4jia1 一起/yi1qi3 唱/chang4 《與/yu3 祢/ni3 同行/tong2xing2》。
+= Avant la fin de la réunion, tous chantèrent ensemble « Marcher avec Toi ».
+路加/lu4jia1 唱/chang4 著/zhe5 唱/chang4 著/zhe5 ，忽然/hu1ran2 想/xiang3 到/dao4 ：如果/ru2guo3 神/shen2 在/zai4 過去/guo4qu4 與/yu3 那些/na4xie1 人/ren2 同在/tong2zai4 ，那/na4 祂/ta1 今天/jin1tian1 也/ye3 一樣/yi1yang4 會/hui4 與/yu3 他/ta1 們/men5 同在/tong2zai4 。
+= En chantant, Luc pensa soudain que si Dieu avait été avec ceux du passé, il serait de la même manière avec eux aujourd'hui.
+散會/san4hui4 以後/yi3hou4 ，大衛/da4wei4 沒有/mei2you3 像/xiang4 平常/ping2chang2 那樣/na4yang4 很/hen3 快/kuai4 離開/li2kai1 。
+= Après la réunion, David ne partit pas aussi vite que d'habitude.
+他/ta1 走/zou3 到/dao4 路加/lu4jia1 身邊/shen1bian1 ，說/shuo1 ：「下/xia4 次/ci4 你/ni3 讀/du2 路加福音/lu4jia1fu2yin1 的/de5 時候/shi2hou5 ，可以/ke3yi3 也/ye3 叫/jiao4 我/wo3 一起/yi1qi3 嗎/ma5 ？」
+= Il s'approcha de Luc et dit : « La prochaine fois que tu liras l'Évangile de Luc, tu peux m'inviter aussi ? »
+路加/lu4jia1 看/kan4 著/zhe5 他/ta1 ，一時/yi1shi2 沒有/mei2you3 說/shuo1 話/hua4 。
+= Luc le regarda, sans trouver tout de suite ses mots.
+然後/ran2hou4 ，他/ta1 笑/xiao4 了/le5 ：「當然/dang1ran2 可以/ke3yi3 。歷史/li4shi3 真的/zhen1de5 還/hai2 沒有/mei2you3 結束/jie2shu4 。」
+= Puis il sourit : « Bien sûr. L'histoire n'est vraiment pas terminée. »

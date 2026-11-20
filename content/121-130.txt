@@ -19,7 +19,7 @@ vocab: 洗禮=baptême | 悔改=se repentir ; repentance | 報名=s'inscrire | �
 = Au premier cours, le pasteur Wang écrit deux caractères au tableau blanc : « se repentir ».
 王牧師/wang2mu4shi1 ：路加/lu4jia1 ，你/ni3 覺得/jue2de5 悔改/hui3gai3 是/shi4 什麼/shen2me5 意思/yi4si5 ？
 = Pasteur Wang : Luc, d'après toi, que veut dire « se repentir » ?
-路加/lu4jia1 ：就是/jiu4shi4 覺得/jue2de5 很/hen3 難過/nan2guo4 ，說/shuo1 「對不起/dui4bu5qi3 」吧/ba5 ？
+路加/lu4jia1 ：就是/jiu4shi4 覺得/jue2de5 很/hen3 難過/nan2guo4 ，說/shuo1 「對不起/dui4bu4qi3 」吧/ba5 ？
 = Luc : C'est se sentir très triste et dire « pardon », non ?
 王牧師/wang2mu4shi1 ：難過/nan2guo4 很/hen3 重要/zhong4yao4 ，但是/dan4shi4 還/hai2 不/bu4 夠/gou4 。如果/ru2guo3 你/ni3 坐/zuo4 錯/cuo4 了/le5 捷運/jie2yun4 的/de5 方向/fang1xiang4 ，你/ni3 會/hui4 怎麼/zen3me5 做/zuo4 ？
 = Pasteur Wang : Être triste, c'est important, mais ça ne suffit pas. Si tu prends le métro dans le mauvais sens, que fais-tu ?
@@ -29,11 +29,11 @@ vocab: 洗禮=baptême | 悔改=se repentir ; repentance | 報名=s'inscrire | �
 = Tout le monde rit.
 王牧師/wang2mu4shi1 ：對/dui4 ！悔改/hui3gai3 就/jiu4 像/xiang4 這樣/zhe4yang4 。不但/bu4dan4 要/yao4 承認/cheng2ren4 自己/zi4ji3 走/zou3 錯/cuo4 了/le5 ，而且/er2qie3 要/yao4 轉/zhuan3 過來/guo4lai2 ，回到/hui2dao4 神/shen2 那裡/na4li3 。
 = Pasteur Wang : Exactement ! Se repentir, c'est ça. Il ne suffit pas de reconnaître qu'on s'est trompé de chemin, il faut aussi faire demi-tour et revenir vers Dieu.
-王牧師/wang2mu4shi1 ：馬可福音/ma3ke3fu2yin1 1:15 說/shuo1 ：「日期/ri4qi1 滿/man3 了/le5 ，神/shen2 的/de5 國/guo2 近/jin4 了/le5 。你們/ni3men5 當/dang1 悔改/hui3gai3 ，信/xin4 福音/fu2yin1 ！」
+王牧師/wang2mu4shi1 ：馬可福音/ma3ke3fu2yin1 1:15 說/shuo1 ：「日期/ri4qi2 滿/man3 了/le5 ，神/shen2 的/de5 國/guo2 近/jin4 了/le5 。你們/ni3men5 當/dang1 悔改/hui3gai3 ，信/xin4 福音/fu2yin1 ！」
 = Pasteur Wang : Marc 1:15 dit : « Le temps est accompli, et le royaume de Dieu est proche. Repentez-vous, et croyez à la bonne nouvelle. »
 下課/xia4ke4 以後/yi3hou4 ，小恩/xiao3en1 問/wen4 路加/lu4jia1 學/xue2 到/dao4 了/le5 什麼/shen2me5 。
 = Après le cours, Xiao En demande à Luc ce qu'il a appris.
-路加/lu4jia1 ：悔改/hui3gai3 不/bu4 是/shi4 只/zhi3 說/shuo1 對不起/dui4bu5qi3 ，而是/er2shi4 換/huan4 方向/fang1xiang4 ！
+路加/lu4jia1 ：悔改/hui3gai3 不/bu4 是/shi4 只/zhi3 說/shuo1 對不起/dui4bu4qi3 ，而是/er2shi4 換/huan4 方向/fang1xiang4 ！
 = Luc : Se repentir, ce n'est pas seulement dire pardon, c'est changer de direction !
 小恩/xiao3en1 ：那/na4 你/ni3 一定/yi1ding4 會/hui4 喜歡/xi3huan5 《真實/zhen1shi2 的/de5 悔改/hui3gai3 》這/zhe4 首/shou3 歌/ge1 。我們/wo3men5 一起/yi1qi3 聽/ting1 吧/ba5 ！
 = Xiao En : Alors tu vas sûrement aimer le chant « Une vraie repentance ». Écoutons-le ensemble !
@@ -81,7 +81,7 @@ tagline: Le sang précieux — un genou écorché, une question d'enfant et un c
 song: 唯有主耶穌的寶血
 vocab: 寶血=sang précieux (de Jésus) | 寶貴=précieux | 傷口=plaie, blessure | 洗淨=laver, purifier | 聖潔=saint ; sainteté | 認罪=confesser ses péchés
 ---
-星期六/xing1qi1liu4 下午/xia4wu3 ，小光/xiao3guang1 在/zai4 教會/jiao4hui4 門口/men2kou3 跌倒/die1dao3 了/le5 ，膝蓋/xi1gai4 流/liu2 了/le5 一點/yi1dian3 血/xue4 。
+星期六/xing1qi2liu4 下午/xia4wu3 ，小光/xiao3guang1 在/zai4 教會/jiao4hui4 門口/men2kou3 跌倒/die2dao3 了/le5 ，膝蓋/xi1gai4 流/liu2 了/le5 一點/yi1dian3 血/xue4 。
 = Samedi après-midi, Xiao Guang tombe devant l'église et s'écorche le genou ; il saigne un peu.
 路加/lu4jia1 趕快/gan3kuai4 拿/na2 來/lai2 藥箱/yao4xiang1 ，先/xian1 用/yong4 水/shui3 把/ba3 傷口/shang1kou3 洗/xi3 乾淨/gan1jing4 。
 = Luc apporte vite la trousse de secours et nettoie d'abord la plaie à l'eau.
@@ -89,7 +89,7 @@ vocab: 寶血=sang précieux (de Jésus) | 寶貴=précieux | 傷口=plaie, bles
 = Xiao Guang : Aïe ! Grand frère Luc, j'ai horreur de voir du sang.
 小光/xiao3guang1 ：可是/ke3shi4 媽媽/ma1ma5 為什麼/wei4shen2me5 常常/chang2chang2 唱/chang4 《唯有/wei2you3 主/zhu3 耶穌/ye1su1 的/de5 寶血/bao3xue4 》？血/xue4 有/you3 什麼/shen2me5 寶貴/bao3gui4 的/de5 ？
 = Xiao Guang : Mais pourquoi maman chante souvent « Seul le sang précieux du Seigneur Jésus » ? Qu'est-ce que le sang a de précieux ?
-路加/lu4jia1 想/xiang3 了/le5 想/xiang3 ，不/bu4 知道/zhi1dao5 怎麼/zen3me5 回答/hui2da2 。這時/zhe4shi2 ，美玲/mei3ling2 走/zou3 了/le5 過來/guo4lai2 。
+路加/lu4jia1 想/xiang3 了/le5 想/xiang3 ，不/bu4 知道/zhi1dao4 怎麼/zen3me5 回答/hui2da2 。這時/zhe4shi2 ，美玲/mei3ling2 走/zou3 了/le5 過來/guo4lai2 。
 = Luc réfléchit mais ne sait pas quoi répondre. C'est alors que Meiling arrive.
 美玲/mei3ling2 ：小光/xiao3guang1 ，在/zai4 聖經/sheng4jing1 裡/li3 ，血/xue4 代表/dai4biao3 生命/sheng1ming4 。耶穌/ye1su1 在/zai4 十字架/shi2zi4jia4 上/shang4 流/liu2 血/xue4 ，就是/jiu4shi4 把/ba3 祂/ta1 的/de5 生命/sheng1ming4 給/gei3 了/le5 我們/wo3men5 。
 = Meiling : Xiao Guang, dans la Bible, le sang représente la vie. Quand Jésus a versé son sang sur la croix, il nous a donné sa vie.
@@ -114,7 +114,7 @@ tagline: Nouvelle naissance — Nicodème, une question de Luc et une nouvelle c
 song: 新造的人
 vocab: 重生=naître de nouveau ; nouvelle naissance | 新造=nouvellement créé (新造的人 : nouvelle créature) | 舊事=les choses anciennes | 嬰兒=bébé, nourrisson | 成長=grandir ; croissance
 ---
-星期三/xing1qi1san1 晚上/wan3shang4 ，張長老/zhang1zhang3lao3 在/zai4 小組/xiao3zu3 帶/dai4 大家/da4jia1 讀/du2 約翰福音/yue1han4fu2yin1 第三/di4san1 章/zhang1 。
+星期三/xing1qi2san1 晚上/wan3shang4 ，張長老/zhang1zhang3lao3 在/zai4 小組/xiao3zu3 帶/dai4 大家/da4jia1 讀/du2 約翰福音/yue1han4fu2yin1 第三/di4san1 章/zhang1 。
 = Mercredi soir, l'ancien Zhang fait lire Jean chapitre 3 au groupe de maison.
 張長老/zhang1zhang3lao3 ：有/you3 一/yi1 個/ge4 叫/jiao4 尼哥底母/ni2ge1di3mu3 的/de5 人/ren2 ，夜裡/ye4li3 偷偷/tou1tou1 地/de5 來/lai2 找/zhao3 耶穌/ye1su1 。
 = L'ancien Zhang : Un homme appelé Nicodème vint trouver Jésus de nuit, en cachette.
@@ -153,13 +153,13 @@ vocab: 舊人=le vieil homme | 脾氣=caractère, humeur | 生氣=se fâcher | �
 = Arrivé au café, Luc soupire à peine assis.
 小恩/xiao3en1 ：怎麼/zen3me5 了/le5 ？你/ni3 的/de5 衣服/yi1fu5 全/quan2 濕/shi1 了/le5 ！
 = Xiao En : Qu'est-ce qui t'arrive ? Tes vêtements sont trempés !
-路加/lu4jia1 ：衣服/yi1fu5 濕/shi1 了/le5 沒/mei2 關係/guan1xi5 ，我/wo3 是/shi4 對/dui4 自己/zi4ji3 很/hen3 失望/shi1wang4 。我/wo3 不/bu4 是/shi4 新造/xin1zao4 的/de5 人/ren2 了/le5 嗎/ma5 ？為什麼/wei4shen2me5 舊人/jiu4ren2 的/de5 脾氣/pi2qi5 還/hai2 在/zai4 ？
+路加/lu4jia1 ：衣服/yi1fu5 濕/shi1 了/le5 沒/mei2 關係/guan1xi5 ，我/wo3 是/shi4 對/dui4 自己/zi4ji3 很/hen3 失望/shi1wang4 。我/wo3 不/bu4 是/shi4 新造/xin1zao4 的/de5 人/ren2 了/le5 嗎/ma5 ？為什麼/wei4shen2me5 舊人/jiu4ren2 的/de5 脾氣/pi2qi4 還/hai2 在/zai4 ？
 = Luc : Les vêtements mouillés, ce n'est pas grave ; c'est de moi que je suis déçu. Je ne suis pas censé être une nouvelle créature ? Pourquoi le caractère du vieil homme est-il toujours là ?
 小恩/xiao3en1 ：雖然/sui1ran2 你/ni3 已經/yi3jing1 有/you3 了/le5 新/xin1 的/de5 生命/sheng1ming4 ，但是/dan4shi4 改變/gai3bian4 需要/xu1yao4 時間/shi2jian1 。
 = Xiao En : Tu as beau avoir déjà une vie nouvelle, le changement prend du temps.
-小恩/xiao3en1 ：你/ni3 看/kan4 外面/wai4mian4 的/de5 樹/shu4 ，種子/zhong3zi3 發芽/fa1ya2 以後/yi3hou4 ，也/ye3 不/bu4 是/shi4 一/yi1 天/tian1 就/jiu4 長/zhang3 大/da4 的/de5 。
+小恩/xiao3en1 ：你/ni3 看/kan4 外面/wai4mian4 的/de5 樹/shu4 ，種子/zhong3zi5 發芽/fa1ya2 以後/yi3hou4 ，也/ye3 不/bu4 是/shi4 一/yi1 天/tian1 就/jiu4 長/zhang3 大/da4 的/de5 。
 = Xiao En : Regarde les arbres dehors : une fois la graine germée, ils ne deviennent pas grands en un jour.
-小恩/xiao3en1 ：而且/er2qie3 ，你/ni3 現在/xian4zai4 會/hui4 為/wei4 這/zhe4 件/jian4 事/shi4 難過/nan2guo4 。以前/yi3qian2 的/de5 你/ni3 ，可能/ke3neng2 根本/gen1ben3 不/bu4 在乎/zai4hu5 吧/ba5 ？
+小恩/xiao3en1 ：而且/er2qie3 ，你/ni3 現在/xian4zai4 會/hui4 為/wei4 這/zhe4 件/jian4 事/shi4 難過/nan2guo4 。以前/yi3qian2 的/de5 你/ni3 ，可能/ke3neng2 根本/gen1ben3 不/bu4 在乎/zai4hu1 吧/ba5 ？
 = Xiao En : Et puis, maintenant, ça te rend triste. L'ancien Luc ne s'en serait sans doute même pas soucié, non ?
 路加/lu4jia1 想/xiang3 了/le5 想/xiang3 ，笑/xiao4 著/zhe5 點頭/dian3tou2 。
 = Luc réfléchit, puis hoche la tête en souriant.
@@ -180,7 +180,7 @@ vocab: 浸池=bassin baptismal | 浸=immerger | 埋葬=ensevelir, enterrer | 歸
 = Au quatrième cours de baptême, le pasteur Wang emmène tout le monde voir le bassin baptismal de l'église.
 路加/lu4jia1 ：牧師/mu4shi1 ，我們/wo3men5 要/yao4 整/zheng3 個/ge4 人/ren2 進/jin4 到/dao4 水/shui3 裡/li3 嗎/ma5 ？
 = Luc : Pasteur, il faudra entrer entièrement dans l'eau ?
-王牧師/wang2mu4shi1 ：對/dui4 ，我們/wo3men5 教會/jiao4hui4 用/yong4 浸/jin4 的/de5 。你/ni3 知道/zhi1dao5 為什麼/wei4shen2me5 嗎/ma5 ？
+王牧師/wang2mu4shi1 ：對/dui4 ，我們/wo3men5 教會/jiao4hui4 用/yong4 浸/jin4 的/de5 。你/ni3 知道/zhi1dao4 為什麼/wei4shen2me5 嗎/ma5 ？
 = Pasteur Wang : Oui, dans notre église, on baptise par immersion. Tu sais pourquoi ?
 路加/lu4jia1 ：因為/yin1wei4 要/yao4 把/ba3 罪/zui4 洗/xi3 乾淨/gan1jing4 ？
 = Luc : Parce qu'il faut laver le péché ?
@@ -194,7 +194,7 @@ vocab: 浸池=bassin baptismal | 浸=immerger | 埋葬=ensevelir, enterrer | 歸
 = Luc : C'est pour ça que ce chant s'appelle « J'ai été crucifié avec Christ » !
 王牧師/wang2mu4shi1 ：沒錯/mei2cuo4 。加拉太書/jia1la1tai4shu1 2:20 說/shuo1 ：「我/wo3 已經/yi3jing1 與/yu3 基督/ji1du1 同/tong2 釘/ding4 十字架/shi2zi4jia4 ，現在/xian4zai4 活/huo2 著/zhe5 的/de5 不/bu4 再/zai4 是/shi4 我/wo3 ，乃/nai3 是/shi4 基督/ji1du1 在/zai4 我/wo3 裡面/li3mian4 活/huo2 著/zhe5 。」
 = Pasteur Wang : Exactement. Galates 2:20 dit : « J'ai été crucifié avec Christ ; et si je vis, ce n'est plus moi qui vis, c'est Christ qui vit en moi. »
-路加/lu4jia1 看/kan4 著/zhe5 浸池/jin4chi2 ，心裡/xin1li3 又/you4 緊張/jin3zhang1 又/you4 期待/qi1dai4 。
+路加/lu4jia1 看/kan4 著/zhe5 浸池/jin4chi2 ，心裡/xin1li3 又/you4 緊張/jin3zhang1 又/you4 期待/qi2dai4 。
 = Luc regarde le bassin, à la fois nerveux et impatient.
 路加/lu4jia1 ：最後/zui4hou4 一/yi1 個/ge4 問題/wen4ti2 ：水/shui3 很/hen3 冷/leng3 嗎/ma5 ？
 = Luc : Dernière question : l'eau est froide ?
@@ -227,13 +227,13 @@ vocab: 敬拜主領=responsable de louange | 服事=servir (à l'église) | 吉�
 = Tout le monde rit.
 美玲/mei3ling2 ：你/ni3 七月/qi1yue4 就/jiu4 要/yao4 受洗/shou4xi3 了/le5 ，現在/xian4zai4 可以/ke3yi3 先/xian1 來/lai2 練習/lian4xi2 。服事/fu2shi4 不/bu4 是/shi4 表演/biao3yan3 ，是/shi4 用/yong4 你/ni3 有/you3 的/de5 東西/dong1xi5 來/lai2 愛/ai4 神/shen2 。
 = Meiling : Tu seras baptisé en juillet ; d'ici là, tu peux déjà venir t'entraîner. Servir, ce n'est pas se donner en spectacle, c'est aimer Dieu avec ce que l'on a.
-美玲/mei3ling2 ：就/jiu4 像/xiang4 《彈琴/tan2qin2 歌唱/ge1chang4 讚美/zan4mei3 祢/ni3 》這/zhe4 首/shou3 歌/ge1 的/de5 名字/ming2zi4 ：用/yong4 樂器/yue4qi4 ，也/ye3 用/yong4 聲音/sheng1yin1 來/lai2 讚美/zan4mei3 神/shen2 。
+美玲/mei3ling2 ：就/jiu4 像/xiang4 《彈琴/tan2qin2 歌唱/ge1chang4 讚美/zan4mei3 祢/ni3 》這/zhe4 首/shou3 歌/ge1 的/de5 名字/ming2zi5 ：用/yong4 樂器/yue4qi4 ，也/ye3 用/yong4 聲音/sheng1yin1 來/lai2 讚美/zan4mei3 神/shen2 。
 = Meiling : Comme le dit le titre du chant « Je joue et je chante pour te louer » : louer Dieu avec les instruments et avec la voix.
 路加/lu4jia1 看/kan4 了/le5 看/kan4 小恩/xiao3en1 。小恩/xiao3en1 對/dui4 他/ta1 用力/yong4li4 地/de5 點頭/dian3tou2 。
 = Luc jette un regard à Xiao En, qui lui fait un grand signe de tête.
 路加/lu4jia1 ：好/hao3 ！我/wo3 試試/shi4shi4 看/kan4 。
 = Luc : D'accord ! Je vais essayer.
-阿傑/a1jie2 ：太/tai4 好/hao3 了/le5 ！星期六/xing1qi1liu4 早上/zao3shang4 九/jiu3 點/dian3 練習/lian4xi2 ，遲到/chi2dao4 的/de5 人/ren2 請/qing3 大家/da4jia1 喝/he1 珍珠奶茶/zhen1zhu1nai3cha2 ！
+阿傑/a1jie2 ：太/tai4 好/hao3 了/le5 ！星期六/xing1qi2liu4 早上/zao3shang4 九/jiu3 點/dian3 練習/lian4xi2 ，遲到/chi2dao4 的/de5 人/ren2 請/qing3 大家/da4jia1 喝/he1 珍珠奶茶/zhen1zhu1nai3cha2 ！
 = A-Jie : Super ! Répétition samedi à neuf heures ; celui qui arrive en retard offre le thé aux perles à tout le monde !
 
 === 128
@@ -244,7 +244,7 @@ tagline: Le rythme — une première répétition, un batteur largué et un cœu
 song: 來歡呼讚美
 vocab: 節奏=rythme | 練習=répétition ; s'exercer | 鼓手=batteur | 心跳=battement de cœur | 穩定=stable, régulier | 專心=se concentrer
 ---
-星期六/xing1qi1liu4 早上/zao3shang4 ，路加/lu4jia1 八/ba1 點/dian3 五十/wu3shi2 分/fen1 就/jiu4 到/dao4 了/le5 教會/jiao4hui4 ，阿傑/a1jie2 卻/que4 九/jiu3 點/dian3 十/shi2 分/fen1 才/cai2 到/dao4 。
+星期六/xing1qi2liu4 早上/zao3shang4 ，路加/lu4jia1 八/ba1 點/dian3 五十/wu3shi2 分/fen1 就/jiu4 到/dao4 了/le5 教會/jiao4hui4 ，阿傑/a1jie2 卻/que4 九/jiu3 點/dian3 十/shi2 分/fen1 才/cai2 到/dao4 。
 = Samedi matin, Luc arrive à l'église à 8 h 50 ; A-Jie, lui, n'arrive qu'à 9 h 10.
 小恩/xiao3en1 ：阿傑/a1jie2 ，今天/jin1tian1 你/ni3 要/yao4 請/qing3 大家/da4jia1 喝/he1 珍珠奶茶/zhen1zhu1nai3cha2 了/le5 ！
 = Xiao En : A-Jie, aujourd'hui c'est toi qui offres le thé aux perles à tout le monde !
@@ -254,7 +254,7 @@ vocab: 節奏=rythme | 練習=répétition ; s'exercer | 鼓手=batteur | 心跳
 = Luc est trop nerveux : plus il joue, plus il accélère, au point que même le batteur n'arrive plus à le suivre.
 美玲/mei3ling2 ：停/ting2 一下/yi1xia4 ！路加/lu4jia1 ，你/ni3 的/de5 節奏/jie2zou4 越來越/yue4lai2yue4 快/kuai4 了/le5 。
 = Meiling : Stop ! Luc, ton rythme s'accélère de plus en plus.
-路加/lu4jia1 ：對不起/dui4bu5qi3 ，我/wo3 一/yi1 緊張/jin3zhang1 就/jiu4 停/ting2 不/bu4 下來/xia4lai2 。
+路加/lu4jia1 ：對不起/dui4bu4qi3 ，我/wo3 一/yi1 緊張/jin3zhang1 就/jiu4 停/ting2 不/bu4 下來/xia4lai2 。
 = Luc : Pardon, dès que je suis nerveux, je n'arrive plus à me freiner.
 阿傑/a1jie2 把/ba3 手/shou3 放/fang4 在/zai4 胸口/xiong1kou3 上/shang4 。
 = A-Jie pose la main sur sa poitrine.
@@ -277,7 +277,7 @@ tagline: L'harmonie — une mélodie, une tierce en dessous et l'unité dans la 
 song: 從心合一
 vocab: 和聲=harmonie (voix) | 主旋律=mélodie principale | 合一=unité ; être un | 弟兄=frères (dans la foi) | 和睦=en bonne entente, en paix | 好聽=agréable à entendre
 ---
-美玲/mei3ling2 希望/xi1wang4 路加/lu4jia1 除了/chu2le5 彈/tan2 吉他/ji2ta1 以外/yi3wai4 ，也/ye3 能/neng2 唱/chang4 和聲/he2sheng1 。星期二/xing1qi1er4 晚上/wan3shang4 ，小恩/xiao3en1 在/zai4 教會/jiao4hui4 教/jiao1 他/ta1 。
+美玲/mei3ling2 希望/xi1wang4 路加/lu4jia1 除了/chu2le5 彈/tan2 吉他/ji2ta1 以外/yi3wai4 ，也/ye3 能/neng2 唱/chang4 和聲/he2sheng1 。星期二/xing1qi2er4 晚上/wan3shang4 ，小恩/xiao3en1 在/zai4 教會/jiao4hui4 教/jiao1 他/ta1 。
 = Meiling aimerait que Luc, en plus de la guitare, puisse aussi chanter l'harmonie. Mardi soir, Xiao En lui donne une leçon à l'église.
 小恩/xiao3en1 ：我/wo3 唱/chang4 主旋律/zhu3xuan2lv4 ，你/ni3 唱/chang4 低/di1 三/san1 度/du4 的/de5 音/yin1 。準備/zhun3bei4 好/hao3 了/le5 嗎/ma5 ？
 = Xiao En : Je chante la mélodie, et toi tu chantes une tierce en dessous. Prêt ?
@@ -306,9 +306,9 @@ tagline: Le sacrifice de louange — des examens, de la fatigue et un choix.
 song: 獻上讚美祭
 vocab: 讚美祭=sacrifice de louange | 獻上=offrir | 期末考=examens de fin de semestre | 心情=humeur, moral | 感覺=sentiment ; ressentir | 選擇=choisir
 ---
-六月/liu4yue4 中/zhong1 ，大學/da4xue2 開始/kai1shi3 期末考/qi1mo4kao3 了/le5 。路加/lu4jia1 每天/mei3tian1 都/dou1 讀書/du2shu1 讀/du2 到/dao4 半夜/ban4ye4 。
+六月/liu4yue4 中/zhong1 ，大學/da4xue2 開始/kai1shi3 期末考/qi2mo4kao3 了/le5 。路加/lu4jia1 每天/mei3tian1 都/dou1 讀書/du2shu1 讀/du2 到/dao4 半夜/ban4ye4 。
 = Mi-juin, les examens de fin de semestre commencent à l'université. Luc révise tous les jours jusqu'à minuit.
-星期六/xing1qi1liu4 練習/lian4xi2 的/de5 時候/shi2hou5 ，他/ta1 一直/yi1zhi2 打/da3 哈欠/ha1qian4 ，連/lian2 簡單/jian3dan1 的/de5 和弦/he2xian2 都/dou1 彈/tan2 錯/cuo4 了/le5 。
+星期六/xing1qi2liu4 練習/lian4xi2 的/de5 時候/shi2hou5 ，他/ta1 一直/yi1zhi2 打/da3 哈欠/ha1qian4 ，連/lian2 簡單/jian3dan1 的/de5 和弦/he2xian2 都/dou1 彈/tan2 錯/cuo4 了/le5 。
 = Pendant la répétition du samedi, il n'arrête pas de bâiller et se trompe même sur des accords simples.
 練習/lian4xi2 完/wan2 ，美玲/mei3ling2 坐/zuo4 到/dao4 他/ta1 旁邊/pang2bian1 。
 = Après la répétition, Meiling vient s'asseoir à côté de lui.

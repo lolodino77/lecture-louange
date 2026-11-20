@@ -20,7 +20,7 @@ vocab: 見證=témoignage ; témoigner | 感恩=reconnaissance ; rendre grâce |
 = Papa Chen : Ça fait vingt ans que je viens à l'église, mais je me suis toujours assis au dernier rang, et je partais dès la fin du culte.
 陳爸爸/chen2ba4ba5 ：這/zhe4 次/ci4 躺/tang3 在/zai4 加護病房/jia1hu4bing4fang2 ，我/wo3 才/cai2 發現/fa1xian4 ，原來/yuan2lai2 有/you3 那麼/na4me5 多/duo1 人/ren2 在/zai4 為/wei4 我/wo3 禱告/dao3gao4 。
 = Papa Chen : Cette fois, couché aux soins intensifs, j'ai découvert qu'il y avait tant de gens qui priaient pour moi.
-陳爸爸/chen2ba4ba5 ：連/lian2 我/wo3 不/bu4 認識/ren4shi4 的/de5 年輕人/nian2qing1ren2 ，都/dou1 輪流/lun2liu2 為/wei4 我/wo3 守望/shou3wang4 。還有/hai2you3 一/yi1 個/ge4 小/xiao3 朋友/peng2you3 送/song4 我/wo3 一/yi1 張/zhang1 卡片/ka3pian4 。
+陳爸爸/chen2ba4ba5 ：連/lian2 我/wo3 不/bu4 認識/ren4shi4 的/de5 年輕人/nian2qing1ren2 ，都/dou1 輪流/lun2liu2 為/wei4 我/wo3 守望/shou3wang4 。還有/hai2you3 一/yi1 個/ge4 小/xiao3 朋友/peng2you5 送/song4 我/wo3 一/yi1 張/zhang1 卡片/ka3pian4 。
 = Papa Chen : Même des jeunes que je ne connais pas ont veillé pour moi dans la prière, à tour de rôle. Et un petit garçon m'a offert une carte.
 坐/zuo4 在/zai4 前面/qian2mian4 的/de5 小光/xiao3guang1 跳/tiao4 起來/qi3lai2 大/da4 叫/jiao4 ：「是/shi4 我/wo3 畫/hua4 的/de5 ！」大家/da4jia1 都/dou1 笑/xiao4 了/le5 。
 = Assis au premier rang, Xiao Guang bondit et s'écrie : « C'est moi qui l'ai dessinée ! » Tout le monde rit.
@@ -41,7 +41,7 @@ tagline: Relecture — un appel de France, une mère sceptique et un verset de l
 song: 信實的神
 vocab: 患難=détresse, tribulation | 忍耐=patience, persévérance | 盼望=espérance | 巧合=coïncidence | 信實=fidèle (se dit de Dieu)
 ---
-星期六/xing1qi1liu4 晚上/wan3shang4 ，路加/lu4jia1 的/de5 媽媽/ma1ma5 從/cong2 法國/fa3guo2 打/da3 視訊/shi4xun4 電話/dian4hua4 來/lai2 。
+星期六/xing1qi2liu4 晚上/wan3shang4 ，路加/lu4jia1 的/de5 媽媽/ma1ma5 從/cong2 法國/fa3guo2 打/da3 視訊/shi4xun4 電話/dian4hua4 來/lai2 。
 = Samedi soir, la mère de Luc l'appelle en visio depuis la France.
 路加/lu4jia1 把/ba3 陳爸爸/chen2ba4ba5 生病/sheng1bing4 、開刀/kai1dao1 、退燒/tui4shao1 的/de5 事/shi4 ，從頭到尾/cong2tou2dao4wei3 講/jiang3 了/le5 一/yi1 遍/bian4 。
 = Luc lui raconte du début à la fin la maladie de papa Chen, l'opération et la fièvre qui est tombée.
@@ -76,7 +76,7 @@ tagline: Répétition — un nouveau rôle pour Luc, un silence pesant et un A-J
 song: 從心合一
 vocab: 合一=unité ; être un | 同工=collaborateur, coéquipier dans le service | 主奏=jouer la partie principale (solo) | 感恩節=fête d'action de grâce (Thanksgiving) | 練習=s'exercer ; répétition
 ---
-星期六/xing1qi1liu4 下午/xia4wu3 ，敬拜團/jing4bai4tuan2 在/zai4 教會/jiao4hui4 練習/lian4xi2 。再/zai4 過/guo4 兩/liang3 個/ge4 禮拜/li3bai4 就是/jiu4shi4 感恩節/gan3en1jie2 崇拜/chong2bai4 了/le5 。
+星期六/xing1qi2liu4 下午/xia4wu3 ，敬拜團/jing4bai4tuan2 在/zai4 教會/jiao4hui4 練習/lian4xi2 。再/zai4 過/guo4 兩/liang3 個/ge4 禮拜/li3bai4 就是/jiu4shi4 感恩節/gan3en1jie2 崇拜/chong2bai4 了/le5 。
 = Samedi après-midi, l'équipe de louange répète à l'église. Dans deux semaines, ce sera le culte d'action de grâce.
 美玲/mei3ling2 ：這/zhe4 次/ci4 的/de5 主題/zhu3ti2 是/shi4 《從/cong2 心/xin1 合一/he2yi1》。路加/lu4jia1 ，前奏/qian2zou4 和/he2 間奏/jian1zou4 讓/rang4 你/ni3 來/lai2 主奏/zhu3zou4 ，好/hao3 嗎/ma5 ？
 = Meiling : Cette fois, le thème, c'est « Unis depuis le cœur ». Luc, c'est toi qui joueras le solo de l'intro et de l'interlude, d'accord ?
@@ -111,7 +111,7 @@ tagline: Colère — une remarque de trop, des mots qui blessent et une nuit san
 song: 給我清潔的心
 vocab: 驕傲=orgueilleux ; orgueil | 嫉妒=jalouser ; jalousie | 批評=critiquer ; critique | 道歉=s'excuser | 清潔=pur, propre
 ---
-第二/di4er4 個/ge4 星期六/xing1qi1liu4 ，練習/lian4xi2 的/de5 時候/shi2hou5 ，阿傑/a1jie2 又/you4 開始/kai1shi3 批評/pi1ping2 路加/lu4jia1 。
+第二/di4er4 個/ge4 星期六/xing1qi2liu4 ，練習/lian4xi2 的/de5 時候/shi2hou5 ，阿傑/a1jie2 又/you4 開始/kai1shi3 批評/pi1ping2 路加/lu4jia1 。
 = Le samedi suivant, pendant la répétition, A-Jie recommence à critiquer Luc.
 阿傑/a1jie2 ：節奏/jie2zou4 太/tai4 快/kuai4 了/le5 ！你/ni3 是/shi4 在/zai4 表演/biao3yan3 還是/hai2shi4 在/zai4 敬拜/jing4bai4 ？外國人/wai4guo2ren2 上台/shang4tai2 ，大家/da4jia1 當然/dang1ran2 都/dou1 會/hui4 拍手/pai1shou3 。
 = A-Jie : Le tempo est trop rapide ! Tu fais un spectacle ou tu adores ? Quand un étranger monte sur l'estrade, forcément tout le monde applaudit.
@@ -144,9 +144,9 @@ tagline: Pardonner — un café avec le pasteur Wang, la question de Pierre et u
 song: 彼此相愛
 vocab: 饒恕=pardonner ; pardon | 和好=se réconcilier | 得罪=offenser, pécher contre | 原諒=excuser, pardonner | 感覺=sentiment ; ressentir
 ---
-星期一/xing1qi1yi1 ，王牧師/wang2mu4shi1 約/yue1 路加/lu4jia1 在/zai4 教會/jiao4hui4 旁邊/pang2bian1 的/de5 咖啡店/ka1fei1dian4 見面/jian4mian4 。
+星期一/xing1qi2yi1 ，王牧師/wang2mu4shi1 約/yue1 路加/lu4jia1 在/zai4 教會/jiao4hui4 旁邊/pang2bian1 的/de5 咖啡店/ka1fei1dian4 見面/jian4mian4 。
 = Lundi, le pasteur Wang donne rendez-vous à Luc au café à côté de l'église.
-王牧師/wang2mu4shi1 ：美玲/mei3ling2 跟/gen1 我/wo3 說/shuo1 了/le5 星期六/xing1qi1liu4 的/de5 事/shi4 。你/ni3 還/hai2 在/zai4 生氣/sheng1qi4 嗎/ma5 ？
+王牧師/wang2mu4shi1 ：美玲/mei3ling2 跟/gen1 我/wo3 說/shuo1 了/le5 星期六/xing1qi2liu4 的/de5 事/shi4 。你/ni3 還/hai2 在/zai4 生氣/sheng1qi4 嗎/ma5 ？
 = Pasteur Wang : Meiling m'a raconté ce qui s'est passé samedi. Tu es encore en colère ?
 路加/lu4jia1 ：有/you3 一點/yi1dian3 。牧師/mu4shi1 ，是/shi4 他/ta1 先/xian1 得罪/de2zui4 我/wo3 的/de5 。如果/ru2guo3 他/ta1 不/bu4 道歉/dao4qian4 ，我/wo3 就/jiu4 不/bu4 原諒/yuan2liang4 他/ta1 。
 = Luc : Un peu. Pasteur, c'est lui qui m'a offensé le premier. S'il ne s'excuse pas, je ne lui pardonnerai pas.
@@ -160,7 +160,7 @@ vocab: 饒恕=pardonner ; pardon | 和好=se réconcilier | 得罪=offenser, pé
 = Luc : Quatre cent quatre-vingt-dix fois ?! Pasteur, c'est trop dur.
 王牧師/wang2mu4shi1 ：耶穌/ye1su1 不/bu4 是/shi4 要/yao4 你/ni3 拿/na2 本子/ben3zi5 數/shu3 ，而是/er2shi4 要/yao4 你/ni3 一直/yi1zhi2 饒恕/rao2shu4 下去/xia4qu4 。因為/yin1wei4 神/shen2 先/xian1 饒恕/rao2shu4 了/le5 我們/wo3men5 更/geng4 多/duo1 。
 = Pasteur Wang : Jésus ne te demande pas de compter dans un carnet, mais de continuer à pardonner. Parce que Dieu nous a d'abord pardonné bien davantage.
-路加/lu4jia1 ：可是/ke3shi4 我/wo3 的/de5 感覺/gan3jue2 還/hai2 很/hen3 不/bu4 舒服/shu1fu2 。
+路加/lu4jia1 ：可是/ke3shi4 我/wo3 的/de5 感覺/gan3jue2 還/hai2 很/hen3 不/bu4 舒服/shu1fu5 。
 = Luc : Mais intérieurement, je me sens encore très mal.
 王牧師/wang2mu4shi1 ：饒恕/rao2shu4 不/bu4 是/shi4 一/yi1 種/zhong3 感覺/gan3jue2 ，而是/er2shi4 一/yi1 個/ge4 決定/jue2ding4 。你/ni3 先/xian1 決定/jue2ding4 ，感覺/gan3jue2 會/hui4 慢慢/man4man4 跟/gen1 上來/shang4lai2 。
 = Pasteur Wang : Le pardon n'est pas un sentiment, c'est une décision. Tu décides d'abord, et les sentiments finiront par suivre.
@@ -212,7 +212,7 @@ tagline: Réconciliation — deux appels en même temps, des excuses croisées e
 song: 在耶穌裡彼此相愛
 vocab: 和好=se réconcilier | 饒恕=pardonner ; pardon | 道歉=s'excuser | 恩慈=bonté, bienveillance | 憐憫=compassion, miséricorde
 ---
-星期二/xing1qi1er4 中午/zhong1wu3 ，路加/lu4jia1 拿/na2 起/qi3 手機/shou3ji1 ，想/xiang3 打/da3 給/gei3 阿傑/a1jie2 。
+星期二/xing1qi2er4 中午/zhong1wu3 ，路加/lu4jia1 拿/na2 起/qi3 手機/shou3ji1 ，想/xiang3 打/da3 給/gei3 阿傑/a1jie2 。
 = Mardi midi, Luc prend son téléphone pour appeler A-Jie.
 沒/mei2 想到/xiang3dao4 ，他/ta1 還/hai2 沒/mei2 按/an4 下去/xia4qu4 ，手機/shou3ji1 就/jiu4 響/xiang3 了/le5 ——是/shi4 阿傑/a1jie2 ！
 = Contre toute attente, avant même qu'il appuie, son téléphone sonne : c'est A-Jie !
@@ -261,7 +261,7 @@ vocab: 合一=unité ; être un | 同心=d'un même cœur | 復興=réveil (spir
 = Dans l'assemblée, certains jettent un coup d'œil discret à Luc et A-Jie. A-Jie se gratte la tête, gêné.
 王牧師/wang2mu4shi1 ：除了/chu2le5 感謝/gan3xie4 神/shen2 的/de5 醫治/yi1zhi4 以外/yi3wai4 ，今年/jin1nian2 我/wo3 最/zui4 感恩/gan3en1 的/de5 ，就/jiu4 是/shi4 看見/kan4jian4 教會/jiao4hui4 越來越/yue4lai2yue4 合一/he2yi1 。
 = Pasteur Wang : En plus de remercier Dieu pour la guérison, ce dont je suis le plus reconnaissant cette année, c'est de voir l'église de plus en plus unie.
-王牧師/wang2mu4shi1 ：合一/he2yi1 不/bu4 是/shi4 為了/wei4le5 讓/rang4 我們/wo3men5 舒服/shu1fu2 ，而是/er2shi4 為了/wei4le5 一起/yi1qi3 出去/chu1qu4 。明年/ming2nian2 一月/yi1yue4 ，神/shen2 要/yao4 差/chai1 我們/wo3men5 去/qu4 花蓮/hua1lian2 。
+王牧師/wang2mu4shi1 ：合一/he2yi1 不/bu4 是/shi4 為了/wei4le5 讓/rang4 我們/wo3men5 舒服/shu1fu5 ，而是/er2shi4 為了/wei4le5 一起/yi1qi3 出去/chu1qu4 。明年/ming2nian2 一月/yi1yue4 ，神/shen2 要/yao4 差/chai1 我們/wo3men5 去/qu4 花蓮/hua1lian2 。
 = Pasteur Wang : L'unité n'est pas là pour notre confort, mais pour que nous sortions ensemble. En janvier prochain, Dieu va nous envoyer à Hualien.
 大家/da4jia1 都/dou1 安靜/an1jing4 下來/xia4lai2 。路加/lu4jia1 和/he2 阿傑/a1jie2 互相/hu4xiang1 看/kan4 了/le5 一/yi1 眼/yan3 。
 = Tout le monde se tait. Luc et A-Jie échangent un regard.
@@ -315,7 +315,7 @@ tagline: Formation — l'ancien Zhang au tableau, un ordre de Jésus et une leç
 song: 唯一的使命
 vocab: 使命=mission (confiée), mandat | 宣教=mission ; évangéliser | 門徒=disciple | 文化=culture | 尊重=respecter ; respect
 ---
-短宣隊/duan3xuan1dui4 每/mei3 個/ge4 星期四/xing1qi1si4 晚上/wan3shang4 都/dou1 要/yao4 上課/shang4ke4 。第一/di4yi1 堂/tang2 課/ke4 是/shi4 張長老/zhang1zhang3lao3 教/jiao1 的/de5 。
+短宣隊/duan3xuan1dui4 每/mei3 個/ge4 星期四/xing1qi2si4 晚上/wan3shang4 都/dou1 要/yao4 上課/shang4ke4 。第一/di4yi1 堂/tang2 課/ke4 是/shi4 張長老/zhang1zhang3lao3 教/jiao1 的/de5 。
 = L'équipe de mission a cours tous les jeudis soir. La première leçon est donnée par l'ancien Zhang.
 張長老/zhang1zhang3lao3 在/zai4 白板/bai2ban3 上/shang4 寫/xie3 了/le5 兩/liang3 個/ge4 大/da4 字/zi4 ：「使命/shi3ming4 」。
 = L'ancien Zhang écrit deux grands caractères au tableau blanc : « mission ».

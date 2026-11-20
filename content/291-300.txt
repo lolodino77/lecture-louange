@@ -9,7 +9,7 @@ tagline: Préparer un sermon — le pasteur Wang, Marc 1.15 et une soupe de noui
 song: 喜愛祢的話
 vocab: 證道=prêcher ; prédication | 講章=sermon (texte préparé) | 經文=texte biblique | 神的國=le royaume de Dieu | 會眾=assemblée | 務要=il faut absolument | 戰戰兢兢=avec crainte et tremblement
 ---
-星期二/xing1qi1er4 早上/zao3shang4 ，王牧師/wang2mu4shi1 把/ba3 路加/lu4jia1 叫/jiao4 進/jin4 辦公室/ban4gong1shi4 ，遞/di4 給/gei3 他/ta1 一/yi1 張/zhang1 主日/zhu3ri4 輪值表/lun2zhi2biao3 。
+星期二/xing1qi2er4 早上/zao3shang4 ，王牧師/wang2mu4shi1 把/ba3 路加/lu4jia1 叫/jiao4 進/jin4 辦公室/ban4gong1shi4 ，遞/di4 給/gei3 他/ta1 一/yi1 張/zhang1 主日/zhu3ri4 輪值表/lun2zhi2biao3 。
 = Mardi matin, le pasteur Wang fait venir Luc dans son bureau et lui tend le planning des cultes du dimanche.
 王牧師/wang2mu4shi1 ：下/xia4 個/ge4 月/yue4 第一/di4yi1 個/ge4 主日/zhu3ri4 ，負責/fu4ze2 證道/zheng4dao4 的/de5 人/ren2 是/shi4 你/ni3 。這/zhe4 是/shi4 你/ni3 神學院/shen2xue2yuan4 實習/shi2xi2 的/de5 一/yi1 部分/bu4fen4 。
 = Pasteur Wang : Le premier dimanche du mois prochain, c'est toi qui prêches. Ça fait partie de ton stage de séminaire.
@@ -19,13 +19,13 @@ vocab: 證道=prêcher ; prédication | 講章=sermon (texte préparé) | 經文
 = Le pasteur Wang rit : « Quand tu es arrivé, tu n'arrivais même pas à dire "amen" correctement. Si Dieu t'a mené jusqu'ici, il ne va pas t'abandonner en chaire. »
 王牧師/wang2mu4shi1 ：寫/xie3 講章/jiang3zhang1 的/de5 第一/di4yi1 步/bu4 ，不/bu4 是/shi4 想/xiang3 一/yi1 個/ge4 好/hao3 點子/dian3zi5 ，而/er2 是/shi4 選/xuan3 定/ding4 經文/jing1wen2 ，讓/rang4 經文/jing1wen2 先/xian1 對/dui4 你/ni3 說話/shuo1hua4 。
 = Pasteur Wang : La première étape pour écrire un sermon, ce n'est pas de trouver une bonne idée, c'est de choisir le texte biblique et de le laisser d'abord te parler.
-路加/lu4jia1 想/xiang3 了/le5 想/xiang3 ，翻開/fan1kai1 馬可福音/ma3ke3fu2yin1 一/yi1 章/zhang1 十五/shi2wu3 節/jie2 ：「日期/ri4qi1 滿/man3 了/le5 ，神的國/shen2de5guo2 近/jin4 了/le5 。你們/ni3men5 當/dang1 悔改/hui3gai3 ，信/xin4 福音/fu2yin1 ！」
+路加/lu4jia1 想/xiang3 了/le5 想/xiang3 ，翻開/fan1kai1 馬可福音/ma3ke3fu2yin1 一/yi1 章/zhang1 十五/shi2wu3 節/jie2 ：「日期/ri4qi2 滿/man3 了/le5 ，神的國/shen2de5guo2 近/jin4 了/le5 。你們/ni3men5 當/dang1 悔改/hui3gai3 ，信/xin4 福音/fu2yin1 ！」
 = Luc réfléchit, puis ouvre Marc 1.15 : « Le temps est accompli, et le royaume de Dieu est proche. Repentez-vous, et croyez à la bonne nouvelle. »
 路加/lu4jia1 ：這/zhe4 是/shi4 耶穌/ye1su1 公開/gong1kai1 傳道/chuan2dao4 的/de5 第一/di4yi1 句/ju4 話/hua4 。我/wo3 想/xiang3 講/jiang3 「神的國/shen2de5guo2 」。
 = Luc : Ce sont les premières paroles du ministère public de Jésus. J'aimerais parler du « royaume de Dieu ».
-王牧師/wang2mu4shi1 ：好/hao3 題目/ti2mu4 ，也/ye3 是/shi4 難/nan2 題目/ti2mu4 。記住/ji4zhu4 ，講道/jiang3dao4 就/jiu4 像/xiang4 煮/zhu3 牛肉麵/niu2rou4mian4 ：經文/jing1wen2 是/shi4 湯頭/tang1tou2 ，要/yao4 慢慢/man4man4 熬/ao2 ；故事/gu4shi4 只是/zhi3shi4 蔥花/cong1hua1 ，撒/sa3 多/duo1 了/le5 反而/fan3er2 搶/qiang3 味/wei4 。
+王牧師/wang2mu4shi1 ：好/hao3 題目/ti2mu4 ，也/ye3 是/shi4 難/nan2 題目/ti2mu4 。記住/ji4zhu4 ，講道/jiang3dao4 就/jiu4 像/xiang4 煮/zhu3 牛肉麵/niu2rou4mian4 ：經文/jing1wen2 是/shi4 湯頭/tang1tou2 ，要/yao4 慢慢/man4man4 熬/ao2 ；故事/gu4shi5 只是/zhi3shi4 蔥花/cong1hua1 ，撒/sa3 多/duo1 了/le5 反而/fan3er2 搶/qiang3 味/wei4 。
 = Pasteur Wang : Bon sujet, mais difficile. Souviens-toi : prêcher, c'est comme préparer une soupe de nouilles au bœuf. Le texte, c'est le bouillon : il doit mijoter longtemps. Les anecdotes ne sont que la ciboule : trop, et elles masquent le goût.
-接下來/jie1xia4lai2 的/de5 三/san1 個/ge4 星期/xing1qi1 ，路加/lu4jia1 每天/mei3tian1 清晨/qing1chen2 讀/du2 這/zhe4 段/duan4 經文/jing1wen2 ，查/cha2 希臘文/xi1la4wen2 ，翻/fan1 註釋書/zhu4shi4shu1 ，又/you4 在/zai4 禱告/dao3gao4 中/zhong1 反覆/fan3fu4 默想/mo4xiang3 。
+接下來/jie1xia4lai2 的/de5 三/san1 個/ge4 星期/xing1qi2 ，路加/lu4jia1 每天/mei3tian1 清晨/qing1chen2 讀/du2 這/zhe4 段/duan4 經文/jing1wen2 ，查/cha2 希臘文/xi1la4wen2 ，翻/fan1 註釋書/zhu4shi4shu1 ，又/you4 在/zai4 禱告/dao3gao4 中/zhong1 反覆/fan3fu4 默想/mo4xiang3 。
 = Les trois semaines suivantes, Luc lit ce passage chaque matin à l'aube, consulte le grec, feuillette des commentaires et le médite encore et encore dans la prière.
 第一/di4yi1 份/fen4 講章/jiang3zhang1 寫/xie3 好/hao3 後/hou4 ，他/ta1 在/zai4 牧師/mu4shi1 家/jia1 的/de5 客廳/ke4ting1 裡/li3 ，先/xian1 講/jiang3 給/gei3 小恩/xiao3en1 和/he2 王師母/wang2shi1mu3 聽/ting1 。
 = Une fois le premier jet terminé, il le présente d'abord à Xiao En et à Mme Wang, dans le salon du pasteur.
@@ -39,7 +39,7 @@ vocab: 證道=prêcher ; prédication | 講章=sermon (texte préparé) | 經文
 = Pasteur Wang : Raison de plus pour prêcher de façon à ce qu'il le pose. Paul dit en 2 Timothée 4.2 : « Prêche la parole, insiste en toute occasion, favorable ou non. »
 王牧師/wang2mu4shi1 ：還有/hai2you3 一/yi1 件/jian4 事/shi4 ：講章/jiang3zhang1 要/yao4 先/xian1 講/jiang3 給/gei3 自己/zi4ji3 聽/ting1 。若/ruo4 這/zhe4 段/duan4 經文/jing1wen2 沒有/mei2you3 先/xian1 改變/gai3bian4 你/ni3 ，就/jiu4 別/bie2 指望/zhi3wang4 它/ta1 改變/gai3bian4 會眾/hui4zhong4 。
 = Pasteur Wang : Encore une chose : un sermon se prêche d'abord à soi-même. Si ce texte ne t'a pas changé en premier, n'espère pas qu'il change l'assemblée.
-那/na4 天/tian1 晚上/wan3shang4 ，路加/lu4jia1 刪/shan1 掉/diao4 了/le5 一半/yi1ban4 的/de5 術語/shu4yu3 ，加上/jia1shang4 一/yi1 個/ge4 自己/zi4ji3 的/de5 故事/gu4shi4 ：一/yi1 個/ge4 不/bu4 信/xin4 神/shen2 的/de5 法國/fa3guo2 青年/qing1nian2 ，如何/ru2he2 在/zai4 台北/tai2bei3 遇見/yu4jian4 了/le5 神的國/shen2de5guo2 。
+那/na4 天/tian1 晚上/wan3shang4 ，路加/lu4jia1 刪/shan1 掉/diao4 了/le5 一半/yi1ban4 的/de5 術語/shu4yu3 ，加上/jia1shang4 一/yi1 個/ge4 自己/zi4ji3 的/de5 故事/gu4shi5 ：一/yi1 個/ge4 不/bu4 信/xin4 神/shen2 的/de5 法國/fa3guo2 青年/qing1nian2 ，如何/ru2he2 在/zai4 台北/tai2bei3 遇見/yu4jian4 了/le5 神的國/shen2de5guo2 。
 = Ce soir-là, Luc supprime la moitié du jargon et ajoute une histoire personnelle : comment un jeune Français qui ne croyait pas en Dieu a rencontré le royaume de Dieu à Taipei.
 他/ta1 一邊/yi1bian1 修改/xiu1gai3 ，一邊/yi1bian1 輕聲/qing1sheng1 哼/heng1 著/zhe5 《喜愛/xi3ai4 祢/ni3 的/de5 話/hua4 》，心/xin1 裡/li3 戰戰兢兢/zhan4zhan4jing1jing1 ，卻/que4 也/ye3 有/you3 一/yi1 種/zhong3 說/shuo1 不/bu4 出/chu1 的/de5 平安/ping2an1 。
 = Tout en corrigeant, il fredonne doucement « J'aime ta parole » ; il tremble intérieurement, mais ressent aussi une paix indicible.
@@ -54,11 +54,11 @@ tagline: Premier sermon — des mains qui tremblent, le royaume de Dieu et une i
 song: 願祢國度降臨
 vocab: 證道=prédication ; prêcher | 已然未然=« déjà et pas encore » | 神的國=le royaume de Dieu | 末世=fin des temps | 盼望=espérance | 婚約=fiançailles ; promesse de mariage | 見證=témoignage | 降臨=venir, advenir
 ---
-主日/zhu3ri4 早上/zao3shang4 ，恩典教會/en1dian3jiao4hui4 坐/zuo4 滿/man3 了/le5 人/ren2 。敬拜團/jing4bai4tuan2 唱/chang4 完/wan2 《願/yuan4 祢/ni3 國度/guo2du4 降臨/jiang4lin2 》，路加/lu4jia1 走/zou3 上/shang4 講台/jiang3tai2 ，雙手/shuang1shou3 微微/wei1wei1 發抖/fa1dou3 。
+主日/zhu3ri4 早上/zao3shang4 ，恩典教會/en1dian3jiao4hui4 坐/zuo4 滿/man3 了/le5 人/ren2 。敬拜團/jing4bai4tuan2 唱/chang4 完/wan2 《願/yuan4 祢/ni3 國度/guo2du4 降臨/jiang4lin2 》，路加/lu4jia1 走/zou3 上/shang4 講台/jiang3tai2 ，雙手/shuang1shou3 微微/wei2wei2 發抖/fa1dou3 。
 = Dimanche matin, l'église de la Grâce est pleine. L'équipe de louange termine « Que ton règne vienne », et Luc monte en chaire, les mains légèrement tremblantes.
 他/ta1 望向/wang4xiang4 台下/tai2xia4 ：小恩/xiao3en1 坐/zuo4 在/zai4 第三/di4san1 排/pai2 ，大衛/da4wei4 坐/zuo4 在/zai4 她/ta1 旁邊/pang2bian1 ，阿傑/a1jie2 向/xiang4 他/ta1 豎起/shu4qi3 大拇指/da4mu3zhi3 。
 = Il regarde l'assemblée : Xiao En est assise au troisième rang, David à côté d'elle, et A-Jie lève le pouce vers lui.
-路加/lu4jia1 ：各位/ge4wei4 弟兄姐妹/di4xiong1jie3mei4 平安/ping2an1 。今天/jin1tian1 的/de5 經文/jing1wen2 是/shi4 馬可福音/ma3ke3fu2yin1 一/yi1 章/zhang1 十五/shi2wu3 節/jie2 ：「日期/ri4qi1 滿/man3 了/le5 ，神的國/shen2de5guo2 近/jin4 了/le5 。你們/ni3men5 當/dang1 悔改/hui3gai3 ，信/xin4 福音/fu2yin1 ！」
+路加/lu4jia1 ：各位/ge4wei4 弟兄姐妹/di4xiong1jie3mei4 平安/ping2an1 。今天/jin1tian1 的/de5 經文/jing1wen2 是/shi4 馬可福音/ma3ke3fu2yin1 一/yi1 章/zhang1 十五/shi2wu3 節/jie2 ：「日期/ri4qi2 滿/man3 了/le5 ，神的國/shen2de5guo2 近/jin4 了/le5 。你們/ni3men5 當/dang1 悔改/hui3gai3 ，信/xin4 福音/fu2yin1 ！」
 = Luc : Frères et sœurs, que la paix soit avec vous. Le texte d'aujourd'hui est Marc 1.15 : « Le temps est accompli, et le royaume de Dieu est proche. Repentez-vous, et croyez à la bonne nouvelle. »
 路加/lu4jia1 ：耶穌/ye1su1 說/shuo1 「神的國/shen2de5guo2 近/jin4 了/le5 」，因為/yin1wei4 君王/jun1wang2 本身/ben3shen1 已經/yi3jing1 來到/lai2dao4 。瞎子/xia1zi5 看見/kan4jian4 ，罪人/zui4ren2 蒙/meng2 赦免/she4mian3 ，這些/zhe4xie1 都/dou1 是/shi4 神的國/shen2de5guo2 闖進/chuang3jin4 人間/ren2jian1 的/de5 記號/ji4hao4 。
 = Luc : Jésus dit que « le royaume de Dieu est proche » parce que le Roi lui-même est déjà venu. Des aveugles voient, des pécheurs sont pardonnés : ce sont les signes que le royaume de Dieu fait irruption dans le monde.
@@ -88,3 +88,381 @@ vocab: 證道=prédication ; prêcher | 已然未然=« déjà et pas encore » 
 = Xiao En s'approche et se plaint à voix basse : « La prochaine fois que tu prêches, tu pourrais éviter de prendre nos fiançailles comme illustration ? »
 路加/lu4jia1 笑/xiao4 道/dao4 ：「可是/ke3shi4 那/na4 是/shi4 我/wo3 最/zui4 確定/que4ding4 的/de5 盼望/pan4wang4 之一/zhi1yi1 啊/a5 。」
 = Luc rit : « Mais c'est l'une de mes espérances les plus sûres ! »
+
+=== 293
+series: 291
+title_zh: 水裡與水外
+title_fr: Dans l'eau et hors de l'eau
+tagline: Préparation au baptême — David relit Romains 6, parle de son père et découvre que le baptême n'est ni magie ni simple symbole vide.
+song: 我已得自由
+vocab: 洗禮=baptême | 歸入=être uni à, être incorporé à | 聯合=union | 見證=témoignage | 順服=obéissance ; obéir | 舊人=vieil homme | 新生命=vie nouvelle
+---
+秋天/qiu1tian1 開學/kai1xue2 後/hou4 ，恩典教會/en1dian3jiao4hui4 的/de5 洗禮班/xi3li3ban1 也/ye3 開始/kai1shi3 了/le5 。這/zhe4 一/yi1 期/qi2 只有/zhi3you3 三/san1 個/ge4 人/ren2 ：大衛/da4wei4 、一/yi1 位/wei4 高中/gao1zhong1 老師/lao3shi1 ，以及/yi3ji2 一/yi1 位/wei4 剛/gang1 信主/xin4zhu3 的/de5 年輕/nian2qing1 媽媽/ma1ma5 。
+= Après la rentrée d'automne, la classe de baptême de l'église de la Grâce commence elle aussi. Cette session ne compte que trois personnes : David, une professeure de lycée et une jeune mère récemment convertie.
+王牧師/wang2mu4shi1 把/ba3 聖經/sheng4jing1 翻/fan1 到/dao4 羅馬書/luo2ma3shu1 六/liu4 章/zhang1 ，先/xian1 讀/du2 了/le5 第/di4 三/san1 到/dao4 四/si4 節/jie2 ：「豈/qi3 不/bu4 知/zhi1 我們/wo3men5 這/zhe4 受洗/shou4xi3 歸入/gui1ru4 基督/ji1du1 耶穌/ye1su1 的/de5 人/ren2 ，是/shi4 受洗/shou4xi3 歸入/gui1ru4 祂/ta1 的/de5 死/si3 嗎/ma5 ？所以/suo3yi3 我們/wo3men5 藉著/jie4zhe5 洗禮/xi3li3 歸入/gui1ru4 死/si3 ，和/he2 祂/ta1 一同/yi1tong2 埋葬/mai2zang4 ……」
+= Le pasteur Wang ouvre la Bible à Romains 6 et lit d'abord les versets 3 à 4 : « Ignorez-vous que nous tous qui avons été baptisés en Jésus-Christ, c'est en sa mort que nous avons été baptisés ? Nous avons donc été ensevelis avec lui par le baptême en sa mort… »
+王牧師/wang2mu4shi1 ：洗禮/xi3li3 不/bu4 是/shi4 一/yi1 個/ge4 屬靈/shu3ling2 的/de5 畢業證書/bi4ye4zheng4shu1 ，也/ye3 不/bu4 是/shi4 一/yi1 種/zhong3 神奇/shen2qi2 儀式/yi2shi4 。它/ta1 是/shi4 神/shen2 所/suo3 設立/she4li4 的/de5 記號/ji4hao4 與/yu3 印記/yin4ji4 ，見證/jian4zheng4 我們/wo3men5 已經/yi3jing1 藉/jie4 著/zhe5 信心/xin4xin1 與/yu3 基督/ji1du1 聯合/lian2he2 。
+= Pasteur Wang : Le baptême n'est ni un diplôme spirituel ni un rite magique. C'est un signe et un sceau établis par Dieu, qui témoignent que, par la foi, nous sommes déjà unis au Christ.
+大衛/da4wei4 一邊/yi1bian1 記/ji4 筆記/bi3ji4 ，一邊/yi1bian1 問/wen4 ：所以/suo3yi3 洗禮/xi3li3 不是/bu4shi4 讓/rang4 人/ren2 得救/de2jiu4 的/de5 原因/yuan2yin1 ，卻/que4 也/ye3 不/bu4 只是/zhi3shi4 一/yi1 個/ge4 空洞/kong1dong4 的/de5 象徵/xiang4zheng1 ，對/dui4 嗎/ma5 ？
+= David prend des notes tout en demandant : Donc le baptême n'est pas la cause du salut, mais ce n'est pas non plus un simple symbole creux, c'est bien ça ?
+王牧師/wang2mu4shi1 點頭/dian3tou2 ：正是/zheng4shi4 如此/ru2ci3 。神/shen2 喜歡/xi3huan5 用/yong4 看得見/kan4de5jian4 的/de5 記號/ji4hao4 ，堅固/jian1gu4 我們/wo3men5 看不見/kan4bu4jian4 的/de5 信心/xin4xin1 。水/shui3 不/bu4 會/hui4 自己/zi4ji3 洗/xi3 去/qu4 罪/zui4 ，但/dan4 神/shen2 藉/jie4 著/zhe5 水/shui3 對/dui4 我們/wo3men5 說/shuo1 ：你/ni3 真正/zhen1zheng4 的/de5 汙穢/wu1hui4 ，已經/yi3jing1 被/bei4 基督/ji1du1 的/de5 寶血/bao3xue4 洗淨/xi3jing4 了/le5 。
+= Le pasteur Wang hoche la tête : Exactement. Dieu aime employer des signes visibles pour fortifier notre foi invisible. L'eau ne lave pas le péché par elle-même, mais Dieu se sert de l'eau pour nous dire : ta vraie souillure a déjà été lavée par le sang du Christ.
+下課/xia4ke4 後/hou4 ，大衛/da4wei4 沒有/mei2you3 立刻/li4ke4 離開/li2kai1 。他/ta1 坐/zuo4 在/zai4 教室/jiao4shi4 最後/zui4hou4 一/yi1 排/pai2 ，望/wang4 著/zhe5 還/hai2 沒/mei2 收/shou1 起來/qi3lai2 的/de5 摺疊椅/zhe2die2yi3 發呆/fa1dai1 。
+= Après le cours, David ne part pas tout de suite. Il reste assis au dernier rang, le regard perdu sur les chaises pliantes qu'on n'a pas encore rangées.
+路加/lu4jia1 走/zou3 過來/guo4lai2 ：怎麼/zen3me5 了/le5 ？你/ni3 平常/ping2chang2 不是/bu4shi4 最/zui4 會/hui4 問/wen4 問題/wen4ti2 的/de5 那/na4 個/ge4 嗎/ma5 ？
+= Luc s'approche : Qu'est-ce qu'il y a ? D'habitude, c'est toi qui poses le plus de questions.
+大衛/da4wei4 苦笑/ku3xiao4 ：問題/wen4ti2 倒/dao4 不是/bu4shi4 沒有/mei2you3 。我/wo3 只是/zhi3shi4 一直/yi1zhi2 在/zai4 想/xiang3 我/wo3 爸/ba4 。
+= David sourit tristement : Ce n'est pas que je n'en ai pas. Je pense juste à mon père.
+大衛/da4wei4 ：我/wo3 媽/ma1 已經/yi3jing1 慢慢/man4man4 接受/jie1shou4 我/wo3 信主/xin4zhu3 了/le5 ，可是/ke3shi4 我/wo3 爸/ba4 還/hai2 是/shi4 不/bu4 說/shuo1 話/hua4 。上/shang4 週/zhou1 我/wo3 提/ti2 到/dao4 洗禮/xi3li3 ，他/ta1 只/zhi3 說/shuo1 ：「你/ni3 想/xiang3 清楚/qing1chu5 了/le5 沒有/mei2you3 ？」
+= David : Ma mère accepte peu à peu ma foi, mais mon père, lui, ne dit toujours rien. La semaine dernière, quand j'ai parlé du baptême, il s'est contenté de demander : « Tu as bien réfléchi ? »
+路加/lu4jia1 ：那/na4 句/ju4 話/hua4 聽/ting1 起來/qi3lai2 冷/leng3 ，其實/qi2shi2 也/ye3 可能/ke3neng2 是/shi4 他/ta1 唯一/wei2yi1 會/hui4 用/yong4 的/de5 關心/guan1xin1 方式/fang1shi4 。
+= Luc : Cette phrase paraît froide, mais c'est peut-être aussi la seule manière qu'il a de montrer qu'il se soucie de toi.
+大衛/da4wei4 嘆/tan4 了/le5 一/yi1 口/kou3 氣/qi4 ：我/wo3 知道/zhi1dao4 。所以/suo3yi3 我/wo3 更/geng4 不/bu4 想/xiang3 把/ba3 洗禮/xi3li3 變/bian4 成/cheng2 一/yi1 場/chang3 跟/gen1 家人/jia1ren2 對著幹/dui4zhe5gan4 的/de5 宣言/xuan1yan2 。
+= David soupire : Je sais. C'est justement pour ça que je ne veux pas transformer le baptême en déclaration de guerre contre ma famille.
+路加/lu4jia1 ：那/na4 就/jiu4 不要/bu4yao4 這樣/zhe4yang4 做/zuo4 。洗禮/xi3li3 本來/ben3lai2 就/jiu4 不是/bu4shi4 對/dui4 家人/jia1ren2 的/de5 反抗/fan3kang4 ，而是/er2shi4 對/dui4 主/zhu3 的/de5 順服/shun4fu2 。
+= Luc : Alors ne le fais pas ainsi. Le baptême n'est pas une révolte contre la famille, mais une obéissance au Seigneur.
+那/na4 天/tian1 晚上/wan3shang4 ，大衛/da4wei4 回/hui2 家/jia1 後/hou4 ，主動/zhu3dong4 幫/bang1 父親/fu4qin1 把/ba3 陽台/yang2tai2 上/shang4 壞/huai4 掉/diao4 的/de5 燈泡/deng1pao4 換/huan4 掉/diao4 。父子/fu4zi3 兩/liang3 人/ren2 站/zhan4 在/zai4 梯子/ti1zi5 旁/pang2 ，沉默/chen2mo4 了/le5 很/hen3 久/jiu3 。
+= Ce soir-là, une fois rentré, David aide spontanément son père à changer l'ampoule cassée du balcon. Les deux hommes restent longtemps silencieux à côté de l'escabeau.
+父親/fu4qin1 忽然/hu1ran2 開口/kai1kou3 ：你/ni3 小時候/xiao3shi2hou5 很/hen3 怕/pa4 水/shui3 ，學/xue2 游泳/you2yong3 的/de5 時候/shi2hou5 ，每/mei3 次/ci4 下/xia4 水/shui3 都/dou1 抓/zhua1 得/de5 我/wo3 手/shou3 很/hen3 緊/jin3 。
+= Son père finit par parler : Quand tu étais petit, tu avais très peur de l'eau. À chaque cours de natation, tu me serrais la main très fort avant d'entrer dans le bassin.
+大衛/da4wei4 愣/leng4 了/le5 一下/yi1xia4 ：我/wo3 都/dou1 忘/wang4 了/le5 。
+= David reste un instant figé : J'avais oublié.
+父親/fu4qin1 ：我/wo3 沒有/mei2you3 忘/wang4 。如果/ru2guo3 你/ni3 真的/zhen1de5 想/xiang3 清楚/qing1chu5 了/le5 ，那/na4 就/jiu4 去/qu4 吧/ba5 。只是/zhi3shi4 ……到/dao4 時候/shi2hou5 跟/gen1 我/wo3 說/shuo1 一聲/yi1sheng1 。
+= Son père : Moi, je n'ai pas oublié. Si tu as vraiment bien réfléchi, alors vas-y. Seulement… préviens-moi quand ce sera le moment.
+大衛/da4wei4 回/hui2 到/dao4 房間/fang2jian1 後/hou4 ，坐/zuo4 在/zai4 書桌/shu1zhuo1 前/qian2 很/hen3 久/jiu3 。他/ta1 打開/da3kai1 羅馬書/luo2ma3shu1 六/liu4 章/zhang1 ，又/you4 讀/du2 了/le5 一/yi1 遍/bian4 「和/he2 祂/ta1 一同/yi1tong2 埋葬/mai2zang4 」、「一舉一動/yi1ju3yi1dong4 有/you3 新生命/xin1sheng1ming4 的/de5 樣式/yang4shi4 」。
+= De retour dans sa chambre, David reste longtemps assis à son bureau. Il rouvre Romains 6 et relit : « ensevelis avec lui », « marcher en nouveauté de vie ».
+他/ta1 忽然/hu1ran2 明白/ming2bai5 ，洗禮/xi3li3 不是/bu4shi4 要/yao4 他/ta1 變/bian4 成/cheng2 另一/ling4yi1 個/ge4 人/ren2 ，而是/er2shi4 公開/gong1kai1 承認/cheng2ren4 ：那/na4 個/ge4 舊人/jiu4ren2 已經/yi3jing1 不/bu4 再/zai4 是/shi4 他/ta1 的/de5 主人/zhu3ren2 了/le5 。
+= Il comprend soudain que le baptême ne doit pas le transformer en quelqu'un d'autre, mais lui faire reconnaître publiquement que le vieil homme n'est plus son maître.
+主日/zhu3ri4 敬拜/jing4bai4 時/shi2 ，美玲/mei3ling2 選/xuan3 了/le5 《我/wo3 已/yi3 得/de2 自由/zi4you2》。大衛/da4wei4 站/zhan4 在/zai4 會眾/hui4zhong4 中間/zhong1jian1 ，沒有/mei2you3 像/xiang4 以前/yi3qian2 那樣/na4yang4 只/zhi3 用/yong4 頭腦/tou2nao3 分析/fen1xi1 歌詞/ge1ci2 ，而是/er2shi4 安靜/an1jing4 地/de5 把/ba3 這/zhe4 首/shou3 歌/ge1 當作/dang4zuo4 自己/zi4ji3 的/de5 見證/jian4zheng4 。
+= Au culte du dimanche, Meiling choisit « J'ai déjà reçu la liberté ». Debout au milieu de l'assemblée, David ne se contente plus d'analyser les paroles avec sa tête ; il en fait silencieusement son propre témoignage.
+
+=== 294
+series: 291
+title_zh: 在眾人面前承認主名
+title_fr: Confesser le nom du Seigneur devant tous
+tagline: Jour de baptême — une piscine d'école, un père au dernier rang, et David remonte de l'eau avec un visage nouveau.
+song: 蒙恩
+vocab: 受洗=recevoir le baptême | 見證=témoignage | 承認=confesser ; reconnaître | 復活=résurrection | 歡呼=acclamer
+---
+十一月/shi2yi1yue4 初/chu1 的/de5 主日/zhu3ri4 下午/xia4wu3 ，恩典教會/en1dian3jiao4hui4 租/zu1 了/le5 附近/fu4jin4 一/yi1 所/suo3 國中/guo2zhong1 的/de5 室內/shi4nei4 游泳池/you2yong3chi2 ，舉行/ju3xing2 今年/jin1nian2 的/de5 洗禮/xi3li3 。
+= Un dimanche après-midi de début novembre, l'église de la Grâce loue la piscine couverte d'un collège voisin pour célébrer les baptêmes de l'année.
+更衣室/geng1yi1shi4 外/wai4 的/de5 走廊/zou3lang2 上/shang4 ，路加/lu4jia1 幫/bang1 大衛/da4wei4 把/ba3 白色/bai2se4 的/de5 受洗袍/shou4xi3pao2 拉/la1 平/ping2 。
+= Dans le couloir devant les vestiaires, Luc aide David à lisser sa robe blanche de baptême.
+路加/lu4jia1 ：你/ni3 現在/xian4zai4 的/de5 臉色/lian3se4 ，比/bi3 我/wo3 第/di4 一/yi1 次/ci4 上/shang4 講台/jiang3tai2 還/hai2 緊張/jin3zhang1 。
+= Luc : Tu as l'air encore plus tendu que moi lors de mon premier sermon.
+大衛/da4wei4 ：我/wo3 寧可/ning4ke3 再/zai4 跟/gen1 你/ni3 辯論/bian4lun4 三/san1 個/ge4 小時/xiao3shi2 的/de5 三一論/san1yi1lun4 ，也/ye3 不/bu4 想/xiang3 穿/chuan1 成/cheng2 這樣/zhe4yang4 站/zhan4 在/zai4 全/quan2 教會/jiao4hui4 面前/mian4qian2 。
+= David : Je préférerais encore débattre trois heures de la Trinité avec toi plutôt que de me tenir comme ça devant toute l'église.
+小恩/xiao3en1 把/ba3 毛巾/mao2jin1 遞/di4 給/gei3 他/ta1 ：放心/fang4xin1 ，今天/jin1tian1 大家/da4jia1 看/kan4 的/de5 不是/bu4shi4 你/ni3 的/de5 泳姿/yong3zi1 ，是/shi4 神/shen2 的/de5 恩典/en1dian3 。
+= Xiao En lui tend une serviette : Rassure-toi, aujourd'hui personne ne regarde ta façon de nager, mais la grâce de Dieu.
+聚會/ju4hui4 開始/kai1shi3 後/hou4 ，王牧師/wang2mu4shi1 先/xian1 簡短/jian3duan3 講/jiang3 了/le5 羅馬書/luo2ma3shu1 六/liu4 章/zhang1 的/de5 信息/xin4xi2 ，又/you4 請/qing3 三/san1 位/wei4 受洗者/shou4xi3zhe3 逐一/zhu2yi1 分享/fen1xiang3 見證/jian4zheng4 。
+= Quand la réunion commence, le pasteur Wang donne d'abord un bref message sur Romains 6, puis invite les trois baptisés à partager leur témoignage l'un après l'autre.
+輪到/lun2dao4 大衛/da4wei4 時/shi2 ，他/ta1 站/zhan4 在/zai4 池邊/chi2bian1 的/de5 麥克風/mai4ke4feng1 前/qian2 ，先/xian1 深深/shen1shen1 吸/xi1 了/le5 一/yi1 口/kou3 氣/qi4 。
+= Quand vient le tour de David, il se tient devant le micro au bord du bassin et prend une longue inspiration.
+大衛/da4wei4 ：大家/da4jia1 好/hao3 。我/wo3 以前/yi3qian2 來/lai2 教會/jiao4hui4 ，是/shi4 為了/wei4le5 研究/yan2jiu1 基督教/ji1du1jiao4 。後來/hou4lai2 我/wo3 留/liu2 下來/xia4lai2 ，是/shi4 因為/yin1wei4 我/wo3 發現/fa1xian4 ，我/wo3 研究/yan2jiu1 的/de5 不是/bu4shi4 一/yi1 套/tao4 思想/si1xiang3 ，而是/er2shi4 一/yi1 位/wei4 活/huo2 著/zhe5 的/de5 主/zhu3 。
+= David : Bonjour à tous. Au début, je venais à l'église pour étudier le christianisme. Si je suis resté, c'est parce que j'ai découvert que je n'étudiais pas un système d'idées, mais un Seigneur vivant.
+大衛/da4wei4 ：我/wo3 問/wen4 過/guo4 很/hen3 多/duo1 問題/wen4ti2 ：神/shen2 存在/cun2zai4 嗎/ma5 ？苦難/ku3nan4 為什麼/wei4shen2me5 存在/cun2zai4 ？復活/fu4huo2 可信/ke3xin4 嗎/ma5 ？後來/hou4lai2 我/wo3 才/cai2 明白/ming2bai5 ，最大/zui4da4 的/de5 問題/wen4ti2 不是/bu4shi4 神/shen2 ，而是/er2shi4 我/wo3 自己/zi4ji3 不/bu4 願意/yuan4yi4 降服/xiang2fu2 的/de5 心/xin1 。
+= David : J'ai posé beaucoup de questions : Dieu existe-t-il ? Pourquoi la souffrance ? Peut-on croire à la résurrection ? Puis j'ai compris que le plus grand problème n'était pas Dieu, mais mon propre cœur qui refusait de se soumettre.
+大衛/da4wei4 ：今天/jin1tian1 我/wo3 受洗/shou4xi3 ，不是/bu4shi4 因為/yin1wei4 我/wo3 已經/yi3jing1 變/bian4 成/cheng2 完美/wan2mei3 的/de5 人/ren2 ，而是/er2shi4 因為/yin1wei4 耶穌/ye1su1 基督/ji1du1 已經/yi3jing1 為/wei4 我/wo3 死/si3 而/er2 復活/fu4huo2 。我/wo3 願意/yuan4yi4 在/zai4 眾人/zhong4ren2 面前/mian4qian2 承認/cheng2ren4 祂/ta1 的/de5 名/ming2 。
+= David : Si je reçois le baptême aujourd'hui, ce n'est pas parce que je suis devenu parfait, mais parce que Jésus-Christ est mort et ressuscité pour moi. Je veux confesser son nom devant tous.
+他/ta1 說/shuo1 完/wan2 時/shi2 ，路加/lu4jia1 下意識/xia4yi4shi4 地/de5 往/wang3 最後/zui4hou4 一/yi1 排/pai2 看/kan4 了/le5 一/yi1 眼/yan3 。大衛/da4wei4 的/de5 父母/fu4mu3 真的/zhen1de5 來/lai2 了/le5 ，安靜/an1jing4 地/de5 坐/zuo4 在/zai4 角落/jiao3luo4 。父親/fu4qin1 的/de5 表情/biao3qing2 仍/reng2 很/hen3 克制/ke4zhi4 ，卻/que4 沒有/mei2you3 離席/li2xi2 。
+= Quand il a fini, Luc jette instinctivement un regard vers le dernier rang. Les parents de David sont bien venus, assis discrètement dans un coin. Le visage du père reste très retenu, mais il n'est pas parti.
+王牧師/wang2mu4shi1 和/he2 張長老/zhang1zhang3lao3 一起/yi1qi3 站/zhan4 在/zai4 水/shui3 中/zhong1 。
+= Le pasteur Wang et l'ancien Zhang se tiennent ensemble dans l'eau.
+王牧師/wang2mu4shi1 ：大衛/da4wei4 ，你/ni3 是否/shi4fou3 相信/xiang1xin4 耶穌/ye1su1 基督/ji1du1 是/shi4 神/shen2 的/de5 兒子/er2zi5 ，為/wei4 你/ni3 的/de5 罪/zui4 死/si3 在/zai4 十字架/shi2zi4jia4 上/shang4 ，並/bing4 且/qie3 從/cong2 死/si3 裡/li3 復活/fu4huo2 ？
+= Pasteur Wang : David, crois-tu que Jésus-Christ est le Fils de Dieu, qu'il est mort sur la croix pour tes péchés et qu'il est ressuscité d'entre les morts ?
+大衛/da4wei4 ：我/wo3 相信/xiang1xin4 。
+= David : Je le crois.
+王牧師/wang2mu4shi1 ：你/ni3 是否/shi4fou3 願意/yuan4yi4 一生/yi1sheng1 跟隨/gen1sui2 祂/ta1 ，在/zai4 教會/jiao4hui4 中/zhong1 與/yu3 弟兄姐妹/di4xiong1jie3mei4 一同/yi1tong2 敬拜/jing4bai4 、一同/yi1tong2 成長/cheng2zhang3 ？
+= Pasteur Wang : Veux-tu le suivre toute ta vie, et grandir avec les frères et sœurs dans l'Église en adorant avec eux ?
+大衛/da4wei4 ：我/wo3 願意/yuan4yi4 。
+= David : Je le veux.
+王牧師/wang2mu4shi1 ：大衛/da4wei4 ，我/wo3 奉/feng4 父/fu4 、子/zi3 、聖靈/sheng4ling2 的/de5 名/ming2 為/wei4 你/ni3 施洗/shi1xi3 。
+= Pasteur Wang : David, je te baptise au nom du Père, du Fils et du Saint-Esprit.
+水花/shui3hua1 濺/jian4 起/qi3 的/de5 那/na4 一/yi1 瞬間/shun4jian1 ，路加/lu4jia1 忽然/hu1ran2 想起/xiang3qi3 幾/ji3 年/nian2 前/qian2 自己/zi4ji3 受洗/shou4xi3 的/de5 那/na4 一/yi1 天/tian1 。然而/ran2er2 這/zhe4 一次/yi1ci4 ，他/ta1 的/de5 感動/gan3dong4 更/geng4 深/shen1 ——因為/yin1wei4 他/ta1 親眼/qin1yan3 看見/kan4jian4 一/yi1 個/ge4 長久/chang2jiu3 與/yu3 神/shen2 摔跤/shuai1jiao1 的/de5 靈魂/ling2hun2 ，終於/zhong1yu2 安息/an1xi2 在/zai4 恩典/en1dian3 裡/li3 。
+= Au moment où l'eau éclabousse, Luc se souvient soudain du jour de son propre baptême, des années plus tôt. Mais cette fois, son émotion est plus profonde encore : il voit de ses yeux une âme qui a longtemps lutté avec Dieu trouver enfin son repos dans la grâce.
+大衛/da4wei4 從/cong2 水/shui3 裡/li3 起來/qi3lai2 時/shi2 ，全場/quan2chang3 響起/xiang3qi3 掌聲/zhang3sheng1 與/yu3 歡呼/huan1hu1 。小光/xiao3guang1 甚至/shen4zhi4 吹/chui1 了/le5 一/yi1 聲/sheng1 口哨/kou3shao4 ，立刻/li4ke4 被/bei4 美玲/mei3ling2 瞪/deng4 了/le5 一/yi1 眼/yan3 。
+= Quand David remonte de l'eau, toute l'assemblée éclate en applaudissements et en acclamations. Xiao Guang pousse même un sifflement, aussitôt réprimandé du regard par Meiling.
+聚會/ju4hui4 結束/jie2shu4 後/hou4 ，大衛/da4wei4 還/hai2 沒/mei2 來得及/lai2de2ji2 換/huan4 好/hao3 衣服/yi1fu5 ，父親/fu4qin1 就/jiu4 走/zou3 到/dao4 他/ta1 面前/mian4qian2 。
+= Après la réunion, David n'a même pas encore eu le temps de se changer que son père s'avance vers lui.
+父親/fu4qin1 看/kan4 著/zhe5 他/ta1 濕/shi1 漉漉/lu4lu4 的/de5 頭髮/tou2fa3 ，只/zhi3 說/shuo1 了/le5 一/yi1 句/ju4 ：今天/jin1tian1 你/ni3 講/jiang3 得/de5 很/hen3 清楚/qing1chu5 。
+= Son père regarde ses cheveux encore trempés et dit seulement : Aujourd'hui, tu as parlé très clairement.
+大衛/da4wei4 眼眶/yan3kuang4 一/yi1 熱/re4 ，差點/cha4dian3 又/you4 想/xiang3 哭/ku1 。
+= Les yeux de David se remplissent de larmes ; il manque de se remettre à pleurer.
+
+=== 295
+series: 291
+title_zh: 婚禮前一個月
+title_fr: Un mois avant le mariage
+tagline: Préparatifs — faire-part, répétitions, fatigue, et le rappel que le mariage chrétien est une alliance avant d'être une mise en scène.
+song: 愛使我們勇敢
+vocab: 婚禮=mariage | 盟約=alliance | 誓約=vœux | 捨己=renoncer à soi-même
+---
+大衛/da4wei4 受洗/shou4xi3 之後/zhi1hou4 沒有/mei2you3 多久/duo1jiu3 ，恩典教會/en1dian3jiao4hui4 就/jiu4 進入/jin4ru4 了/le5 另一/ling4yi1 種/zhong3 忙碌/mang2lu4 ：路加/lu4jia1 和/he2 小恩/xiao3en1 的/de5 婚禮/hun1li3 只/zhi3 剩/sheng4 一/yi1 個/ge4 月/yue4 。
+= Peu après le baptême de David, l'église de la Grâce entre dans une autre forme d'agitation : il ne reste plus qu'un mois avant le mariage de Luc et Xiao En.
+教會/jiao4hui4 辦公室/ban4gong1shi4 的/de5 長桌/chang2zhuo1 上/shang4 ，堆/dui1 滿/man3 了/le5 喜帖/xi3tie3 樣本/yang4ben3 、流程表/liu2cheng2biao3 、座位表/zuo4wei4biao3 ，以及/yi3ji2 王師母/wang2shi1mu3 親手/qin1shou3 做/zuo4 的/de5 鳳梨酥/feng4li2su1 。
+= Sur la grande table du bureau de l'église s'entassent des modèles de faire-part, des déroulés, des plans de table, ainsi que des gâteaux à l'ananas préparés par Mme Wang.
+王師母/wang2shi1mu3 ：先/xian1 吃/chi1 一/yi1 塊/kuai4 再/zai4 討論/tao3lun4 。空腹/kong1fu4 的/de5 人/ren2 最/zui4 容易/rong2yi4 為/wei4 座位表/zuo4wei4biao3 吵/chao3 起來/qi3lai2 。
+= Mme Wang : Mangez d'abord un morceau avant de discuter. Les gens à jeun se disputent plus facilement à cause d'un plan de table.
+小恩/xiao3en1 拿/na2 著/zhe5 筆/bi3 ，眉頭/mei2tou2 微皺/wei2zhou4 ：如果/ru2guo3 把/ba3 我/wo3 舅舅/jiu4jiu5 和/he2 你/ni3 法國/fa3guo2 來/lai2 的/de5 阿姨/a1yi2 排/pai2 在/zai4 同/tong2 一/yi1 桌/zhuo1 ，他們/ta1men5 真的/zhen1de5 能/neng2 聊/liao2 起來/qi3lai2 嗎/ma5 ？
+= Xiao En, stylo en main, fronce légèrement les sourcils : Si on met mon oncle et ta tante venue de France à la même table, tu crois vraiment qu'ils arriveront à parler ?
+路加/lu4jia1 ：也許/ye3xu3 不/bu4 能/neng2 ，但/dan4 他們/ta1men5 可以/ke3yi3 一起/yi1qi3 微笑/wei2xiao4 ，這/zhe4 也是/ye3shi4 一/yi1 種/zhong3 國際/guo2ji4 交流/jiao1liu2 。
+= Luc : Peut-être pas, mais ils pourront sourire ensemble ; c'est déjà une forme d'échange international.
+阿傑/a1jie2 在/zai4 一旁/yi1pang2 看/kan4 著/zhe5 婚禮/hun1li3 流程/liu2cheng2 ，忽然/hu1ran2 抬頭/tai2tou2 ：等/deng3 一下/yi1xia4 ，你們/ni3men5 真的/zhen1de5 要/yao4 在/zai4 進場/jin4chang3 前/qian2 先/xian1 讓/rang4 會眾/hui4zhong4 唱/chang4 《愛/ai4 使/shi3 我們/wo3men5 勇敢/yong3gan3 》？
+= A-Jie, qui regarde le déroulé du mariage, relève soudain la tête : Attendez, vous voulez vraiment faire chanter « L'amour nous rend courageux » à l'assemblée avant votre entrée ?
+小恩/xiao3en1 ：有/you3 什麼/shen2me5 問題/wen4ti2 嗎/ma5 ？
+= Xiao En : Il y a un problème ?
+阿傑/a1jie2 ：沒有/mei2you3 問題/wen4ti2 ，只是/zhi3shi4 我/wo3 已經/yi3jing1 可以/ke3yi3 想像/xiang3xiang4 小光/xiao3guang1 到/dao4 時候/shi2hou5 會/hui4 唱/chang4 得/de5 多/duo1 大聲/da4sheng1 。
+= A-Jie : Aucun problème. J'imagine juste déjà à quel point Xiao Guang chantera fort ce jour-là.
+眾人/zhong4ren2 都/dou1 笑/xiao4 了/le5 ，只有/zhi3you3 路加/lu4jia1 和/he2 小恩/xiao3en1 的/de5 笑容/xiao4rong2 裡/li3 帶/dai4 著/zhe5 一點/yi1dian3 疲憊/pi2bei4 。
+= Tout le monde rit, mais dans le sourire de Luc et Xiao En se glisse une pointe de fatigue.
+晚上/wan3shang4 散會/san4hui4 後/hou4 ，兩/liang3 人/ren2 留/liu2 在/zai4 會堂/hui4tang2 裡/li3 收/shou1 椅子/yi3zi5 。
+= Le soir, après la réunion, ils restent tous les deux dans la salle pour ranger les chaises.
+小恩/xiao3en1 忽然/hu1ran2 坐/zuo4 下來/xia4lai2 ，把/ba3 臉/lian3 埋/mai2 在/zai4 手/shou3 裡/li3 ：我/wo3 今天/jin1tian1 突然/tu2ran2 覺得/jue2de5 好/hao3 累/lei4 。婚禮/hun1li3 明明/ming2ming2 是/shi4 喜事/xi3shi4 ，為什麼/wei4shen2me5 我/wo3 卻/que4 像/xiang4 在/zai4 趕/gan3 一/yi1 份/fen4 永遠/yong3yuan3 做/zuo4 不/bu4 完/wan2 的/de5 報告/bao4gao4 ？
+= Xiao En s'assied soudain et enfouit son visage dans ses mains : Tout à coup, je suis épuisée. Le mariage est censé être une joie ; pourquoi ai-je l'impression de courir après un devoir qui ne finit jamais ?
+路加/lu4jia1 也/ye3 坐/zuo4 到/dao4 她/ta1 旁邊/pang2bian1 ：因為/yin1wei4 我/wo3 們/men5 不知不覺/bu4zhi1bu4jue2 想/xiang3 把/ba3 婚禮/hun1li3 辦/ban4 成/cheng2 一/yi1 場/chang3 完美/wan2mei3 演出/yan3chu1 。
+= Luc s'assied à côté d'elle : Parce que, sans nous en rendre compte, nous essayons de transformer le mariage en spectacle parfait.
+路加/lu4jia1 ：可是/ke3shi4 王牧師/wang2mu4shi1 上/shang4 週/zhou1 婚前/hun1qian2 輔導/fu3dao3 時/shi2 說/shuo1 得/de5 很/hen3 清楚/qing1chu5 ：基督徒/ji1du1tu2 的/de5 婚姻/hun1yin1 首先/shou3xian1 是/shi4 盟約/meng2yue1 ，不是/bu4shi4 舞台/wu3tai2 ；首先/shou3xian1 是/shi4 誓約/shi4yue1 ，不是/bu4shi4 氣氛/qi4fen1 。
+= Luc : Mais le pasteur Wang l'a dit très clairement lors de la préparation au mariage la semaine dernière : pour des chrétiens, le mariage est d'abord une alliance, pas une scène ; d'abord des vœux, pas une ambiance.
+小恩/xiao3en1 抬/tai2 起/qi3 頭/tou2 ：我/wo3 知道/zhi1dao4 。只是/zhi3shi4 我/wo3 有時/you3shi2 還/hai2 是/shi4 會/hui4 害怕/hai4pa4 。
+= Xiao En relève la tête : Je le sais. Mais parfois j'ai quand même peur.
+路加/lu4jia1 ：怕/pa4 什麼/shen2me5 ？
+= Luc : Peur de quoi ?
+小恩/xiao3en1 ：怕/pa4 我/wo3 們/men5 以後/yi3hou4 會/hui4 不/bu4 會/hui4 像/xiang4 別人/bie2ren2 一樣/yi1yang4 ，被/bei4 生活/sheng1huo2 的/de5 壓力/ya1li4 壓/ya1 得/de5 忘/wang4 了/le5 當初/dang1chu1 為/wei4 什麼/shen2me5 要/yao4 結婚/jie2hun1 。
+= Xiao En : Peur qu'un jour nous devenions comme tant d'autres, écrasés par la vie au point d'oublier pourquoi nous nous sommes mariés.
+路加/lu4jia1 沉默/chen2mo4 片刻/pian4ke4 ，然後/ran2hou4 說/shuo1 ：以弗所書/yi3fu2suo3shu1 五/wu3 章/zhang1 從/cong2 來/lai2 沒有/mei2you3 把/ba3 婚姻/hun1yin1 描寫/miao2xie3 成/cheng2 輕鬆/qing1song1 的/de5 事/shi4 。它/ta1 說/shuo1 的/de5 是/shi4 捨己/she3ji3 、是/shi4 愛/ai4 、是/shi4 彼此/bi3ci3 順服/shun4fu2 。
+= Luc se tait un instant, puis dit : Éphésiens 5 n'a jamais décrit le mariage comme quelque chose de facile. Il parle de renoncement à soi, d'amour, de soumission mutuelle.
+路加/lu4jia1 ：所以/suo3yi3 我/wo3 們/men5 不是/bu4shi4 因為/yin1wei4 不/bu4 害怕/hai4pa4 才/cai2 結婚/jie2hun1 ，而是/er2shi4 因為/yin1wei4 神/shen2 的/de5 愛/ai4 比/bi3 我/wo3 們/men5 的/de5 害怕/hai4pa4 更/geng4 大/da4 。這/zhe4 大概/da4gai4 就/jiu4 是/shi4 《愛/ai4 使/shi3 我們/wo3men5 勇敢/yong3gan3 》的/de5 意思/yi4si5 。
+= Luc : Alors nous ne nous marions pas parce que nous n'avons pas peur, mais parce que l'amour de Dieu est plus grand que notre peur. C'est sans doute ça, le sens de « L'amour nous rend courageux ».
+小恩/xiao3en1 聽/ting1 完/wan2 ，終於/zhong1yu2 笑/xiao4 了/le5 ：好/hao3 吧/ba5 。那/na4 明天/ming2tian1 我/wo3 們/men5 先/xian1 把/ba3 喜帖/xi3tie3 寄/ji4 出去/chu1qu4 ，其他/qi2ta1 的/de5 事/shi4 一/yi1 件/jian4 一/yi1 件/jian4 來/lai2 。
+= Xiao En finit par sourire : D'accord. Alors demain, on commence par envoyer les faire-part, et on prendra le reste une chose après l'autre.
+路加/lu4jia1 站/zhan4 起來/qi3lai2 ，向/xiang4 她/ta1 伸/shen1 出/chu1 手/shou3 ：陳/chen2 小姐/xiao3jie3 ，妳/ni3 願不願意/yuan4bu4yuan4yi4 先/xian1 跟/gen1 我/wo3 一起/yi1qi3 把/ba3 這/zhe4 一/yi1 排/pai2 椅子/yi3zi5 收/shou1 完/wan2 ？
+= Luc se lève et lui tend la main : Mademoiselle Chen, accepteriez-vous d'abord de ranger cette rangée de chaises avec moi ?
+小恩/xiao3en1 把/ba3 手/shou3 放/fang4 在/zai4 他/ta1 手/shou3 上/shang4 ：我/wo3 願意/yuan4yi4 。
+= Xiao En pose sa main dans la sienne : Je le veux.
+
+=== 296
+series: 291
+title_zh: 婚前輔導最後一課
+title_fr: La dernière séance de préparation au mariage
+tagline: Chez les Wang — Éphésiens 5, des questions concrètes, et le rappel que l'amour chrétien se mesure souvent dans les petites fidélités.
+song: 彩虹下的約定
+vocab: 婚前輔導=préparation au mariage | 盟約=alliance | 忠心=fidélité | 饒恕=pardon | 成聖=sanctification
+---
+婚禮/hun1li3 前/qian2 兩/liang3 週/zhou1 ，路加/lu4jia1 和/he2 小恩/xiao3en1 到/dao4 王牧師/wang2mu4shi1 家/jia1 上/shang4 最後/zui4hou4 一/yi1 次/ci4 婚前輔導/hun1qian2fu3dao3 。
+= Deux semaines avant le mariage, Luc et Xiao En se rendent chez le pasteur Wang pour leur dernière séance de préparation au mariage.
+王師母/wang2shi1mu3 先/xian1 端/duan1 上/shang4 一/yi1 壺/hu2 熱/re4 茶/cha2 ，又/you4 把/ba3 小餅乾/xiao3bing3gan1 推/tui1 到/dao4 他們/ta1men5 面前/mian4qian2 ：今天/jin1tian1 的/de5 題目/ti2mu4 可能/ke3neng2 比/bi3 神學/shen2xue2 考試/kao3shi4 還/hai2 難/nan2 ，先/xian1 吃/chi1 一點/yi1dian3 。
+= Mme Wang sert d'abord une théière brûlante et pousse des biscuits vers eux : Le sujet d'aujourd'hui sera peut-être plus difficile qu'un examen de théologie, alors mangez d'abord un peu.
+王牧師/wang2mu4shi1 打開/da3kai1 聖經/sheng4jing1 ：我們/wo3men5 已經/yi3jing1 談/tan2 過/guo4 盟約/meng2yue1 、角色/jiao3se4 、金錢/jin1qian2 、原生/yuan2sheng1 家庭/jia1ting2 。今天/jin1tian1 最後/zui4hou4 一/yi1 課/ke4 ，我/wo3 只/zhi3 問/wen4 你們/ni3men5 三/san1 個/ge4 問題/wen4ti2 。
+= Le pasteur Wang ouvre la Bible : Nous avons déjà parlé de l'alliance, des rôles, de l'argent, des familles d'origine. Pour cette dernière séance, je ne vous poserai que trois questions.
+王牧師/wang2mu4shi1 ：第一/di4yi1 ，當/dang1 對方/dui4fang1 不/bu4 可愛/ke3ai4 的/de5 時候/shi2hou5 ，你/ni3 還/hai2 願不願意/yuan4bu4yuan4yi4 愛/ai4 他/ta1 ？
+= Pasteur Wang : Premièrement, quand l'autre ne sera pas aimable, voudras-tu encore l'aimer ?
+小恩/xiao3en1 忍不住/ren3bu4zhu4 笑/xiao4 ：牧師/mu4shi1 ，你/ni3 這/zhe4 個/ge4 問題/wen4ti2 怎麼/zen3me5 一開始/yi1kai1shi3 就/jiu4 這麼/zhe4me5 實際/shi2ji4 ？
+= Xiao En ne peut s'empêcher de rire : Pasteur, pourquoi commencer par une question aussi concrète ?
+王牧師/wang2mu4shi1 ：因為/yin1wei4 婚姻/hun1yin1 的/de5 聖潔/sheng4jie2 ，常常/chang2chang2 就/jiu4 藏/cang2 在/zai4 最/zui4 實際/shi2ji4 的/de5 地方/di4fang1 。
+= Pasteur Wang : Parce que la sainteté du mariage se cache souvent dans les choses les plus concrètes.
+路加/lu4jia1 想/xiang3 了/le5 想/xiang3 ：如果/ru2guo3 靠/kao4 我/wo3 自己/zi4ji3 ，大概/da4gai4 不/bu4 行/xing2 。但/dan4 如果/ru2guo3 婚姻/hun1yin1 真/zhen1 的/de5 是/shi4 神/shen2 用/yong4 來/lai2 使/shi3 我/wo3 們/men5 成聖/cheng2sheng4 的/de5 方式/fang1shi4 之一/zhi1yi1 ，那/na4 我/wo3 就/jiu4 得/dei3 學/xue2 。
+= Luc réfléchit : Si je compte sur moi seul, probablement pas. Mais si le mariage est vraiment l'un des moyens par lesquels Dieu nous sanctifie, alors il faudra que j'apprenne.
+王牧師/wang2mu4shi1 ：第二/di4er4 ，當/dang1 你/ni3 們/men5 受傷/shou4shang1 的/de5 時候/shi2hou5 ，你/ni3 們/men5 會/hui4 不/bu4 會/hui4 學/xue2 著/zhe5 饒恕/rao2shu4 ？
+= Pasteur Wang : Deuxièmement, quand vous serez blessés, apprendrez-vous à pardonner ?
+小恩/xiao3en1 低頭/di1tou2 ：我/wo3 其實/qi2shi2 最/zui4 怕/pa4 的/de5 就/jiu4 是/shi4 冷戰/leng3zhan4 。我/wo3 不/bu4 喜歡/xi3huan5 吵架/chao3jia4 ，可是/ke3shi4 我/wo3 一/yi1 難過/nan2guo4 就/jiu4 會/hui4 不/bu4 說/shuo1 話/hua4 。
+= Xiao En baisse la tête : Ce que je crains le plus, en réalité, c'est la guerre froide. Je n'aime pas me disputer, mais quand je suis blessée, je me tais.
+路加/lu4jia1 立刻/li4ke4 點頭/dian3tou2 ：這/zhe4 一點/yi1dian3 我/wo3 已經/yi3jing1 見識/jian4shi4 過/guo4 了/le5 。
+= Luc hoche aussitôt la tête : Ça, j'en ai déjà eu un aperçu.
+小恩/xiao3en1 瞪/deng4 了/le5 他/ta1 一/yi1 眼/yan3 ，卻/que4 也/ye3 笑/xiao4 了/le5 。
+= Xiao En lui lance un regard noir, mais elle sourit aussi.
+王師母/wang2shi1mu3 在/zai4 一旁/yi1pang2 補充/bu3chong1 ：那/na4 就/jiu4 先/xian1 約定/yue1ding4 一/yi1 件/jian4 事/shi4 ：不/bu4 管/guan3 多/duo1 晚/wan3 ，都/dou1 不/bu4 要/yao4 用/yong4 沉默/chen2mo4 懲罰/cheng2fa2 對方/dui4fang1 。
+= Mme Wang ajoute : Alors faites-vous d'abord une promesse : quelle que soit l'heure, n'utilisez jamais le silence pour punir l'autre.
+王牧師/wang2mu4shi1 ：第三/di4san1 ，你/ni3 們/men5 願不願意/yuan4bu4yuan4yi4 把/ba3 婚姻/hun1yin1 當作/dang4zuo4 服事/fu2shi4 神/shen2 的/de5 地方/di4fang1 ，而/er2 不/bu4 只是/zhi3shi4 兩/liang3 個/ge4 人/ren2 的/de5 幸福/xing4fu2 計畫/ji4hua4 ？
+= Pasteur Wang : Troisièmement, êtes-vous prêts à considérer votre mariage comme un lieu de service pour Dieu, et pas seulement comme un projet de bonheur à deux ?
+這/zhe4 一/yi1 次/ci4 ，路加/lu4jia1 和/he2 小恩/xiao3en1 幾乎/ji1hu1 同時/tong2shi2 回答/hui2da2 ：願意/yuan4yi4 。
+= Cette fois, Luc et Xiao En répondent presque en même temps : Oui, nous le voulons.
+王牧師/wang2mu4shi1 合/he2 上/shang4 聖經/sheng4jing1 ：很好/hen3hao3 。那/na4 你/ni3 們/men5 要/yao4 記住/ji4zhu4 ，婚姻/hun1yin1 的/de5 偉大/wei3da4 不/bu4 常/chang2 在/zai4 大場面/da4chang3mian4 ，而/er2 常/chang2 在/zai4 小/xiao3 的/de5 忠心/zhong1xin1 裡/li3 ：準時/zhun3shi2 回家/hui2jia1 、好好/hao3hao3 說話/shuo1hua4 、一起/yi1qi3 禱告/dao3gao4 、在/zai4 對方/dui4fang1 軟弱/ruan3ruo4 時/shi2 不/bu4 離開/li2kai1 。
+= Le pasteur Wang referme la Bible : Très bien. Alors souvenez-vous que la grandeur du mariage ne se trouve pas souvent dans les grands moments, mais dans les petites fidélités : rentrer à l'heure, bien se parler, prier ensemble, ne pas partir quand l'autre est faible.
+回去/hui2qu4 的/de5 路/lu4 上/shang4 ，小恩/xiao3en1 靠/kao4 在/zai4 捷運/jie2yun4 車門/che1men2 旁/pang2 ，輕聲/qing1sheng1 說/shuo1 ：我/wo3 以前/yi3qian2 一直/yi1zhi2 覺得/jue2de5 婚禮/hun1li3 才/cai2 是/shi4 大事/da4shi4 ，今天/jin1tian1 才/cai2 發現/fa1xian4 ，婚後/hun1hou4 的/de5 每/mei3 一/yi1 天/tian1 才/cai2 是/shi4 。
+= Sur le chemin du retour, appuyée contre la porte du métro, Xiao En murmure : Avant, je croyais que le grand événement, c'était le mariage. Aujourd'hui, je découvre que ce sera plutôt chaque jour après.
+路加/lu4jia1 ：所以/suo3yi3 《謝謝/xie4xie5 你/ni3 成為/cheng2wei2 我/wo3 的/de5 家/jia1 》這/zhe4 種/zhong3 歌/ge1 ，大概/da4gai4 不是/bu4shi4 只/zhi3 能/neng2 在/zai4 婚禮/hun1li3 唱/chang4 。
+= Luc : C'est pour ça qu'un chant comme « Merci d'être devenu ma maison » ne se chante sans doute pas seulement le jour du mariage.
+小恩/xiao3en1 看/kan4 著/zhe5 他/ta1 ：那/na4 你/ni3 以後/yi3hou4 要/yao4 常常/chang2chang2 唱/chang4 給/gei3 我/wo3 聽/ting1 。
+= Xiao En le regarde : Alors tu devras souvent me le chanter après.
+路加/lu4jia1 ：只要/zhi3yao4 妳/ni3 不/bu4 嫌/xian2 我/wo3 走音/zou3yin1 。
+= Luc : Tant que tu ne m'en veux pas quand je chante faux.
+
+=== 297
+series: 291
+title_zh: 婚禮當天的清晨
+title_fr: L'aube du jour du mariage
+tagline: Avant la cérémonie — pluie légère, nervosité, une lettre de la mère de Luc et la paix qui revient dans la prière.
+song: 我心靈得安寧
+vocab: 清晨=aube ; petit matin | 安寧=paix profonde | 緊張=tension ; nervosité | 交託=confier à Dieu
+---
+婚禮/hun1li3 當天/dang1tian1 清晨/qing1chen2 ，台北/tai2bei3 下/xia4 著/zhe5 很/hen3 細/xi4 的/de5 雨/yu3 。
+= À l'aube du jour du mariage, une pluie très fine tombe sur Taipei.
+路加/lu4jia1 比/bi3 鬧鐘/nao4zhong1 還/hai2 早/zao3 醒/xing3 了/le5 。他/ta1 坐/zuo4 在/zai4 宿舍/su4she4 床邊/chuang2bian1 ，看/kan4 著/zhe5 掛/gua4 好/hao3 的/de5 西裝/xi1zhuang1 ，心跳/xin1tiao4 快/kuai4 得/de5 像/xiang4 要/yao4 去/qu4 參加/can1jia1 口試/kou3shi4 。
+= Luc se réveille avant même le réveil. Assis au bord de son lit, il regarde son costume suspendu et sent son cœur battre comme s'il allait passer un oral.
+手機/shou3ji1 螢幕/ying2mu4 亮/liang4 了/le5 一下/yi1xia4 ，是/shi4 法國/fa3guo2 的/de5 媽媽/ma1ma5 傳/chuan2 來/lai2 的/de5 訊息/xun4xi2 ：「我/wo3 知道/zhi1dao4 你/ni3 今天/jin1tian1 一定/yi1ding4 很/hen3 緊張/jin3zhang1 。可惜/ke3xi1 我/wo3 不能/bu4neng2 飛/fei1 過去/guo4qu4 ，但/dan4 我/wo3 一早/yi1zao3 就/jiu4 為/wei4 你/ni3 禱告/dao3gao4 了/le5 。」
+= L'écran de son téléphone s'allume : un message de sa mère, en France. « Je sais que tu dois être très nerveux aujourd'hui. Je regrette de ne pas pouvoir venir, mais j'ai prié pour toi dès le matin. »
+訊息/xun4xi2 後面/hou4mian4 還/hai2 附/fu4 了/le5 一/yi1 張/zhang1 掃描/sao3miao2 的/de5 手寫/shou3xie3 信/xin4 。
+= Le message est suivi d'une lettre manuscrite scannée.
+路加/lu4jia1 打開/da3kai1 一看/yi1kan4 ，母親/mu3qin1 用/yong4 有些/you3xie1 顫抖/chan4dou3 的/de5 字跡/zi4ji4 寫/xie3 著/zhe5 ：「你/ni3 剛/gang1 到/dao4 台北/tai2bei3 的/de5 時候/shi2hou5 ，我/wo3 只/zhi3 擔心/dan1xin1 你/ni3 會/hui4 不/bu4 會/hui4 吃/chi1 不/bu4 慣/guan4 、會/hui4 不/bu4 會/hui4 迷路/mi2lu4 。我/wo3 沒有/mei2you3 想到/xiang3dao4 ，神/shen2 竟/jing4 會/hui4 在/zai4 那裡/na4li3 給/gei3 你/ni3 一/yi1 個/ge4 家/jia1 。」
+= Luc ouvre la lettre. Sa mère y a écrit d'une main un peu tremblante : « Quand tu es arrivé à Taipei, je me demandais seulement si tu allais réussir à manger, si tu allais te perdre. Je n'imaginais pas que Dieu t'y donnerait une famille. »
+路加/lu4jia1 讀/du2 到/dao4 這裡/zhe4li3 ，眼眶/yan3kuang4 就/jiu4 熱/re4 了/le5 。
+= À ces mots, les yeux de Luc se mouillent déjà.
+另一邊/ling4yi1bian1 ，小恩/xiao3en1 在/zai4 自己/zi4ji3 房間/fang2jian1 裡/li3 也/ye3 幾乎/ji1hu1 同樣/tong2yang4 緊張/jin3zhang1 。陳媽媽/chen2ma1ma5 一邊/yi1bian1 幫/bang1 她/ta1 整理/zheng3li3 頭髮/tou2fa3 ，一邊/yi1bian1 說/shuo1 ：妳/ni3 小時候/xiao3shi2hou5 最/zui4 討厭/tao3yan4 穿/chuan1 洋裝/yang2zhuang1 ，今天/jin1tian1 倒/dao4 願意/yuan4yi4 穿/chuan1 白紗/bai2sha1 了/le5 。
+= De l'autre côté, dans sa chambre, Xiao En est presque aussi nerveuse. Sa mère lui arrange les cheveux en disant : Petite, tu détestais les robes ; aujourd'hui, te voilà prête à porter du blanc.
+小恩/xiao3en1 ：媽/ma1 ，我/wo3 現在/xian4zai4 沒有/mei2you3 心情/xin1qing2 笑/xiao4 。
+= Xiao En : Maman, je n'ai pas vraiment le cœur à rire maintenant.
+陳媽媽/chen2ma1ma5 ：我/wo3 知道/zhi1dao4 。所以/suo3yi3 我/wo3 才/cai2 要/yao4 讓/rang4 妳/ni3 笑/xiao4 一下/yi1xia4 。
+= Maman Chen : Je sais. C'est justement pour ça que j'essaie de te faire sourire.
+婚禮/hun1li3 開始/kai1shi3 前/qian2 一/yi1 小時/xiao3shi2 ，王牧師/wang2mu4shi1 把/ba3 路加/lu4jia1 、小恩/xiao3en1 、伴郎/ban4lang2 、伴娘/ban4niang2 都/dou1 叫/jiao4 到/dao4 副堂/fu4tang2 禱告/dao3gao4 。
+= Une heure avant le début de la cérémonie, le pasteur Wang fait venir Luc, Xiao En, les témoins et les demoiselles d'honneur dans la salle annexe pour prier.
+王牧師/wang2mu4shi1 ：今天/jin1tian1 不是/bu4shi4 表演/biao3yan3 ，也/ye3 不/bu4 是/shi4 拍照/pai1zhao4 專案/zhuan1an4 。今天/jin1tian1 是/shi4 神/shen2 在/zai4 祂/ta1 的/de5 百姓/bai3xing4 面前/mian4qian2 ，見證/jian4zheng4 一/yi1 個/ge4 盟約/meng2yue1 的/de5 日子/ri4zi5 。
+= Pasteur Wang : Aujourd'hui n'est ni un spectacle ni une séance photo. C'est le jour où Dieu, devant son peuple, atteste une alliance.
+王牧師/wang2mu4shi1 ：如果/ru2guo3 等/deng3 一下/yi1xia4 你/ni3 們/men5 忘/wang4 了/le5 流程/liu2cheng2 ，沒關係/mei2guan1xi5 ；如果/ru2guo3 花/hua1 有/you3 一點/yi1dian3 歪/wai1 了/le5 ，也/ye3 沒關係/mei2guan1xi5 。只要/zhi3yao4 你/ni3 們/men5 記得/ji4de5 自己/zi4ji3 在/zai4 向/xiang4 誰/shei2 立約/li4yue1 ，就/jiu4 夠/gou4 了/le5 。
+= Pasteur Wang : Si tout à l'heure vous oubliez le déroulé, ce n'est pas grave ; si les fleurs penchent un peu, ce n'est pas grave non plus. Il suffit que vous vous souveniez devant qui vous concluez cette alliance.
+眾人/zhong4ren2 圍/wei2 成/cheng2 一/yi1 圈/quan1 ，王牧師/wang2mu4shi1 先/xian1 禱告/dao3gao4 ，接著/jie1zhe5 讓/rang4 路加/lu4jia1 和/he2 小恩/xiao3en1 各自/ge4zi4 用/yong4 一/yi1 句/ju4 話/hua4 向/xiang4 神/shen2 交託/jiao1tuo1 今天/jin1tian1 。
+= Tous se mettent en cercle. Le pasteur Wang prie d'abord, puis demande à Luc et Xiao En de confier chacun cette journée à Dieu en une phrase.
+路加/lu4jia1 ：主/zhu3 啊/a5 ，求/qiu2 祢/ni3 讓/rang4 我/wo3 今天/jin1tian1 不/bu4 只/zhi3 看/kan4 見/jian4 小恩/xiao3en1 的/de5 美麗/mei3li4 ，也/ye3 記得/ji4de5 祢/ni3 的/de5 信實/xin4shi2 。
+= Luc : Seigneur, fais qu'aujourd'hui je ne voie pas seulement la beauté de Xiao En, mais que je me souvienne aussi de ta fidélité.
+小恩/xiao3en1 ：主/zhu3 啊/a5 ，求/qiu2 祢/ni3 讓/rang4 我/wo3 今天/jin1tian1 的/de5 喜樂/xi3le4 不/bu4 只是/zhi3shi4 因為/yin1wei4 婚禮/hun1li3 順利/shun4li4 ，而是/er2shi4 因為/yin1wei4 祢/ni3 真/zhen1 的/de5 與/yu3 我/wo3 們/men5 同在/tong2zai4 。
+= Xiao En : Seigneur, fais que ma joie aujourd'hui ne vienne pas seulement du bon déroulement du mariage, mais du fait que tu es vraiment avec nous.
+禱告/dao3gao4 結束/jie2shu4 後/hou4 ，副堂/fu4tang2 裡/li3 安靜/an1jing4 了/le5 幾/ji3 秒/miao3 。不知/bu4zhi1 是/shi4 誰/shei2 先/xian1 輕聲/qing1sheng1 哼/heng1 起/qi3 《我/wo3 心靈/xin1ling2 得/de5 安寧/an1ning2 》，很快/hen3kuai4 地/de5 ，大家/da4jia1 都/dou1 跟/gen1 著/zhe5 一起/yi1qi3 唱/chang4 了/le5 起來/qi3lai2 。
+= Après la prière, le silence règne quelques secondes dans la salle annexe. Quelqu'un se met à fredonner doucement « Mon âme trouve la paix », et bientôt tout le monde chante avec lui.
+路加/lu4jia1 原本/yuan2ben3 快/kuai4 要/yao4 失控/shi1kong4 的/de5 心跳/xin1tiao4 ，竟/jing4 慢慢/man4man4 平穩/ping2wen3 下來/xia4lai2 。
+= Le cœur de Luc, qui menaçait de s'emballer, se calme peu à peu.
+
+=== 298
+series: 291
+title_zh: 在主裡成為一體
+title_fr: Devenir un dans le Seigneur
+tagline: La cérémonie — vœux, larmes, alliances, et une assemblée qui voit plus qu'un beau couple : une grâce patiemment tissée.
+song: 謝謝你成為我的家
+vocab: 誓言=vœux | 婚禮=mariage (cérémonie) | 會堂=salle (de réunion) | 前奏=prélude
+---
+婚禮/hun1li3 開始/kai1shi3 時/shi2 ，恩典教會/en1dian3jiao4hui4 的/de5 會堂/hui4tang2 幾乎/ji1hu1 坐/zuo4 滿/man3 了/le5 。
+= Quand la cérémonie commence, la salle de l'église de la Grâce est presque pleine.
+前奏/qian2zou4 響起/xiang3qi3 時/shi2 ，路加/lu4jia1 站/zhan4 在/zai4 講台/jiang3tai2 前/qian2 ，忽然/hu1ran2 想起/xiang3qi3 第/di4 一/yi1 次/ci4 在/zai4 校園/xiao4yuan2 裡/li3 見到/jian4dao4 小恩/xiao3en1 的/de5 那/na4 一/yi1 天/tian1 。那時/na4shi2 他/ta1 聽/ting1 不/bu4 懂/dong3 中文/zhong1wen2 ，也/ye3 聽/ting1 不/bu4 懂/dong3 自己/zi4ji3 的/de5 人生/ren2sheng1 將/jiang1 走/zou3 向/xiang4 哪裡/na3li3 。
+= Quand le prélude retentit, Luc, debout devant l'estrade, se souvient soudain du jour où il a vu Xiao En pour la première fois sur le campus. À l'époque, il ne comprenait ni le chinois ni la direction que prendrait sa vie.
+如今/ru2jin1 ，小恩/xiao3en1 挽/wan3 著/zhe5 陳爸爸/chen2ba4ba5 的/de5 手/shou3 ，一步/yi1bu4 一步/yi1bu4 走/zou3 進/jin4 會堂/hui4tang2 。
+= À présent, Xiao En entre dans la salle au bras de son père, pas à pas.
+她/ta1 的/de5 眼睛/yan3jing1 有些/you3xie1 發紅/fa1hong2 ，卻/que4 亮/liang4 得/de5 像/xiang4 清晨/qing1chen2 雨/yu3 後/hou4 的/de5 天空/tian1kong1 。
+= Ses yeux sont un peu rougis, mais brillent comme le ciel après la pluie du matin.
+王牧師/wang2mu4shi1 先/xian1 讀/du2 了/le5 創世記/chuang4shi4ji4 二/er4 章/zhang1 二十四/er4shi2si4 節/jie2 ，又/you4 讀/du2 了/le5 以弗所書/yi3fu2suo3shu1 五/wu3 章/zhang1 二十五/er4shi2wu3 節/jie2 ：「你們/ni3men5 作丈夫/zuo4zhang4fu5 的/de5 ，要/yao4 愛/ai4 你們/ni3men5 的/de5 妻子/qi1zi5 ，正如/zheng4ru2 基督/ji1du1 愛/ai4 教會/jiao4hui4 ，為/wei4 教會/jiao4hui4 捨己/she3ji3 。」
+= Le pasteur Wang lit d'abord Genèse 2.24, puis Éphésiens 5.25 : « Maris, aimez vos femmes, comme Christ a aimé l'Église et s'est livré lui-même pour elle. »
+王牧師/wang2mu4shi1 ：婚姻/hun1yin1 的/de5 中心/zhong1xin1 ，不是/bu4shi4 新郎/xin1lang2 新娘/xin1niang2 有/you3 多/duo1 相配/xiang1pei4 ，而是/er2shi4 基督/ji1du1 的/de5 愛/ai4 有/you3 多/duo1 真實/zhen1shi2 。
+= Pasteur Wang : Le centre du mariage n'est pas de savoir à quel point les mariés vont bien ensemble, mais à quel point l'amour du Christ est réel.
+交換/jiao1huan4 誓言/shi4yan2 時/shi2 ，路加/lu4jia1 的/de5 聲音/sheng1yin1 一開始/yi1kai1shi3 還/hai2 有/you3 一點/yi1dian3 發抖/fa1dou3 ，後來/hou4lai2 卻/que4 越來越/yue4lai2yue4 穩/wen3 。
+= Au moment d'échanger les vœux, la voix de Luc tremble d'abord un peu, puis devient de plus en plus assurée.
+路加/lu4jia1 ：小恩/xiao3en1 ，我/wo3 感謝/gan3xie4 神/shen2 ，讓/rang4 我/wo3 在/zai4 異鄉/yi4xiang1 遇見/yu4jian4 妳/ni3 。我/wo3 願意/yuan4yi4 在/zai4 主/zhu3 裡/li3 愛/ai4 妳/ni3 、尊重/zun1zhong4 妳/ni3 、保護/bao3hu4 妳/ni3 ，在/zai4 喜樂/xi3le4 與/yu3 憂傷/you1shang1 、豐富/feng1fu4 與/yu3 缺乏/que1fa2 中/zhong1 ，都/dou1 與/yu3 妳/ni3 同心/tong2xin1 前行/qian2xing2 。
+= Luc : Xiao En, je rends grâce à Dieu de t'avoir rencontrée en terre étrangère. Je veux t'aimer, te respecter et te protéger dans le Seigneur, et marcher avec toi d'un même cœur dans la joie comme dans la peine, dans l'abondance comme dans le manque.
+輪到/lun2dao4 小恩/xiao3en1 時/shi2 ，她/ta1 才/cai2 說/shuo1 到/dao4 第一/di4yi1 句/ju4 ，眼淚/yan3lei4 就/jiu4 掉/diao4 了/le5 下來/xia4lai2 。
+= Quand vient le tour de Xiao En, elle n'a pas encore fini sa première phrase que les larmes lui coulent déjà.
+小恩/xiao3en1 ：路加/lu4jia1 ，我/wo3 感謝/gan3xie4 神/shen2 ，因為/yin1wei4 祂/ta1 不/bu4 只/zhi3 把/ba3 妳/ni3 帶/dai4 到/dao4 台北/tai2bei3 ，也/ye3 把/ba3 妳/ni3 帶/dai4 進/jin4 我/wo3 的/de5 生命/sheng1ming4 。我/wo3 願意/yuan4yi4 在/zai4 主/zhu3 裡/li3 與/yu3 妳/ni3 同行/tong2xing2 ，在/zai4 妳/ni3 軟弱/ruan3ruo4 時/shi2 扶持/fu2chi2 妳/ni3 ，在/zai4 妳/ni3 喜樂/xi3le4 時/shi2 與/yu3 妳/ni3 一同/yi1tong2 感恩/gan3en1 。
+= Xiao En : Luc, je rends grâce à Dieu, parce qu'il ne t'a pas seulement conduit à Taipei, mais aussi dans ma vie. Je veux marcher avec toi dans le Seigneur, te soutenir dans tes faiblesses et rendre grâce avec toi dans tes joies.
+台下/tai2xia4 的/de5 王師母/wang2shi1mu3 已經/yi3jing1 拿/na2 出/chu1 面紙/mian4zhi3 ，連/lian2 一向/yi1xiang4 最/zui4 會/hui4 開玩笑/kai1wan2xiao4 的/de5 阿傑/a1jie2 都/dou1 安靜/an1jing4 得/de5 出奇/chu1qi2 。
+= Dans l'assemblée, Mme Wang a déjà sorti des mouchoirs, et même A-Jie, d'habitude si prompt à plaisanter, est d'un calme inhabituel.
+交換/jiao1huan4 戒指/jie4zhi3 後/hou4 ，王牧師/wang2mu4shi1 宣告/xuan1gao4 ：我/wo3 奉/feng4 主/zhu3 耶穌/ye1su1 基督/ji1du1 的/de5 名/ming2 ，宣告/xuan1gao4 你們/ni3men5 成為/cheng2wei2 夫妻/fu1qi1 。
+= Après l'échange des alliances, le pasteur Wang déclare : Au nom du Seigneur Jésus-Christ, je vous déclare mari et femme.
+會堂/hui4tang2 裡/li3 響起/xiang3qi3 熱烈/re4lie4 的/de5 掌聲/zhang3sheng1 。敬拜團/jing4bai4tuan2 隨即/sui2ji2 帶領/dai4ling3 會眾/hui4zhong4 唱/chang4 起/qi3 《謝謝/xie4xie5 你/ni3 成為/cheng2wei2 我/wo3 的/de5 家/jia1 》。
+= Une salve d'applaudissements éclate dans la salle. L'équipe de louange entraîne aussitôt l'assemblée dans « Merci d'être devenu ma maison ».
+大衛/da4wei4 站/zhan4 在/zai4 會眾/hui4zhong4 中間/zhong1jian1 唱/chang4 著/zhe5 ，忽然/hu1ran2 想起/xiang3qi3 自己/zi4ji3 幾/ji3 年/nian2 前/qian2 還/hai2 坐/zuo4 在/zai4 最後/zui4hou4 一/yi1 排/pai2 ，冷冷/leng3leng3 地/de5 觀察/guan1cha2 這/zhe4 一切/yi1qie4 。如今/ru2jin1 他/ta1 卻/que4 真/zhen1 的/de5 為/wei4 這/zhe4 對/dui4 新人/xin1ren2 感恩/gan3en1 。
+= Debout au milieu de l'assemblée, David chante et se souvient soudain qu'il y a quelques années encore, il observait tout cela froidement depuis le dernier rang. À présent, il rend vraiment grâce pour ce couple.
+他/ta1 明白/ming2bai5 ，今天/jin1tian1 大家/da4jia1 看見/kan4jian4 的/de5 不/bu4 只是/zhi3shi4 一/yi1 對/dui4 很/hen3 相愛/xiang1ai4 的/de5 新人/xin1ren2 ，而是/er2shi4 神/shen2 多年/duo1nian2 來/lai2 在/zai4 一/yi1 群/qun2 人/ren2 身上/shen1shang4 慢慢/man4man4 編織/bian1zhi1 出來/chu1lai2 的/de5 恩典/en1dian3 。
+= Il comprend que ce que tous voient aujourd'hui, ce n'est pas seulement un couple très amoureux, mais une grâce que Dieu a patiemment tissée au fil des années dans la vie de tout un groupe.
+
+=== 299
+series: 291
+title_zh: 婚宴後的感恩
+title_fr: Rendre grâce après le banquet
+tagline: Après la fête — fatigue heureuse, vaisselle, souvenirs, et la découverte que la joie chrétienne sait aussi remercier dans le calme.
+song: 向我的神獻上感謝
+vocab: 感恩=gratitude ; rendre grâce | 婚宴=banquet de mariage | 收拾=ranger | 滿足=satisfaction profonde
+---
+婚宴/hun1yan4 結束/jie2shu4 時/shi2 ，已經/yi3jing1 接近/jie1jin4 晚上/wan3shang4 十點/shi2dian3 。
+= Quand le banquet de mariage se termine, il est déjà près de dix heures du soir.
+親友/qin1you3 們/men5 陸續/lu4xu4 離開/li2kai1 ，餐廳/can1ting1 裡/li3 只/zhi3 剩/sheng4 下/xia4 教會/jiao4hui4 幾/ji3 個/ge4 最/zui4 能/neng2 撐/cheng1 到/dao4 最後/zui4hou4 的/de5 人/ren2 ：王牧師/wang2mu4shi1 夫婦/fu1fu4 、美玲/mei3ling2 、阿傑/a1jie2 、大衛/da4wei4 ，還有/hai2you3 已經/yi3jing1 累/lei4 得/de5 快/kuai4 睜/zheng1 不/bu4 開/kai1 眼睛/yan3jing1 的/de5 小光/xiao3guang1 。
+= Les proches s'en vont peu à peu, et il ne reste plus dans le restaurant que quelques irréductibles de l'église : le pasteur Wang et son épouse, Meiling, A-Jie, David, et Xiao Guang qui tient à peine les yeux ouverts.
+王師母/wang2shi1mu3 一邊/yi1bian1 收/shou1 紅包/hong2bao1 和/he2 喜餅/xi3bing3 ，一邊/yi1bian1 說/shuo1 ：真正/zhen1zheng4 的/de5 屬靈/shu3ling2 團契/tuan2qi4 ，就是/jiu4shi4 願意/yuan4yi4 在/zai4 婚宴/hun1yan4 後/hou4 幫忙/bang1mang2 收拾/shou1shi2 。
+= Mme Wang range les enveloppes rouges et les boîtes de gâteaux en disant : La vraie communion spirituelle, c'est être prêt à aider à ranger après le banquet.
+阿傑/a1jie2 立刻/li4ke4 回/hui2 嘴/zui3 ：那/na4 我/wo3 今天/jin1tian1 的/de5 屬靈/shu3ling2 程度/cheng2du4 一定/yi1ding4 很/hen3 高/gao1 。
+= A-Jie réplique aussitôt : Alors mon niveau spirituel doit être très élevé aujourd'hui.
+路加/lu4jia1 和/he2 小恩/xiao3en1 終於/zhong1yu2 能/neng2 坐/zuo4 下來/xia4lai2 喘/chuan3 一/yi1 口/kou3 氣/qi4 。
+= Luc et Xiao En peuvent enfin s'asseoir et reprendre leur souffle.
+小恩/xiao3en1 把/ba3 高跟鞋/gao1gen1xie2 脫/tuo1 下來/xia4lai2 ，小聲/xiao3sheng1 說/shuo1 ：我/wo3 現在/xian4zai4 終於/zhong1yu2 相信/xiang1xin4 ，婚禮/hun1li3 真的/zhen1de5 已經/yi3jing1 結束/jie2shu4 了/le5 。
+= Xiao En enlève ses chaussures à talons et murmure : Maintenant, je crois enfin que le mariage est vraiment terminé.
+路加/lu4jia1 ：我/wo3 剛/gang1 才/cai2 還/hai2 一直/yi1zhi2 擔心/dan1xin1 自己/zi4ji3 會/hui4 不/bu4 會/hui4 把/ba3 戒指/jie4zhi3 戴/dai4 反/fan3 。
+= Luc : Jusqu'à tout à l'heure, j'avais encore peur de mettre l'alliance à l'envers.
+大衛/da4wei4 坐/zuo4 在/zai4 對面/dui4mian4 ，笑/xiao4 著/zhe5 說/shuo1 ：放心/fang4xin1 ，就算/jiu4suan4 戴/dai4 反/fan3 了/le5 ，王牧師/wang2mu4shi1 也/ye3 會/hui4 把/ba3 它/ta1 講/jiang3 成/cheng2 一/yi1 個/ge4 很/hen3 深奧/shen1ao4 的/de5 神學/shen2xue2 象徵/xiang4zheng1 。
+= David, assis en face, sourit : Rassure-toi, même si tu l'avais mise à l'envers, le pasteur Wang en aurait fait un symbole théologique très profond.
+眾人/zhong4ren2 又/you4 笑/xiao4 了/le5 一/yi1 陣/zhen4 。
+= Tout le monde rit de nouveau.
+笑聲/xiao4sheng1 過後/guo4hou4 ，王牧師/wang2mu4shi1 忽然/hu1ran2 說/shuo1 ：來/lai2 ，在/zai4 真正/zhen1zheng4 散/san4 之前/zhi1qian2 ，我們/wo3men5 每/mei3 個/ge4 人/ren2 說/shuo1 一/yi1 件/jian4 今天/jin1tian1 最/zui4 感恩/gan3en1 的/de5 事/shi4 。
+= Une fois les rires retombés, le pasteur Wang dit soudain : Avant de nous séparer pour de bon, que chacun dise une chose pour laquelle il rend grâce aujourd'hui.
+美玲/mei3ling2 ：我/wo3 感恩/gan3en1 的/de5 是/shi4 ，今天/jin1tian1 敬拜團/jing4bai4tuan2 沒有/mei2you3 一/yi1 個/ge4 人/ren2 進/jin4 錯/cuo4 拍/pai1 。這/zhe4 已經/yi3jing1 是/shi4 神蹟/shen2ji1 了/le5 。
+= Meiling : Je rends grâce parce qu'aujourd'hui personne dans l'équipe de louange n'est entré au mauvais moment. C'est déjà un miracle.
+阿傑/a1jie2 ：我/wo3 感恩/gan3en1 的/de5 是/shi4 ，小光/xiao3guang1 在/zai4 婚禮/hun1li3 中/zhong1 只/zhi3 吹/chui1 了/le5 一/yi1 次/ci4 口哨/kou3shao4 。
+= A-Jie : Je rends grâce parce que Xiao Guang n'a sifflé qu'une seule fois pendant la cérémonie.
+小光/xiao3guang1 立刻/li4ke4 抗議/kang4yi4 ：那/na4 是/shi4 因為/yin1wei4 我/wo3 後來/hou4lai2 被/bei4 我/wo3 媽/ma1 瞪/deng4 了/le5 啊/a5 ！
+= Xiao Guang proteste aussitôt : C'est parce que maman m'a lancé un regard après !
+輪到/lun2dao4 大衛/da4wei4 時/shi2 ，他/ta1 想/xiang3 了/le5 一下/yi1xia4 ：我/wo3 感恩/gan3en1 的/de5 是/shi4 ，幾/ji3 年/nian2 前/qian2 我/wo3 還/hai2 覺得/jue2de5 教會/jiao4hui4 只是/zhi3shi4 研究/yan2jiu1 對象/dui4xiang4 。今天/jin1tian1 我/wo3 卻/que4 坐/zuo4 在/zai4 這裡/zhe4li3 ，像/xiang4 家人/jia1ren2 一樣/yi1yang4 幫忙/bang1mang2 收/shou1 桌子/zhuo1zi5 。
+= Quand vient le tour de David, il réfléchit un instant : Je rends grâce parce qu'il y a quelques années, je considérais encore l'église comme un objet d'étude. Aujourd'hui, je suis ici à ranger les tables comme un membre de la famille.
+最後/zui4hou4 ，路加/lu4jia1 和/he2 小恩/xiao3en1 彼此/bi3ci3 看/kan4 了/le5 一/yi1 眼/yan3 。
+= Enfin, Luc et Xiao En échangent un regard.
+路加/lu4jia1 ：我/wo3 感恩/gan3en1 的/de5 是/shi4 ，神/shen2 沒有/mei2you3 只/zhi3 把/ba3 我/wo3 帶/dai4 到/dao4 一/yi1 個/ge4 城市/cheng2shi4 ，而是/er2shi4 把/ba3 我/wo3 帶/dai4 進/jin4 一/yi1 個/ge4 家/jia1 。
+= Luc : Je rends grâce parce que Dieu ne m'a pas seulement conduit dans une ville, mais dans une famille.
+小恩/xiao3en1 ：我/wo3 感恩/gan3en1 的/de5 是/shi4 ，神/shen2 沒有/mei2you3 只/zhi3 回答/hui2da2 我/wo3 年輕/nian2qing1 時/shi2 對/dui4 愛情/ai4qing2 的/de5 想像/xiang3xiang4 ，而是/er2shi4 給/gei3 了/le5 我/wo3 一/yi1 個/ge4 比/bi3 我/wo3 想像/xiang3xiang4 更/geng4 深/shen1 的/de5 盟約/meng2yue1 。
+= Xiao En : Je rends grâce parce que Dieu n'a pas seulement répondu à mes rêves de jeunesse sur l'amour, mais m'a donné une alliance plus profonde que tout ce que j'imaginais.
+王牧師/wang2mu4shi1 聽/ting1 完/wan2 ，就/jiu4 帶/dai4 著/zhe5 大家/da4jia1 一起/yi1qi3 唱/chang4 了/le5 一小段/yi1xiao3duan4 《向/xiang4 我/wo3 的/de5 神/shen2 獻上/xian4shang4 感謝/gan3xie4 》。
+= Après les avoir écoutés, le pasteur Wang entraîne tout le monde dans un court refrain de « J'offre ma reconnaissance à mon Dieu ».
+歌聲/ge1sheng1 不/bu4 大/da4 ，甚至/shen4zhi4 有/you3 點/dian3 累/lei4 ，卻/que4 比/bi3 白天/bai2tian1 婚宴/hun1yan4 上/shang4 的/de5 喧鬧/xuan1nao4 更/geng4 讓/rang4 人/ren2 滿足/man3zu2 。
+= Le chant n'est pas fort, il est même un peu fatigué, mais il apporte plus de plénitude que tout le tumulte du banquet.
+
+=== 300
+series: 291
+title_zh: 這是我們的敬拜
+title_fr: Voici notre adoration
+tagline: Culte final — toute l'histoire revient, David sert la cène, Luc conduit l'assemblée, et le parcours entier devient une offrande de louange.
+song: 這是我們的敬拜
+vocab: 敬拜=adoration | 聖餐=sainte cène | 恩典=grâce | 回應=réponse | 國度=royaume
+---
+十二月/shi2er4yue4 最後/zui4hou4 一/yi1 個/ge4 主日/zhu3ri4 ，恩典教會/en1dian3jiao4hui4 舉行/ju3xing2 年終/nian2zhong1 感恩/gan3en1 禮拜/li3bai4 。
+= Le dernier dimanche de décembre, l'église de la Grâce célèbre son culte d'action de grâce de fin d'année.
+會堂/hui4tang2 前面/qian2mian4 的/de5 投影/tou2ying3 幕/mu4 上/shang4 ，輪流/lun2liu2 播放/bo1fang4 著/zhe5 這/zhe4 一/yi1 年/nian2 教會/jiao4hui4 的/de5 照片/zhao4pian4 ：短宣/duan3xuan1 、洗禮/xi3li3 、婚禮/hun1li3 、主日學/zhu3ri4xue2 、探訪/tan4fang3 、詩班/shi1ban1 練習/lian4xi2 。
+= Sur l'écran à l'avant de la salle défilent les photos de l'année : mission courte, baptêmes, mariage, école du dimanche, visites, répétitions de chorale.
+路加/lu4jia1 坐/zuo4 在/zai4 第一/di4yi1 排/pai2 ，手/shou3 裡/li3 拿/na2 著/zhe5 今天/jin1tian1 的/de5 講章/jiang3zhang1 與/yu3 領詩/ling3shi1 流程/liu2cheng2 。
+= Luc est assis au premier rang, le sermon et le déroulé de la louange du jour à la main.
+這/zhe4 一/yi1 次/ci4 ，他/ta1 不/bu4 再/zai4 是/shi4 幾/ji3 年/nian2 前/qian2 那/na4 個/ge4 初/chu1 到/dao4 台北/tai2bei3 、連/lian2 「阿們/a1men2 」都/dou1 說/shuo1 得/de5 生硬/sheng1ying4 的/de5 法國/fa3guo2 學生/xue2sheng1 了/le5 。
+= Cette fois, il n'est plus le jeune étudiant français fraîchement arrivé à Taipei, qui prononçait même « amen » avec maladresse.
+敬拜/jing4bai4 開始/kai1shi3 前/qian2 ，大衛/da4wei4 端/duan1 著/zhe5 聖餐/sheng4can1 盤/pan2 從/cong2 後面/hou4mian4 走/zou3 過來/guo4lai2 。
+= Juste avant le début de la louange, David s'avance depuis le fond avec les plateaux de la sainte cène.
+路加/lu4jia1 看/kan4 著/zhe5 他/ta1 ，忽然/hu1ran2 想起/xiang3qi3 那/na4 些/xie1 在/zai4 校園/xiao4yuan2 咖啡廳/ka1fei1ting1 裡/li3 爭論/zheng1lun4 到/dao4 深夜/shen1ye4 的/de5 日子/ri4zi5 。
+= En le regardant, Luc se souvient soudain des nuits passées à débattre dans les cafés du campus.
+如今/ru2jin1 ，這/zhe4 位/wei4 曾/ceng2 經/jing1 把/ba3 教會/jiao4hui4 當作/dang4zuo4 研究/yan2jiu1 對象/dui4xiang4 的/de5 朋友/peng2you5 ，竟/jing4 成了/cheng2le5 分發/fen1fa1 聖餐/sheng4can1 的/de5 同工/tong2gong1 。
+= À présent, cet ami qui considérait autrefois l'église comme un objet d'étude est devenu l'un de ceux qui distribuent la cène.
+王牧師/wang2mu4shi1 在/zai4 開場/kai1chang3 禱告/dao3gao4 後/hou4 ，忽然/hu1ran2 說/shuo1 ：今天/jin1tian1 我/wo3 想/xiang3 請/qing3 路加/lu4jia1 帶/dai4 我們/wo3men5 進入/jin4ru4 最後/zui4hou4 一/yi1 首/shou3 詩歌/shi1ge1 。
+= Après la prière d'ouverture, le pasteur Wang dit soudain : Aujourd'hui, j'aimerais demander à Luc de nous conduire dans le dernier chant.
+路加/lu4jia1 走/zou3 上/shang4 台/tai2 ，接過/jie1guo4 麥克風/mai4ke4feng1 ，先/xian1 沉默/chen2mo4 了/le5 幾/ji3 秒/miao3 。
+= Luc monte sur l'estrade, prend le micro et garde d'abord le silence quelques secondes.
+路加/lu4jia1 ：幾/ji3 年/nian2 前/qian2 ，我/wo3 第/di4 一/yi1 次/ci4 走/zou3 進/jin4 這/zhe4 間/jian1 教會/jiao4hui4 ，只是/zhi3shi4 因為/yin1wei4 一/yi1 個/ge4 台灣/tai2wan1 女孩/nv3hai2 邀請/yao1qing3 我/wo3 來/lai2 聽/ting1 詩歌/shi1ge1 。
+= Luc : Il y a quelques années, je suis entré pour la première fois dans cette église simplement parce qu'une jeune Taïwanaise m'avait invité à venir écouter des chants.
+會眾/hui4zhong4 中間/zhong1jian1 立刻/li4ke4 傳/chuan2 出/chu1 一陣/yi1zhen4 善意/shan4yi4 的/de5 笑聲/xiao4sheng1 。
+= Un rire bienveillant parcourt aussitôt l'assemblée.
+路加/lu4jia1 ：那時/na4shi2 我/wo3 不/bu4 認識/ren4shi4 神/shen2 ，也/ye3 不/bu4 認識/ren4shi4 自己/zi4ji3 。可是/ke3shi4 神/shen2 用/yong4 祂/ta1 的/de5 話/hua4 、祂/ta1 的/de5 百姓/bai3xing4 、祂/ta1 的/de5 詩歌/shi1ge1 ，一步/yi1bu4 一步/yi1bu4 把/ba3 我/wo3 帶/dai4 到/dao4 今天/jin1tian1 。
+= À l'époque, je ne connaissais ni Dieu ni moi-même. Mais Dieu s'est servi de sa parole, de son peuple et de ses chants pour me conduire pas à pas jusqu'à aujourd'hui.
+路加/lu4jia1 ：今天/jin1tian1 我/wo3 們/men5 當中/dang1zhong1 有/you3 人/ren2 經歷/jing1li4 過/guo4 病痛/bing4tong4 、失去/shi1qu4 、懷疑/huai2yi2 、悔改/hui3gai3 、受洗/shou4xi3 、婚約/hun1yue1 、婚禮/hun1li3 。可是/ke3shi4 回頭/hui2tou2 看/kan4 ，這/zhe4 一切/yi1qie4 都/dou1 不是/bu4shi4 零散/ling2san3 的/de5 片段/pian4duan4 ，而是/er2shi4 神/shen2 國度/guo2du4 的/de5 記號/ji4hao4 。
+= Aujourd'hui, parmi nous, certains ont traversé la maladie, la perte, le doute, la repentance, le baptême, les fiançailles, le mariage. Mais quand on se retourne, on voit que tout cela n'est pas une suite de fragments dispersés : ce sont des signes du royaume de Dieu.
+路加/lu4jia1 ：所以/suo3yi3 最後/zui4hou4 ，我/wo3 們/men5 不/bu4 只是/zhi3shi4 回顧/hui2gu4 一/yi1 年/nian2 ，也/ye3 不/bu4 只是/zhi3shi4 回顧/hui2gu4 我/wo3 個人/ge4ren2 的/de5 故事/gu4shi5 。我/wo3 們/men5 要/yao4 一起/yi1qi3 對/dui4 神/shen2 說/shuo1 ：這/zhe4 是/shi4 我們/wo3men5 的/de5 敬拜/jing4bai4 。
+= Alors, pour finir, nous ne regardons pas seulement une année écoulée, ni seulement mon histoire personnelle. Ensemble, nous voulons dire à Dieu : voici notre adoration.
+他/ta1 轉身/zhuan3shen1 看/kan4 向/xiang4 敬拜團/jing4bai4tuan2 ，美玲/mei3ling2 輕輕/qing1qing1 點頭/dian3tou2 ，阿傑/a1jie2 扶/fu2 正/zheng4 吉他/ji2ta1 ，小恩/xiao3en1 站/zhan4 在/zai4 麥克風/mai4ke4feng1 前/qian2 ，眼裡/yan3li3 帶/dai4 著/zhe5 安靜/an1jing4 的/de5 光/guang1 。
+= Il se tourne vers l'équipe de louange. Meiling hoche doucement la tête, A-Jie remet sa guitare en place, Xiao En se tient devant son micro avec une lumière paisible dans les yeux.
+前奏/qian2zou4 響起/xiang3qi3 ，正是/zheng4shi4 《這/zhe4 是/shi4 我們/wo3men5 的/de5 敬拜/jing4bai4 》。
+= Le prélude commence : c'est bien « Voici notre adoration ».
+會眾/hui4zhong4 一起/yi1qi3 站/zhan4 起來/qi3lai2 。有人/you3ren2 閉/bi4 上/shang4 眼睛/yan3jing1 ，有人/you3ren2 仰起/yang3qi3 臉/lian3 ，有人/you3ren2 一邊/yi1bian1 唱/chang4 一邊/yi1bian1 流淚/liu2lei4 。
+= Toute l'assemblée se lève. Certains ferment les yeux, d'autres lèvent le visage, d'autres encore chantent en pleurant.
+大衛/da4wei4 端/duan1 著/zhe5 聖餐/sheng4can1 盤/pan2 站/zhan4 在/zai4 側邊/ce4bian1 ，忽然/hu1ran2 明白/ming2bai5 ，自己/zi4ji3 這/zhe4 幾/ji3 年/nian2 所/suo3 尋找/xun2zhao3 的/de5 ，從/cong2 來/lai2 不/bu4 只是/zhi3shi4 一/yi1 個/ge4 可以/ke3yi3 被/bei4 證明/zheng4ming2 的/de5 命題/ming4ti2 ，而是/er2shi4 一/yi1 位/wei4 配/pei4 得/de5 敬拜/jing4bai4 的/de5 主/zhu3 。
+= David, debout sur le côté avec les plateaux de la cène, comprend soudain que ce qu'il cherchait depuis toutes ces années n'était pas seulement une proposition à démontrer, mais un Seigneur digne d'être adoré.
+唱/chang4 到/dao4 最後/zui4hou4 時/shi2 ，路加/lu4jia1 放下/fang4xia4 麥克風/mai4ke4feng1 ，不/bu4 再/zai4 領唱/ling3chang4 ，只/zhi3 和/he2 眾人/zhong4ren2 一起/yi1qi3 唱/chang4 。
+= À la fin du chant, Luc repose le micro. Il ne dirige plus ; il chante simplement avec tous les autres.
+因為/yin1wei4 到/dao4 了/le5 這/zhe4 一刻/yi1ke4 ，他的/ta1de5 故事/gu4shi5 已經/yi3jing1 不/bu4 再/zai4 只是/zhi3shi4 他/ta1 一個/yi1ge4 人/ren2 的/de5 故事/gu4shi5 ，而是/er2shi4 整/zheng3 個/ge4 教會/jiao4hui4 一同/yi1tong2 回應/hui2ying4 神/shen2 恩典/en1dian3 的/de5 故事/gu4shi5 。
+= Car à cet instant, son histoire n'est plus seulement la sienne : elle est devenue l'histoire de toute une église répondant ensemble à la grâce de Dieu.
+歌聲/ge1sheng1 落/luo4 下/xia4 後/hou4 ，會堂/hui4tang2 裡/li3 沒有/mei2you3 人/ren2 立刻/li4ke4 說/shuo1 話/hua4 。那/na4 片刻/pian4ke4 的/de5 安靜/an1jing4 ，本身/ben3shen1 就/jiu4 像/xiang4 一/yi1 篇/pian1 沒有/mei2you3 寫/xie3 出/chu1 來/lai2 的/de5 禱告/dao3gao4 。
+= Quand le chant s'achève, personne ne parle tout de suite. Ce moment de silence ressemble à lui seul à une prière qui n'aurait pas besoin d'être écrite.

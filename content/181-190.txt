@@ -19,9 +19,9 @@ vocab: 原住民=aborigène, autochtone | 部落=village tribal | 阿美族=peup
 = Luc : C'est trop beau ! Mais en fait, j'ai un peu le trac. Je ne suis jamais allé dans un village aborigène.
 美玲/mei3ling2 ：我們/wo3men5 要/yao4 去/qu4 的/de5 是/shi4 一/yi1 個/ge4 阿美族/a1mei3zu2 部落/bu4luo4 。台灣/tai2wan1 有/you3 十六/shi2liu4 個/ge4 原住民族/yuan2zhu4min2zu2 ，阿美族/a1mei3zu2 的/de5 人口/ren2kou3 最/zui4 多/duo1 。
 = Meiling : Nous allons dans un village amis. Taïwan compte seize peuples autochtones, et les Amis sont les plus nombreux.
-小恩/xiao3en1 ：那裡/na4li3 的/de5 教會/jiao4hui4 叫/jiao4 「以馬內利教會/yi3ma3nei4li4jiao4hui4 」。路加/lu4jia1 ，你/ni3 知道/zhi1dao5 以馬內利/yi3ma3nei4li4 是/shi4 什麼/shen2me5 意思/yi4si5 嗎/ma5 ？
+小恩/xiao3en1 ：那裡/na4li3 的/de5 教會/jiao4hui4 叫/jiao4 「以馬內利教會/yi3ma3nei4li4jiao4hui4 」。路加/lu4jia1 ，你/ni3 知道/zhi1dao4 以馬內利/yi3ma3nei4li4 是/shi4 什麼/shen2me5 意思/yi4si5 嗎/ma5 ？
 = Xiao En : Là-bas, l'église s'appelle « église Emmanuel ». Luc, tu sais ce que veut dire « Emmanuel » ?
-路加/lu4jia1 ：我/wo3 只/zhi3 記得/ji4de5 在/zai4 聖誕節/sheng4dan4jie2 聽/ting1 過/guo4 這/zhe4 個/ge4 名字/ming2zi4 。
+路加/lu4jia1 ：我/wo3 只/zhi3 記得/ji4de5 在/zai4 聖誕節/sheng4dan4jie2 聽/ting1 過/guo4 這/zhe4 個/ge4 名字/ming2zi5 。
 = Luc : Je me souviens juste d'avoir entendu ce nom à Noël.
 王牧師/wang2mu4shi1 打開/da3kai1 聖經/sheng4jing1 ，唸/nian4 給/gei3 他/ta1 聽/ting1 ：「以馬內利/yi3ma3nei4li4 翻/fan1 出來/chu1lai2 就是/jiu4shi4 『神/shen2 與/yu3 我們/wo3men5 同在/tong2zai4 』。」（馬太福音/ma3tai4fu2yin1 一/yi1 章/zhang1 二十三/er4shi2san1 節/jie2 ）
 = Le pasteur Wang ouvre sa Bible et lui lit : « Emmanuel, ce qui signifie Dieu avec nous. » (Matthieu 1.23)
@@ -33,7 +33,7 @@ vocab: 原住民=aborigène, autochtone | 部落=village tribal | 阿美族=peup
 = Meiling : Les jeunes parlent surtout chinois, mais les anciens aiment parler amis. Le dimanche, la moitié des chants sont dans leur langue.
 阿傑/a1jie2 拿出/na2chu1 吉他/ji2ta1 ，說/shuo1 ：「那/na4 我們/wo3men5 先/xian1 練習/lian4xi2 《勇敢/yong3gan3 走/zou3 出去/chu1qu4 》吧/ba5 ！這/zhe4 首/shou3 歌/ge1 最/zui4 適合/shi4he2 今天/jin1tian1 。」
 = A-Jie sort sa guitare : « Alors répétons d'abord « Sortir avec courage » ! C'est le chant parfait pour aujourd'hui. »
-這/zhe4 首/shou3 歌/ge1 是/shi4 在/zai4 說/shuo1 ：跟隨/gen1sui2 耶穌/ye1su1 的/de5 人/ren2 ，不/bu4 能/neng2 只/zhi3 留/liu2 在/zai4 舒服/shu1fu5 的/de5 地方/di4fang5 ，要/yao4 帶/dai4 著/zhe5 愛/ai4 走/zou3 出去/chu1qu4 。
+這/zhe4 首/shou3 歌/ge1 是/shi4 在/zai4 說/shuo1 ：跟隨/gen1sui2 耶穌/ye1su1 的/de5 人/ren2 ，不/bu4 能/neng2 只/zhi3 留/liu2 在/zai4 舒服/shu1fu5 的/de5 地方/di4fang1 ，要/yao4 帶/dai4 著/zhe5 愛/ai4 走/zou3 出去/chu1qu4 。
 = Ce chant dit que ceux qui suivent Jésus ne peuvent pas rester là où ils sont à l'aise : ils doivent sortir en portant l'amour.
 火車/huo3che1 上/shang4 的/de5 一/yi1 位/wei4 阿姨/a1yi2 回頭/hui2tou2 看/kan4 他們/ta1men5 ，居然/ju1ran2 也/ye3 跟/gen1 著/zhe5 拍手/pai1shou3 。
 = Une dame assise dans le train se retourne vers eux et, à leur grande surprise, se met elle aussi à taper dans les mains.
@@ -66,9 +66,9 @@ vocab: 頭目=chef de village (aborigène) | 野菜=légumes sauvages | 石頭�
 = « Pschhh — » le bouillon se met à bouillir d'un coup ! Les yeux de Luc s'illuminent.
 巴奈/ba1nai4 ：這/zhe4 是/shi4 我們/wo3men5 阿美族/a1mei3zu2 的/de5 傳統/chuan2tong3 。以前/yi3qian2 的/de5 人/ren2 在/zai4 河邊/he2bian1 沒有/mei2you3 鍋子/guo1zi5 ，就/jiu4 用/yong4 石頭/shi2tou5 煮/zhu3 東西/dong1xi5 。
 = Panay : C'est une tradition de chez nous, les Amis. Autrefois, au bord de la rivière, les gens n'avaient pas de marmite, alors ils cuisaient avec des pierres.
-路加/lu4jia1 ：你們/ni3men5 的/de5 文化/wen2hua4 好/hao3 有/you3 智慧/zhi4hui4 ！這些/zhe4xie1 野菜/ye3cai4 我/wo3 甚至/shen4zhi4 一/yi1 種/zhong3 都/dou1 不/bu4 認識/ren4shi5 。
+路加/lu4jia1 ：你們/ni3men5 的/de5 文化/wen2hua4 好/hao3 有/you3 智慧/zhi4hui4 ！這些/zhe4xie1 野菜/ye3cai4 我/wo3 甚至/shen4zhi4 一/yi1 種/zhong3 都/dou1 不/bu4 認識/ren4shi4 。
 = Luc : Votre culture est pleine de sagesse ! Ces légumes sauvages, je n'en connais même pas un seul.
-一/yi1 位/wei4 頭上/tou2shang4 戴/dai4 著/zhe5 羽毛/yu3mao2 帽/mao4 的/de5 老人/lao3ren2 走/zou3 過來/guo4lai2 。巴奈/ba1nai4 小聲/xiao3sheng1 說/shuo1 ：「他/ta1 是/shi4 我們/wo3men5 部落/bu4luo4 的/de5 頭目/tou2mu4 。」
+一/yi1 位/wei4 頭上/tou2shang5 戴/dai4 著/zhe5 羽毛/yu3mao2 帽/mao4 的/de5 老人/lao3ren2 走/zou3 過來/guo4lai2 。巴奈/ba1nai4 小聲/xiao3sheng1 說/shuo1 ：「他/ta1 是/shi4 我們/wo3men5 部落/bu4luo4 的/de5 頭目/tou2mu4 。」
 = Un vieil homme coiffé d'un chapeau à plumes s'approche. Panay murmure : « C'est le chef de notre village. »
 頭目/tou2mu4 握/wo4 著/zhe5 王牧師/wang2mu4shi1 的/de5 手/shou3 說/shuo1 ：「無論/wu2lun4 你們/ni3men5 從/cong2 哪裡/na3li3 來/lai2 ，進/jin4 了/le5 部落/bu4luo4 ，就/jiu4 都/dou1 是/shi4 我們/wo3men5 的/de5 家人/jia1ren2 。」
 = Le chef serre la main du pasteur Wang : « D'où que vous veniez, une fois entrés dans le village, vous êtes tous de notre famille. »
@@ -76,7 +76,7 @@ vocab: 頭目=chef de village (aborigène) | 野菜=légumes sauvages | 石頭�
 = Pasteur Wang : Merci à vous ! Dans le Seigneur, nous sommes déjà une seule famille.
 吃完/chi1wan2 飯/fan4 ，短宣隊/duan3xuan1dui4 為了/wei4le5 感謝/gan3xie4 大家/da4jia1 的/de5 接待/jie1dai4 ，唱/chang4 了/le5 《謝謝/xie4xie5 你/ni3 成為/cheng2wei2 我/wo3 的/de5 家/jia1 》。
 = Après le repas, pour remercier tout le monde de leur accueil, l'équipe chante « Merci d'être devenu ma maison ».
-小恩/xiao3en1 向/xiang4 大家/da4jia1 解釋/jie3shi4 ：這/zhe4 首/shou3 歌/ge1 是/shi4 在/zai4 感謝/gan3xie4 神/shen2 透過/tou4guo4 教會/jiao4hui4 的/de5 弟兄/di4xiong5 姊妹/zi3mei4 ，給/gei3 我們/wo3men5 一/yi1 個/ge4 家/jia1 。
+小恩/xiao3en1 向/xiang4 大家/da4jia1 解釋/jie3shi4 ：這/zhe4 首/shou3 歌/ge1 是/shi4 在/zai4 感謝/gan3xie4 神/shen2 透過/tou4guo4 教會/jiao4hui4 的/de5 弟兄/di4xiong1 姊妹/zi3mei4 ，給/gei3 我們/wo3men5 一/yi1 個/ge4 家/jia1 。
 = Xiao En explique : ce chant remercie Dieu de nous donner une famille à travers les frères et sœurs de l'Église.
 媽媽們/ma1ma5men5 聽/ting1 了/le5 ，有/you3 的/de5 拍手/pai1shou3 ，有/you3 的/de5 擦/ca1 眼淚/yan3lei4 。
 = En l'écoutant, certaines mamans applaudissent, d'autres essuient leurs larmes.
@@ -91,13 +91,13 @@ tagline: Dimanche au village — la crainte de Dieu, des cantiques amis et une v
 song: 萬國得知祢的救恩
 vocab: 敬畏=crainte (révérencielle) de Dieu | 啟示=révélation | 使徒=apôtre | 翻譯=traduire ; traduction | 各族=chaque tribu, chaque peuple
 ---
-主日/zhu3ri4 早上/zao3shang5 ，教會/jiao4hui4 的/de5 鐘/zhong1 響/xiang3 了/le5 。老人家/lao3ren2jia1 穿/chuan1 著/zhe5 紅色/hong2se4 的/de5 傳統/chuan2tong3 衣服/yi1fu5 ，慢慢/man4man4 走/zou3 進來/jin4lai2 。
+主日/zhu3ri4 早上/zao3shang4 ，教會/jiao4hui4 的/de5 鐘/zhong1 響/xiang3 了/le5 。老人家/lao3ren2jia1 穿/chuan1 著/zhe5 紅色/hong2se4 的/de5 傳統/chuan2tong3 衣服/yi1fu5 ，慢慢/man4man4 走/zou3 進來/jin4lai2 。
 = Dimanche matin, la cloche de l'église sonne. Les anciens, vêtus de leurs habits traditionnels rouges, entrent lentement.
 聚會/ju4hui4 開始/kai1shi3 前/qian2 ，教會/jiao4hui4 安靜/an1jing4 得/de5 甚至/shen4zhi4 能/neng2 聽見/ting1jian4 外面/wai4mian4 的/de5 鳥/niao3 叫/jiao4 。一/yi1 位/wei4 老奶奶/lao3nai3nai5 跪/gui4 在/zai4 前面/qian2mian4 禱告/dao3gao4 。
 = Avant le culte, l'église est si calme qu'on entend même les oiseaux dehors. Une vieille dame prie à genoux, devant.
 路加/lu4jia1 小聲/xiao3sheng1 問/wen4 小恩/xiao3en1 ：「為什麼/wei4shen2me5 大家/da4jia1 這麼/zhe4me5 安靜/an1jing4 ？」
 = Luc demande tout bas à Xiao En : « Pourquoi tout le monde est-il si silencieux ? »
-小恩/xiao3en1 ：這/zhe4 叫/jiao4 「敬畏/jing4wei4 」。不是/bu4shi4 害怕/hai4pa4 ，而是/er2shi4 知道/zhi1dao5 神/shen2 是/shi4 聖潔/sheng4jie2 、偉大/wei3da4 的/de5 ，所以/suo3yi3 用/yong4 尊敬/zun1jing4 的/de5 心/xin1 來/lai2 到/dao4 祂/ta1 面前/mian4qian2 。
+小恩/xiao3en1 ：這/zhe4 叫/jiao4 「敬畏/jing4wei4 」。不是/bu4shi4 害怕/hai4pa4 ，而是/er2shi4 知道/zhi1dao4 神/shen2 是/shi4 聖潔/sheng4jie2 、偉大/wei3da4 的/de5 ，所以/suo3yi3 用/yong4 尊敬/zun1jing4 的/de5 心/xin1 來/lai2 到/dao4 祂/ta1 面前/mian4qian2 。
 = Xiao En : Ça s'appelle « la crainte de Dieu ». Ce n'est pas avoir peur : c'est savoir que Dieu est saint et grand, et venir devant lui avec un cœur plein de respect.
 敬拜/jing4bai4 開始/kai1shi3 了/le5 。第一/di4yi1 首/shou3 詩歌/shi1ge1 是/shi4 用/yong4 阿美語/a1mei3yu3 唱/chang4 的/de5 ，老人家/lao3ren2jia1 的/de5 聲音/sheng1yin1 低低/di1di1 的/de5 ，像/xiang4 山/shan1 一樣/yi1yang4 穩/wen3 。
 = La louange commence. Le premier cantique est chanté en amis ; les voix des anciens sont graves, solides comme la montagne.
@@ -113,9 +113,9 @@ vocab: 敬畏=crainte (révérencielle) de Dieu | 啟示=révélation | 使徒=a
 = Pasteur Wang : Un jour, au ciel, Amis, Hakkas et Français adoreront tous ensemble. Aujourd'hui, nous en avons goûté un tout petit peu.
 聚會/ju4hui4 結束/jie2shu4 後/hou4 ，那/na4 位/wei4 老奶奶/lao3nai3nai5 拉/la1 著/zhe5 路加/lu4jia1 的/de5 手/shou3 ，用/yong4 不/bu4 太/tai4 標準/biao1zhun3 的/de5 中文/zhong1wen2 說/shuo1 ：
 = Après le culte, la vieille dame prend la main de Luc et lui dit, dans un chinois hésitant :
-老奶奶/lao3nai3nai5 ：孩子/hai2zi5 ，你/ni3 從/cong2 那麼/na4me5 遠/yuan3 的/de5 地方/di4fang5 來/lai2 。即使/ji2shi3 我們/wo3men5 的/de5 話/hua4 不/bu4 一樣/yi1yang4 ，我們/wo3men5 的/de5 天父/tian1fu4 也/ye3 是/shi4 一樣/yi1yang4 的/de5 。
+老奶奶/lao3nai3nai5 ：孩子/hai2zi5 ，你/ni3 從/cong2 那麼/na4me5 遠/yuan3 的/de5 地方/di4fang1 來/lai2 。即使/ji2shi3 我們/wo3men5 的/de5 話/hua4 不/bu4 一樣/yi1yang4 ，我們/wo3men5 的/de5 天父/tian1fu4 也/ye3 是/shi4 一樣/yi1yang4 的/de5 。
 = La vieille dame : Mon enfant, tu viens de si loin. Même si nos langues sont différentes, notre Père céleste, lui, est le même.
-路加/lu4jia1 點點頭/dian3dian3tou2 ，學/xue2 著/zhe5 用/yong4 剛/gang1 學會/xue2hui4 的/de5 阿美語/a1mei3yu3 跟/gen1 她/ta1 打/da3 招呼/zhao1hu5 。老奶奶/lao3nai3nai5 笑/xiao4 得/de5 眼睛/yan3jing1 都/dou1 瞇/mi1 起來/qi3lai2 了/le5 。
+路加/lu4jia1 點點頭/dian3dian3tou2 ，學/xue2 著/zhe5 用/yong4 剛/gang1 學會/xue2hui4 的/de5 阿美語/a1mei3yu3 跟/gen1 她/ta1 打/da3 招呼/zhao1hu1 。老奶奶/lao3nai3nai5 笑/xiao4 得/de5 眼睛/yan3jing1 都/dou1 瞇/mi1 起來/qi3lai2 了/le5 。
 = Luc hoche la tête et tente de la saluer d'un « Nga'ay ho ! », tout juste appris. La vieille dame sourit si fort que ses yeux se plissent.
 
 === 184
@@ -126,9 +126,9 @@ tagline: Camp d'enfants au village — des grands-parents qui élèvent seuls, u
 song: 大手牽著小手
 vocab: 兒童營=camp d'enfants | 隔代教養=enfants élevés par leurs grands-parents | 陪伴=accompagner, être présent | 至於=quant à | 甚至=même, jusqu'à
 ---
-星期一/xing1qi1yi1 到/dao4 星期三/xing1qi1san1 ，教會/jiao4hui4 辦/ban4 了/le5 兒童營/er2tong2ying2 。三十/san1shi2 幾/ji3 個/ge4 孩子/hai2zi5 一/yi1 大早/da4zao3 就/jiu4 跑/pao3 來/lai2 了/le5 ，有/you3 的/de5 甚至/shen4zhi4 沒有/mei2you3 穿/chuan1 鞋子/xie2zi5 。
+星期一/xing1qi2yi1 到/dao4 星期三/xing1qi2san1 ，教會/jiao4hui4 辦/ban4 了/le5 兒童營/er2tong2ying2 。三十/san1shi2 幾/ji3 個/ge4 孩子/hai2zi5 一/yi1 大早/da4zao3 就/jiu4 跑/pao3 來/lai2 了/le5 ，有/you3 的/de5 甚至/shen4zhi4 沒有/mei2you3 穿/chuan1 鞋子/xie2zi5 。
 = Du lundi au mercredi, l'église organise un camp d'enfants. Une trentaine d'enfants arrivent en courant dès l'aube ; certains n'ont même pas de chaussures.
-馬耀牧師/ma3yao4mu4shi1 告訴/gao4su5 短宣隊/duan3xuan1dui4 ：「部落/bu4luo4 裡/li3 很多/hen3duo1 年輕/nian2qing1 的/de5 爸爸/ba4ba5 媽媽/ma1ma5 都/dou1 到/dao4 城市/cheng2shi4 去/qu4 工作/gong1zuo4 了/le5 。」
+馬耀牧師/ma3yao4mu4shi1 告訴/gao4su4 短宣隊/duan3xuan1dui4 ：「部落/bu4luo4 裡/li3 很多/hen3duo1 年輕/nian2qing1 的/de5 爸爸/ba4ba5 媽媽/ma1ma5 都/dou1 到/dao4 城市/cheng2shi4 去/qu4 工作/gong1zuo4 了/le5 。」
 = Le pasteur Mayaw explique à l'équipe : « Au village, beaucoup de jeunes parents sont partis travailler en ville. »
 馬耀牧師/ma3yao4mu4shi1 ：這些/zhe4xie1 孩子/hai2zi5 大多/da4duo1 是/shi4 爺爺/ye2ye5 奶奶/nai3nai5 帶/dai4 大/da4 的/de5 ，這/zhe4 叫/jiao4 「隔代教養/ge2dai4jiao4yang3 」。他們/ta1men5 最/zui4 需要/xu1yao4 的/de5 不是/bu4shi4 禮物/li3wu4 ，而是/er2shi4 有/you3 人/ren2 陪伴/pei2ban4 。
 = Pasteur Mayaw : La plupart de ces enfants sont élevés par leurs grands-parents. Ce dont ils ont le plus besoin, ce n'est pas de cadeaux, mais de quelqu'un qui soit là pour eux.
@@ -142,13 +142,13 @@ vocab: 兒童營=camp d'enfants | 隔代教養=enfants élevés par leurs grands
 = Luc : Je viens de France. Vous m'apprenez l'amis, et moi je vous apprends la guitare, d'accord ?
 孩子們/hai2zi5men5 笑/xiao4 成/cheng2 一/yi1 團/tuan2 ，因為/yin1wei4 路加/lu4jia1 的/de5 阿美語/a1mei3yu3 說/shuo1 得/de5 實在/shi2zai4 太/tai4 好笑/hao3xiao4 了/le5 。
 = Les enfants éclatent de rire, car l'amis de Luc est vraiment trop drôle.
-下午/xia4wu3 休息/xiu1xi5 的/de5 時候/shi2hou5 ，巴奈/ba1nai4 坐/zuo4 在/zai4 路加/lu4jia1 旁邊/pang2bian1 ，安靜/an1jing4 了/le5 很/hen3 久/jiu3 ，才/cai2 開口/kai1kou3 。
+下午/xia4wu3 休息/xiu1xi2 的/de5 時候/shi2hou5 ，巴奈/ba1nai4 坐/zuo4 在/zai4 路加/lu4jia1 旁邊/pang2bian1 ，安靜/an1jing4 了/le5 很/hen3 久/jiu3 ，才/cai2 開口/kai1kou3 。
 = À la pause de l'après-midi, Panay s'assoit à côté de Luc ; elle reste longtemps silencieuse avant de parler.
-巴奈/ba1nai4 ：哥哥/ge1ge5 ，你們/ni3men5 星期四/xing1qi1si4 就/jiu4 要/yao4 走/zou3 了/le5 吧/ba5 ？每/mei3 次/ci4 有/you3 人/ren2 來/lai2 ，最後/zui4hou4 都/dou1 會/hui4 離開/li2kai1 。
+巴奈/ba1nai4 ：哥哥/ge1ge5 ，你們/ni3men5 星期四/xing1qi2si4 就/jiu4 要/yao4 走/zou3 了/le5 吧/ba5 ？每/mei3 次/ci4 有/you3 人/ren2 來/lai2 ，最後/zui4hou4 都/dou1 會/hui4 離開/li2kai1 。
 = Panay : Grand frère, vous partez jeudi, c'est ça ? Chaque fois que des gens viennent, à la fin, ils repartent tous.
-路加/lu4jia1 不/bu4 知道/zhi1dao5 該/gai1 說/shuo1 什麼/shen2me5 。他/ta1 想到/xiang3dao4 巴奈/ba1nai4 的/de5 媽媽/ma1ma5 也/ye3 在/zai4 台北/tai2bei3 工作/gong1zuo4 ，一/yi1 年/nian2 只/zhi3 回來/hui2lai2 兩/liang3 次/ci4 。
+路加/lu4jia1 不/bu4 知道/zhi1dao4 該/gai1 說/shuo1 什麼/shen2me5 。他/ta1 想到/xiang3dao4 巴奈/ba1nai4 的/de5 媽媽/ma1ma5 也/ye3 在/zai4 台北/tai2bei3 工作/gong1zuo4 ，一/yi1 年/nian2 只/zhi3 回來/hui2lai2 兩/liang3 次/ci4 。
 = Luc ne sait pas quoi dire. Il pense que la mère de Panay travaille elle aussi à Taipei et ne rentre que deux fois par an.
-路加/lu4jia1 ：我們/wo3men5 是/shi4 會/hui4 離開/li2kai1 。可是/ke3shi4 有/you3 一/yi1 位/wei4 永遠/yong3yuan3 不/bu4 會/hui4 離開/li2kai1 的/de5 ，記得/ji4de5 你們/ni3men5 教會/jiao4hui4 的/de5 名字/ming2zi4 嗎/ma5 ？
+路加/lu4jia1 ：我們/wo3men5 是/shi4 會/hui4 離開/li2kai1 。可是/ke3shi4 有/you3 一/yi1 位/wei4 永遠/yong3yuan3 不/bu4 會/hui4 離開/li2kai1 的/de5 ，記得/ji4de5 你們/ni3men5 教會/jiao4hui4 的/de5 名字/ming2zi5 嗎/ma5 ？
 = Luc : C'est vrai, nous allons partir. Mais il y a quelqu'un qui ne partira jamais : tu te souviens du nom de votre église ?
 巴奈/ba1nai4 ：以馬內利/yi3ma3nei4li4 ……神/shen2 與/yu3 我們/wo3men5 同在/tong2zai4 。
 = Panay : Emmanuel... Dieu avec nous.
@@ -165,11 +165,11 @@ tagline: Une soirée autour du feu — l'alcool, une prière de vingt ans et la 
 song: 信實的神
 vocab: 見證=témoignage | 信實=fidèle (fidélité de Dieu) | 喝酒=boire de l'alcool | 改變=changer, transformer | 憐憫=compassion, miséricorde
 ---
-星期二/xing1qi1er4 晚上/wan3shang4 ，大家/da4jia1 在/zai4 教會/jiao4hui4 外面/wai4mian4 生/sheng1 了/le5 一/yi1 堆/dui1 火/huo3 。頭目/tou2mu4 也/ye3 來/lai2 了/le5 ，他/ta1 說/shuo1 想/xiang3 跟/gen1 年輕人/nian2qing1ren2 分享/fen1xiang3 一/yi1 個/ge4 見證/jian4zheng4 。
+星期二/xing1qi2er4 晚上/wan3shang4 ，大家/da4jia1 在/zai4 教會/jiao4hui4 外面/wai4mian4 生/sheng1 了/le5 一/yi1 堆/dui1 火/huo3 。頭目/tou2mu4 也/ye3 來/lai2 了/le5 ，他/ta1 說/shuo1 想/xiang3 跟/gen1 年輕人/nian2qing1ren2 分享/fen1xiang3 一/yi1 個/ge4 見證/jian4zheng4 。
 = Mardi soir, tout le monde allume un feu devant l'église. Le chef est venu lui aussi : il veut partager un témoignage avec les jeunes.
 頭目/tou2mu4 ：年輕/nian2qing1 的/de5 時候/shi2hou5 ，我/wo3 每天/mei3tian1 喝酒/he1jiu3 。工作/gong1zuo4 沒有/mei2you3 了/le5 ，家/jia1 也/ye3 快/kuai4 沒有/mei2you3 了/le5 。
 = Le chef : Quand j'étais jeune, je buvais tous les jours. J'avais perdu mon travail, et j'étais en train de perdre ma famille.
-頭目/tou2mu4 ：我/wo3 太太/tai4tai5 是/shi4 基督徒/ji1du1tu2 。無論/wu2lun4 我/wo3 多/duo1 晚/wan3 回家/hui2jia1 ，她/ta1 都/dou1 在/zai4 等/deng3 我/wo3 ，而且/er2qie3 一定/yi2ding4 在/zai4 禱告/dao3gao4 。
+頭目/tou2mu4 ：我/wo3 太太/tai4tai5 是/shi4 基督徒/ji1du1tu2 。無論/wu2lun4 我/wo3 多/duo1 晚/wan3 回家/hui2jia1 ，她/ta1 都/dou1 在/zai4 等/deng3 我/wo3 ，而且/er2qie3 一定/yi1ding4 在/zai4 禱告/dao3gao4 。
 = Le chef : Ma femme était chrétienne. Peu importe l'heure à laquelle je rentrais, elle m'attendait, et elle priait toujours.
 阿傑/a1jie2 ：她/ta1 為/wei4 您/nin2 禱告/dao3gao4 了/le5 多久/duo1jiu3 ？
 = A-Jie : Combien de temps a-t-elle prié pour vous ?
@@ -198,7 +198,7 @@ tagline: Dernier jour au village — un pique-nique au bord de la mer, une prome
 song: 差遣我
 vocab: 差遣=envoyer (en mission) | 既然=puisque | 異象=vision | 種子=graine, semence | 於是=alors, c'est ainsi que
 ---
-星期四/xing1qi1si4 早上/zao3shang5 ，短宣隊/duan3xuan1dui4 要/yao4 回/hui2 台北/tai2bei3 了/le5 。部落/bu4luo4 的/de5 媽媽們/ma1ma5men5 包/bao1 了/le5 很多/hen3duo1 糯米/nuo4mi3 飯/fan4 ，硬/ying4 要/yao4 他們/ta1men5 帶/dai4 在/zai4 路上/lu4shang4 吃/chi1 。
+星期四/xing1qi2si4 早上/zao3shang4 ，短宣隊/duan3xuan1dui4 要/yao4 回/hui2 台北/tai2bei3 了/le5 。部落/bu4luo4 的/de5 媽媽們/ma1ma5men5 包/bao1 了/le5 很多/hen3duo1 糯米/nuo4mi3 飯/fan4 ，硬/ying4 要/yao4 他們/ta1men5 帶/dai4 在/zai4 路上/lu4shang4 吃/chi1 。
 = Jeudi matin, l'équipe doit rentrer à Taipei. Les mamans du village ont préparé plein de riz gluant et insistent pour qu'ils l'emportent pour la route.
 離開/li2kai1 前/qian2 ，馬耀牧師/ma3yao4mu4shi1 請/qing3 大家/da4jia1 圍/wei2 成/cheng2 一/yi1 個/ge4 圓圈/yuan2quan1 ，為/wei4 短宣隊/duan3xuan1dui4 禱告/dao3gao4 。
 = Avant le départ, le pasteur Mayaw demande à tout le monde de former un cercle pour prier pour l'équipe.
@@ -210,7 +210,7 @@ vocab: 差遣=envoyer (en mission) | 既然=puisque | 異象=vision | 種子=gra
 = Le pasteur Mayaw ouvre la Bible et lit Ésaïe 6.8 : « J'entendis la voix du Seigneur, disant : Qui enverrai-je, et qui marchera pour nous ? Je répondis : Me voici, envoie-moi. »
 馬耀牧師/ma3yao4mu4shi1 ：既然/ji4ran2 神/shen2 呼召/hu1zhao4 了/le5 你們/ni3men5 ，你們/ni3men5 就/jiu4 不/bu4 只/zhi3 是/shi4 來/lai2 一/yi1 個/ge4 禮拜/li3bai4 的/de5 客人/ke4ren2 ，而是/er2shi4 被/bei4 差遣/chai1qian3 的/de5 人/ren2 。
 = Pasteur Mayaw : Puisque Dieu vous a appelés, vous n'êtes pas seulement des invités d'une semaine, mais des envoyés.
-於是/yu2shi4 ，大家/da4jia1 一起/yi1qi3 唱/chang4 《差遣/chai1qian3 我/wo3 》。阿美族/a1mei3zu2 的/de5 弟兄/di4xiong5 姊妹/zi3mei4 用/yong4 族語/zu2yu3 ，短宣隊/duan3xuan1dui4 用/yong4 中文/zhong1wen2 ，兩/liang3 種/zhong3 聲音/sheng1yin1 混/hun4 在/zai4 一起/yi1qi3 。
+於是/yu2shi4 ，大家/da4jia1 一起/yi1qi3 唱/chang4 《差遣/chai1qian3 我/wo3 》。阿美族/a1mei3zu2 的/de5 弟兄/di4xiong1 姊妹/zi3mei4 用/yong4 族語/zu2yu3 ，短宣隊/duan3xuan1dui4 用/yong4 中文/zhong1wen2 ，兩/liang3 種/zhong3 聲音/sheng1yin1 混/hun4 在/zai4 一起/yi1qi3 。
 = Alors tout le monde chante ensemble « Envoie-moi ». Les frères et sœurs amis chantent dans leur langue, l'équipe en chinois, et les deux voix se mêlent.
 在/zai4 火車/huo3che1 上/shang4 ，路加/lu4jia1 一直/yi1zhi2 看/kan4 著/zhe5 窗外/chuang1wai4 的/de5 海/hai3 ，很/hen3 久/jiu3 沒有/mei2you3 說話/shuo1hua4 。
 = Dans le train, Luc ne quitte pas la mer des yeux et reste longtemps sans parler.
@@ -233,15 +233,15 @@ tagline: Annonce à la répétition — des bénévoles recherchés, le sens d'u
 song: 讚美之泉
 vocab: 義工=bénévole | 泉源=source | 邀請=inviter ; invitation | 難道=se pourrait-il que (question rhétorique) | 聚會=rassemblement, réunion
 ---
-二月/er4yue4 的/de5 一/yi1 個/ge4 星期六/xing1qi1liu4 ，敬拜團/jing4bai4tuan2 練習/lian4xi2 完/wan2 ，美玲/mei3ling2 拿出/na2chu1 一/yi1 張/zhang1 海報/hai3bao4 。
+二月/er4yue4 的/de5 一/yi1 個/ge4 星期六/xing1qi2liu4 ，敬拜團/jing4bai4tuan2 練習/lian4xi2 完/wan2 ，美玲/mei3ling2 拿出/na2chu1 一/yi1 張/zhang1 海報/hai3bao4 。
 = Un samedi de février, après la répétition de l'équipe de louange, Meiling sort une affiche.
 美玲/mei3ling2 ：三月/san1yue4 初/chu1 ，讚美之泉/zan4mei3zhi1quan2 要/yao4 在/zai4 台北/tai2bei3 辦/ban4 一/yi1 場/chang3 大型/da4xing2 的/de5 敬拜/jing4bai4 聚會/ju4hui4 ，聽說/ting1shuo1 會/hui4 有/you3 一萬/yi1wan4 多/duo1 人/ren2 參加/can1jia1 。
 = Meiling : Début mars, Stream of Praise organise un grand rassemblement de louange à Taipei ; on dit qu'il y aura plus de dix mille personnes.
-阿傑/a1jie2 ：一萬/yi1wan4 人/ren2 ？那/na4 我/wo3 的/de5 吉他/ji2ta1 一定/yi2ding4 要/yao4 帶/dai4 去/qu4 ，說不定/shuo1bu2ding4 他們/ta1men5 臨時/lin2shi2 需要/xu1yao4 一/yi1 個/ge4 帥/shuai4 吉他手/ji2ta1shou3 。
+阿傑/a1jie2 ：一萬/yi1wan4 人/ren2 ？那/na4 我/wo3 的/de5 吉他/ji2ta1 一定/yi1ding4 要/yao4 帶/dai4 去/qu4 ，說不定/shuo1bu4ding4 他們/ta1men5 臨時/lin2shi2 需要/xu1yao4 一/yi1 個/ge4 帥/shuai4 吉他手/ji2ta1shou3 。
 = A-Jie : Dix mille personnes ? Alors j'emporte ma guitare : ils auront peut-être besoin, au dernier moment, d'un beau guitariste.
 美玲/mei3ling2 笑/xiao4 著/zhe5 搖頭/yao2tou2 ：「他們/ta1men5 需要/xu1yao4 的/de5 是/shi4 義工/yi4gong1 ，負責/fu4ze2 招待/zhao1dai4 和/he2 帶位/dai4wei4 。我們/wo3men5 教會/jiao4hui4 報名/bao4ming2 了/le5 十/shi2 個/ge4 名額/ming2e2 。」
 = Meiling secoue la tête en riant : « Ce qu'il leur faut, ce sont des bénévoles pour l'accueil et le placement. Notre église a inscrit dix personnes. »
-路加/lu4jia1 ：我/wo3 一直/yi1zhi2 想/xiang3 問/wen4 ，「讚美之泉/zan4mei3zhi1quan2 」這/zhe4 個/ge4 名字/ming2zi4 是/shi4 什麼/shen2me5 意思/yi4si5 ？泉/quan2 是/shi4 泉水/quan2shui3 的/de5 泉/quan2 嗎/ma5 ？
+路加/lu4jia1 ：我/wo3 一直/yi1zhi2 想/xiang3 問/wen4 ，「讚美之泉/zan4mei3zhi1quan2 」這/zhe4 個/ge4 名字/ming2zi5 是/shi4 什麼/shen2me5 意思/yi4si5 ？泉/quan2 是/shi4 泉水/quan2shui3 的/de5 泉/quan2 嗎/ma5 ？
 = Luc : Je voulais toujours vous demander : que veut dire le nom « Stream of Praise » ? Le caractère 泉, c'est bien celui de « source » ?
 小恩/xiao3en1 ：對/dui4 。讚美/zan4mei3 不是/bu4shi4 勉強/mian3qiang3 擠/ji3 出來/chu1lai2 的/de5 ，而是/er2shi4 像/xiang4 泉水/quan2shui3 一樣/yi1yang4 ，從/cong2 心裡/xin1li3 自然/zi4ran2 湧/yong3 出來/chu1lai2 。
 = Xiao En : Oui. La louange, on ne la sort pas de force : elle jaillit naturellement du cœur, comme l'eau d'une source.
@@ -294,7 +294,7 @@ vocab: 招待=accueil ; accueillir | 謙卑=humble ; humilité | 舞台=scène |
 = Sur le chemin du retour, A-Jie chante « Venez tous louer » sur son scooter, encore plus fort que d'habitude.
 阿傑/a1jie2 ：路加/lu4jia1 ，明天/ming2tian1 我們/wo3men5 來/lai2 比賽/bi3sai4 ，看/kan4 誰/shei2 的/de5 微笑/wei2xiao4 最/zui4 謙卑/qian1bei1 ！
 = A-Jie : Luc, demain on fait un concours : on verra qui a le sourire le plus humble !
-路加/lu4jia1 ：謙卑/qian1bei1 的/de5 人/ren2 ，應該/ying1gai1 不會/bu2hui4 想/xiang3 要/yao4 贏/ying2 吧/ba5 ？
+路加/lu4jia1 ：謙卑/qian1bei1 的/de5 人/ren2 ，應該/ying1gai1 不會/bu4hui4 想/xiang3 要/yao4 贏/ying2 吧/ba5 ？
 = Luc : Quelqu'un d'humble ne devrait pas vouloir gagner, non ?
 兩/liang3 個/ge4 人/ren2 在/zai4 紅燈/hong2deng1 前面/qian2mian4 笑/xiao4 成/cheng2 一/yi1 團/tuan2 。
 = Tous les deux éclatent de rire au feu rouge.
@@ -313,7 +313,7 @@ vocab: 主權=souveraineté | 作王=régner | 威嚴=majesté | 宣告=proclame
 = En gilet jaune, Luc répète sans arrêt « bienvenue ». À la trois-centième fois, il entend soudain une voix familière.
 巴奈/ba1nai4 ：哥哥/ge1ge5 ！是/shi4 我/wo3 ！我們/wo3men5 坐/zuo4 了/le5 三/san1 個/ge4 小時/xiao3shi2 的/de5 火車/huo3che1 來/lai2 的/de5 ！
 = Panay : Grand frère ! C'est moi ! On a fait trois heures de train pour venir !
-馬耀牧師/ma3yao4mu4shi1 和/he2 十/shi2 幾/ji3 位/wei4 部落/bu4luo4 的/de5 弟兄/di4xiong5 姊妹/zi3mei4 站/zhan4 在/zai4 後面/hou4mian4 ，笑/xiao4 著/zhe5 跟/gen1 他/ta1 揮手/hui1shou3 。路加/lu4jia1 開心/kai1xin1 得/de5 差點/cha4dian3 忘了/wang4le5 自己/zi4ji3 在/zai4 上班/shang4ban1 。
+馬耀牧師/ma3yao4mu4shi1 和/he2 十/shi2 幾/ji3 位/wei4 部落/bu4luo4 的/de5 弟兄/di4xiong1 姊妹/zi3mei4 站/zhan4 在/zai4 後面/hou4mian4 ，笑/xiao4 著/zhe5 跟/gen1 他/ta1 揮手/hui1shou3 。路加/lu4jia1 開心/kai1xin1 得/de5 差點/cha4dian3 忘了/wang4le5 自己/zi4ji3 在/zai4 上班/shang4ban1 。
 = Le pasteur Mayaw et une dizaine de frères et sœurs du village se tiennent derrière et lui font signe en souriant. Luc est si heureux qu'il en oublie presque qu'il est de service.
 聚會/ju4hui4 開始/kai1shi3 了/le5 。燈/deng1 一/yi1 暗/an4 ，一萬/yi1wan4 多/duo1 人/ren2 同時/tong2shi2 站/zhan4 起來/qi3lai2 ，唱/chang4 《敬拜/jing4bai4 讓/rang4 世界/shi4jie4 震動/zhen4dong4 》。
 = Le rassemblement commence. Les lumières s'éteignent, et plus de dix mille personnes se lèvent en même temps pour chanter « L'adoration fait trembler le monde ».

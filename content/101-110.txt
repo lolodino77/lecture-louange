@@ -1,0 +1,293 @@
+# Conversations 101–110 — niveau 2 (Élémentaire), avril année 2
+
+@series 101 | 十字架與復活 | La croix et la résurrection | Avril : de la Semaine sainte au matin de Pâques, Luc lit la fin de l'évangile de Jean — l'entrée à Jérusalem, le lavement des pieds, la croix, le tombeau vide — et découvre que Jésus appelle chacun par son nom.
+
+=== 101
+series: 101
+title_zh: 為什麼國王騎驢子
+title_fr: Pourquoi le roi monte-t-il un âne ?
+tagline: Dimanche des Rameaux — des palmes en papier, un cri de joie et une question qui fait sourire le pasteur.
+song: 和散那
+vocab: 和散那=hosanna | 驢子=âne | 國王=roi | 棕樹枝=rameau de palmier | 歡迎=accueillir ; bienvenue
+---
+星期天/xing1qi2tian1 ，教會/jiao4hui4 的/de5 孩子/hai2zi5 們/men5 每/mei3 個/ge4 人/ren2 手/shou3 裡/li3 都/dou1 拿/na2 著/zhe5 一/yi1 枝/zhi1 紙/zhi3 做/zuo4 的/de5 棕樹枝/zong1shu4zhi1 。
+= Dimanche, chaque enfant de l'église tient dans la main un rameau de palmier en papier.
+王牧師/wang2mu4shi1 ：今天/jin1tian1 是/shi4 棕枝/zong1zhi1 主日/zhu3ri4 。兩/liang3 千/qian1 年/nian2 前/qian2 ，耶穌/ye1su1 進/jin4 耶路撒冷/ye1lu4sa1leng3 ，大家/da4jia1 拿/na2 著/zhe5 棕樹枝/zong1shu4zhi1 歡迎/huan1ying2 祂/ta1 。
+= Pasteur Wang : Aujourd'hui, c'est le dimanche des Rameaux. Il y a deux mille ans, Jésus est entré à Jérusalem, et la foule L'accueillait avec des rameaux de palmier.
+小光/xiao3guang1 舉手/ju3shou3 ：他們/ta1men5 喊/han3 什麼/shen2me5 ？
+= Xiao Guang lève la main : Qu'est-ce qu'ils criaient ?
+王牧師/wang2mu4shi1 ：他們/ta1men5 喊/han3 ：「和散那/he2san3na4 ！奉/feng4 主/zhu3 名/ming2 來/lai2 的/de5 以色列/yi3se4lie4 王/wang2 是/shi4 應當/ying1dang1 稱頌/cheng1song4 的/de5 ！」（約翰福音/yue1han4fu2yin1 12:13）
+= Pasteur Wang : Ils criaient : « Hosanna ! Béni soit celui qui vient au nom du Seigneur, le roi d'Israël ! » (Jean 12:13)
+小光/xiao3guang1 ：和散那/he2san3na4 是/shi4 什麼/shen2me5 意思/yi4si5 ？
+= Xiao Guang : Qu'est-ce que « hosanna » veut dire ?
+王牧師/wang2mu4shi1 ：本來/ben3lai2 是/shi4 「求/qiu2 祢/ni3 拯救/zheng3jiu4 」，後來/hou4lai2 變成/bian4cheng2 歡呼/huan1hu1 ，就像/jiu4xiang4 我們/wo3men5 說/shuo1 「萬歲/wan4sui4 」。
+= Pasteur Wang : À l'origine, cela veut dire « sauve-nous, s'il te plaît » ; ensuite c'est devenu un cri de joie, un peu comme notre « vive le roi ».
+小光/xiao3guang1 想/xiang3 了/le5 想/xiang3 ：可是/ke3shi4 國王/guo2wang2 為什麼/wei4shen2me5 要/yao4 騎/qi2 驢子/lv2zi5 ？騎/qi2 馬/ma3 比較/bi3jiao4 帥/shuai4 啊/a5 。
+= Xiao Guang réfléchit : Mais pourquoi le roi monte-t-il un âne ? Un cheval, c'est plus classe.
+王牧師/wang2mu4shi1 笑/xiao4 了/le5 ：因為/yin1wei4 耶穌/ye1su1 是/shi4 和平/he2ping2 的/de5 王/wang2 ，祂/ta1 不是/bu4shi4 來/lai2 打仗/da3zhang4 的/de5 。
+= Le pasteur Wang sourit : Parce que Jésus est le roi de la paix, Il n'est pas venu pour faire la guerre.
+路加/lu4jia1 小聲/xiao3sheng1 對/dui4 小恩/xiao3en1 說/shuo1 ：這/zhe4 個/ge4 國王/guo2wang2 很/hen3 特別/te4bie2 。
+= Luc murmure à Xiao En : Ce roi est vraiment particulier.
+小恩/xiao3en1 ：對/dui4 ，下/xia4 個/ge4 星期五/xing1qi2wu3 ，你/ni3 會/hui4 看到/kan4dao4 祂/ta1 更/geng4 特別/te4bie2 的/de5 地方/di4fang1 。
+= Xiao En : Oui, vendredi prochain, tu verras en Lui quelque chose de plus particulier encore.
+
+=== 102
+series: 101
+title_zh: 洗腳
+title_fr: Le lavement des pieds
+tagline: Le jeudi soir de la Semaine sainte — une bassine d'eau tiède, des chaussettes percées et un pasteur à genoux.
+song: 更像祢
+vocab: 洗腳=laver les pieds | 僕人=serviteur | 毛巾=serviette | 腳=pied | 榜樣=exemple, modèle
+---
+星期四/xing1qi2si4 晚上/wan3shang4 ，教會/jiao4hui4 有/you3 一/yi1 個/ge4 特別/te4bie2 的/de5 聚會/ju4hui4 。前面/qian2mian4 放/fang4 著/zhe5 一/yi1 盆/pen2 水/shui3 和/he2 一/yi1 條/tiao2 毛巾/mao2jin1 。
+= Jeudi soir, l'église tient une réunion particulière. À l'avant, il y a une bassine d'eau et une serviette.
+王牧師/wang2mu4shi1 ：耶穌/ye1su1 被/bei4 抓/zhua1 的/de5 前/qian2 一/yi1 晚/wan3 ，祂/ta1 做/zuo4 了/le5 一/yi1 件/jian4 讓/rang4 門徒/men2tu2 很/hen3 吃驚/chi1jing1 的/de5 事/shi4 。
+= Pasteur Wang : La veille de son arrestation, Jésus a fait quelque chose qui a beaucoup surpris ses disciples.
+他/ta1 跪/gui4 下來/xia4lai2 ，幫/bang1 每/mei3 一/yi1 個/ge4 人/ren2 洗腳/xi3jiao3 。
+= Il s'est agenouillé pour laver les pieds de chacun.
+路加/lu4jia1 小聲/xiao3sheng1 說/shuo1 ：不要/bu4yao4 吧/ba5 ，我/wo3 今天/jin1tian1 的/de5 襪子/wa4zi5 有/you3 一/yi1 個/ge4 洞/dong4 。
+= Luc murmure : Non, s'il vous plaît, ma chaussette a un trou aujourd'hui.
+小恩/xiao3en1 忍住/ren3zhu4 笑/xiao4 ：王牧師/wang2mu4shi1 不會/bu4hui4 在意/zai4yi4 的/de5 。
+= Xiao En se retient de rire : Le pasteur Wang ne s'en souciera pas.
+輪到/lun2dao4 路加/lu4jia1 的/de5 時候/shi2hou5 ，王牧師/wang2mu4shi1 真的/zhen1de5 蹲/dun1 下來/xia4lai2 ，慢慢/man4man4 地/de5 洗/xi3 他/ta1 的/de5 腳/jiao3 。
+= Quand vient le tour de Luc, le pasteur Wang s'accroupit vraiment et lui lave les pieds, lentement.
+路加/lu4jia1 的/de5 臉/lian3 很/hen3 紅/hong2 ，可是/ke3shi4 心/xin1 裡/li3 有/you3 一/yi1 種/zhong3 說/shuo1 不/bu4 出來/chu1lai2 的/de5 感覺/gan3jue2 。
+= Le visage de Luc est tout rouge, mais son cœur éprouve un sentiment qu'il ne sait pas dire.
+王牧師/wang2mu4shi1 ：耶穌/ye1su1 說/shuo1 ：「我/wo3 是/shi4 你們/ni3men5 的/de5 主/zhu3 ，你們/ni3men5 的/de5 夫子/fu1zi3 ，尚且/shang4qie3 洗/xi3 你們/ni3men5 的/de5 腳/jiao3 ，你們/ni3men5 也/ye3 當/dang1 彼此/bi3ci3 洗腳/xi3jiao3 。」（約翰福音/yue1han4fu2yin1 13:14）
+= Pasteur Wang : Jésus a dit : « Si donc je vous ai lavé les pieds, moi, le Seigneur et le Maître, vous devez aussi vous laver les pieds les uns aux autres. » (Jean 13:14)
+路加/lu4jia1 ：王牧師/wang2mu4shi1 ，這/zhe4 就是/jiu4shi4 做/zuo4 僕人/pu2ren2 的/de5 榜樣/bang3yang4 嗎/ma5 ？
+= Luc : Pasteur Wang, c'est cela, l'exemple du serviteur ?
+王牧師/wang2mu4shi1 ：對/dui4 。真正/zhen1zheng4 的/de5 王/wang2 ，會/hui4 蹲/dun1 下來/xia4lai2 幫/bang1 人/ren2 洗腳/xi3jiao3 。
+= Pasteur Wang : Oui. Un vrai roi s'accroupit pour laver les pieds des autres.
+
+=== 103
+series: 101
+title_zh: 我是道路
+title_fr: Je suis le chemin
+tagline: Une veille d'examen — un plan du métro plein de lignes de couleur, un cœur serré et une promesse qui tient en une phrase.
+song: 主我跟祢走
+vocab: 道路=chemin, route | 真理=vérité | 憂愁=angoisse, souci | 怕=avoir peur | 地圖=plan, carte
+---
+期中考/qi2zhong1kao3 的/de5 前/qian2 一/yi1 天/tian1 晚上/wan3shang4 ，路加/lu4jia1 一直/yi1zhi2 睡/shui4 不/bu4 著/zhao2 。
+= La veille des partiels, Luc n'arrive pas à s'endormir.
+他/ta1 看/kan4 著/zhe5 牆上/qiang2shang4 那/na4 張/zhang1 捷運/jie2yun4 地圖/di4tu2 ，上面/shang4mian4 有/you3 紅/hong2 線/xian4 、藍/lan2 線/xian4 、綠/lv4 線/xian4 ，看/kan4 得/de5 他/ta1 更/geng4 緊張/jin3zhang1 。
+= Il regarde le plan du métro au mur, avec ses lignes rouge, bleue et verte, et cela le rend encore plus tendu.
+他/ta1 傳/chuan2 了/le5 一/yi1 個/ge4 訊息/xun4xi2 給/gei3 小恩/xiao3en1 ：我/wo3 好/hao3 怕/pa4 明天/ming2tian1 考/kao3 不/bu4 好/hao3 。
+= Il envoie un message à Xiao En : J'ai tellement peur de rater l'examen demain.
+小恩/xiao3en1 馬上/ma3shang4 回/hui2 了/le5 ：你/ni3 今天/jin1tian1 讀/du2 到/dao4 約翰福音/yue1han4fu2yin1 第十四/di4shi2si4 章/zhang1 了/le5 嗎/ma5 ？
+= Xiao En répond aussitôt : Tu as lu le chapitre 14 de Jean aujourd'hui ?
+路加/lu4jia1 ：還沒/hai2mei2 。
+= Luc : Pas encore.
+小恩/xiao3en1 ：耶穌/ye1su1 說/shuo1 ：「你們/ni3men5 心/xin1 裡/li3 不要/bu4yao4 憂愁/you1chou2 ；你們/ni3men5 信/xin4 神/shen2 ，也/ye3 當/dang1 信/xin4 我/wo3 。」（約翰福音/yue1han4fu2yin1 14:1）
+= Xiao En : Jésus dit : « Que votre cœur ne se trouble point ; croyez en Dieu, croyez aussi en moi. » (Jean 14:1)
+路加/lu4jia1 ：這/zhe4 句話/ju4hua4 很/hen3 好/hao3 ，可是/ke3shi4 我/wo3 還是/hai2shi4 會/hui4 怕/pa4 。
+= Luc : Cette phrase est belle, mais j'ai toujours peur.
+小恩/xiao3en1 ：後面/hou4mian4 還有/hai2you3 ：「我/wo3 就是/jiu4shi4 道路/dao4lu4 、真理/zhen1li3 、生命/sheng1ming4 。」
+= Xiao En : Il y a aussi plus loin : « Je suis le chemin, la vérité et la vie. »
+路加/lu4jia1 看/kan4 著/zhe5 那/na4 張/zhang1 地圖/di4tu2 ：祂/ta1 不是/bu4shi4 告訴/gao4su4 我/wo3 要/yao4 坐/zuo4 哪/na3 一/yi1 條/tiao2 線/xian4 ，而是/er2shi4 說/shuo1 ，祂/ta1 自己/zi4ji3 就是/jiu4shi4 路/lu4 ？
+= Luc regarde le plan : Il ne me dit pas quelle ligne prendre, Il dit qu'Il est Lui-même le chemin ?
+小恩/xiao3en1 ：對/dui4 。明天/ming2tian1 的/de5 路/lu4 ，祂/ta1 也/ye3 會/hui4 一起/yi1qi3 走/zou3 。快/kuai4 睡/shui4 吧/ba5 。
+= Xiao En : Oui. Le chemin de demain, Il le fera aussi avec toi. Dors vite.
+那/na4 天/tian1 晚上/wan3shang4 ，路加/lu4jia1 在/zai4 手機/shou3ji1 上/shang4 慢慢/man4man4 讀/du2 完/wan2 第十四/di4shi2si4 章/zhang1 ，睡/shui4 著/zhao2 了/le5 。
+= Ce soir-là, Luc lit lentement le chapitre 14 sur son téléphone, puis s'endort.
+
+=== 104
+series: 101
+title_zh: 葡萄樹和枝子
+title_fr: La vigne et les sarments
+tagline: Un balcon ensoleillé — un pot de vigne, un sarment cassé par mégarde et une leçon qui se voit à l'œil nu.
+song: 在祢同在裡
+vocab: 葡萄樹=vigne | 枝子=sarment, branche | 常在=demeurer | 結果子=porter du fruit | 離開=quitter
+---
+星期六/xing1qi2liu4 上午/shang4wu3 ，路加/lu4jia1 去/qu4 王牧師/wang2mu4shi1 家/jia1 幫/bang1 王師母/wang2shi1mu3 搬/ban1 花盆/hua1pen2 。
+= Samedi matin, Luc va chez le pasteur Wang aider Mme Wang à déplacer des pots de fleurs.
+陽台/yang2tai2 上/shang4 有/you3 一/yi1 盆/pen2 小/xiao3 小/xiao3 的/de5 葡萄樹/pu2tao2shu4 ，上面/shang4mian4 有/you3 幾/ji3 顆/ke1 青色/qing1se4 的/de5 葡萄/pu2tao2 。
+= Sur le balcon, il y a une petite vigne en pot, avec quelques grains encore verts.
+路加/lu4jia1 一/yi1 不/bu4 小心/xiao3xin1 ，碰/peng4 斷/duan4 了/le5 一/yi1 根/gen1 枝子/zhi1zi5 。
+= Luc, par maladresse, casse un sarment.
+路加/lu4jia1 ：對不起/dui4bu4qi3 ！我/wo3 把/ba3 妳/ni3 的/de5 葡萄/pu2tao2 弄/nong4 斷/duan4 了/le5 ！
+= Luc : Pardon ! J'ai cassé ta vigne !
+王師母/wang2shi1mu3 看/kan4 了/le5 看/kan4 ：沒關係/mei2guan1xi5 ，這/zhe4 根/gen1 枝子/zhi1zi5 離開/li2kai1 了/le5 樹/shu4 ，三/san1 天/tian1 以後/yi3hou4 你/ni3 再/zai4 來/lai2 看看/kan4kan5 。
+= Mme Wang regarde : Ce n'est rien, ce sarment a quitté la vigne ; reviens le voir dans trois jours.
+三/san1 天/tian1 以後/yi3hou4 ，那/na4 根/gen1 枝子/zhi1zi5 的/de5 葉子/ye4zi5 全部/quan2bu4 變/bian4 乾/gan1 了/le5 ，旁邊/pang2bian1 還/hai2 連/lian2 著/zhe5 樹/shu4 的/de5 枝子/zhi1zi5 ，卻/que4 還是/hai2shi4 綠/lv4 綠/lv4 的/de5 。
+= Trois jours plus tard, toutes les feuilles du sarment cassé sont desséchées, tandis que les sarments encore attachés à la vigne sont tout verts.
+王師母/wang2shi1mu3 ：你/ni3 看/kan4 ，這/zhe4 就是/jiu4shi4 約翰福音/yue1han4fu2yin1 第十五/di4shi2wu3 章/zhang1 。
+= Mme Wang : Tu vois, c'est exactement Jean 15.
+路加/lu4jia1 ：耶穌/ye1su1 說/shuo1 ：「我/wo3 是/shi4 葡萄樹/pu2tao2shu4 ，你們/ni3men5 是/shi4 枝子/zhi1zi5 。」
+= Luc : Jésus dit : « Je suis le cep, vous êtes les sarments. »
+王師母/wang2shi1mu3 ：對/dui4 。「常在/chang2zai4 我/wo3 裡面/li3mian4 的/de5 ，我/wo3 也/ye3 常在/chang2zai4 他/ta1 裡面/li3mian4 ，這/zhe4 人/ren2 就/jiu4 多/duo1 結果子/jie2guo3zi5 ；因為/yin1wei4 離開/li2kai1 了/le5 我/wo3 ，你們/ni3men5 就/jiu4 不/bu4 能/neng2 做/zuo4 什麼/shen2me5 。」（約翰福音/yue1han4fu2yin1 15:5）
+= Mme Wang : Oui. « Celui qui demeure en moi, et en qui je demeure, porte beaucoup de fruit ; car sans moi vous ne pouvez rien faire. » (Jean 15:5)
+路加/lu4jia1 摸/mo1 著/zhe5 那/na4 根/gen1 乾/gan1 掉/diao4 的/de5 枝子/zhi1zi5 ：這/zhe4 個/ge4 我/wo3 以後/yi3hou4 絕對/jue2dui4 不會/bu4hui4 忘記/wang4ji4 。
+= Luc touche le sarment desséché : Celle-là, je ne l'oublierai jamais.
+
+=== 105
+series: 101
+title_zh: 為什麼叫好星期五
+title_fr: Pourquoi l'appelle-t-on « bon » vendredi ?
+tagline: Une église dans la pénombre — des bougies qu'on éteint une à une et un petit garçon qui ne comprend pas le mot « bon ».
+song: 十架的大能
+vocab: 受難日=Vendredi saint | 蠟燭=bougie | 釘=clouer ; clou | 好=bon | 黑暗=obscurité
+---
+受難日/shou4nan4ri4 的/de5 晚上/wan3shang4 ，教會/jiao4hui4 裡/li3 很/hen3 暗/an4 ，只有/zhi3you3 前面/qian2mian4 點/dian3 著/zhe5 七/qi1 根/gen1 蠟燭/la4zhu2 。
+= Vendredi saint au soir, l'église est très sombre ; il n'y a que sept bougies allumées à l'avant.
+王牧師/wang2mu4shi1 一/yi1 邊/bian1 讀/du2 經文/jing1wen2 ，一/yi1 邊/bian1 熄/xi2 掉/diao4 一/yi1 根/gen1 蠟燭/la4zhu2 ，教會/jiao4hui4 越來越/yue4lai2yue4 黑/hei1 。
+= Le pasteur Wang lit les Écritures et éteint une bougie après chaque lecture ; l'église devient de plus en plus noire.
+小光/xiao3guang1 坐/zuo4 在/zai4 路加/lu4jia1 旁邊/pang2bian1 ，小聲/xiao3sheng1 地/de5 問/wen4 ：路加/lu4jia1 ，為什麼/wei4shen2me5 今天/jin1tian1 叫/jiao4 「好/hao3 星期五/xing1qi2wu3 」？
+= Xiao Guang, assis à côté de Luc, demande tout bas : Luc, pourquoi appelle-t-on aujourd'hui « bon vendredi » ?
+路加/lu4jia1 ：我/wo3 也/ye3 不/bu4 知道/zhi1dao4 。
+= Luc : Moi non plus, je ne sais pas.
+他們/ta1men5 聽到/ting1dao4 王牧師/wang2mu4shi1 讀/du2 ：「他們/ta1men5 把/ba3 耶穌/ye1su1 釘/ding4 在/zai4 十字架/shi2zi4jia4 上/shang4 。」
+= Ils entendent le pasteur Wang lire : « Ils ont crucifié Jésus. »
+小光/xiao3guang1 抓/zhua1 緊/jin3 路加/lu4jia1 的/de5 袖子/xiu4zi5 ：他們/ta1men5 為什麼/wei4shen2me5 要/yao4 釘/ding4 耶穌/ye1su1 ？
+= Xiao Guang serre la manche de Luc : Pourquoi l'ont-ils cloué ?
+路加/lu4jia1 輕輕/qing1qing1 地/de5 說/shuo1 ：因為/yin1wei4 …… 我/wo3 想/xiang3 ，是/shi4 因為/yin1wei4 我們/wo3men5 都/dou1 做/zuo4 錯/cuo4 過/guo4 事/shi4 。
+= Luc répond doucement : Parce que… je crois que c'est parce que nous avons tous fait des choses mal.
+最後/zui4hou4 一/yi1 根/gen1 蠟燭/la4zhu2 被/bei4 熄/xi2 掉/diao4 ，整/zheng3 個/ge4 教會/jiao4hui4 都/dou1 是/shi4 黑暗/hei1an4 。
+= La dernière bougie est éteinte, et toute l'église est plongée dans l'obscurité.
+沒有/mei2you3 人/ren2 說/shuo1 話/hua4 ，只有/zhi3you3 一/yi1 個/ge4 很/hen3 小/xiao3 的/de5 聲音/sheng1yin1 說/shuo1 ：好/hao3 暗/an4 啊/a5 。
+= Personne ne parle, il n'y a qu'une toute petite voix qui dit : Qu'il fait noir.
+過/guo4 了/le5 很/hen3 久/jiu3 ，王牧師/wang2mu4shi1 才/cai2 輕輕/qing1qing1 地/de5 說/shuo1 ：回家/hui2jia1 吧/ba5 。兩/liang3 天/tian1 以後/yi3hou4 ，你們/ni3men5 就/jiu4 會/hui4 知道/zhi1dao4 為什麼/wei4shen2me5 叫/jiao4 「好/hao3 」。
+= Après un long moment, le pasteur Wang dit doucement : Rentrez chez vous. Dans deux jours, vous saurez pourquoi on dit « bon ».
+
+=== 106
+series: 101
+title_zh: 成了
+title_fr: C'est accompli
+tagline: Un banc sous les camphriers — une question de David, une phrase de la croix et un « échec » qui n'en est pas un.
+song: 喔！十字架
+vocab: 成了=c'est accompli | 債=dette | 失敗=échouer ; échec | 為=pour | 價=prix
+---
+星期六/xing1qi2liu4 下午/xia4wu3 ，大衛/da4wei4 約/yue1 路加/lu4jia1 在/zai4 校園/xiao4yuan2 的/de5 樟樹/zhang1shu4 下面/xia4mian4 見面/jian4mian4 。
+= Samedi après-midi, David donne rendez-vous à Luc sous les camphriers du campus.
+大衛/da4wei4 ：我/wo3 昨天/zuo2tian1 看/kan4 了/le5 一/yi1 點/dian3 約翰福音/yue1han4fu2yin1 ，故事/gu4shi5 太/tai4 悲傷/bei1shang1 了/le5 。耶穌/ye1su1 最後/zui4hou4 被/bei4 殺/sha1 了/le5 ，這/zhe4 不是/bu4shi4 失敗/shi1bai4 嗎/ma5 ？
+= David : Hier, j'ai lu un peu de Jean ; l'histoire est trop triste. Jésus finit par être tué ; n'est-ce pas un échec ?
+路加/lu4jia1 ：我/wo3 也/ye3 這樣/zhe4yang4 想/xiang3 過/guo4 。可是/ke3shi4 你/ni3 看/kan4 約翰福音/yue1han4fu2yin1 十九/shi2jiu3 章/zhang1 。
+= Luc : Moi aussi, j'ai pensé ça. Mais regarde Jean, chapitre 19.
+路加/lu4jia1 唸/nian4 ：「耶穌/ye1su1 嘗/chang2 了/le5 那/na4 醋/cu4 ，就/jiu4 說/shuo1 ：『成了/cheng2le5 ！』便/bian4 低下頭/di1xia4tou2 ，將/jiang1 靈魂/ling2hun2 交付/jiao1fu4 神/shen2 了/le5 。」（約翰福音/yue1han4fu2yin1 19:30）
+= Luc lit : « Quand Jésus eut pris le vinaigre, il dit : “Tout est accompli !” Puis, baissant la tête, il rendit l'esprit. » (Jean 19:30)
+大衛/da4wei4 ：「成了/cheng2le5 」？什麼/shen2me5 成/cheng2 了/le5 ？
+= David : « Accompli » ? Qu'est-ce qui est accompli ?
+路加/lu4jia1 ：這/zhe4 個/ge4 詞/ci2 在/zai4 希臘文/xi1la4wen2 裡/li3 ，是/shi4 欠債/qian4zhai4 的/de5 人/ren2 還/huan2 完/wan2 債/zhai4 ，會/hui4 用/yong4 的/de5 詞/ci2 。是/shi4 張長老/zhang1zhang3lao3 告訴/gao4su4 我/wo3 的/de5 。
+= Luc : En grec, c'est le mot qu'on emploie quand quelqu'un a fini de rembourser sa dette. C'est l'ancien Zhang qui me l'a appris.
+大衛/da4wei4 ：還債/huan2zhai4 ？
+= David : Rembourser une dette ?
+路加/lu4jia1 ：對/dui4 ，耶穌/ye1su1 不是/bu4shi4 輸/shu1 了/le5 ，祂/ta1 是/shi4 為/wei4 我們/wo3men5 的/de5 罪/zui4 付/fu4 了/le5 價/jia4 。
+= Luc : Oui, Jésus n'a pas perdu ; Il a payé le prix de nos péchés.
+大衛/da4wei4 安靜/an1jing4 了/le5 一下/yi1xia4 ：這/zhe4 個/ge4 說法/shuo1fa3 …… 我/wo3 要/yao4 想/xiang3 一/yi1 想/xiang3 。
+= David se tait un instant : Cette façon de voir… il faut que j'y réfléchisse.
+大衛/da4wei4 笑/xiao4 了/le5 一下/yi1xia4 ：不過/bu4guo4 ，我/wo3 第一次/di4yi1ci4 覺得/jue2de5 ，「失敗/shi1bai4 」這/zhe4 個/ge4 詞/ci2 可能/ke3neng2 太/tai4 簡單/jian3dan1 了/le5 。
+= David sourit : Mais pour la première fois, je trouve que le mot « échec » est peut-être trop simple.
+
+=== 107
+series: 101
+title_zh: 等待的星期六
+title_fr: Le samedi de l'attente
+tagline: Une salle de répétition silencieuse — une guitare posée, un silence qui pèse et une grand-mère qui en connaît le prix.
+song: 停留
+vocab: 害怕=avoir peur | 沉默=silence | 失望=déception ; être déçu | 墳墓=tombeau | 石頭=pierre
+---
+復活節/fu4huo2jie2 的/de5 前/qian2 一/yi1 天/tian1 ，敬拜團/jing4bai4tuan2 在/zai4 教會/jiao4hui4 做/zuo4 最後/zui4hou4 的/de5 準備/zhun3bei4 。
+= La veille de Pâques, l'équipe de louange fait les derniers préparatifs à l'église.
+可是/ke3shi4 大家/da4jia1 都/dou1 很/hen3 安靜/an1jing4 ，美玲/mei3ling2 沒有/mei2you3 像/xiang4 平常/ping2chang2 一樣/yi1yang4 催/cui1 大家/da4jia1 。
+= Mais tout le monde est silencieux ; Meiling ne presse pas les gens comme d'habitude.
+阿傑/a1jie2 把/ba3 吉他/ji2ta1 放/fang4 在/zai4 椅子/yi3zi5 上/shang4 ：我/wo3 今天/jin1tian1 就是/jiu4shi4 不/bu4 想/xiang3 彈/tan2 。
+= A-Jie pose sa guitare sur une chaise : Aujourd'hui, je n'ai tout simplement pas envie d'en jouer.
+路加/lu4jia1 ：為什麼/wei4shen2me5 ？明天/ming2tian1 就/jiu4 是/shi4 復活節/fu4huo2jie2 了/le5 啊/a5 。
+= Luc : Pourquoi ? Demain, c'est Pâques !
+阿傑/a1jie2 ：我/wo3 在/zai4 想/xiang3 ，如果/ru2guo3 我/wo3 是/shi4 耶穌/ye1su1 的/de5 門徒/men2tu2 ，今天/jin1tian1 會/hui4 是/shi4 什麼/shen2me5 感覺/gan3jue2 ？
+= A-Jie : Je me demande ce que je ressentirais aujourd'hui si j'étais un disciple de Jésus.
+美玲/mei3ling2 輕輕/qing1qing1 地/de5 說/shuo1 ：他們/ta1men5 一定/yi1ding4 很/hen3 失望/shi1wang4 ，也/ye3 很/hen3 害怕/hai4pa4 。耶穌/ye1su1 躺/tang3 在/zai4 墳墓/fen2mu4 裡/li3 ，外面/wai4mian4 用/yong4 大/da4 石頭/shi2tou5 擋/dang3 著/zhe5 。
+= Meiling dit doucement : Ils devaient être très déçus, et avoir très peur. Jésus était couché dans le tombeau, fermé de l'extérieur par une grande pierre.
+陳奶奶/chen2nai3nai5 坐/zuo4 在/zai4 第一/di4yi1 排/pai2 ，她/ta1 慢慢/man4man4 地/de5 說/shuo1 ：我/wo3 活/huo2 了/le5 八十/ba1shi2 年/nian2 ，最/zui4 懂/dong3 這/zhe4 一/yi1 天/tian1 。
+= Mamie Chen, assise au premier rang, dit lentement : J'ai vécu quatre-vingts ans, et c'est ce jour-là que je comprends le mieux.
+陳奶奶/chen2nai3nai5 ：有/you3 時候/shi2hou5 ，神/shen2 的/de5 沉默/chen2mo4 不/bu4 是/shi4 祂/ta1 不/bu4 在/zai4 ，是/shi4 祂/ta1 還/hai2 沒有/mei2you3 說/shuo1 完/wan2 。
+= Mamie Chen : Parfois, le silence de Dieu ne veut pas dire qu'Il est absent ; Il n'a simplement pas encore fini de parler.
+大家/da4jia1 沒有/mei2you3 說/shuo1 話/hua4 。過/guo4 了/le5 一陣子/yi1zhen4zi5 ，阿傑/a1jie2 把/ba3 吉他/ji2ta1 拿/na2 起來/qi3lai2 ，輕輕/qing1qing1 地/de5 彈/tan2 了/le5 第一/di4yi1 個/ge4 和弦/he2xian2 。
+= Personne ne dit mot. Au bout d'un moment, A-Jie reprend sa guitare et joue doucement le premier accord.
+
+=== 108
+series: 101
+title_zh: 日出崇拜
+title_fr: Le culte au lever du soleil
+tagline: Cinq heures du matin au bord de la rivière — du brouillard, des mains froides et une femme qui appelle un nom.
+song: 祢永遠活著
+vocab: 哭=pleurer | 日出=lever du soleil | 空墳墓=tombeau vide | 馬利亞=Marie (de Magdala) | 名字=nom, prénom
+---
+復活節/fu4huo2jie2 早上/zao3shang4 五點/wu3dian3 ，大家/da4jia1 在/zai4 河邊/he2bian1 的/de5 公園/gong1yuan2 一起/yi1qi3 等/deng3 日出/ri4chu1 。
+= Le matin de Pâques, à cinq heures, tous attendent ensemble le lever du soleil dans le parc au bord de la rivière.
+天/tian1 還/hai2 很/hen3 黑/hei1 ，空氣/kong1qi4 很/hen3 冷/leng3 ，路加/lu4jia1 把/ba3 王師母/wang2shi1mu3 織/zhi1 的/de5 圍巾/wei2jin1 拉/la1 得/de5 緊緊/jin3jin3 的/de5 。
+= Il fait encore nuit, l'air est froid, et Luc serre bien fort l'écharpe tricotée par Mme Wang.
+王牧師/wang2mu4shi1 ：兩/liang3 千/qian1 年/nian2 前/qian2 的/de5 這/zhe4 個/ge4 時候/shi2hou5 ，馬利亞/ma3li4ya4 一/yi1 個/ge4 人/ren2 去/qu4 墳墓/fen2mu4 ，可是/ke3shi4 她/ta1 看到/kan4dao4 的/de5 是/shi4 空墳墓/kong1fen2mu4 。
+= Pasteur Wang : Il y a deux mille ans, à cette heure-ci, Marie est allée seule au tombeau, mais ce qu'elle a vu, c'était un tombeau vide.
+王牧師/wang2mu4shi1 ：她/ta1 哭/ku1 了/le5 。她/ta1 以為/yi3wei2 有/you3 人/ren2 把/ba3 耶穌/ye1su1 的/de5 身體/shen1ti3 偷/tou1 走/zou3 了/le5 。
+= Pasteur Wang : Elle pleurait. Elle croyait que quelqu'un avait emporté le corps de Jésus.
+這時候/zhe4shi2hou5 ，有/you3 一/yi1 個/ge4 人/ren2 對/dui4 她/ta1 說/shuo1 ：「婦人/fu4ren2 ，為什麼/wei4shen2me5 哭/ku1 ？你/ni3 找/zhao3 誰/shei2 ？」她/ta1 以為/yi3wei2 是/shi4 園丁/yuan2ding1 。
+= Alors quelqu'un lui dit : « Femme, pourquoi pleures-tu ? Qui cherches-tu ? » Elle croyait que c'était le jardinier.
+王牧師/wang2mu4shi1 ：然後/ran2hou4 耶穌/ye1su1 只/zhi3 說/shuo1 了/le5 一/yi1 個/ge4 字/zi4 ：「馬利亞/ma3li4ya4 。」（約翰福音/yue1han4fu2yin1 20:16）
+= Pasteur Wang : Puis Jésus n'a prononcé qu'un seul mot : « Marie. » (Jean 20:16)
+路加/lu4jia1 的/de5 心/xin1 一/yi1 下子/xia4zi5 跳/tiao4 得/de5 很/hen3 快/kuai4 。
+= Le cœur de Luc se met à battre très vite.
+他/ta1 想起/xiang3qi3 上個月/shang4ge4yue4 讀/du2 的/de5 ：牧人/mu4ren2 按著/an4zhe5 名字/ming2zi5 叫/jiao4 自己/zi4ji3 的/de5 羊/yang2 。
+= Il repense à ce qu'il a lu le mois dernier : le berger appelle ses brebis par leur nom.
+就/jiu4 在/zai4 這/zhe4 時候/shi2hou5 ，太陽/tai4yang2 從/cong2 河/he2 的/de5 那/na4 一/yi1 邊/bian1 升/sheng1 起來/qi3lai2 ，大家/da4jia1 一起/yi1qi3 唱/chang4 起/qi3 《祢/ni3 永遠/yong3yuan3 活著/huo2zhe5 》。
+= À cet instant, le soleil se lève de l'autre côté de la rivière, et tous se mettent à chanter « Tu vis pour toujours ».
+路加/lu4jia1 輕輕/qing1qing1 地/de5 說/shuo1 ：祂/ta1 活著/huo2zhe5 ，而且/er2qie3 祂/ta1 認識/ren4shi4 我們/wo3men5 每/mei3 一/yi1 個/ge4 人/ren2 的/de5 名字/ming2zi5 。
+= Luc dit doucement : Il est vivant, et Il connaît le nom de chacun de nous.
+
+=== 109
+series: 101
+title_zh: 找彩蛋
+title_fr: La chasse aux œufs
+tagline: Un jardin de l'église — des œufs colorés, un œuf vide et un enfant qui comprend plus vite que les grands.
+song: 全地當讚美
+vocab: 彩蛋=œuf de Pâques | 生命=vie | 找=chercher ; trouver | 空=vide | 開心=joyeux, content
+---
+復活節/fu4huo2jie2 的/de5 下午/xia4wu3 ，教會/jiao4hui4 的/de5 院子/yuan4zi5 裡/li3 藏/cang2 了/le5 很多/hen3duo1 彩蛋/cai3dan4 ，孩子/hai2zi5 們/men5 到處/dao4chu4 跑/pao3 。
+= L'après-midi de Pâques, on a caché plein d'œufs de couleur dans la cour de l'église, et les enfants courent partout.
+小光/xiao3guang1 一/yi1 邊/bian1 找/zhao3 ，一/yi1 邊/bian1 大叫/da4jiao4 ：我/wo3 找到/zhao3dao4 十/shi2 顆/ke1 了/le5 ！
+= Xiao Guang cherche en criant : J'en ai trouvé dix !
+路加/lu4jia1 ：為什麼/wei4shen2me5 復活節/fu4huo2jie2 要/yao4 找/zhao3 蛋/dan4 ？
+= Luc : Pourquoi cherche-t-on des œufs à Pâques ?
+美玲/mei3ling2 ：因為/yin1wei4 蛋/dan4 裡/li3 有/you3 一/yi1 個/ge4 小/xiao3 生命/sheng1ming4 ，就像/jiu4xiang4 耶穌/ye1su1 復活/fu4huo2 ，新/xin1 的/de5 生命/sheng1ming4 從/cong2 墳墓/fen2mu4 裡/li3 出來/chu1lai2 。
+= Meiling : Parce qu'un œuf renferme une petite vie, comme Jésus qui est ressuscité : une vie nouvelle sortie du tombeau.
+小光/xiao3guang1 ：我/wo3 知道/zhi1dao4 ！所以/suo3yi3 墳墓/fen2mu4 是/shi4 空/kong1 的/de5 ，蛋/dan4 殼/ke2 也/ye3 是/shi4 空/kong1 的/de5 。
+= Xiao Guang : Je sais ! C'est pour ça que le tombeau est vide, et que la coquille aussi est vide.
+大家/da4jia1 都/dou1 愣/leng4 了/le5 一下/yi1xia4 ，然後/ran2hou4 大笑/da4xiao4 起來/qi3lai2 。
+= Tout le monde reste interdit un instant, puis éclate de rire.
+阿傑/a1jie2 ：這/zhe4 孩子/hai2zi5 以後/yi3hou4 一定/yi1ding4 是/shi4 牧師/mu4shi1 ，我/wo3 說/shuo1 真的/zhen1de5 。
+= A-Jie : Ce gamin sera sûrement pasteur plus tard, je le dis sérieusement.
+小光/xiao3guang1 找/zhao3 到/dao4 最後/zui4hou4 一/yi1 顆/ke1 彩蛋/cai3dan4 ，打開/da3kai1 一/yi1 看/kan4 ，裡面/li3mian4 是/shi4 空/kong1 的/de5 ，只有/zhi3you3 一/yi1 張/zhang1 小/xiao3 紙條/zhi3tiao2 。
+= Xiao Guang trouve le dernier œuf, l'ouvre, et il est vide, avec seulement un petit mot dedans.
+紙條/zhi3tiao2 上/shang4 寫/xie3 著/zhe5 ：他/ta1 復活/fu4huo2 了/le5 ！小光/xiao3guang1 大聲/da4sheng1 念/nian4 出來/chu1lai2 ：路加/lu4jia1 ，這/zhe4 是/shi4 給/gei3 你/ni3 的/de5 ！
+= Sur le papier est écrit : Il est ressuscité ! Xiao Guang lit à voix haute : Luc, c'est pour toi !
+路加/lu4jia1 把/ba3 那/na4 張/zhang1 紙條/zhi3tiao2 放/fang4 進/jin4 口袋/kou3dai4 ，笑/xiao4 得/de5 很/hen3 開心/kai1xin1 ，也/ye3 有/you3 一點/yi1dian3 想/xiang3 哭/ku1 。
+= Luc glisse le papier dans sa poche, très heureux, avec aussi un peu envie de pleurer.
+
+=== 110
+series: 101
+title_zh: 你愛我嗎
+title_fr: M'aimes-tu ?
+tagline: La dernière étude de Jean — un pêcheur qui échoue, un feu de braises sur la plage et une question posée trois fois.
+song: 我愛祢，我主
+vocab: 愛=aimer ; amour | 跟從=suivre | 餵養=nourrir, faire paître | 三次=trois fois | 漁夫=pêcheur
+---
+復活節/fu4huo2jie2 以後/yi3hou4 的/de5 第一/di4yi1 個/ge4 星期二/xing1qi2er4 ，張長老/zhang1zhang3lao3 和/he2 路加/lu4jia1 讀/du2 到/dao4 約翰福音/yue1han4fu2yin1 最後/zui4hou4 一/yi1 章/zhang1 。
+= Le premier mardi après Pâques, l'ancien Zhang et Luc arrivent au dernier chapitre de l'évangile de Jean.
+張長老/zhang1zhang3lao3 ：彼得/bi3de2 是/shi4 漁夫/yu2fu1 ，耶穌/ye1su1 被/bei4 抓/zhua1 的/de5 時候/shi2hou5 ，他/ta1 說/shuo1 三次/san1ci4 不/bu4 認識/ren4shi4 祂/ta1 。
+= L'ancien Zhang : Pierre était pêcheur ; quand Jésus a été arrêté, il a dit trois fois qu'il ne le connaissait pas.
+張長老/zhang1zhang3lao3 ：復活/fu4huo2 以後/yi3hou4 ，耶穌/ye1su1 在/zai4 海邊/hai3bian1 問/wen4 彼得/bi3de2 ：「你/ni3 愛/ai4 我/wo3 嗎/ma5 ？」
+= L'ancien Zhang : Après la résurrection, Jésus demande au bord de la mer à Pierre : « M'aimes-tu ? »
+路加/lu4jia1 ：祂/ta1 問/wen4 了/le5 幾次/ji3ci4 ？
+= Luc : Combien de fois le lui a-t-Il demandé ?
+張長老/zhang1zhang3lao3 ：三次/san1ci4 。彼得/bi3de2 每/mei3 一次/yi1ci4 都/dou1 說/shuo1 ：「主/zhu3 啊/a5 ，是/shi4 的/de5 ，你/ni3 知道/zhi1dao4 我/wo3 愛/ai4 你/ni3 。」耶穌/ye1su1 說/shuo1 ：「你/ni3 餵養/wei4yang3 我/wo3 的/de5 小羊/xiao3yang2 。」（約翰福音/yue1han4fu2yin1 21:17）
+= L'ancien Zhang : Trois fois. Chaque fois, Pierre répond : « Oui, Seigneur, tu sais que je t'aime. » Et Jésus dit : « Pais mes agneaux. » (Jean 21:17)
+路加/lu4jia1 ：三次/san1ci4 ，剛好/gang1hao3 對/dui4 三次/san1ci4 不/bu4 認識/ren4shi4 ？
+= Luc : Trois fois, exactement comme les trois reniements ?
+張長老/zhang1zhang3lao3 ：對/dui4 。耶穌/ye1su1 沒有/mei2you3 罵/ma4 他/ta1 ，只是/zhi3shi4 讓/rang4 他/ta1 再/zai4 說/shuo1 三次/san1ci4 「我/wo3 愛/ai4 你/ni3 」。
+= L'ancien Zhang : Oui. Jésus ne l'a pas grondé, Il lui a simplement laissé redire trois fois « Je t'aime ».
+張長老/zhang1zhang3lao3 ：最後/zui4hou4 ，祂/ta1 對/dui4 彼得/bi3de2 說/shuo1 ：「你/ni3 跟從/gen1cong2 我/wo3 吧/ba5 。」（約翰福音/yue1han4fu2yin1 21:19）
+= L'ancien Zhang : Enfin, Il dit à Pierre : « Suis-moi. » (Jean 21:19)
+路加/lu4jia1 看/kan4 著/zhe5 這/zhe4 句話/ju4hua4 很/hen3 久/jiu3 ：我/wo3 也/ye3 想/xiang3 跟從/gen1cong2 祂/ta1 ，可是/ke3shi4 …… 我/wo3 還是/hai2shi4 有/you3 一點/yi1dian3 怕/pa4 。
+= Luc fixe longtemps ces mots : Moi aussi, je voudrais Le suivre, mais… j'ai encore un peu peur.
+張長老/zhang1zhang3lao3 微笑/wei2xiao4 ：彼得/bi3de2 也/ye3 怕/pa4 ，可是/ke3shi4 祂/ta1 還是/hai2shi4 說/shuo1 ：跟從/gen1cong2 我/wo3 。
+= L'ancien Zhang sourit : Pierre aussi avait peur, et pourtant Il lui a dit : suis-moi.

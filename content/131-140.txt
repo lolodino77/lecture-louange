@@ -8,7 +8,7 @@ tagline: Les Psaumes — un livre de chants, un roi berger et un ami philosophe.
 song: 我的心，你要稱頌耶和華
 vocab: 詩篇=les Psaumes | 稱頌=bénir, célébrer | 歌詞=paroles (d'un chant) | 國王=roi | 聖名=saint nom | 提醒=rappeler à quelqu'un
 ---
-期末考/qi1mo4kao3 結束/jie2shu4 了/le5 ，路加/lu4jia1 終於/zhong1yu2 有/you3 時間/shi2jian1 好好/hao3hao3 讀經/du2jing1 。
+期末考/qi2mo4kao3 結束/jie2shu4 了/le5 ，路加/lu4jia1 終於/zhong1yu2 有/you3 時間/shi2jian1 好好/hao3hao3 讀經/du2jing1 。
 = Les examens sont terminés : Luc a enfin le temps de lire la Bible tranquillement.
 美玲/mei3ling2 建議/jian4yi4 他/ta1 讀/du2 詩篇/shi1pian1 ，因為/yin1wei4 很多/hen3duo1 敬拜/jing4bai4 歌/ge1 的/de5 歌詞/ge1ci2 都/dou1 是/shi4 從/cong2 詩篇/shi1pian1 來/lai2 的/de5 。
 = Meiling lui a conseillé de lire les Psaumes, parce que les paroles de beaucoup de chants de louange en viennent.
@@ -117,9 +117,9 @@ vocab: 見證=témoignage | 捆綁=lier, enchaîner ; servitude | 失敗=échoue
 = Le pasteur Wang demande à chaque futur baptisé d'écrire un témoignage, à partager le jour du baptême.
 路加/lu4jia1 坐/zuo4 在/zai4 書桌/shu1zhuo1 前/qian2 看/kan4 著/zhe5 白/bai2 紙/zhi3 ，一/yi1 個/ge4 小時/xiao3shi2 只/zhi3 寫/xie3 了/le5 一/yi1 句/ju4 話/hua4 。他/ta1 打/da3 電話/dian4hua4 給/gei3 小恩/xiao3en1 。
 = Assis à son bureau devant une page blanche, Luc n'a écrit qu'une phrase en une heure. Il appelle Xiao En.
-路加/lu4jia1 ：我/wo3 不/bu4 知道/zhi1dao5 要/yao4 寫/xie3 什麼/shen2me5 。我/wo3 的/de5 故事/gu4shi4 很/hen3 普通/pu3tong1 ，沒有/mei2you3 什麼/shen2me5 大/da4 奇蹟/qi2ji4 。
+路加/lu4jia1 ：我/wo3 不/bu4 知道/zhi1dao4 要/yao4 寫/xie3 什麼/shen2me5 。我/wo3 的/de5 故事/gu4shi5 很/hen3 普通/pu3tong1 ，沒有/mei2you3 什麼/shen2me5 大/da4 奇蹟/qi2ji1 。
 = Luc : Je ne sais pas quoi écrire. Mon histoire est très banale, il n'y a pas de grand miracle.
-小恩/xiao3en1 ：那/na4 你/ni3 想想/xiang3xiang3 ，認識/ren4shi5 耶穌/ye1su1 以前/yi3qian2 ，有/you3 什麼/shen2me5 東西/dong1xi5 一直/yi1zhi2 捆綁/kun3bang3 著/zhe5 你/ni3 ？
+小恩/xiao3en1 ：那/na4 你/ni3 想想/xiang3xiang3 ，認識/ren4shi4 耶穌/ye1su1 以前/yi3qian2 ，有/you3 什麼/shen2me5 東西/dong1xi5 一直/yi1zhi2 捆綁/kun3bang3 著/zhe5 你/ni3 ？
 = Xiao En : Alors réfléchis : avant de connaître Jésus, qu'est-ce qui te tenait enchaîné ?
 路加/lu4jia1 安靜/an1jing4 了/le5 很/hen3 久/jiu3 。
 = Luc reste longtemps silencieux.
@@ -127,7 +127,7 @@ vocab: 見證=témoignage | 捆綁=lier, enchaîner ; servitude | 失敗=échoue
 = Luc : J'ai toujours eu très peur d'échouer. Depuis tout petit, j'ai l'impression que si je n'ai pas de bonnes notes, personne ne m'aimera.
 小恩/xiao3en1 ：那/na4 現在/xian4zai4 呢/ne5 ？
 = Xiao En : Et maintenant ?
-路加/lu4jia1 ：現在/xian4zai4 我/wo3 知道/zhi1dao5 ，神/shen2 愛/ai4 我/wo3 不/bu4 是/shi4 因為/yin1wei4 我/wo3 的/de5 成績/cheng2ji4 。這/zhe4 次/ci4 期末考/qi1mo4kao3 ，我/wo3 第一/di4yi1 次/ci4 沒有/mei2you3 失眠/shi1mian2 。
+路加/lu4jia1 ：現在/xian4zai4 我/wo3 知道/zhi1dao4 ，神/shen2 愛/ai4 我/wo3 不/bu4 是/shi4 因為/yin1wei4 我/wo3 的/de5 成績/cheng2ji4 。這/zhe4 次/ci4 期末考/qi2mo4kao3 ，我/wo3 第一/di4yi1 次/ci4 沒有/mei2you3 失眠/shi1mian2 。
 = Luc : Maintenant je sais que Dieu ne m'aime pas pour mes notes. Pour ces examens, c'est la première fois que je n'ai pas fait d'insomnie.
 小恩/xiao3en1 ：這/zhe4 就/jiu4 是/shi4 你/ni3 的/de5 見證/jian4zheng4 啊/a5 ！約翰福音/yue1han4fu2yin1 8:32 說/shuo1 ：「你們/ni3men5 必/bi4 曉得/xiao3de5 真理/zhen1li3 ，真理/zhen1li3 必/bi4 叫/jiao4 你們/ni3men5 得以/de2yi3 自由/zi4you2 。」
 = Xiao En : Mais c'est ça, ton témoignage ! Jean 8:32 dit : « Vous connaîtrez la vérité, et la vérité vous affranchira. »
@@ -162,7 +162,7 @@ vocab: 記號=signe, marque | 公開=publiquement ; public | 宣告=déclarer, p
 = Luc : Merci. Ce jour-là, on chantera « Je crois » ; prends-le comme ma déclaration !
 大衛/da4wei4 笑/xiao4 了/le5 ：「好/hao3 ，那/na4 我/wo3 帶/dai4 一/yi1 束/shu4 花/hua1 去/qu4 。」
 = David sourit : « D'accord, alors j'apporterai un bouquet de fleurs. »
-路加/lu4jia1 ：花/hua1 就/jiu4 不用/bu4yong4 了/le5 ，你/ni3 人/ren2 來/lai2 就/jiu4 好/hao3 。不過/bu2guo4 ，你/ni3 要/yao4 坐/zuo4 第一/di4yi1 排/pai2 喔/o1 ！
+路加/lu4jia1 ：花/hua1 就/jiu4 不用/bu4yong4 了/le5 ，你/ni3 人/ren2 來/lai2 就/jiu4 好/hao3 。不過/bu4guo4 ，你/ni3 要/yao4 坐/zuo4 第一/di4yi1 排/pai2 喔/o1 ！
 = Luc : Pas besoin de fleurs, il suffit que tu viennes. Mais tu t'assieds au premier rang, hein !
 
 === 136
@@ -173,13 +173,13 @@ tagline: Tentation — un message tentant, une faiblesse avouée et une force qu
 song: 主祢是我力量
 vocab: 試探=tentation ; tenter | 軟弱=faible ; faiblesse | 剛強=fort, vaillant | 儆醒=veiller | 作弊=tricher | 補考=examen de rattrapage
 ---
-路加/lu4jia1 有/you3 一/yi1 科/ke1 沒有/mei2you3 考/kao3 好/hao3 ，下/xia4 個/ge4 星期/xing1qi1 要/yao4 補考/bu3kao3 。
+路加/lu4jia1 有/you3 一/yi1 科/ke1 沒有/mei2you3 考/kao3 好/hao3 ，下/xia4 個/ge4 星期/xing1qi2 要/yao4 補考/bu3kao3 。
 = Luc a raté une matière ; il a un examen de rattrapage la semaine prochaine.
-補考/bu3kao3 前/qian2 一/yi1 天/tian1 晚上/wan3shang4 ，一/yi1 個/ge4 同學/tong2xue2 傳/chuan2 訊息/xun4xi1 給/gei3 他/ta1 ：「我/wo3 有/you3 考題/kao3ti2 的/de5 照片/zhao4pian4 ，要/yao4 不/bu4 要/yao4 ？」
+補考/bu3kao3 前/qian2 一/yi1 天/tian1 晚上/wan3shang4 ，一/yi1 個/ge4 同學/tong2xue2 傳/chuan2 訊息/xun4xi2 給/gei3 他/ta1 ：「我/wo3 有/you3 考題/kao3ti2 的/de5 照片/zhao4pian4 ，要/yao4 不/bu4 要/yao4 ？」
 = La veille au soir, un camarade lui envoie un message : « J'ai une photo des sujets, tu la veux ? »
 路加/lu4jia1 的/de5 手指/shou3zhi3 停/ting2 在/zai4 手機/shou3ji1 上/shang4 。只要/zhi3yao4 按/an4 一下/yi1xia4 ，就/jiu4 可以/ke3yi3 看到/kan4dao4 答案/da2an4 了/le5 。
 = Le doigt de Luc reste suspendu au-dessus de son téléphone. Il suffirait d'un clic pour voir les réponses.
-他/ta1 心裡/xin1li3 有/you3 兩/liang3 個/ge4 聲音/sheng1yin1 ：一/yi1 個/ge4 說/shuo1 「沒有/mei2you3 人/ren2 會/hui4 知道/zhi1dao5 」，另/ling4 一/yi1 個/ge4 說/shuo1 「神/shen2 知道/zhi1dao5 」。
+他/ta1 心裡/xin1li3 有/you3 兩/liang3 個/ge4 聲音/sheng1yin1 ：一/yi1 個/ge4 說/shuo1 「沒有/mei2you3 人/ren2 會/hui4 知道/zhi1dao4 」，另/ling4 一/yi1 個/ge4 說/shuo1 「神/shen2 知道/zhi1dao4 」。
 = Dans son cœur, deux voix : l'une dit « personne ne le saura », l'autre « Dieu, lui, le sait ».
 路加/lu4jia1 把/ba3 手機/shou3ji1 放/fang4 下/xia4 ，打/da3 電話/dian4hua4 給/gei3 阿傑/a1jie2 。
 = Luc pose son téléphone et appelle A-Jie.
@@ -206,15 +206,15 @@ tagline: Intercession — une mère inquiète, un malentendu et une grand-mère 
 song: 有人在為你禱告
 vocab: 代禱=intercéder ; intercession | 擔心=s'inquiéter | 宗教=religion | 理解=comprendre | 義人=juste (personne) | 功效=efficacité
 ---
-星期天/xing1qi1tian1 晚上/wan3shang4 ，路加/lu4jia1 的/de5 媽媽/ma1ma5 從/cong2 法國/fa3guo2 打/da3 視訊/shi4xun4 電話/dian4hua4 來/lai2 。
+星期天/xing1qi2tian1 晚上/wan3shang4 ，路加/lu4jia1 的/de5 媽媽/ma1ma5 從/cong2 法國/fa3guo2 打/da3 視訊/shi4xun4 電話/dian4hua4 來/lai2 。
 = Dimanche soir, la mère de Luc l'appelle en visio depuis la France.
 媽媽/ma1ma5 ：你/ni3 說/shuo1 你/ni3 要/yao4 受洗/shou4xi3 ？你/ni3 是/shi4 不/bu4 是/shi4 被/bei4 什麼/shen2me5 奇怪/qi2guai4 的/de5 團體/tuan2ti3 騙/pian4 了/le5 ？
 = Maman : Tu dis que tu vas te faire baptiser ? Tu ne t'es pas fait embobiner par un groupe bizarre, au moins ?
 路加/lu4jia1 ：媽/ma1 ，別/bie2 擔心/dan1xin1 。這/zhe4 不/bu4 是/shi4 什麼/shen2me5 奇怪/qi2guai4 的/de5 宗教/zong1jiao4 ，就/jiu4 是/shi4 一般/yi1ban1 的/de5 基督教/ji1du1jiao4 教會/jiao4hui4 。
 = Luc : Maman, ne t'inquiète pas. Ce n'est pas une religion bizarre, c'est une église protestante tout à fait normale.
-媽媽/ma1ma5 ：可是/ke3shi4 你/ni3 從/cong2 小/xiao3 就/jiu4 不/bu4 去/qu4 教堂/jiao4tang2 ，怎麼/zen3me5 突然/tu1ran2 變/bian4 了/le5 ？
+媽媽/ma1ma5 ：可是/ke3shi4 你/ni3 從/cong2 小/xiao3 就/jiu4 不/bu4 去/qu4 教堂/jiao4tang2 ，怎麼/zen3me5 突然/tu2ran2 變/bian4 了/le5 ？
 = Maman : Mais petit, tu n'allais jamais à l'église ; comment as-tu pu changer d'un coup ?
-路加/lu4jia1 ：不/bu4 是/shi4 突然/tu1ran2 的/de5 。我/wo3 想/xiang3 了/le5 快/kuai4 一/yi1 年/nian2 ，問/wen4 了/le5 很多/hen3duo1 問題/wen4ti2 。現在/xian4zai4 我/wo3 比較/bi3jiao4 快樂/kuai4le4 ，也/ye3 比較/bi3jiao4 不/bu4 焦慮/jiao1lv4 了/le5 。
+路加/lu4jia1 ：不/bu4 是/shi4 突然/tu2ran2 的/de5 。我/wo3 想/xiang3 了/le5 快/kuai4 一/yi1 年/nian2 ，問/wen4 了/le5 很多/hen3duo1 問題/wen4ti2 。現在/xian4zai4 我/wo3 比較/bi3jiao4 快樂/kuai4le4 ，也/ye3 比較/bi3jiao4 不/bu4 焦慮/jiao1lv4 了/le5 。
 = Luc : Ce n'est pas soudain. J'y réfléchis depuis presque un an, j'ai posé beaucoup de questions. Aujourd'hui je suis plus heureux, et beaucoup moins anxieux.
 媽媽/ma1ma5 沉默/chen2mo4 了/le5 一下/yi1xia4 ：「好/hao3 吧/ba5 ，我/wo3 會/hui4 試/shi4 著/zhe5 理解/li3jie3 。你/ni3 自己/zi4ji3 要/yao4 小心/xiao3xin1 。」
 = Sa mère se tait un instant : « Bon… j'essaierai de comprendre. Fais attention à toi. »
@@ -222,9 +222,9 @@ vocab: 代禱=intercéder ; intercession | 擔心=s'inquiéter | 宗教=religion
 = Après avoir raccroché, Luc est un peu triste. Le lendemain, il va voir Mamie Chen.
 陳奶奶/chen2nai3nai5 ：你/ni3 媽媽/ma1ma5 擔心/dan1xin1 你/ni3 ，是/shi4 因為/yin1wei4 她/ta1 愛/ai4 你/ni3 。以後/yi3hou4 我/wo3 每天/mei3tian1 早上/zao3shang4 都/dou1 為/wei4 她/ta1 代禱/dai4dao3 。
 = Mamie Chen : Ta mère s'inquiète parce qu'elle t'aime. Désormais, je prierai pour elle chaque matin.
-路加/lu4jia1 ：奶奶/nai3nai5 ，您/nin2 又/you4 不/bu4 認識/ren4shi5 她/ta1 。
+路加/lu4jia1 ：奶奶/nai3nai5 ，您/nin2 又/you4 不/bu4 認識/ren4shi4 她/ta1 。
 = Luc : Mamie, mais vous ne la connaissez même pas.
-陳奶奶/chen2nai3nai5 ：我/wo3 不/bu4 認識/ren4shi5 她/ta1 ，可是/ke3shi4 神/shen2 認識/ren4shi5 她/ta1 啊/a5 。雅各書/ya3ge4shu1 5:16 說/shuo1 ：「義人/yi4ren2 祈禱/qi2dao3 所/suo3 發/fa1 的/de5 力量/li4liang4 是/shi4 大/da4 有/you3 功效/gong1xiao4 的/de5 。」
+陳奶奶/chen2nai3nai5 ：我/wo3 不/bu4 認識/ren4shi4 她/ta1 ，可是/ke3shi4 神/shen2 認識/ren4shi4 她/ta1 啊/a5 。雅各書/ya3ge4shu1 5:16 說/shuo1 ：「義人/yi4ren2 祈禱/qi2dao3 所/suo3 發/fa1 的/de5 力量/li4liang4 是/shi4 大/da4 有/you3 功效/gong1xiao4 的/de5 。」
 = Mamie Chen : Moi, je ne la connais pas, mais Dieu la connaît. Jacques 5:16 dit : « La prière agissante du juste a une grande efficacité. »
 陳奶奶/chen2nai3nai5 拉/la1 著/zhe5 他/ta1 的/de5 手/shou3 ，用/yong4 台語/tai2yu3 和/he2 國語/guo2yu3 為/wei4 他/ta1 的/de5 媽媽/ma1ma5 禱告/dao3gao4 。
 = Mamie Chen lui prend la main et prie pour sa mère, en taïwanais et en mandarin.
@@ -239,13 +239,13 @@ tagline: Libération — une vieille blessure, un pardon difficile et un cœur d
 song: 得釋放
 vocab: 釋放=libérer, délivrer | 饒恕=pardonner | 恨=haïr ; en vouloir à | 傷害=blesser ; blessure | 繩子=corde | 軛=joug
 ---
-受洗/shou4xi3 前/qian2 一/yi1 個/ge4 星期/xing1qi1 ，王牧師/wang2mu4shi1 跟/gen1 每/mei3 個/ge4 人/ren2 單獨/dan1du2 談話/tan2hua4 。
+受洗/shou4xi3 前/qian2 一/yi1 個/ge4 星期/xing1qi2 ，王牧師/wang2mu4shi1 跟/gen1 每/mei3 個/ge4 人/ren2 單獨/dan1du2 談話/tan2hua4 。
 = Une semaine avant le baptême, le pasteur Wang s'entretient seul à seul avec chaque candidat.
 王牧師/wang2mu4shi1 ：路加/lu4jia1 ，你/ni3 心裡/xin1li3 還/hai2 有/you3 什麼/shen2me5 放/fang4 不/bu4 下/xia4 的/de5 事/shi4 嗎/ma5 ？
 = Pasteur Wang : Luc, y a-t-il encore quelque chose que tu n'arrives pas à lâcher ?
 路加/lu4jia1 低/di1 著/zhe5 頭/tou2 ，過/guo4 了/le5 很/hen3 久/jiu3 才/cai2 開口/kai1kou3 。
 = Luc baisse la tête ; il met longtemps à parler.
-路加/lu4jia1 ：在/zai4 法國/fa3guo2 的/de5 時候/shi2hou5 ，我/wo3 最/zui4 好/hao3 的/de5 朋友/peng2you5 多馬/duo1ma3 用/yong4 自己/zi4ji3 的/de5 名字/ming2zi4 ，把/ba3 我/wo3 的/de5 設計/she4ji4 拿/na2 去/qu4 參加/can1jia1 比賽/bi3sai4 ，還/hai2 得/de2 了/le5 獎/jiang3 。從/cong2 那/na4 天/tian1 起/qi3 ，我/wo3 一直/yi1zhi2 恨/hen4 他/ta1 。
+路加/lu4jia1 ：在/zai4 法國/fa3guo2 的/de5 時候/shi2hou5 ，我/wo3 最/zui4 好/hao3 的/de5 朋友/peng2you5 多馬/duo1ma3 用/yong4 自己/zi4ji3 的/de5 名字/ming2zi5 ，把/ba3 我/wo3 的/de5 設計/she4ji4 拿/na2 去/qu4 參加/can1jia1 比賽/bi3sai4 ，還/hai2 得/de2 了/le5 獎/jiang3 。從/cong2 那/na4 天/tian1 起/qi3 ，我/wo3 一直/yi1zhi2 恨/hen4 他/ta1 。
 = Luc : En France, mon meilleur ami, Thomas, a présenté mon projet à un concours sous son propre nom, et il a gagné un prix. Depuis ce jour-là, je lui en veux.
 王牧師/wang2mu4shi1 ：謝謝/xie4xie5 你/ni3 願意/yuan4yi4 說/shuo1 出來/chu1lai2 。被/bei4 最/zui4 好/hao3 的/de5 朋友/peng2you5 傷害/shang1hai4 ，一定/yi1ding4 很/hen3 痛/tong4 。
 = Pasteur Wang : Merci d'avoir osé le dire. Être blessé par son meilleur ami, ça doit faire très mal.
@@ -257,7 +257,7 @@ vocab: 釋放=libérer, délivrer | 饒恕=pardonner | 恨=haïr ; en vouloir à
 = Pasteur Wang : Galates 5:1 dit : « C'est pour la liberté que Christ nous a affranchis. Demeurez donc fermes, et ne vous laissez pas mettre de nouveau sous le joug de la servitude. »
 路加/lu4jia1 閉/bi4 上/shang4 眼睛/yan3jing1 ，慢慢/man4man4 地/de5 禱告/dao3gao4 ：「主/zhu3 啊/a5 ，這/zhe4 對/dui4 我/wo3 很/hen3 難/nan2 ，但是/dan4shi4 我/wo3 願意/yuan4yi4 饒恕/rao2shu4 多馬/duo1ma3 。求/qiu2 祢/ni3 釋放/shi4fang4 我/wo3 。」
 = Luc ferme les yeux et prie lentement : « Seigneur, c'est très difficile pour moi, mais je veux pardonner à Thomas. Délivre-moi. »
-那/na4 天/tian1 晚上/wan3shang4 ，他/ta1 聽/ting1 著/zhe5 《得/de2 釋放/shi4fang4 》，給/gei3 多馬/duo1ma3 傳/chuan2 了/le5 兩/liang3 年/nian2 來/lai2 第一/di4yi1 個/ge4 訊息/xun4xi1 ：「多馬/duo1ma3 ，好久不見/hao3jiu3bu4jian4 ，你/ni3 好/hao3 嗎/ma5 ？」
+那/na4 天/tian1 晚上/wan3shang4 ，他/ta1 聽/ting1 著/zhe5 《得/de2 釋放/shi4fang4 》，給/gei3 多馬/duo1ma3 傳/chuan2 了/le5 兩/liang3 年/nian2 來/lai2 第一/di4yi1 個/ge4 訊息/xun4xi2 ：「多馬/duo1ma3 ，好久不見/hao3jiu3bu4jian4 ，你/ni3 好/hao3 嗎/ma5 ？」
 = Ce soir-là, en écoutant « Être délivré », il envoie à Thomas son premier message en deux ans : « Thomas, ça fait longtemps ! Comment vas-tu ? »
 
 === 139
@@ -268,7 +268,7 @@ tagline: Racheté à grand prix — le trac, un ami qui plaisante et une vérit�
 song: 我是被主重價買回的人
 vocab: 緊張=nerveux, tendu | 犯錯=commettre une erreur | 完美=parfait | 重價=grand prix | 身子=corps | 放棄=abandonner
 ---
-星期六/xing1qi1liu4 晚上/wan3shang4 練習/lian4xi2 結束/jie2shu4 後/hou4 ，阿傑/a1jie2 和/he2 小恩/xiao3en1 帶/dai4 路加/lu4jia1 去/qu4 夜市/ye4shi4 吃/chi1 東西/dong1xi5 。
+星期六/xing1qi2liu4 晚上/wan3shang4 練習/lian4xi2 結束/jie2shu4 後/hou4 ，阿傑/a1jie2 和/he2 小恩/xiao3en1 帶/dai4 路加/lu4jia1 去/qu4 夜市/ye4shi4 吃/chi1 東西/dong1xi5 。
 = Samedi soir, après la répétition, A-Jie et Xiao En emmènent Luc manger au marché de nuit.
 路加/lu4jia1 拿/na2 著/zhe5 一/yi1 塊/kuai4 雞排/ji1pai2 ，卻/que4 一/yi1 口/kou3 也/ye3 沒有/mei2you3 吃/chi1 。
 = Luc tient une escalope de poulet frit, mais n'en mange pas une bouchée.
@@ -315,7 +315,7 @@ vocab: 施洗=baptiser | 奉=au nom de (奉…的名) | 門徒=disciple | 萬民
 = Pasteur Wang : En Matthieu 28:19, Jésus nous a ordonné : « Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint-Esprit. »
 王牧師/wang2mu4shi1 ：現在/xian4zai4 ，我/wo3 奉/feng4 父/fu4 、子/zi3 、聖靈/sheng4ling2 的/de5 名/ming2 給/gei3 你/ni3 施洗/shi1xi3 。阿們/a1men2 ！
 = Pasteur Wang : Maintenant, je te baptise au nom du Père, du Fils et du Saint-Esprit. Amen !
-路加/lu4jia1 被/bei4 浸/jin4 到/dao4 水/shui3 裡/li3 ，又/you4 從/cong2 水/shui3 裡/li3 起來/qi3lai2 。他/ta1 擦/ca1 了/le5 擦/ca1 臉/lian3 ，不/bu4 知道/zhi1dao5 臉上/lian3shang4 是/shi4 水/shui3 還是/hai2shi4 眼淚/yan3lei4 。
+路加/lu4jia1 被/bei4 浸/jin4 到/dao4 水/shui3 裡/li3 ，又/you4 從/cong2 水/shui3 裡/li3 起來/qi3lai2 。他/ta1 擦/ca1 了/le5 擦/ca1 臉/lian3 ，不/bu4 知道/zhi1dao4 臉上/lian3shang4 是/shi4 水/shui3 還是/hai2shi4 眼淚/yan3lei4 。
 = Luc est plongé dans l'eau, puis en ressort. Il s'essuie le visage, sans savoir si c'est de l'eau ou des larmes.
 全/quan2 教會/jiao4hui4 一起/yi1qi3 鼓掌/gu3zhang3 ，敬拜團/jing4bai4tuan2 開始/kai1shi3 唱/chang4 《從/cong2 今天/jin1tian1 起/qi3 》。
 = Toute l'église applaudit, et l'équipe de louange entonne « À partir d'aujourd'hui ».

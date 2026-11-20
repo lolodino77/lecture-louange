@@ -21,7 +21,7 @@ vocab: 你好=bonjour | 學生=étudiant | 朋友=ami(e) | 喜歡=aimer (bien) |
 = Luc : Je suis venu à Taipei pour apprendre le chinois.
 小恩/xiao3en1 ：很/hen3 好/hao3 ！我/wo3 想/xiang3 學/xue2 法文/fa3wen2 。
 = Xiao En : Super ! Et moi, je veux apprendre le français.
-路加/lu4jia1 ：好/hao3 ！我們/wo3men5 做/zuo4 朋友/peng2you3 吧/ba5 ！
+路加/lu4jia1 ：好/hao3 ！我們/wo3men5 做/zuo4 朋友/peng2you5 吧/ba5 ！
 = Luc : Très bien ! Soyons amis !
 小恩/xiao3en1 ：好/hao3 啊/a5 ！
 = Xiao En : Avec plaisir !
@@ -29,11 +29,11 @@ vocab: 你好=bonjour | 學生=étudiant | 朋友=ami(e) | 喜歡=aimer (bien) |
 = Xiao En écoute une chanson.
 路加/lu4jia1 ：這/zhe4 是/shi4 什麼/shen2me5 歌/ge1 ？
 = Luc : C'est quoi, cette chanson ?
-小恩/xiao3en1 ：《最/zui4 好/hao3 的/de5 朋友/peng2you3 》。
+小恩/xiao3en1 ：《最/zui4 好/hao3 的/de5 朋友/peng2you5 》。
 = Xiao En : « Le meilleur ami ».
-小恩/xiao3en1 ：我/wo3 很/hen3 喜歡/xi3huan1 這/zhe4 首/shou3 歌/ge1 。
+小恩/xiao3en1 ：我/wo3 很/hen3 喜歡/xi3huan5 這/zhe4 首/shou3 歌/ge1 。
 = Xiao En : J'aime beaucoup cette chanson.
-路加/lu4jia1 ：我/wo3 也/ye3 喜歡/xi3huan1 ！
+路加/lu4jia1 ：我/wo3 也/ye3 喜歡/xi3huan5 ！
 = Luc : Moi aussi, je l'aime bien !
 
 === 002
@@ -46,9 +46,9 @@ vocab: 唱歌=chanter | 教會=église (communauté, bâtiment) | 禮拜天=dima
 ---
 路加/lu4jia1 和/he2 小恩/xiao3en1 在/zai4 咖啡店/ka1fei1dian4 。
 = Luc et Xiao En sont dans un café.
-路加/lu4jia1 ：小恩/xiao3en1 ，你/ni3 喜歡/xi3huan1 什麼/shen2me5 ？
+路加/lu4jia1 ：小恩/xiao3en1 ，你/ni3 喜歡/xi3huan5 什麼/shen2me5 ？
 = Luc : Xiao En, qu'est-ce que tu aimes ?
-小恩/xiao3en1 ：我/wo3 喜歡/xi3huan1 唱歌/chang4ge1 ！
+小恩/xiao3en1 ：我/wo3 喜歡/xi3huan5 唱歌/chang4ge1 ！
 = Xiao En : J'aime chanter !
 路加/lu4jia1 ：你/ni3 在/zai4 哪裡/na3li3 唱歌/chang4ge1 ？
 = Luc : Où est-ce que tu chantes ?
@@ -58,9 +58,9 @@ vocab: 唱歌=chanter | 教會=église (communauté, bâtiment) | 禮拜天=dima
 = Luc : À l'église ?
 小恩/xiao3en1 ：對/dui4 。禮拜天/li3bai4tian1 ，我/wo3 去/qu4 教會/jiao4hui4 。
 = Xiao En : Oui. Le dimanche, je vais à l'église.
-小恩/xiao3en1 ：你/ni3 喜歡/xi3huan1 唱歌/chang4ge1 嗎/ma5 ？
+小恩/xiao3en1 ：你/ni3 喜歡/xi3huan5 唱歌/chang4ge1 嗎/ma5 ？
 = Xiao En : Et toi, tu aimes chanter ?
-路加/lu4jia1 ：喜歡/xi3huan1 ！可是/ke3shi4 我/wo3 不/bu4 會/hui4 唱/chang4 中文/zhong1wen2 歌/ge1 。
+路加/lu4jia1 ：喜歡/xi3huan5 ！可是/ke3shi4 我/wo3 不/bu4 會/hui4 唱/chang4 中文/zhong1wen2 歌/ge1 。
 = Luc : Oui ! Mais je ne sais pas chanter en chinois.
 小恩/xiao3en1 ：沒關係/mei2guan1xi5 ！我/wo3 教/jiao1 你/ni3 。
 = Xiao En : Pas grave ! Je vais t'apprendre.
@@ -101,7 +101,7 @@ vocab: 神=Dieu | 上帝=Dieu (autre nom courant) | 愛=aimer ; amour | 世人=l
 = Xiao En : Ce sont les gens du monde entier.
 小恩/xiao3en1 ：神/shen2 愛/ai4 世人/shi4ren2 ，也/ye3 愛/ai4 你/ni3 。
 = Xiao En : Dieu aime les hommes, et il t'aime toi aussi.
-路加/lu4jia1 ：愛/ai4 我/wo3 ？神/shen2 認識/ren4shi5 我/wo3 嗎/ma5 ？
+路加/lu4jia1 ：愛/ai4 我/wo3 ？神/shen2 認識/ren4shi4 我/wo3 嗎/ma5 ？
 = Luc : M'aimer, moi ? Dieu me connaît ?
 小恩/xiao3en1 笑/xiao4 ：「當然/dang1ran2 ！」
 = Xiao En sourit : « Bien sûr ! »
@@ -194,7 +194,7 @@ vocab: 媽媽=maman | 電話=téléphone | 家=maison ; famille ; foyer | 孤單
 = Maman : Tout seul là-bas, la maison ne te manque pas ?
 路加/lu4jia1 ：有/you3 一點/yi1dian3 想/xiang3 家/jia1 。
 = Luc : Un peu.
-路加/lu4jia1 ：可是/ke3shi4 我/wo3 有/you3 朋友/peng2you3 。她/ta1 叫/jiao4 小恩/xiao3en1 。
+路加/lu4jia1 ：可是/ke3shi4 我/wo3 有/you3 朋友/peng2you5 。她/ta1 叫/jiao4 小恩/xiao3en1 。
 = Luc : Mais j'ai une amie. Elle s'appelle Xiao En.
 媽媽/ma1ma5 ：真/zhen1 好/hao3 ！
 = Maman : Ça me fait plaisir !
@@ -262,7 +262,7 @@ vocab: 讚美=louer ; louange | 鋼琴=piano | 天天=chaque jour | 大家=tout 
 = Tous chantent ensemble « Louer chaque jour ».
 路加/lu4jia1 看/kan4 大/da4 螢幕/ying2mu4 上/shang4 的/de5 字/zi4 。
 = Luc regarde les mots sur le grand écran.
-他/ta1 認識/ren4shi5 「天/tian1 」，也/ye3 認識/ren4shi5 「美/mei3 」。
+他/ta1 認識/ren4shi4 「天/tian1 」，也/ye3 認識/ren4shi4 「美/mei3 」。
 = Il connaît « 天 » (ciel, jour) et aussi « 美 » (beau).
 路加/lu4jia1 小/xiao3 聲/sheng1 問/wen4 ：「讚美/zan4mei3 是/shi4 什麼/shen2me5 ？」
 = Luc demande tout bas : « Que veut dire 讚美 ? »
@@ -309,7 +309,7 @@ vocab: 禱告=prier ; prière | 天父=Père céleste | 祢=Tu, Toi (adressé à
 = Luc : Et « amen » ?
 小恩/xiao3en1 ：「阿們/a1men2 」就/jiu4 是/shi4 「對/dui4 ，我/wo3 同意/tong2yi4 ！」
 = Xiao En : « Amen », ça veut dire « Oui, je suis d'accord ! »
-路加/lu4jia1 ：阿們/a1men2 ！我/wo3 喜歡/xi3huan1 這/zhe4 個/ge4 字/zi4 。
+路加/lu4jia1 ：阿們/a1men2 ！我/wo3 喜歡/xi3huan5 這/zhe4 個/ge4 字/zi4 。
 = Luc : Amen ! J'aime bien ce mot.
 
 === 010

@@ -11,7 +11,10 @@ Chaque conversation s'inspire du titre d'un chant de
 - Touchez un mot : pinyin, définition française, traduction de la phrase, prononciation
   (voix chinoise du système).
 - Sous chaque texte : le chant associé (lien YouTube) et les mots clés.
-- Pages : accueil par niveau et par série, une page par niveau, vocabulaire (filtrable), chants.
+- Pages : accueil par niveau et par série, une page par niveau, vocabulaire (filtrable), chants, grammaire
+  (points de grammaire par niveau, avec des exemples tirés des conversations), cartes de révision
+  (boîtes de Leitner), recherche, « Reprendre » et suivi des conversations lues.
+- Export **Anki** : un fichier par niveau et un fichier global dans `site/anki/`.
 
 **Avancement** : voir [docs/ETAT_DES_LIEUX.md](docs/ETAT_DES_LIEUX.md) (fait / en cours / reste à faire),
 tableau mis à jour par `npm run etat`.
@@ -31,19 +34,25 @@ puis aller sur http://localhost:8123/.
 | Fichier | Rôle |
 |---|---|
 | `content/*.txt` | les conversations (format décrit dans `docs/GUIDE_REDACTION.md`) |
-| `data/glossaire.tsv` | dictionnaire français des mots (mot, pinyin numérique, définition) |
+| `data/glossaire.tsv` | dictionnaire français des mots (mot, pinyin numérique, définition, séparés par des tabulations) ; les mots clés `vocab:` de chaque conversation ont priorité |
+| `data/mots_sans_definition.tsv` | mots encore sans définition (généré par `npm run build`) |
 | `docs/chants_streamofpraise.txt` | titres de chants relevés sur la chaîne YouTube |
 | `src/assets/` | feuille de style et scripts du lecteur |
 | `scripts/` | validation, extraction des mots, génération du site |
 
 ```powershell
 npm install
-npm run validate
-npm run build
+npm run validate           # format, pinyin, caractères simplifiés, longueurs, mots clés
+npm run build              # génère site/ (pages, Anki, grammaire, cartes de révision)
+npm run etat               # met à jour le tableau d'avancement de docs/ETAT_DES_LIEUX.md
+npm run mots               # extrait les mots à définir (data/a_definir/) pour compléter le glossaire
+npm run pinyin:variantes   # liste les mots écrits avec plusieurs pinyin
+npm run pinyin:harmoniser  # remet tout le corpus sur la norme de pinyin de Taïwan
 ```
 
 `npm run validate` vérifie le format, le pinyin (contre le dictionnaire de `pinyin-pro`),
-l'absence de caractères simplifiés (OpenCC) et la longueur de chaque conversation selon son niveau.
+l'absence de caractères simplifiés (OpenCC), la présence des mots clés dans le texte et la longueur de chaque
+conversation selon son niveau. Le pinyin suit la **norme de Taïwan** (voir `docs/GUIDE_REDACTION.md`).
 
 ## Droits
 

@@ -15,7 +15,7 @@
 台詞	tái cí	ㄊㄞˊ ㄘˊ	réplique	小光：天使只有一句台詞，太少了！	Xiao Guang : L'ange n'a qu'une seule réplique, c'est trop peu !	n° 064
 福音	fú yīn	ㄈㄨˊ ㄧㄣ	Évangile ; bonne nouvelle	小恩：比雞排好多了！神送給我們耶穌，這就是「福音」。	Xiao En : Bien mieux ! Dieu nous a donné Jésus : c'est ça, « l'Évangile ».	n° 065
 接受	jiē shòu	ㄐㄧㄝ ㄕㄡˋ	accepter, recevoir	小恩：對！可是禮物要打開，要接受，才是你的。	Xiao En : Oui ! Mais un cadeau, il faut l'ouvrir, l'accepter ; alors seulement il est à toi.	n° 065
-消息	xiāo xi	ㄒㄧㄠ ˙ㄒㄧ	nouvelle, information	路加：福音……是「好消息」的意思嗎？	Luc : L'Évangile… ça veut dire « bonne nouvelle » ?	n° 065
+消息	xiāo xí	ㄒㄧㄠ ㄒㄧˊ	nouvelle, information	路加：福音……是「好消息」的意思嗎？	Luc : L'Évangile… ça veut dire « bonne nouvelle » ?	n° 065
 比	bǐ	ㄅㄧˇ	plus que (comparaison)	路加：是什麼？比雞排好嗎？	Luc : C'est quoi ? C'est mieux qu'un poulet frit ?	n° 065
 世界	shì jiè	ㄕˋ ㄐㄧㄝˋ	monde	路加：耶穌說：「我是世界的光。」（約翰福音8:12）	Luc : Jésus a dit : « Je suis la lumière du monde. » (Jean 8:12)	n° 066
 光	guāng	ㄍㄨㄤ	lumière	路加：耶穌說：「我是世界的光。」（約翰福音8:12）	Luc : Jésus a dit : « Je suis la lumière du monde. » (Jean 8:12)	n° 066
@@ -24,7 +24,7 @@
 以前	yǐ qián	ㄧˇ ㄑㄧㄢˊ	avant, autrefois	路加：以前我也這樣想。可是在教會，我聽到了不一樣的故事。	Luc : Avant, je pensais pareil. Mais à l'église, j'ai entendu une autre histoire.	n° 066
 報佳音	bào jiā yīn	ㄅㄠˋ ㄐㄧㄚ ㄧㄣ	aller chanter Noël (annoncer la bonne nouvelle)	十二月二十四日晚上，教會的年輕人要去報佳音。	Le soir du 24 décembre, les jeunes de l'église partent chanter Noël dans la ville.	n° 067
 佳音	jiā yīn	ㄐㄧㄚ ㄧㄣ	bonne nouvelle	阿傑：「佳音」就是好消息。我們去街上、去朋友家唱歌，告訴大家耶穌降生了！	A-Jie : « Jiayin », c'est une bonne nouvelle. On va chanter dans la rue et chez des amis pour annoncer à tout le monde que Jésus est né !	n° 067
-信息	xìn xī	ㄒㄧㄣˋ ㄒㄧ	message, nouvelle	美玲：天使對牧羊人說：「我報給你們大喜的信息。」（路加福音2:10）我們也一樣。	Meiling : L'ange a dit aux bergers : « Je vous annonce une bonne nouvelle, qui sera le sujet d'une grande joie. » (Luc 2:10) Nous faisons pareil.	n° 067
+信息	xìn xí	ㄒㄧㄣˋ ㄒㄧˊ	message, nouvelle	美玲：天使對牧羊人說：「我報給你們大喜的信息。」（路加福音2:10）我們也一樣。	Meiling : L'ange a dit aux bergers : « Je vous annonce une bonne nouvelle, qui sera le sujet d'une grande joie. » (Luc 2:10) Nous faisons pareil.	n° 067
 燈籠	dēng lóng	ㄉㄥ ㄌㄨㄥˊ	lanterne	阿傑拿著吉他，小恩拿著歌本，路加拿著一個紅色的燈籠。	A-Jie porte sa guitare, Xiao En le carnet de chants, et Luc une lanterne rouge.	n° 067
 牧羊人	mù yáng rén	ㄇㄨˋ ㄧㄤˊ ㄖㄣˊ	berger	美玲：天使對牧羊人說：「我報給你們大喜的信息。」（路加福音2:10）我們也一樣。	Meiling : L'ange a dit aux bergers : « Je vous annonce une bonne nouvelle, qui sera le sujet d'une grande joie. » (Luc 2:10) Nous faisons pareil.	n° 067
 盼望	pàn wàng	ㄆㄢˋ ㄨㄤˋ	espérance ; espérer	王牧師：神記得你。祂來到世界上，就是要給我們盼望。	Le pasteur Wang : Dieu se souvient de vous. Il est venu dans le monde justement pour nous donner l'espérance.	n° 068
@@ -33,8 +33,6 @@
 難過	nán guò	ㄋㄢˊ ㄍㄨㄛˋ	triste	三樓有一位老先生，一個人坐在床上，看起來很難過。	Au troisième étage, un vieux monsieur est assis seul sur son lit ; il a l'air très triste.	n° 068
 信心	xìn xīn	ㄒㄧㄣˋ ㄒㄧㄣ	foi, confiance	陳奶奶：一開始只有一點點信心，像一粒小種子。可是神一直照顧我，信心就慢慢長大了。	Mamie Chen : Au début, je n'avais qu'un tout petit peu de foi, comme une petite graine. Mais Dieu a toujours pris soin de moi, et ma foi a grandi peu à peu.	n° 069
 種子	zhǒng zi	ㄓㄨㄥˇ ˙ㄗ	graine, semence	陳奶奶：一開始只有一點點信心，像一粒小種子。可是神一直照顧我，信心就慢慢長大了。	Mamie Chen : Au début, je n'avais qu'un tout petit peu de foi, comme une petite graine. Mais Dieu a toujours pris soin de moi, et ma foi a grandi peu à peu.	n° 069
-雞湯	jī tāng	ㄐㄧ ㄊㄤ	bouillon de poulet	陳奶奶：快進來！外面冷，先喝一碗雞湯！	Mamie Chen : Entrez vite ! Il fait froid dehors, buvez d'abord un bol de bouillon !	n° 069
-長大	zhǎng dà	ㄓㄤˇ ㄉㄚˋ	grandir	陳奶奶：一開始只有一點點信心，像一粒小種子。可是神一直照顧我，信心就慢慢長大了。	Mamie Chen : Au début, je n'avais qu'un tout petit peu de foi, comme une petite graine. Mais Dieu a toujours pris soin de moi, et ma foi a grandi peu à peu.	n° 069
 救主	jiù zhǔ	ㄐㄧㄡˋ ㄓㄨˇ	Sauveur	王牧師：今天我們慶祝耶穌的降生。祂是我們的救主。	Le pasteur Wang : Aujourd'hui, nous célébrons la naissance de Jésus. Il est notre Sauveur.	n° 070
 喜悅	xǐ yuè	ㄒㄧˇ ㄩㄝˋ	prendre plaisir à, agréer	王牧師：天使說：「在至高之處榮耀歸與神！在地上平安歸與他所喜悅的人！」（路加福音2:14）	Le pasteur Wang : Les anges ont dit : « Gloire à Dieu dans les lieux très hauts, et paix sur la terre parmi les hommes qu'il agrée ! » (Luc 2:14)	n° 070
 崇拜	chóng bài	ㄔㄨㄥˊ ㄅㄞˋ	culte	崇拜以後，王師母給每個人一杯熱可可。	Après le culte, Mme Wang offre à chacun une tasse de chocolat chaud.	n° 070
@@ -47,12 +45,11 @@
 遊戲	yóu xì	ㄧㄡˊ ㄒㄧˋ	jeu	小恩：我們來玩一個遊戲：每個人說三件今年感恩的事！	Xiao En : On fait un jeu : chacun dit trois choses de cette année pour lesquelles il est reconnaissant !	n° 072
 件	jiàn	ㄐㄧㄢˋ	classificateur (choses, événements)	小恩：我們來玩一個遊戲：每個人說三件今年感恩的事！	Xiao En : On fait un jeu : chacun dit trois choses de cette année pour lesquelles il est reconnaissant !	n° 072
 信實	xìn shí	ㄒㄧㄣˋ ㄕˊ	fidèle (fidélité de Dieu)	小恩馬上打電話來：「這裡的『誠實』，就是『信實』。」	Xiao En l'appelle aussitôt : « Ici, "chengshi" veut dire "fidélité". »	n° 073
-訊息	xùn xī	ㄒㄩㄣˋ ㄒㄧ	message (texto)	一月一日，路加十點才起床。手機裡有小恩的訊息。	Le 1er janvier, Luc ne se lève qu'à dix heures. Il a un message de Xiao En sur son téléphone.	n° 073
+訊息	xùn xí	ㄒㄩㄣˋ ㄒㄧˊ	message (texto)	一月一日，路加十點才起床。手機裡有小恩的訊息。	Le 1er janvier, Luc ne se lève qu'à dix heures. Il a un message de Xiao En sur son téléphone.	n° 073
 經文	jīng wén	ㄐㄧㄥ ㄨㄣˊ	verset, passage biblique	「新年快樂！送你一節經文：『每早晨，這些都是新的；你的誠實極其廣大！』（耶利米哀歌3:23）」	« Bonne année ! Je t'offre un verset : "Elles se renouvellent chaque matin. Oh ! que ta fidélité est grande !" (Lamentations 3:23) »	n° 073
 早晨	zǎo chén	ㄗㄠˇ ㄔㄣˊ	matin	「新年快樂！送你一節經文：『每早晨，這些都是新的；你的誠實極其廣大！』（耶利米哀歌3:23）」	« Bonne année ! Je t'offre un verset : "Elles se renouvellent chaque matin. Oh ! que ta fidélité est grande !" (Lamentations 3:23) »	n° 073
 起床	qǐ chuáng	ㄑㄧˇ ㄔㄨㄤˊ	se lever	一月一日，路加十點才起床。手機裡有小恩的訊息。	Le 1er janvier, Luc ne se lève qu'à dix heures. Il a un message de Xiao En sur son téléphone.	n° 073
 讀經	dú jīng	ㄉㄨˊ ㄐㄧㄥ	lire la Bible	小恩：我的願望是每天讀經，從創世記讀到啟示錄。	Xiao En : Ma résolution, c'est de lire la Bible chaque jour, de la Genèse à l'Apocalypse.	n° 074
-願望	yuàn wàng	ㄩㄢˋ ㄨㄤˋ	vœu, souhait	阿傑：我今年的願望是：每天運動，瘦五公斤！	A-Jie : Ma résolution cette année : faire du sport tous les jours et perdre cinq kilos !	n° 074
 運動	yùn dòng	ㄩㄣˋ ㄉㄨㄥˋ	faire du sport	阿傑：我今年的願望是：每天運動，瘦五公斤！	A-Jie : Ma résolution cette année : faire du sport tous les jours et perdre cinq kilos !	n° 074
 厚	hòu	ㄏㄡˋ	épais	路加：可是聖經太厚了，我要從哪裡開始呢？	Luc : Mais la Bible est tellement épaisse… Par où je commence ?	n° 074
 開始	kāi shǐ	ㄎㄞ ㄕˇ	commencer	阿傑：哇！路加要開始讀經了！	A-Jie : Waouh ! Luc va se mettre à lire la Bible !	n° 074
@@ -62,7 +59,6 @@
 腳	jiǎo	ㄐㄧㄠˇ	pied	張長老：所以要慢慢讀。詩篇說：「你的話是我腳前的燈，是我路上的光。」（詩篇119:105）	L'ancien Zhang : Alors lis lentement. Le psaume dit : « Ta parole est une lampe à mes pieds, et une lumière sur mon sentier. » (Psaume 119:105)	n° 075
 認真	rèn zhēn	ㄖㄣˋ ㄓㄣ	sérieux, appliqué	那天晚上，路加讀了約翰福音第一章。他讀得很慢，可是很認真。	Ce soir-là, Luc lit le premier chapitre de Jean. Il lit très lentement, mais avec beaucoup d'application.	n° 075
 靈修	líng xiū	ㄌㄧㄥˊ ㄒㄧㄡ	temps de méditation (prière et lecture)	小恩：靈修。就是安靜地讀經、禱告，和神在一起。	Xiao En : Ma méditation. Je lis la Bible et je prie dans le calme, pour être avec Dieu.	n° 076
-安靜	ān jìng	ㄢ ㄐㄧㄥˋ	calme, silencieux	小恩：靈修。就是安靜地讀經、禱告，和神在一起。	Xiao En : Ma méditation. Je lis la Bible et je prie dans le calme, pour être avec Dieu.	n° 076
 等候	děng hòu	ㄉㄥˇ ㄏㄡˋ	attendre (avec patience)	小恩：你可以先聽《安靜等候祢》，心就會安靜下來。	Xiao En : Tu peux d'abord écouter « Attendre en silence devant toi » ; ton cœur se calmera.	n° 076
 鬧鐘	nào zhōng	ㄋㄠˋ ㄓㄨㄥ	réveil	第二天，路加的鬧鐘六點響了。他坐起來，打開了聖經。	Le lendemain, le réveil de Luc sonne à six heures. Il s'assied et ouvre sa Bible.	n° 076
 睡著	shuì zháo	ㄕㄨㄟˋ ㄓㄠˊ	s'endormir	他等著，等著……就睡著了。	Il attend, il attend… et il s'endort.	n° 076
@@ -106,9 +102,7 @@
 結婚	jié hūn	ㄐㄧㄝˊ ㄏㄨㄣ	se marier	陳媽媽：還沒結婚，就還是孩子！	Maman Chen : Tant qu'on n'est pas marié, on reste un enfant !	n° 085
 健康	jiàn kāng	ㄐㄧㄢˋ ㄎㄤ	santé ; en bonne santé	小恩：你要說「新年快樂，身體健康」！	Xiao En : Tu dois dire « Bonne année, bonne santé » !	n° 085
 賜福	cì fú	ㄘˋ ㄈㄨˊ	accorder sa bénédiction	敬拜一開始，大家一起唱《神要賜福與我們》。	Dès le début du culte, tout le monde chante « Dieu va nous bénir ».	n° 086
-講道	jiǎng dào	ㄐㄧㄤˇ ㄉㄠˋ	prêcher ; sermon	王牧師講道：「過年的時候，大家都說『恭喜發財』。」	Le pasteur Wang prêche : « Au Nouvel An, tout le monde se souhaite "Bonne fortune". »	n° 086
 喜氣	xǐ qì	ㄒㄧˇ ㄑㄧˋ	air de fête	阿傑：牧師，你今天好喜氣！	A-Jie : Pasteur, vous avez un air de fête aujourd'hui !	n° 086
-卡片	kǎ piàn	ㄎㄚˇ ㄆㄧㄢˋ	carte	路加打開一看，裡面不是錢，是一張卡片，上面有一節經文。	Luc l'ouvre : dedans, pas d'argent, mais une carte avec un verset.	n° 086
 冠冕	guān miǎn	ㄍㄨㄢ ㄇㄧㄢˇ	couronne	路加卡片上的經文是：「你以恩典為年歲的冠冕。」（詩篇65:11）	Le verset sur la carte de Luc est : « Tu couronnes l'année de tes biens. » (Psaume 65)	n° 087
 年歲	nián suì	ㄋㄧㄢˊ ㄙㄨㄟˋ	les années	路加卡片上的經文是：「你以恩典為年歲的冠冕。」（詩篇65:11）	Le verset sur la carte de Luc est : « Tu couronnes l'année de tes biens. » (Psaume 65)	n° 087
 戴	dài	ㄉㄞˋ	porter (sur la tête)	張長老：冠冕就是王戴在頭上的東西。	L'ancien Zhang : C'est ce que le roi porte sur la tête, une couronne.	n° 087
@@ -117,7 +111,6 @@
 祖先	zǔ xiān	ㄗㄨˇ ㄒㄧㄢ	ancêtres	客廳裡有一個神桌，大衛的爸爸正在拜祖先。	Dans le salon, il y a un autel, et le père de David est en train d'honorer les ancêtres.	n° 088
 尊敬	zūn jìng	ㄗㄨㄣ ㄐㄧㄥˋ	respecter	路加：我還不是基督徒。可是小恩說，基督徒不拜祖先，可是很尊敬祖先，也很孝順。	Luc : Je ne suis pas encore chrétien. Mais Xiao En dit que les chrétiens n'adorent pas les ancêtres, tout en les respectant beaucoup et en honorant leurs parents.	n° 088
 孝順	xiào shùn	ㄒㄧㄠˋ ㄕㄨㄣˋ	piété filiale ; être dévoué à ses parents	路加：我還不是基督徒。可是小恩說，基督徒不拜祖先，可是很尊敬祖先，也很孝順。	Luc : Je ne suis pas encore chrétien. Mais Xiao En dit que les chrétiens n'adorent pas les ancêtres, tout en les respectant beaucoup et en honorant leurs parents.	n° 088
-擔心	dān xīn	ㄉㄢ ㄒㄧㄣ	s'inquiéter	大衛：我奶奶很擔心這個。她怕信耶穌的人就不要家人了。	David : Ma grand-mère s'inquiète de ça. Elle a peur que ceux qui croient en Jésus abandonnent leur famille.	n° 088
 福分	fú fèn	ㄈㄨˊ ㄈㄣˋ	bonheur, part de bénédiction	陳奶奶：我年輕的時候什麼都沒有，可是我認識了神，這是我最大的福分。	Mamie Chen : Quand j'étais jeune, je n'avais rien, mais j'ai connu Dieu : c'est mon plus grand bonheur.	n° 089
 福氣	fú qì	ㄈㄨˊ ㄑㄧˋ	chance, bonheur	路加：奶奶，過年大家都說「福」。什麼才是真正的福氣呢？	Luc : Mamie, au Nouvel An, tout le monde parle de « bonheur ». Mais c'est quoi, la vraie chance ?	n° 089
 永遠	yǒng yuǎn	ㄩㄥˇ ㄩㄢˇ	pour toujours, éternellement	陳奶奶：錢會用完，房子會舊，人會老。可是神的愛永遠不會改變。	Mamie Chen : L'argent s'épuise, les maisons vieillissent, les gens aussi. Mais l'amour de Dieu ne changera jamais.	n° 089
@@ -128,3 +121,105 @@
 創造	chuàng zào	ㄔㄨㄤˋ ㄗㄠˋ	créer ; création	路加：所以耶穌也參加了創造？	Luc : Donc Jésus a aussi participé à la création ?	n° 090
 萬物	wàn wù	ㄨㄢˋ ㄨˋ	toutes choses	張長老：對。第三節說：「萬物是藉著他造的。」	L'ancien Zhang : Oui. Le verset 3 dit : « Toutes choses ont été faites par elle. »	n° 090
 肉身	ròu shēn	ㄖㄡˋ ㄕㄣ	chair, corps humain	張長老：第十四節說：「道成了肉身，住在我們中間。」	L'ancien Zhang : Le verset 14 dit : « La Parole a été faite chair, et elle a habité parmi nous. »	n° 090
+來看	lái kàn	ㄌㄞˊ ㄎㄢˋ	venir voir	張長老笑了：腓力沒有吵架，他只是說：「你來看！」（約翰福音1:46）	L'ancien Zhang sourit : Philippe ne s'est pas disputé avec lui, il a simplement dit : « Viens et vois ! » (Jean 1:46)	n° 091
+門徒	mén tú	ㄇㄣˊ ㄊㄨˊ	disciple	張長老：耶穌開始找門徒。腓力找到了他的朋友拿但業。	L'ancien Zhang : Jésus commence à chercher des disciples. Philippe trouve son ami Nathanaël.	n° 091
+無花果樹	wú huā guǒ shù	ㄨˊ ㄏㄨㄚ ㄍㄨㄛˇ ㄕㄨˋ	figuier	張長老：後來耶穌對拿但業說：「你在無花果樹底下，我就看見你了。」	L'ancien Zhang : Plus tard, Jésus a dit à Nathanaël : « Quand tu étais sous le figuier, je te voyais déjà. »	n° 091
+邀請	yāo qǐng	ㄧㄠ ㄑㄧㄥˇ	inviter ; invitation	路加：我也是被這樣邀請來教會的。小恩沒有說很多，只是說：「來看看吧。」	Luc : Moi aussi, c'est comme ça qu'on m'a invité à l'église. Xiao En n'a pas dit grand-chose, elle a simplement dit : « Viens voir. »	n° 091
+婚禮	hūn lǐ	ㄏㄨㄣ ㄌㄧˇ	mariage (cérémonie)	星期六，教會有一場婚禮，路加和小恩一起去幫忙。	Samedi, l'église célèbre un mariage, et Luc et Xiao En vont ensemble donner un coup de main.	n° 092
+酒	jiǔ	ㄐㄧㄡˇ	vin ; alcool	小恩：這讓我想起約翰福音第二章：迦拿的婚宴，酒不夠了。	Xiao En : Ça me rappelle le deuxième chapitre de Jean : aux noces de Cana, il n'y avait plus assez de vin.	n° 092
+吩咐	fēn fù	ㄈㄣ ㄈㄨˋ	ordonner, dire de faire	小恩：對。耶穌吩咐他們把水缸裝滿水，水就變成了好酒。	Xiao En : Oui. Jésus leur a dit de remplir d'eau les jarres, et l'eau est devenue un très bon vin.	n° 092
+神蹟	shén jī	ㄕㄣˊ ㄐㄧ	signe, miracle	路加：這是耶穌的第一個神蹟嗎？	Luc : C'est le premier miracle de Jésus ?	n° 092
+用人	yòng rén	ㄩㄥˋ ㄖㄣˊ	serviteur	小恩：耶穌的媽媽對用人說：「他告訴你們什麼，你們就做什麼。」（約翰福音2:5）	Xiao En : La mère de Jésus a dit aux serviteurs : « Faites ce qu'il vous dira. » (Jean 2:5)	n° 092
+井	jǐng	ㄐㄧㄥˇ	puits	張長老：耶穌走累了，坐在井旁邊。中午，有一個女人來打水。	L'ancien Zhang : Jésus, fatigué de marcher, s'assoit près d'un puits. À midi, une femme vient puiser de l'eau.	n° 093
+渴	kě	ㄎㄜˇ	avoir soif	張長老：你讀得很仔細。耶穌說：「人若喝我所賜的水，就永遠不渴。」（約翰福音4:14）	L'ancien Zhang : Tu lis avec beaucoup d'attention. Jésus dit : « Celui qui boira de l'eau que je lui donnerai n'aura jamais soif. » (Jean 4:14)	n° 093
+水	shuǐ	ㄕㄨㄟˇ	eau	張長老：耶穌對她說：「請你給我水喝。」	L'ancien Zhang : Jésus lui dit : « Donne-moi à boire. »	n° 093
+告訴	gào sù	ㄍㄠˋ ㄙㄨˋ	dire à	路加：可是為什麼她後來跑回城裡，告訴大家？	Luc : Mais pourquoi est-elle ensuite retournée en courant à la ville pour le dire à tout le monde ?	n° 093
+餅	bǐng	ㄅㄧㄥˇ	pain, galette	小光：可是張爺爺說，有一個孩子，把他的五個餅和兩條魚給了耶穌。	Xiao Guang : Mais papy Zhang a dit qu'un enfant avait donné à Jésus ses cinq pains et ses deux poissons.	n° 094
+罪	zuì	ㄗㄨㄟˋ	péché	晚上，張長老和他讀約翰福音第八章：有人把一個犯了罪的女人帶到耶穌面前。	Le soir, l'ancien Zhang lit avec lui le huitième chapitre de Jean : on amène à Jésus une femme qui a commis une faute.	n° 095
+石頭	shí tou	ㄕˊ ˙ㄊㄡ	pierre	路加：他們想用石頭打她，對嗎？	Luc : Ils voulaient la lapider, n'est-ce pas ?	n° 095
+批評	pī píng	ㄆㄧ ㄆㄧㄥˊ	critiquer	路加不好意思地說：我今天早上也在心裡批評別人。	Luc dit, un peu gêné : Ce matin, moi aussi, j'ai critiqué quelqu'un dans mon cœur.	n° 095
+原諒	yuán liàng	ㄩㄢˊ ㄌㄧㄤˋ	pardonner	張長老：我們每個人都有罪，所以我們都需要被原諒。	L'ancien Zhang : Chacun de nous a des fautes, c'est pourquoi nous avons tous besoin d'être pardonnés.	n° 095
+先	xiān	ㄒㄧㄢ	d'abord	張長老：對。耶穌蹲下來，用手指在地上寫字，然後說：「你們中間誰是沒有罪的，誰就可以先拿石頭打她。」（約翰福音8:7）	L'ancien Zhang : Oui. Jésus s'accroupit, écrit avec son doigt sur le sol, puis dit : « Que celui de vous qui est sans péché jette le premier la pierre contre elle. » (Jean 8:7)	n° 095
+瞎眼	xiā yǎn	ㄒㄧㄚ ㄧㄢˇ	aveugle	晚上，張長老說起那個生來瞎眼的人：耶穌讓他看見了，可是有人不相信，一直問他：這怎麼可能？	Le soir, l'ancien Zhang parle de cet homme aveugle de naissance : Jésus lui a rendu la vue, mais certains ne croyaient pas et lui demandaient sans cesse : comment est-ce possible ?	n° 096
+模糊	mó hu	ㄇㄛˊ ˙ㄏㄨ	flou	沒有眼鏡，他看什麼都很模糊，連公車的號碼也看不清楚。	Sans lunettes, tout lui paraît flou ; il n'arrive même pas à lire le numéro du bus.	n° 096
+看見	kàn jiàn	ㄎㄢˋ ㄐㄧㄢˋ	voir ; apercevoir	晚上，張長老說起那個生來瞎眼的人：耶穌讓他看見了，可是有人不相信，一直問他：這怎麼可能？	Le soir, l'ancien Zhang parle de cet homme aveugle de naissance : Jésus lui a rendu la vue, mais certains ne croyaient pas et lui demandaient sans cesse : comment est-ce possible ?	n° 096
+如今	rú jīn	ㄖㄨˊ ㄐㄧㄣ	maintenant, à présent	張長老：他說：「有一件事我知道，從前我是瞎子，如今能看見了。」（約翰福音9:25）	L'ancien Zhang : Il a dit : « Une chose, je sais : j'étais aveugle, et maintenant je vois. » (Jean 9:25)	n° 096
+一件事	yī jiàn shì	ㄧ ㄐㄧㄢˋ ㄕˋ	une chose	張長老：他說：「有一件事我知道，從前我是瞎子，如今能看見了。」（約翰福音9:25）	L'ancien Zhang : Il a dit : « Une chose, je sais : j'étais aveugle, et maintenant je vois. » (Jean 9:25)	n° 096
+認得	rèn de	ㄖㄣˋ ˙ㄉㄜ	reconnaître	陳奶奶笑著說：因為你認得我啊。	Mamie Chen dit en souriant : Parce que tu me reconnais.	n° 097
+哭	kū	ㄎㄨ	pleurer	路加：今天是我外公去世兩年的日子。我想起在法國的葬禮，大家都哭了，可是我一滴眼淚也沒有。	Luc : Aujourd'hui, cela fait deux ans que mon grand-père est mort. Je repense aux obsèques en France ; tout le monde pleurait, mais moi, je n'ai pas versé une seule larme.	n° 098
+死	sǐ	ㄙˇ	mourir ; mort	張長老：耶穌的朋友拉撒路死了。耶穌來到墳墓前面，看到大家都在哭。	L'ancien Zhang : Lazare, l'ami de Jésus, est mort. Jésus arrive devant le tombeau et voit tout le monde en larmes.	n° 098
+復活	fù huó	ㄈㄨˋ ㄏㄨㄛˊ	ressusciter ; résurrection	路加愣住了：祂明明知道自己要讓拉撒路復活，為什麼還要哭？	Luc reste stupéfait : Il savait très bien qu'Il allait ressusciter Lazare, alors pourquoi pleurer ?	n° 098
+外公	wài gōng	ㄨㄞˋ ㄍㄨㄥ	grand-père maternel	路加：今天是我外公去世兩年的日子。我想起在法國的葬禮，大家都哭了，可是我一滴眼淚也沒有。	Luc : Aujourd'hui, cela fait deux ans que mon grand-père est mort. Je repense aux obsèques en France ; tout le monde pleurait, mais moi, je n'ai pas versé une seule larme.	n° 098
+傷心	shāng xīn	ㄕㄤ ㄒㄧㄣ	être triste	張長老：因為祂跟我們一起傷心。神不是站得很遠，看著我們哭的神。	L'ancien Zhang : Parce qu'Il est triste avec nous. Dieu n'est pas un Dieu qui reste à distance en nous regardant pleurer.	n° 098
+結束	jié shù	ㄐㄧㄝˊ ㄕㄨˋ	finir ; fin	大衛：我常常想，人死了以後，是不是一切都結束了？	David : Je me demande souvent si, après la mort, tout est fini.	n° 099
+一切	yī qiè	ㄧ ㄑㄧㄝˋ	tout	大衛：我常常想，人死了以後，是不是一切都結束了？	David : Je me demande souvent si, après la mort, tout est fini.	n° 099
+時間	shí jiān	ㄕˊ ㄐㄧㄢ	temps	大衛：好，那我們繼續找。我還需要時間。	David : D'accord, alors continuons à chercher. Il me faut encore du temps.	n° 099
+清明節	qīng míng jié	ㄑㄧㄥ ㄇㄧㄥˊ ㄐㄧㄝˊ	fête de Qingming (balai des tombes)	清明節，陳家的人要去山上看小恩的爺爺，陳奶奶請路加一起來。	Pour la fête de Qingming, la famille Chen monte sur la colline voir le grand-père de Xiao En, et Mamie Chen invite Luc à venir avec eux.	n° 100
+墳墓	fén mù	ㄈㄣˊ ㄇㄨˋ	tombe	陳奶奶把花放在墳墓前面，對孫女說：爺爺是睡著了，不是不見了。	Mamie Chen dépose les fleurs devant la tombe et dit à sa petite-fille : Grand-père s'est endormi, il n'a pas disparu.	n° 100
+紀念	jì niàn	ㄐㄧˋ ㄋㄧㄢˋ	commémorer ; souvenir	小恩：我們不拜，可是我們紀念，也感謝。孝順是神喜歡的。	Xiao En : Nous n'adorons pas, mais nous honorons leur mémoire et nous remercions. Honorer ses parents, c'est ce que Dieu aime.	n° 100
+鮮花	xiān huā	ㄒㄧㄢ ㄏㄨㄚ	fleurs fraîches	路加看到別的家庭都在燒紙錢，可是陳家帶的是鮮花。	Luc voit que les autres familles brûlent du papier-monnaie, mais les Chen ont apporté des fleurs fraîches.	n° 100
+和散那	hé sǎn nà	ㄏㄜˊ ㄙㄢˇ ㄋㄚˋ	hosanna	王牧師：他們喊：「和散那！奉主名來的以色列王是應當稱頌的！」（約翰福音12:13）	Pasteur Wang : Ils criaient : « Hosanna ! Béni soit celui qui vient au nom du Seigneur, le roi d'Israël ! » (Jean 12:13)	n° 101
+驢子	lǘ zi	ㄌㄩˊ ˙ㄗ	âne	小光想了想：可是國王為什麼要騎驢子？騎馬比較帥啊。	Xiao Guang réfléchit : Mais pourquoi le roi monte-t-il un âne ? Un cheval, c'est plus classe.	n° 101
+國王	guó wáng	ㄍㄨㄛˊ ㄨㄤˊ	roi	小光想了想：可是國王為什麼要騎驢子？騎馬比較帥啊。	Xiao Guang réfléchit : Mais pourquoi le roi monte-t-il un âne ? Un cheval, c'est plus classe.	n° 101
+棕樹枝	zōng shù zhī	ㄗㄨㄥ ㄕㄨˋ ㄓ	rameau de palmier	星期天，教會的孩子們每個人手裡都拿著一枝紙做的棕樹枝。	Dimanche, chaque enfant de l'église tient dans la main un rameau de palmier en papier.	n° 101
+洗腳	xǐ jiǎo	ㄒㄧˇ ㄐㄧㄠˇ	laver les pieds	他跪下來，幫每一個人洗腳。	Il s'est agenouillé pour laver les pieds de chacun.	n° 102
+僕人	pú rén	ㄆㄨˊ ㄖㄣˊ	serviteur	路加：王牧師，這就是做僕人的榜樣嗎？	Luc : Pasteur Wang, c'est cela, l'exemple du serviteur ?	n° 102
+毛巾	máo jīn	ㄇㄠˊ ㄐㄧㄣ	serviette	星期四晚上，教會有一個特別的聚會。前面放著一盆水和一條毛巾。	Jeudi soir, l'église tient une réunion particulière. À l'avant, il y a une bassine d'eau et une serviette.	n° 102
+榜樣	bǎng yàng	ㄅㄤˇ ㄧㄤˋ	exemple, modèle	路加：王牧師，這就是做僕人的榜樣嗎？	Luc : Pasteur Wang, c'est cela, l'exemple du serviteur ?	n° 102
+道路	dào lù	ㄉㄠˋ ㄌㄨˋ	chemin, route	小恩：後面還有：「我就是道路、真理、生命。」	Xiao En : Il y a aussi plus loin : « Je suis le chemin, la vérité et la vie. »	n° 103
+真理	zhēn lǐ	ㄓㄣ ㄌㄧˇ	vérité	小恩：後面還有：「我就是道路、真理、生命。」	Xiao En : Il y a aussi plus loin : « Je suis le chemin, la vérité et la vie. »	n° 103
+憂愁	yōu chóu	ㄧㄡ ㄔㄡˊ	angoisse, souci	小恩：耶穌說：「你們心裡不要憂愁；你們信神，也當信我。」（約翰福音14:1）	Xiao En : Jésus dit : « Que votre cœur ne se trouble point ; croyez en Dieu, croyez aussi en moi. » (Jean 14:1)	n° 103
+怕	pà	ㄆㄚˋ	avoir peur	他傳了一個訊息給小恩：我好怕明天考不好。	Il envoie un message à Xiao En : J'ai tellement peur de rater l'examen demain.	n° 103
+葡萄樹	pú táo shù	ㄆㄨˊ ㄊㄠˊ ㄕㄨˋ	vigne	陽台上有一盆小小的葡萄樹，上面有幾顆青色的葡萄。	Sur le balcon, il y a une petite vigne en pot, avec quelques grains encore verts.	n° 104
+枝子	zhī zi	ㄓ ˙ㄗ	sarment, branche	路加一不小心，碰斷了一根枝子。	Luc, par maladresse, casse un sarment.	n° 104
+常在	cháng zài	ㄔㄤˊ ㄗㄞˋ	demeurer	王師母：對。「常在我裡面的，我也常在他裡面，這人就多結果子；因為離開了我，你們就不能做什麼。」（約翰福音15:5）	Mme Wang : Oui. « Celui qui demeure en moi, et en qui je demeure, porte beaucoup de fruit ; car sans moi vous ne pouvez rien faire. » (Jean 15:5)	n° 104
+結果子	jié guǒ zi	ㄐㄧㄝˊ ㄍㄨㄛˇ ˙ㄗ	porter du fruit	王師母：對。「常在我裡面的，我也常在他裡面，這人就多結果子；因為離開了我，你們就不能做什麼。」（約翰福音15:5）	Mme Wang : Oui. « Celui qui demeure en moi, et en qui je demeure, porte beaucoup de fruit ; car sans moi vous ne pouvez rien faire. » (Jean 15:5)	n° 104
+受難日	shòu nàn rì	ㄕㄡˋ ㄋㄢˋ ㄖˋ	Vendredi saint	受難日的晚上，教會裡很暗，只有前面點著七根蠟燭。	Vendredi saint au soir, l'église est très sombre ; il n'y a que sept bougies allumées à l'avant.	n° 105
+釘	dìng	ㄉㄧㄥˋ	clouer ; clou	他們聽到王牧師讀：「他們把耶穌釘在十字架上。」	Ils entendent le pasteur Wang lire : « Ils ont crucifié Jésus. »	n° 105
+成了	chéng le	ㄔㄥˊ ˙ㄌㄜ	c'est accompli	路加唸：「耶穌嘗了那醋，就說：『成了！』便低下頭，將靈魂交付神了。」（約翰福音19:30）	Luc lit : « Quand Jésus eut pris le vinaigre, il dit : “Tout est accompli !” Puis, baissant la tête, il rendit l'esprit. » (Jean 19:30)	n° 106
+債	zhài	ㄓㄞˋ	dette	路加：這個詞在希臘文裡，是欠債的人還完債，會用的詞。是張長老告訴我的。	Luc : En grec, c'est le mot qu'on emploie quand quelqu'un a fini de rembourser sa dette. C'est l'ancien Zhang qui me l'a appris.	n° 106
+失敗	shī bài	ㄕ ㄅㄞˋ	échouer ; échec	大衛：我昨天看了一點約翰福音，故事太悲傷了。耶穌最後被殺了，這不是失敗嗎？	David : Hier, j'ai lu un peu de Jean ; l'histoire est trop triste. Jésus finit par être tué ; n'est-ce pas un échec ?	n° 106
+價	jià	ㄐㄧㄚˋ	prix	路加：對，耶穌不是輸了，祂是為我們的罪付了價。	Luc : Oui, Jésus n'a pas perdu ; Il a payé le prix de nos péchés.	n° 106
+沉默	chén mò	ㄔㄣˊ ㄇㄛˋ	silence	陳奶奶：有時候，神的沉默不是祂不在，是祂還沒有說完。	Mamie Chen : Parfois, le silence de Dieu ne veut pas dire qu'Il est absent ; Il n'a simplement pas encore fini de parler.	n° 107
+失望	shī wàng	ㄕ ㄨㄤˋ	déception ; être déçu	美玲輕輕地說：他們一定很失望，也很害怕。耶穌躺在墳墓裡，外面用大石頭擋著。	Meiling dit doucement : Ils devaient être très déçus, et avoir très peur. Jésus était couché dans le tombeau, fermé de l'extérieur par une grande pierre.	n° 107
+日出	rì chū	ㄖˋ ㄔㄨ	lever du soleil	復活節早上五點，大家在河邊的公園一起等日出。	Le matin de Pâques, à cinq heures, tous attendent ensemble le lever du soleil dans le parc au bord de la rivière.	n° 108
+空墳墓	kōng fén mù	ㄎㄨㄥ ㄈㄣˊ ㄇㄨˋ	tombeau vide	王牧師：兩千年前的這個時候，馬利亞一個人去墳墓，可是她看到的是空墳墓。	Pasteur Wang : Il y a deux mille ans, à cette heure-ci, Marie est allée seule au tombeau, mais ce qu'elle a vu, c'était un tombeau vide.	n° 108
+馬利亞	mǎ lì yà	ㄇㄚˇ ㄌㄧˋ ㄧㄚˋ	Marie (de Magdala)	王牧師：兩千年前的這個時候，馬利亞一個人去墳墓，可是她看到的是空墳墓。	Pasteur Wang : Il y a deux mille ans, à cette heure-ci, Marie est allée seule au tombeau, mais ce qu'elle a vu, c'était un tombeau vide.	n° 108
+彩蛋	cǎi dàn	ㄘㄞˇ ㄉㄢˋ	œuf de Pâques	復活節的下午，教會的院子裡藏了很多彩蛋，孩子們到處跑。	L'après-midi de Pâques, on a caché plein d'œufs de couleur dans la cour de l'église, et les enfants courent partout.	n° 109
+生命	shēng mìng	ㄕㄥ ㄇㄧㄥˋ	vie	美玲：因為蛋裡有一個小生命，就像耶穌復活，新的生命從墳墓裡出來。	Meiling : Parce qu'un œuf renferme une petite vie, comme Jésus qui est ressuscité : une vie nouvelle sortie du tombeau.	n° 109
+找	zhǎo	ㄓㄠˇ	chercher ; trouver	小光一邊找，一邊大叫：我找到十顆了！	Xiao Guang cherche en criant : J'en ai trouvé dix !	n° 109
+空	kōng	ㄎㄨㄥ	vide	小光：我知道！所以墳墓是空的，蛋殼也是空的。	Xiao Guang : Je sais ! C'est pour ça que le tombeau est vide, et que la coquille aussi est vide.	n° 109
+開心	kāi xīn	ㄎㄞ ㄒㄧㄣ	joyeux, content	路加把那張紙條放進口袋，笑得很開心，也有一點想哭。	Luc glisse le papier dans sa poche, très heureux, avec aussi un peu envie de pleurer.	n° 109
+跟從	gēn cóng	ㄍㄣ ㄘㄨㄥˊ	suivre	張長老：最後，祂對彼得說：「你跟從我吧。」（約翰福音21:19）	L'ancien Zhang : Enfin, Il dit à Pierre : « Suis-moi. » (Jean 21:19)	n° 110
+餵養	wèi yǎng	ㄨㄟˋ ㄧㄤˇ	nourrir, faire paître	張長老：三次。彼得每一次都說：「主啊，是的，你知道我愛你。」耶穌說：「你餵養我的小羊。」（約翰福音21:17）	L'ancien Zhang : Trois fois. Chaque fois, Pierre répond : « Oui, Seigneur, tu sais que je t'aime. » Et Jésus dit : « Pais mes agneaux. » (Jean 21:17)	n° 110
+三次	sān cì	ㄙㄢ ㄘˋ	trois fois	張長老：彼得是漁夫，耶穌被抓的時候，他說三次不認識祂。	L'ancien Zhang : Pierre était pêcheur ; quand Jésus a été arrêté, il a dit trois fois qu'il ne le connaissait pas.	n° 110
+漁夫	yú fū	ㄩˊ ㄈㄨ	pêcheur	張長老：彼得是漁夫，耶穌被抓的時候，他說三次不認識祂。	L'ancien Zhang : Pierre était pêcheur ; quand Jésus a été arrêté, il a dit trois fois qu'il ne le connaissait pas.	n° 110
+書店	shū diàn	ㄕㄨ ㄉㄧㄢˋ	librairie	小恩笑了：好啊，學校旁邊有一家很好的書店。	Xiao En sourit : Bonne idée, il y a une très bonne librairie à côté de l'université.	n° 111
+買	mǎi	ㄇㄞˇ	acheter	店員：要不要順便買一枝螢光筆？可以劃線。	L'employé : Voulez-vous aussi un surligneur ? Vous pourrez souligner.	n° 111
+劃線	huà xiàn	ㄏㄨㄚˋ ㄒㄧㄢˋ	souligner	店員：要不要順便買一枝螢光筆？可以劃線。	L'employé : Voulez-vous aussi un surligneur ? Vous pourrez souligner.	n° 111
+第一頁	dì yī yè	ㄉㄧˋ ㄧ ㄧㄝˋ	la première page	走出書店以後，他馬上翻到第一頁，用中文慢慢寫下自己的名字。	Dès la sortie de la librairie, il ouvre à la première page et écrit lentement son nom en chinois.	n° 111
+屬於	shǔ yú	ㄕㄨˇ ㄩˊ	appartenir à	路加：沒關係，這本聖經屬於我，神會認得我的字。	Luc : Ce n'est pas grave, cette Bible m'appartient, et Dieu reconnaîtra mon écriture.	n° 111
+努力	nǔ lì	ㄋㄨˇ ㄌㄧˋ	faire des efforts	小恩：對，因為恩典是白白的，不是用努力換來的。	Xiao En : Non, car la grâce est gratuite, elle ne s'obtient pas à force d'efforts.	n° 112
+夠好	gòu hǎo	ㄍㄡˋ ㄏㄠˇ	être assez bien	路加：右邊比較長。我怕自己永遠不夠好，神不會要我。	Luc : La colonne de droite est plus longue. J'ai peur de n'être jamais assez bien, et que Dieu ne veuille pas de moi.	n° 112
+反對	fǎn duì	ㄈㄢˇ ㄉㄨㄟˋ	s'opposer à	大衛：我不反對，你有選擇的自由。可是請你想清楚，不要只是因為小恩。	David : Je ne m'y oppose pas, tu as la liberté de choisir. Mais réfléchis bien, et ne le fais pas seulement à cause de Xiao En.	n° 113
+想清楚	xiǎng qīng chu	ㄒㄧㄤˇ ㄑㄧㄥ ˙ㄔㄨ	bien réfléchir	大衛：我不反對，你有選擇的自由。可是請你想清楚，不要只是因為小恩。	David : Je ne m'y oppose pas, tu as la liberté de choisir. Mais réfléchis bien, et ne le fais pas seulement à cause de Xiao En.	n° 113
+決定	jué dìng	ㄐㄩㄝˊ ㄉㄧㄥˋ	décider ; décision	路加：大衛，我想告訴你一件事。我好像……快要做一個決定了。	Luc : David, il y a quelque chose que je voudrais te dire. Je crois que… je suis sur le point de prendre une décision.	n° 113
+選擇	xuǎn zé	ㄒㄩㄢˇ ㄗㄜˊ	choisir ; choix	大衛：我不反對，你有選擇的自由。可是請你想清楚，不要只是因為小恩。	David : Je ne m'y oppose pas, tu as la liberté de choisir. Mais réfléchis bien, et ne le fais pas seulement à cause de Xiao En.	n° 113
+自由	zì yóu	ㄗˋ ㄧㄡˊ	liberté	大衛：我不反對，你有選擇的自由。可是請你想清楚，不要只是因為小恩。	David : Je ne m'y oppose pas, tu as la liberté de choisir. Mais réfléchis bien, et ne le fais pas seulement à cause de Xiao En.	n° 113
+決志	jué zhì	ㄐㄩㄝˊ ㄓˋ	décider de suivre le Christ	王牧師：對。決志就像回應一個求婚。不是考試，也不是一個儀式，而是你對祂說：「好，我願意。」	Pasteur Wang : Exactement. Décider de suivre le Christ, c'est comme répondre à une demande en mariage. Ce n'est pas un examen ni une cérémonie, c'est lui dire : « Oui, je le veux. »	n° 114
+回應	huí yìng	ㄏㄨㄟˊ ㄧㄥˋ	répondre ; réponse	王牧師：對。決志就像回應一個求婚。不是考試，也不是一個儀式，而是你對祂說：「好，我願意。」	Pasteur Wang : Exactement. Décider de suivre le Christ, c'est comme répondre à une demande en mariage. Ce n'est pas un examen ni une cérémonie, c'est lui dire : « Oui, je le veux. »	n° 114
+求婚	qiú hūn	ㄑㄧㄡˊ ㄏㄨㄣ	demander en mariage	王牧師笑了：你覺得求婚的人，要先把對方的一切都弄清楚才可以嗎？	Le pasteur Wang sourit : À ton avis, quelqu'un qui demande une personne en mariage doit-il d'abord tout savoir d'elle ?	n° 114
+一輩子	yī bèi zi	ㄧ ㄅㄟˋ ˙ㄗ	toute la vie	王牧師：不用急。這是一輩子的事，你可以在小組裡，讓朋友們和你一起禱告。	Pasteur Wang : Ne te presse pas. C'est l'affaire d'une vie ; tu peux le faire en groupe de maison, et laisser tes amis prier avec toi.	n° 114
+赦免	shè miǎn	ㄕㄜˋ ㄇㄧㄢˇ	pardonner, remettre	路加：我做錯過很多事，我的罪很多，求祢赦免我。	Luc : J'ai fait beaucoup de choses mal, mes péchés sont nombreux, je te prie de me pardonner.	n° 115
+鏡子	jìng zi	ㄐㄧㄥˋ ˙ㄗ	miroir	第二天早晨，路加醒來，第一件事就是看看鏡子。	Le lendemain matin, au réveil, la première chose que fait Luc est de se regarder dans le miroir.	n° 116
+一樣	yī yàng	ㄧ ㄧㄤˋ	pareil	可是有一件事不一樣了：他在擠滿人的車廂裡，心裡很平安。	Mais une chose n'est plus pareille : dans la rame bondée, son cœur est en paix.	n° 116
+高興	gāo xìng	ㄍㄠ ㄒㄧㄥˋ	heureux, content	陳奶奶：我太高興了，我太高興了。	Mamie Chen : Je suis tellement heureuse, tellement heureuse.	n° 117
+多	duō	ㄉㄨㄛ	en plus, de plus	她擦擦眼睛，又回到鍋子旁邊：今天我要多煮一碗飯，我們要慶祝。	Elle s'essuie les yeux et retourne à la marmite : Aujourd'hui, je cuis un bol de riz en plus, nous allons fêter ça.	n° 117
+碗	wǎn	ㄨㄢˇ	bol	她擦擦眼睛，又回到鍋子旁邊：今天我要多煮一碗飯，我們要慶祝。	Elle s'essuie les yeux et retourne à la marmite : Aujourd'hui, je cuis un bol de riz en plus, nous allons fêter ça.	n° 117
+牽手	qiān shǒu	ㄑㄧㄢ ㄕㄡˇ	se tenir par la main	畫上有兩個人牽手，一個很高，穿著白色的衣服，一個戴著圍巾。	Sur le dessin, deux personnes se tiennent par la main : l'une est très grande et porte des vêtements blancs, l'autre porte une écharpe.	n° 118
+好朋友	hǎo péng you	ㄏㄠˇ ㄆㄥˊ ˙ㄧㄡ	bon ami	小光小聲說：我告訴你一個秘密，耶穌是我的好朋友，現在也是你的好朋友。	Xiao Guang chuchote : Je te dis un secret : Jésus est mon bon ami, et maintenant c'est aussi le tien.	n° 118
+勇敢	yǒng gǎn	ㄩㄥˇ ㄍㄢˇ	courageux	美玲擦著眼淚：路加，你真勇敢，你的三句話比很多人的三十分鐘還有力量。	Meiling, essuyant ses larmes : Luc, tu es vraiment courageux, tes trois phrases ont plus de force que les trente minutes de bien des gens.	n° 119
+受洗	shòu xǐ	ㄕㄡˋ ㄒㄧˇ	être baptisé	星期天崇拜的時候，王牧師說：七月我們有洗禮，想受洗的人，請在五月報名。	Pendant le culte, le pasteur Wang annonce : En juillet, nous aurons un baptême ; ceux qui veulent être baptisés doivent s'inscrire en mai.	n° 120
+洗禮	xǐ lǐ	ㄒㄧˇ ㄌㄧˇ	baptême	星期天崇拜的時候，王牧師說：七月我們有洗禮，想受洗的人，請在五月報名。	Pendant le culte, le pasteur Wang annonce : En juillet, nous aurons un baptême ; ceux qui veulent être baptisés doivent s'inscrire en mai.	n° 120
+緊張	jǐn zhāng	ㄐㄧㄣˇ ㄓㄤ	nerveux, tendu	小恩小聲問：你在緊張嗎？	Xiao En demande à voix basse : Tu es nerveux ?	n° 120
+決心	jué xīn	ㄐㄩㄝˊ ㄒㄧㄣ	résolution, détermination	路加看著那張照片，慢慢地說：我下個星期去找王牧師，我決心報名。	Luc regarde la photo et dit lentement : La semaine prochaine, j'irai voir le pasteur Wang ; je suis résolu à m'inscrire.	n° 120

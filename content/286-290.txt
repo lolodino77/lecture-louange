@@ -58,7 +58,7 @@ tagline: Louange et sacrifice — un licenciement, Hébreux 13 et une répétiti
 song: 獻上讚美祭
 vocab: 讚美祭=sacrifice de louange | 祭物=offrande (sacrificielle) | 頌讚=louange ; célébrer | 贖罪祭=sacrifice d'expiation | 禮儀=liturgie | 悅納=agréer, accepter avec faveur
 ---
-星期六/xing1qi1liu4 下午/xia4wu3 ，恩典教會/en1dian3jiao4hui4 的/de5 敬拜團/jing4bai4tuan2 照常/zhao4chang2 排練/pai2lian4 。阿傑/a1jie2 抱/bao4 著/zhe5 吉他/ji2ta1 坐/zuo4 在/zai4 角落/jiao3luo4 ，一臉/yi1lian3 倦容/juan4rong2 。
+星期六/xing1qi2liu4 下午/xia4wu3 ，恩典教會/en1dian3jiao4hui4 的/de5 敬拜團/jing4bai4tuan2 照常/zhao4chang2 排練/pai2lian4 。阿傑/a1jie2 抱/bao4 著/zhe5 吉他/ji2ta1 坐/zuo4 在/zai4 角落/jiao3luo4 ，一臉/yi1lian3 倦容/juan4rong2 。
 = Samedi après-midi, l'équipe de louange de l'église de la Grâce répète comme d'habitude. A-Jie est assis dans un coin, sa guitare dans les bras, le visage las.
 阿傑/a1jie2 ：美玲/mei3ling2 姐/jie3 ，今天/jin1tian1 能/neng2 不/bu4 能/neng2 不要/bu4yao4 唱/chang4 《獻上/xian4shang4 讚美祭/zan4mei3ji4 》？這/zhe4 個/ge4 禮拜/li3bai4 我/wo3 被/bei4 公司/gong1si1 裁員/cai2yuan2 了/le5 ，實在/shi2zai4 唱/chang4 不/bu4 出來/chu1lai2 。
 = A-Jie : Meiling, est-ce qu'on pourrait ne pas chanter « Offrir un sacrifice de louange » aujourd'hui ? Cette semaine, ma boîte m'a licencié. Je n'ai vraiment pas le cœur à chanter.
@@ -76,7 +76,7 @@ vocab: 讚美祭=sacrifice de louange | 祭物=offrande (sacrificielle) | 頌讚
 = Luc : Bonne question. Le sacrifice pour le péché est accompli : nous n'avons ni besoin ni moyen d'y ajouter quoi que ce soit. Le sacrifice de louange est une réponse de reconnaissance, et non le prix pour obtenir la grâce.
 美玲/mei3ling2 ：它/ta1 之/zhi1 所以/suo3yi3 叫/jiao4 「祭/ji4 」，正/zheng4 因為/yin1wei4 讚美/zan4mei3 有時/you3shi2 要/yao4 付/fu4 代價/dai4jia4 ——在/zai4 失業/shi1ye4 的/de5 時候/shi2hou5 ，在/zai4 流淚/liu2lei4 的/de5 時候/shi2hou5 。
 = Meiling : Si on parle de « sacrifice », c'est justement parce que louer coûte parfois quelque chose : quand on perd son travail, quand on pleure.
-美玲/mei3ling2 ：我/wo3 也/ye3 經歷/jing1li4 過/guo4 那樣/na4yang4 的/de5 日子/ri4zi5 。站/zhan4 在/zai4 台/tai2 上/shang4 ，嘴唇/zui3chun2 在/zai4 唱/chang4 ，心/xin1 卻/que4 在/zai4 哭/ku1 。後來/hou4lai2 我/wo3 才/cai2 明白/ming2bai2 ，那/na4 正/zheng4 是/shi4 神/shen2 所/suo3 悅納/yue4na4 的/de5 祭/ji4 。
+美玲/mei3ling2 ：我/wo3 也/ye3 經歷/jing1li4 過/guo4 那樣/na4yang4 的/de5 日子/ri4zi5 。站/zhan4 在/zai4 台/tai2 上/shang4 ，嘴唇/zui3chun2 在/zai4 唱/chang4 ，心/xin1 卻/que4 在/zai4 哭/ku1 。後來/hou4lai2 我/wo3 才/cai2 明白/ming2bai5 ，那/na4 正/zheng4 是/shi4 神/shen2 所/suo3 悅納/yue4na4 的/de5 祭/ji4 。
 = Meiling : Moi aussi, j'ai connu des jours comme ça. Sur l'estrade, mes lèvres chantaient, mais mon cœur pleurait. Ce n'est que plus tard que j'ai compris que c'était justement le sacrifice que Dieu agrée.
 路加/lu4jia1 ：林老師/lin2lao3shi1 上週/shang4zhou1 講/jiang3 過/guo4 ，教會/jiao4hui4 的/de5 禮儀/li3yi2 之/zhi1 所以/suo3yi3 重要/zhong4yao4 ，是/shi4 因為/yin1wei4 在/zai4 感覺/gan3jue2 缺席/que1xi2 的/de5 時候/shi2hou5 ，它/ta1 仍/reng2 帶/dai4 著/zhe5 我們/wo3men5 走向/zou3xiang4 神/shen2 。
 = Luc : La semaine dernière, le professeur Lin nous a expliqué que si la liturgie de l'Église est importante, c'est parce qu'elle nous conduit encore vers Dieu quand nos sentiments sont absents.
@@ -125,7 +125,7 @@ vocab: 心靈=esprit (profondeur intérieure) | 誠實=vérité ; sincérité | 
 = David : Et les lumières, la musique ?
 路加/lu4jia1 ：它們/ta1men5 本身/ben3shen1 無/wu2 善/shan4 無/wu2 惡/e4 。若/ruo4 有/you3 靈/ling2 而/er2 無/wu2 真理/zhen1li3 ，敬拜/jing4bai4 就/jiu4 淪為/lun2wei2 情緒/qing2xu4 ；若/ruo4 有/you3 真理/zhen1li3 而/er2 無/wu2 靈/ling2 ，敬拜/jing4bai4 就/jiu4 僵化/jiang1hua4 成/cheng2 形式/xing2shi4 。
 = Luc : En eux-mêmes, ils ne sont ni bons ni mauvais. L'esprit sans la vérité, et l'adoration se réduit à de l'émotion ; la vérité sans l'esprit, et elle se fige en pure forme.
-路加/lu4jia1 ：情緒/qing2xu4 不/bu4 是/shi4 敵人/di2ren2 。當/dang1 一/yi1 個/ge4 人/ren2 明白/ming2bai2 了/le5 十字架/shi2zi4jia4 而/er2 流淚/liu2lei4 ，難道/nan2dao4 那/na4 也/ye3 是/shi4 燈光/deng1guang1 造成/zao4cheng2 的/de5 嗎/ma5 ？
+路加/lu4jia1 ：情緒/qing2xu4 不/bu4 是/shi4 敵人/di2ren2 。當/dang1 一/yi1 個/ge4 人/ren2 明白/ming2bai5 了/le5 十字架/shi2zi4jia4 而/er2 流淚/liu2lei4 ，難道/nan2dao4 那/na4 也/ye3 是/shi4 燈光/deng1guang1 造成/zao4cheng2 的/de5 嗎/ma5 ？
 = Luc : L'émotion n'est pas l'ennemie. Quand quelqu'un comprend enfin la croix et se met à pleurer, sont-ce aussi les lumières qui l'ont provoqué ?
 大衛/da4wei4 沉思/chen2si1 良久/liang2jiu3 ，緩緩/huan3huan3 地/de5 說/shuo1 ：「所以/suo3yi3 是/shi4 真理/zhen1li3 照亮/zhao4liang4 頭腦/tou2nao3 ，聖靈/sheng4ling2 融化/rong2hua4 人心/ren2xin1 ，兩者/liang3zhe3 缺一不可/que1yi1bu4ke3 。」
 = David réfléchit longuement, puis dit lentement : « Donc la vérité éclaire l'intelligence, l'Esprit fait fondre le cœur, et l'un ne va pas sans l'autre. »
@@ -137,7 +137,7 @@ vocab: 心靈=esprit (profondeur intérieure) | 誠實=vérité ; sincérité | 
 = Luc : Bien sûr. Du moment que tu réfléchis honnêtement et que tu écris pour l'amour de la vérité, c'est aussi une forme d'adoration.
 大衛/da4wei4 笑/xiao4 了/le5 ：「那/na4 我/wo3 得/dei3 先/xian1 悔改/hui3gai3 。昨天/zuo2tian1 那/na4 篇/pian1 報告/bao4gao4 ，我/wo3 抄/chao1 得/de5 有/you3 點/dian3 多/duo1 。」
 = David rit : « Alors il faut d'abord que je me repente. Le devoir d'hier, j'ai un peu trop recopié. »
-那/na4 個/ge4 週日/zhou1ri4 ，敬拜團/jing4bai4tuan2 唱/chang4 起/qi3 《恢復/hui1fu4 敬拜/jing4bai4 》。路加/lu4jia1 望向/wang4xiang4 台下/tai2xia4 ，看見/kan4jian4 大衛/da4wei4 閉/bi4 著/zhe5 眼睛/yan3jing1 ，雙手/shuang1shou3 微微/wei1wei1 張開/zhang1kai1 。
+那/na4 個/ge4 週日/zhou1ri4 ，敬拜團/jing4bai4tuan2 唱/chang4 起/qi3 《恢復/hui1fu4 敬拜/jing4bai4 》。路加/lu4jia1 望向/wang4xiang4 台下/tai2xia4 ，看見/kan4jian4 大衛/da4wei4 閉/bi4 著/zhe5 眼睛/yan3jing1 ，雙手/shuang1shou3 微微/wei2wei2 張開/zhang1kai1 。
 = Ce dimanche-là, l'équipe entonne « Restaurer l'adoration ». En regardant l'assemblée, Luc voit David, les yeux fermés, les mains légèrement ouvertes.
 路加/lu4jia1 心想/xin1xiang3 ：要/yao4 恢復/hui1fu4 的/de5 不/bu4 是/shi4 某/mou3 種/zhong3 曲風/qu3feng1 ，而/er2 是/shi4 心靈/xin1ling2 與/yu3 真理/zhen1li3 的/de5 合一/he2yi1 。
 = Luc se dit : ce qu'il faut restaurer, ce n'est pas un style musical, mais l'union de l'esprit et de la vérité.
@@ -150,11 +150,11 @@ tagline: Doctrine et chant — le recueil de Mamie Chen, des titres de Stream of
 song: 從這代到那代
 vocab: 傳承=transmission ; héritage | 華人教會=Églises chinoises | 教義=doctrine | 本色化=inculturation, indigénisation | 復興運動=mouvement de réveil | 飲水思源=quand on boit l'eau, se souvenir de la source (chengyu) | 久而久之=à la longue
 ---
-為了/wei4le5 林老師/lin2lao3shi1 的/de5 期末/qi1mo4 報告/bao4gao4 ，路加/lu4jia1 選/xuan3 了/le5 一/yi1 個/ge4 題目/ti2mu4 ：「華人教會/hua2ren2jiao4hui4 的/de5 詩歌/shi1ge1 與/yu3 教義/jiao4yi4 」。
+為了/wei4le5 林老師/lin2lao3shi1 的/de5 期末/qi2mo4 報告/bao4gao4 ，路加/lu4jia1 選/xuan3 了/le5 一/yi1 個/ge4 題目/ti2mu4 ：「華人教會/hua2ren2jiao4hui4 的/de5 詩歌/shi1ge1 與/yu3 教義/jiao4yi4 」。
 = Pour le travail de fin de semestre du professeur Lin, Luc a choisi un sujet : « Cantiques et doctrine dans les Églises chinoises ».
-星期天/xing1qi1tian1 下午/xia4wu3 ，陳爸爸/chen2ba4ba5 從/cong2 書櫃/shu1gui4 深處/shen1chu4 拿/na2 出/chu1 一/yi1 本/ben3 泛黃/fan4huang2 的/de5 詩歌本/shi1ge1ben3 ：「這/zhe4 是/shi4 你們/ni3men5 奶奶/nai3nai5 用/yong4 了/le5 一輩子/yi1bei4zi5 的/de5 。」
+星期天/xing1qi2tian1 下午/xia4wu3 ，陳爸爸/chen2ba4ba5 從/cong2 書櫃/shu1gui4 深處/shen1chu4 拿/na2 出/chu1 一/yi1 本/ben3 泛黃/fan4huang2 的/de5 詩歌本/shi1ge1ben3 ：「這/zhe4 是/shi4 你們/ni3men5 奶奶/nai3nai5 用/yong4 了/le5 一輩子/yi1bei4zi5 的/de5 。」
 = Dimanche après-midi, papa Chen sort du fond de la bibliothèque un recueil de cantiques jauni : « C'est celui que votre grand-mère a utilisé toute sa vie. »
-書頁/shu1ye4 邊/bian1 上/shang4 寫/xie3 滿/man3 了/le5 工整/gong1zheng3 的/de5 小/xiao3 字/zi4 ：有/you3 日期/ri4qi1 ，有/you3 經文/jing1wen2 ，也/ye3 有/you3 簡短/jian3duan3 的/de5 禱告/dao3gao4 。
+書頁/shu1ye4 邊/bian1 上/shang4 寫/xie3 滿/man3 了/le5 工整/gong1zheng3 的/de5 小/xiao3 字/zi4 ：有/you3 日期/ri4qi2 ，有/you3 經文/jing1wen2 ，也/ye3 有/you3 簡短/jian3duan3 的/de5 禱告/dao3gao4 。
 = Les marges sont couvertes d'une petite écriture soignée : des dates, des références bibliques, de courtes prières.
 小恩/xiao3en1 撫摸/fu3mo1 著/zhe5 書頁/shu1ye4 ，眼眶/yan3kuang4 泛紅/fan4hong2 ：「奶奶/nai3nai5 常/chang2 說/shuo1 ，她/ta1 的/de5 信仰/xin4yang3 有/you3 一半/yi1ban4 是/shi4 從/cong2 唱詩/chang4shi1 學/xue2 來/lai2 的/de5 。」
 = Xiao En caresse les pages, les yeux rougis : « Grand-mère disait que la moitié de sa foi, elle l'avait apprise en chantant des cantiques. »
@@ -178,9 +178,9 @@ vocab: 傳承=transmission ; héritage | 華人教會=Églises chinoises | 教�
 = Luc : Lors des mouvements de réveil du siècle dernier, les croyants chinois ont commencé à écrire leurs propres cantiques ; Stream of Praise marche aussi sur ce chemin.
 小恩/xiao3en1 翻/fan1 到/dao4 最後/zui4hou4 一/yi1 頁/ye4 ，發現/fa1xian4 奶奶/nai3nai5 寫/xie3 了/le5 一/yi1 行/hang2 字/zi4 ：「願/yuan4 我/wo3 的/de5 兒孫/er2sun1 ，從/cong2 這/zhe4 代/dai4 到/dao4 那/na4 代/dai4 ，都/dou1 唱/chang4 主/zhu3 的/de5 歌/ge1 。」
 = Xiao En arrive à la dernière page et y découvre une ligne écrite par sa grand-mère : « Que mes enfants et petits-enfants, d'une génération à l'autre, chantent tous les chants du Seigneur. »
-屋/wu1 裡/li3 一片/yi1pian4 安靜/an1jing4 。路加/lu4jia1 忽然/hu1ran2 明白/ming2bai2 ，所謂/suo3wei4 屬靈/shu3ling2 傳承/chuan2cheng2 ，不/bu4 是/shi4 一/yi1 套/tao4 理論/li3lun4 ，而/er2 是/shi4 一/yi1 本/ben3 被/bei4 淚水/lei4shui3 和/he2 手指/shou3zhi3 磨/mo2 舊/jiu4 的/de5 詩歌本/shi1ge1ben3 。
+屋/wu1 裡/li3 一片/yi1pian4 安靜/an1jing4 。路加/lu4jia1 忽然/hu1ran2 明白/ming2bai5 ，所謂/suo3wei4 屬靈/shu3ling2 傳承/chuan2cheng2 ，不/bu4 是/shi4 一/yi1 套/tao4 理論/li3lun4 ，而/er2 是/shi4 一/yi1 本/ben3 被/bei4 淚水/lei4shui3 和/he2 手指/shou3zhi3 磨/mo2 舊/jiu4 的/de5 詩歌本/shi1ge1ben3 。
 = Un grand silence emplit la pièce. Luc comprend soudain que ce qu'on appelle l'héritage spirituel n'est pas une théorie, mais un recueil de cantiques usé par les larmes et par les doigts.
-路加/lu4jia1 ：伯父/bo2fu4 ，我/wo3 想/xiang3 在/zai4 報告/bao4gao4 的/de5 結尾/jie2wei3 寫/xie3 這/zhe4 本/ben3 詩歌本/shi1ge1ben3 的/de5 故事/gu4shi4 。飲水思源/yin3shui3si1yuan2 ，我們/wo3men5 今天/jin1tian1 能/neng2 唱/chang4 ，是/shi4 因為/yin1wei4 有/you3 人/ren2 先/xian1 唱/chang4 過/guo4 。
+路加/lu4jia1 ：伯父/bo2fu4 ，我/wo3 想/xiang3 在/zai4 報告/bao4gao4 的/de5 結尾/jie2wei3 寫/xie3 這/zhe4 本/ben3 詩歌本/shi1ge1ben3 的/de5 故事/gu4shi5 。飲水思源/yin3shui3si1yuan2 ，我們/wo3men5 今天/jin1tian1 能/neng2 唱/chang4 ，是/shi4 因為/yin1wei4 有/you3 人/ren2 先/xian1 唱/chang4 過/guo4 。
 = Luc : Monsieur Chen, j'aimerais terminer mon travail par l'histoire de ce recueil. Quand on boit l'eau, on se souvient de la source : si nous pouvons chanter aujourd'hui, c'est que d'autres ont chanté avant nous.
 陳爸爸/chen2ba4ba5 把/ba3 詩歌本/shi1ge1ben3 放/fang4 進/jin4 小恩/xiao3en1 手/shou3 裡/li3 ，又/you4 看/kan4 了/le5 路加/lu4jia1 一/yi1 眼/yan3 ：「那/na4 就/jiu4 由/you2 你們/ni3men5 兩/liang3 個/ge4 接/jie1 下去/xia4qu4 唱/chang4 吧/ba5 。」
 = Papa Chen dépose le recueil entre les mains de Xiao En, puis jette un regard à Luc : « Alors, c'est à vous deux de continuer à chanter. »
@@ -219,7 +219,7 @@ vocab: 創作=création, composition | 作曲=composer la musique | 作詞=écri
 = « Je n'étais qu'un voyageur en terre étrangère, mais toi, tu m'attendais déjà sur le chemin ; grâce sur grâce, toute ma vie je te chanterai. »
 歌名/ge1ming2 就/jiu4 叫/jiao4 《恩上加恩/en1shang4jia1en1 》，出自/chu1zi4 約翰福音/yue1han4fu2yin1 一/yi1 章/zhang1 十六/shi2liu4 節/jie2 ：「從/cong2 他/ta1 豐滿/feng1man3 的/de5 恩典/en1dian3 裡/li3 ，我們/wo3men5 都/dou1 領受/ling3shou4 了/le5 ，而且/er2qie3 恩上加恩/en1shang4jia1en1 。」
 = Le titre sera « Grâce sur grâce », d'après Jean 1.16 : « Et nous avons tous reçu de sa plénitude, et grâce pour grâce. »
-星期六/xing1qi1liu4 排練/pai2lian4 時/shi2 ，他/ta1 鼓起/gu3qi3 勇氣/yong3qi4 彈/tan2 給/gei3 大家/da4jia1 聽/ting1 。唱/chang4 完/wan2 以後/yi3hou4 ，會堂/hui4tang2 裡/li3 一片/yi1pian4 寂靜/ji4jing4 。
+星期六/xing1qi2liu4 排練/pai2lian4 時/shi2 ，他/ta1 鼓起/gu3qi3 勇氣/yong3qi4 彈/tan2 給/gei3 大家/da4jia1 聽/ting1 。唱/chang4 完/wan2 以後/yi3hou4 ，會堂/hui4tang2 裡/li3 一片/yi1pian4 寂靜/ji4jing4 。
 = Le samedi, à la répétition, il prend son courage à deux mains et le joue à tout le monde. Quand il a fini, un silence complet règne dans la salle.
 阿傑/a1jie2 第一/di4yi1 個/ge4 開口/kai1kou3 ：「兄弟/xiong1di4 ，這/zhe4 首/shou3 比/bi3 你/ni3 以前/yi3qian2 寫/xie3 的/de5 中文/zhong1wen2 作業/zuo4ye4 好/hao3 太/tai4 多/duo1 了/le5 。」大家/da4jia1 都/dou1 笑/xiao4 了/le5 。
 = A-Jie est le premier à parler : « Frangin, c'est cent fois mieux que tes devoirs de chinois d'autrefois. » Tout le monde éclate de rire.

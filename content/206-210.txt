@@ -48,13 +48,13 @@ tagline: La souffrance — un petit-déjeuner sous la pluie, une vieille blessur
 song: 耶和華靠近傷心的人
 vocab: 苦難=souffrance, épreuves | 公義=juste ; justice | 審判=juger ; jugement | 約伯記=le livre de Job | 詩篇=les Psaumes | 甚至=même, jusqu'à
 ---
-六月/liu4yue4 初/chu1 ，下/xia4 了/le5 一/yi1 個/ge4 星期/xing1qi1 的/de5 梅雨/mei2yu3 。星期六/xing1qi1liu4 早上/zao3shang4 ，王牧師/wang2mu4shi1 請/qing3 路加/lu4jia1 和/he2 大衛/da4wei4 去/qu4 吃/chi1 豆漿/dou4jiang1 油條/you2tiao2 。
+六月/liu4yue4 初/chu1 ，下/xia4 了/le5 一/yi1 個/ge4 星期/xing1qi2 的/de5 梅雨/mei2yu3 。星期六/xing1qi2liu4 早上/zao3shang4 ，王牧師/wang2mu4shi1 請/qing3 路加/lu4jia1 和/he2 大衛/da4wei4 去/qu4 吃/chi1 豆漿/dou4jiang1 油條/you2tiao2 。
 = Début juin, la pluie de mousson était tombée toute la semaine. Samedi matin, le pasteur Wang invita Luc et David à manger du lait de soja et des beignets.
 大衛/da4wei4 很/hen3 有/you3 禮貌/li3mao4 ，可是/ke3shi4 他/ta1 心裡/xin1li3 有/you3 一/yi1 個/ge4 問題/wen4ti2 ，已經/yi3jing1 放/fang4 了/le5 很/hen3 多/duo1 年/nian2 。
 = David était très poli, mais il gardait en lui une question depuis de longues années.
 大衛/da4wei4 ：王牧師/wang2mu4shi1 ，如果/ru2guo3 神/shen2 是/shi4 愛/ai4 ，又/you4 有/you3 能力/neng2li4 ，為什麼/wei4shen2me5 世界/shi4jie4 上/shang4 有/you3 這麼/zhe4me5 多/duo1 苦難/ku3nan4 ？我/wo3 十五/shi2wu3 歲/sui4 的/de5 時候/shi2hou5 ，爸爸/ba4ba5 因為/yin1wei4 車禍/che1huo4 走/zou3 了/le5 。
 = David : Pasteur Wang, si Dieu est amour et qu'Il est puissant, pourquoi y a-t-il tant de souffrance dans le monde ? Quand j'avais quinze ans, mon père est mort dans un accident de voiture.
-路加/lu4jia1 吃/chi1 了/le5 一/yi1 驚/jing1 。認識/ren4shi5 大衛/da4wei4 快/kuai4 兩/liang3 年/nian2 了/le5 ，他/ta1 居然/ju1ran2 從來/cong2lai2 沒/mei2 說/shuo1 過/guo4 。
+路加/lu4jia1 吃/chi1 了/le5 一/yi1 驚/jing1 。認識/ren4shi4 大衛/da4wei4 快/kuai4 兩/liang3 年/nian2 了/le5 ，他/ta1 居然/ju1ran2 從來/cong2lai2 沒/mei2 說/shuo1 過/guo4 。
 = Luc fut saisi. Il connaissait David depuis presque deux ans, et celui-ci ne lui en avait jamais parlé.
 王牧師/wang2mu4shi1 放下/fang4xia4 筷子/kuai4zi5 ，安靜/an1jing4 地/de5 聽/ting1 。然後/ran2hou4 他/ta1 說/shuo1 ：「大衛/da4wei4 ，謝謝/xie4xie5 你/ni3 告訴/gao4su4 我們/wo3men5 。我/wo3 很/hen3 難過/nan2guo4 。」
 = Le pasteur Wang posa ses baguettes et écouta en silence. Puis il dit : « David, merci de nous l'avoir confié. J'en suis profondément désolé. »
@@ -81,7 +81,7 @@ tagline: Fiabilité de la Bible — un thé chez l'ancien Zhang, des manuscrits 
 song: 生命的話語
 vocab: 歷史=histoire | 證據=preuve | 見證人=témoin | 抄本=manuscrit (copie ancienne) | 新約=Nouveau Testament | 以及=ainsi que
 ---
-星期五/xing1qi1wu3 晚上/wan3shang4 ，大衛/da4wei4 居然/ju1ran2 答應/da1ying4 路加/lu4jia1 ，一起/yi1qi3 去/qu4 張長老/zhang1zhang3lao3 家/jia1 喝/he1 茶/cha2 。
+星期五/xing1qi2wu3 晚上/wan3shang4 ，大衛/da4wei4 居然/ju1ran2 答應/da1ying4 路加/lu4jia1 ，一起/yi1qi3 去/qu4 張長老/zhang1zhang3lao3 家/jia1 喝/he1 茶/cha2 。
 = Vendredi soir, contre toute attente, David accepta d'aller avec Luc boire le thé chez l'ancien Zhang.
 大衛/da4wei4 ：張長老/zhang1zhang3lao3 ，我/wo3 讀/du2 過/guo4 一/yi1 本/ben3 書/shu1 ，說/shuo1 聖經/sheng4jing1 被/bei4 人/ren2 改/gai3 過/guo4 很/hen3 多/duo1 次/ci4 ，所以/suo3yi3 不/bu4 可靠/ke3kao4 。
 = David : Ancien Zhang, j'ai lu un livre qui dit que la Bible a été modifiée de nombreuses fois, et qu'elle n'est donc pas fiable.
@@ -99,7 +99,7 @@ vocab: 歷史=histoire | 證據=preuve | 見證人=témoin | 抄本=manuscrit (c
 = Ancien Zhang : Quant aux auteurs, les quatre Évangiles ainsi que les lettres de Paul ont été écrits dans les quelques décennies qui ont suivi la mort de Jésus, quand beaucoup de témoins étaient encore en vie.
 張長老/zhang1zhang3lao3 ：而且/er2qie3 ，路加福音/lu4jia1fu2yin1 的/de5 作者/zuo4zhe3 路加/lu4jia1 是/shi4 一/yi1 位/wei4 醫生/yi1sheng1 ，他/ta1 說/shuo1 他/ta1 把/ba3 這些/zhe4xie1 事/shi4 都/dou1 仔細/zi3xi4 考察/kao3cha2 過/guo4 ，才/cai2 寫/xie3 下來/xia4lai2 。
 = Ancien Zhang : De plus, Luc, l'auteur de l'Évangile qui porte son nom, était médecin ; il dit avoir examiné soigneusement tous ces faits avant de les mettre par écrit.
-大衛/da4wei4 轉頭/zhuan3tou2 看/kan4 路加/lu4jia1 ：「原來/yuan2lai2 你/ni3 的/de5 名字/ming2zi4 這麼/zhe4me5 有/you3 學問/xue2wen4 ！」大家/da4jia1 都/dou1 笑/xiao4 了/le5 。
+大衛/da4wei4 轉頭/zhuan3tou2 看/kan4 路加/lu4jia1 ：「原來/yuan2lai2 你/ni3 的/de5 名字/ming2zi5 這麼/zhe4me5 有/you3 學問/xue2wen4 ！」大家/da4jia1 都/dou1 笑/xiao4 了/le5 。
 = David se tourna vers Luc : « Eh bien, ton prénom est drôlement savant ! » Tout le monde éclata de rire.
 張長老/zhang1zhang3lao3 ：當然/dang1ran2 ，歷史/li4shi3 的/de5 證據/zheng4ju4 不/bu4 能/neng2 強迫/qiang3po4 人/ren2 相信/xiang1xin4 。但是/dan4shi4 它/ta1 告訴/gao4su4 我們/wo3men5 ，信仰/xin4yang3 不/bu4 是/shi4 盲目/mang2mu4 的/de5 。
 = Ancien Zhang : Bien sûr, les preuves historiques ne peuvent forcer personne à croire. Mais elles nous montrent que la foi n'est pas aveugle.
@@ -149,7 +149,7 @@ tagline: Science et foi — des galaxies au plafond, un enfant curieux et un sce
 song: 美好的創造
 vocab: 科學=science | 宇宙=univers | 創造主=Créateur | 智慧=sagesse | 天文館=planétarium | 難道=se pourrait-il que… (question rhétorique)
 ---
-七月/qi1yue4 的/de5 一/yi1 個/ge4 星期六/xing1qi1liu4 ，美玲/mei3ling2 請/qing3 路加/lu4jia1 帶/dai4 小光/xiao3guang1 去/qu4 天文館/tian1wen2guan3 。大衛/da4wei4 聽說/ting1shuo1 了/le5 ，也/ye3 想/xiang3 一起/yi1qi3 去/qu4 。
+七月/qi1yue4 的/de5 一/yi1 個/ge4 星期六/xing1qi2liu4 ，美玲/mei3ling2 請/qing3 路加/lu4jia1 帶/dai4 小光/xiao3guang1 去/qu4 天文館/tian1wen2guan3 。大衛/da4wei4 聽說/ting1shuo1 了/le5 ，也/ye3 想/xiang3 一起/yi1qi3 去/qu4 。
 = Un samedi de juillet, Meiling demanda à Luc d'emmener Xiao Guang au planétarium. Quand David l'apprit, il voulut venir aussi.
 在/zai4 黑黑/hei1hei1 的/de5 劇場/ju4chang3 裡/li3 ，頭/tou2 上/shang4 出現/chu1xian4 了/le5 滿天/man3tian1 的/de5 星星/xing1xing1 和/he2 美麗/mei3li4 的/de5 星系/xing1xi4 。小光/xiao3guang1 看/kan4 得/de5 張大/zhang1da4 了/le5 嘴/zui3 。
 = Dans la salle obscure, un ciel plein d'étoiles et de magnifiques galaxies apparut au-dessus de leurs têtes. Xiao Guang en restait bouche bée.
