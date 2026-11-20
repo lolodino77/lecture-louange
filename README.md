@@ -29,6 +29,9 @@ npm run serve
 
 puis aller sur http://localhost:8123/.
 
+**En ligne : https://lolodino77.github.io/lecture-louange/** (publié par GitHub Pages à chaque push qui modifie `site/`,
+voir `.github/workflows/pages.yml`).
+
 **Sous Windows, plus simple : double-cliquer sur `Lancer Lecture Louange.bat`.** Le fichier installe les outils
 au premier lancement si besoin, génère le site s'il n'existe pas, démarre le serveur local et ouvre le navigateur
 sur http://localhost:8123/. Laisser la fenêtre noire ouverte pendant la lecture ; la fermer arrête le site.
