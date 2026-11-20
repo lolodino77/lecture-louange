@@ -1,0 +1,343 @@
+# Tranche 061–070 — niveau 2 (Élémentaire) — décembre, année 1
+
+@series 061 | 聖誕節快到了 | Noël approche | Décembre : l'église se prépare à Noël ; Luc découvre la crèche, la pièce des enfants et le sens d'Emmanuel.
+
+=== 061
+series: 061
+title_zh: 聖誕節要到了
+title_fr: Noël approche
+tagline: Décembre à Taipei — des sapins partout, un chant en répétition et une invitation à aider l'église.
+song: 聖誕之願
+vocab: 聖誕節=Noël | 降生=naître, venir au monde (se dit de Jésus) | 準備=préparer | 已經=déjà | 慶祝=fêter, célébrer
+---
+十二月/shi2er4yue4 了/le5 ，台北/tai2bei3 已經/yi3jing1 有/you3 很多/hen3duo1 聖誕樹/sheng4dan4shu4 。
+= On est en décembre, et Taipei est déjà pleine de sapins de Noël.
+路加/lu4jia1 ：小恩/xiao3en1 ，妳/ni3 在/zai4 唱/chang4 什麼/shen2me5 ？
+= Luc : Xiao En, qu'est-ce que tu chantes ?
+小恩/xiao3en1 ：我/wo3 在/zai4 練習/lian4xi2 《聖誕/sheng4dan4 之/zhi1 願/yuan4》。聖誕節/sheng4dan4jie2 要/yao4 到/dao4 了/le5 ！
+= Xiao En : Je répète « Le vœu de Noël ». Noël arrive bientôt !
+路加/lu4jia1 ：在/zai4 法國/fa3guo2 ，聖誕節/sheng4dan4jie2 是/shi4 家人/jia1ren2 一起/yi1qi3 吃飯/chi1fan4 的/de5 日子/ri4zi5 。
+= Luc : En France, Noël, c'est le jour où la famille mange ensemble.
+小恩/xiao3en1 ：在/zai4 台灣/tai2wan1 ，聖誕節/sheng4dan4jie2 不/bu4 是/shi4 假日/jia4ri4 。可是/ke3shi4 在/zai4 教會/jiao4hui4 ，聖誕節/sheng4dan4jie2 很/hen3 重要/zhong4yao4 。
+= Xiao En : À Taïwan, Noël n'est pas un jour férié. Mais à l'église, Noël compte beaucoup.
+路加/lu4jia1 ：為什麼/wei4shen2me5 ？
+= Luc : Pourquoi ?
+小恩/xiao3en1 ：因為/yin1wei4 我們/wo3men5 慶祝/qing4zhu4 耶穌/ye1su1 的/de5 降生/jiang4sheng1 。
+= Xiao En : Parce que nous fêtons la naissance de Jésus.
+路加/lu4jia1 ：降生/jiang4sheng1 ？是/shi4 「出生/chu1sheng1 」的/de5 意思/yi4si5 嗎/ma5 ？
+= Luc : « Jiangsheng » ? Ça veut dire « naître » ?
+小恩/xiao3en1 ：對/dui4 ！可是/ke3shi4 耶穌/ye1su1 是/shi4 從/cong2 天上/tian1shang4 來/lai2 的/de5 ，所以/suo3yi3 我們/wo3men5 說/shuo1 「降生/jiang4sheng1 」。
+= Xiao En : Oui ! Mais Jésus est venu du ciel, alors on dit « jiangsheng », descendre pour naître.
+路加/lu4jia1 ：我/wo3 懂/dong3 了/le5 。教會/jiao4hui4 要/yao4 準備/zhun3bei4 什麼/shen2me5 ？
+= Luc : Je comprends. Qu'est-ce que l'église doit préparer ?
+小恩/xiao3en1 ：很多/hen3duo1 ！聖誕樹/sheng4dan4shu4 、詩歌/shi1ge1 、晚會/wan3hui4 …… 你/ni3 可以/ke3yi3 來/lai2 幫忙/bang1mang2 嗎/ma5 ？
+= Xiao En : Plein de choses ! Le sapin, les chants, la soirée… Tu peux venir nous aider ?
+路加/lu4jia1 ：好/hao3 啊/a5 ！我/wo3 不/bu4 太/tai4 會/hui4 做飯/zuo4fan4 ，可是/ke3shi4 我/wo3 搬/ban1 東西/dong1xi5 搬/ban1 得/de5 很/hen3 快/kuai4 ！
+= Luc : D'accord ! Je ne sais pas trop cuisiner, mais pour porter des cartons, je suis très rapide !
+小恩/xiao3en1 ：哈哈/ha1ha1 ，太/tai4 好/hao3 了/le5 ！星期六/xing1qi1liu4 見/jian4 ！
+= Xiao En : Haha, parfait ! À samedi !
+
+=== 062
+series: 061
+title_zh: 神與我們同在
+title_fr: Dieu avec nous
+tagline: Répétition du samedi — un nom étrange, une guitare rebelle et Dieu qui n'est pas resté loin.
+song: 以馬內利
+vocab: 以馬內利=Emmanuel (« Dieu avec nous ») | 同在=être avec, présence | 正在=être en train de | 練習=s'exercer, répéter | 吉他=guitare
+---
+星期六/xing1qi1liu4 下午/xia4wu3 ，路加/lu4jia1 來/lai2 到/dao4 恩典教會/en1dian3jiao4hui4 。
+= Samedi après-midi, Luc arrive à l'église de la Grâce.
+敬拜團/jing4bai4tuan2 正在/zheng4zai4 練習/lian4xi2 《以馬內利/yi3ma3nei4li4》。
+= L'équipe de louange est en train de répéter « Emmanuel ».
+美玲/mei3ling2 ：路加/lu4jia1 ，你/ni3 來/lai2 得/de5 正好/zheng4hao3 ！你/ni3 知道/zhi1dao5 「以馬內利/yi3ma3nei4li4 」是/shi4 什麼/shen2me5 意思/yi4si5 嗎/ma5 ？
+= Meiling : Luc, tu tombes bien ! Tu sais ce que veut dire « Emmanuel » ?
+路加/lu4jia1 ：不/bu4 知道/zhi1dao5 。是/shi4 一/yi1 個/ge4 人/ren2 的/de5 名字/ming2zi5 嗎/ma5 ？
+= Luc : Non. C'est le nom de quelqu'un ?
+美玲/mei3ling2 ：是/shi4 耶穌/ye1su1 的/de5 名字/ming2zi5 。聖經/sheng4jing1 說/shuo1 ：「以馬內利/yi3ma3nei4li4 翻/fan1 出來/chu1lai2 就是/jiu4shi4 神/shen2 與/yu3 我們/wo3men5 同在/tong2zai4 。」（馬太福音/ma3tai4fu2yin1 1:23）
+= Meiling : C'est un nom de Jésus. La Bible dit : « Emmanuel, ce qui signifie Dieu avec nous. » (Matthieu 1:23)
+路加/lu4jia1 ：同在/tong2zai4 …… 就是/jiu4shi4 神/shen2 和/he2 我們/wo3men5 在/zai4 一起/yi1qi3 ？
+= Luc : « Avec nous »… ça veut dire que Dieu est avec nous ?
+阿傑/a1jie2 ：對/dui4 ！神/shen2 不/bu4 是/shi4 只/zhi3 在/zai4 天上/tian1shang4 ，祂/ta1 也/ye3 在/zai4 這裡/zhe4li3 。
+= A-Jie : Exactement ! Dieu n'est pas seulement au ciel, il est aussi ici.
+這時候/zhe4shi2hou5 ，阿傑/a1jie2 彈/tan2 錯/cuo4 了/le5 一/yi1 個/ge4 音/yin1 ，大家/da4jia1 都/dou1 笑/xiao4 了/le5 。
+= À ce moment-là, A-Jie joue une fausse note, et tout le monde éclate de rire.
+阿傑/a1jie2 ：你們/ni3men5 看/kan4 ，神/shen2 與/yu3 我/wo3 同在/tong2zai4 ，可是/ke3shi4 我/wo3 的/de5 吉他/ji2ta1 不/bu4 和/he2 我/wo3 同在/tong2zai4 ！
+= A-Jie : Vous voyez, Dieu est avec moi, mais ma guitare, elle, n'est pas avec moi !
+美玲/mei3ling2 ：阿傑/a1jie2 ，再/zai4 來/lai2 一/yi1 次/ci4 。路加/lu4jia1 ，你/ni3 也/ye3 一起/yi1qi3 唱/chang4 吧/ba5 ！
+= Meiling : A-Jie, on reprend. Luc, chante avec nous, toi aussi !
+路加/lu4jia1 ：可是/ke3shi4 我/wo3 唱/chang4 得/de5 不/bu4 好/hao3 ……
+= Luc : Mais je chante mal…
+小恩/xiao3en1 ：沒關係/mei2guan1xi5 ！神/shen2 不/bu4 看/kan4 你/ni3 唱/chang4 得/de5 好/hao3 不/bu4 好/hao3 ，祂/ta1 看/kan4 你/ni3 的/de5 心/xin1 。
+= Xiao En : Pas grave ! Dieu ne regarde pas si tu chantes bien ou pas, il regarde ton cœur.
+
+=== 063
+series: 061
+title_zh: 馬槽裡的嬰孩
+title_fr: Le bébé dans la crèche
+tagline: Installer la crèche — une mangeoire bien étrange, un roi sans chambre et le chat de Xiao Guang.
+song: 我們歡慶聖誕
+vocab: 馬槽=crèche, mangeoire | 世人=les hommes, tous les humains | 客店=auberge | 佈置=installer, décorer | 窮=pauvre
+---
+星期天/xing1qi1tian1 早上/zao3shang5 ，王師母/wang2shi1mu3 和/he2 路加/lu4jia1 在/zai4 教會/jiao4hui4 門口/men2kou3 佈置/bu4zhi4 馬槽/ma3cao2 。小光/xiao3guang1 也/ye3 來/lai2 幫忙/bang1mang2 。
+= Dimanche matin, Mme Wang et Luc installent la crèche à l'entrée de l'église. Xiao Guang vient aussi aider.
+小光/xiao3guang1 ：師母/shi1mu3 ，馬槽/ma3cao2 是/shi4 什麼/shen2me5 ？
+= Xiao Guang : Madame Wang, c'est quoi, une crèche ?
+王師母/wang2shi1mu3 ：馬槽/ma3cao2 是/shi4 給/gei3 牛/niu2 和/he2 馬/ma3 吃/chi1 東西/dong1xi5 的/de5 地方/di4fang5 。
+= Mme Wang : C'est l'endroit où les bœufs et les chevaux mangent.
+小光/xiao3guang1 ：耶穌/ye1su1 為什麼/wei4shen2me5 睡/shui4 在/zai4 馬槽/ma3cao2 裡/li3 ？好/hao3 髒/zang1 啊/a5 ！
+= Xiao Guang : Pourquoi Jésus dormait dans une mangeoire ? C'est trop sale !
+王師母/wang2shi1mu3 ：聖經/sheng4jing1 說/shuo1 ：「放/fang4 在/zai4 馬槽/ma3cao2 裡/li3 ，因為/yin1wei4 客店/ke4dian4 裡/li3 沒有/mei2you3 地方/di4fang5 。」（路加福音/lu4jia1fu2yin1 2:7）
+= Mme Wang : La Bible dit : « Elle le coucha dans une crèche, parce qu'il n'y avait pas de place pour eux dans l'hôtellerie. » (Luc 2:7)
+路加/lu4jia1 ：神/shen2 的/de5 兒子/er2zi5 沒有/mei2you3 房間/fang2jian1 ？真/zhen1 奇怪/qi2guai4 。
+= Luc : Le Fils de Dieu n'avait pas de chambre ? C'est vraiment bizarre.
+王師母/wang2shi1mu3 ：是/shi4 啊/a5 。祂/ta1 是/shi4 王/wang2 ，可是/ke3shi4 祂/ta1 降生/jiang4sheng1 在/zai4 一/yi1 個/ge4 很/hen3 窮/qiong2 的/de5 地方/di4fang5 。
+= Mme Wang : Eh oui. Il est roi, mais il est né dans un endroit très pauvre.
+王師母/wang2shi1mu3 ：因為/yin1wei4 神/shen2 愛/ai4 世人/shi4ren2 ，所以/suo3yi3 祂/ta1 願意/yuan4yi4 來/lai2 到/dao4 我們/wo3men5 中間/zhong1jian1 。
+= Mme Wang : Parce que Dieu aime les hommes, il a voulu venir au milieu de nous.
+路加/lu4jia1 ：「世人/shi4ren2 」是/shi4 誰/shei2 ？
+= Luc : « Les hommes », c'est qui ?
+王師母/wang2shi1mu3 ：世人/shi4ren2 就是/jiu4shi4 世界/shi4jie4 上/shang4 所有/suo3you3 的/de5 人/ren2 ：你/ni3 、我/wo3 、小光/xiao3guang1 ，都/dou1 是/shi4 。
+= Mme Wang : Les hommes, ce sont tous les gens du monde : toi, moi, Xiao Guang, tout le monde.
+小光/xiao3guang1 ：那/na4 我/wo3 的/de5 貓/mao1 呢/ne5 ？
+= Xiao Guang : Et mon chat, alors ?
+王師母/wang2shi1mu3 笑/xiao4 了/le5 ：「神/shen2 也/ye3 照顧/zhao4gu4 你/ni3 的/de5 貓/mao1 啊/a5 ！」
+= Mme Wang rit : « Dieu prend soin de ton chat aussi ! »
+然後/ran2hou4 ，他們/ta1men5 一起/yi1qi3 唱/chang4 《我們/wo3men5 歡慶/huan1qing4 聖誕/sheng4dan4》。
+= Ensuite, ils chantent ensemble « Nous célébrons Noël ».
+
+=== 064
+series: 061
+title_zh: 小光的台詞
+title_fr: La réplique de Xiao Guang
+tagline: La pièce de Noël des enfants — un ange qui voulait être une étoile, une phrase oubliée et beaucoup d'applaudissements.
+song: 明亮晨星
+vocab: 榮耀=gloire | 天使=ange | 主日學=école du dimanche | 演=jouer (un rôle) | 台詞=réplique
+---
+聖誕節/sheng4dan4jie2 前/qian2 的/de5 星期天/xing1qi1tian1 ，主日學/zhu3ri4xue2 的/de5 孩子們/hai2zi5men5 要/yao4 演/yan3 聖誕/sheng4dan4 故事/gu4shi5 。
+= Le dimanche avant Noël, les enfants de l'école du dimanche vont jouer l'histoire de Noël.
+小光/xiao3guang1 想/xiang3 演/yan3 星星/xing1xing5 ，可是/ke3shi4 老師/lao3shi1 說/shuo1 他/ta1 要/yao4 演/yan3 天使/tian1shi3 。
+= Xiao Guang voulait jouer l'étoile, mais la maîtresse a dit qu'il serait un ange.
+小光/xiao3guang1 ：天使/tian1shi3 只/zhi3 有/you3 一/yi1 句/ju4 台詞/tai2ci2 ，太/tai4 少/shao3 了/le5 ！
+= Xiao Guang : L'ange n'a qu'une seule réplique, c'est trop peu !
+美玲/mei3ling2 ：天使/tian1shi3 的/de5 台詞/tai2ci2 最/zui4 重要/zhong4yao4 呢/ne5 ！
+= Meiling : La réplique de l'ange est la plus importante, tu sais !
+小光/xiao3guang1 的/de5 台詞/tai2ci2 是/shi4 ：「在/zai4 至高/zhi4gao1 之/zhi1 處/chu4 榮耀/rong2yao4 歸/gui1 與/yu3 神/shen2 ！」（路加福音/lu4jia1fu2yin1 2:14）
+= La réplique de Xiao Guang : « Gloire à Dieu dans les lieux très hauts ! » (Luc 2:14)
+路加/lu4jia1 ：小恩/xiao3en1 ，「榮耀/rong2yao4 」是/shi4 什麼/shen2me5 意思/yi4si5 ？
+= Luc : Xiao En, que veut dire « gloire » ?
+小恩/xiao3en1 ：就是/jiu4shi4 說/shuo1 神/shen2 最/zui4 偉大/wei3da4 ，所有/suo3you3 的/de5 讚美/zan4mei3 都/dou1 是/shi4 祂/ta1 的/de5 。
+= Xiao En : Ça veut dire que Dieu est le plus grand, et que toute la louange lui revient.
+演出/yan3chu1 的/de5 時候/shi2hou5 ，小光/xiao3guang1 站/zhan4 在/zai4 台/tai2 上/shang4 ，看/kan4 了/le5 看/kan4 大家/da4jia1 …… 他/ta1 忘/wang4 了/le5 ！
+= Pendant la pièce, Xiao Guang se tient sur l'estrade, regarde tout le monde… Il a oublié !
+大家/da4jia1 都/dou1 很/hen3 緊張/jin3zhang1 。突然/tu2ran2 ，小光/xiao3guang1 大聲/da4sheng1 說/shuo1 ：「榮耀/rong2yao4 ！都/dou1 給/gei3 神/shen2 ！」
+= Tout le monde retient son souffle. Soudain, Xiao Guang crie : « La gloire ! Toute à Dieu ! »
+大家/da4jia1 都/dou1 笑/xiao4 了/le5 ，也/ye3 拍手/pai1shou3 了/le5 。
+= Tout le monde rit et applaudit.
+美玲/mei3ling2 ：他/ta1 說/shuo1 得/de5 不/bu4 完全/wan2quan2 對/dui4 ，可是/ke3shi4 意思/yi4si5 完全/wan2quan2 對/dui4 ！
+= Meiling : Ce n'était pas tout à fait le texte, mais le sens était parfaitement juste !
+最後/zui4hou4 ，孩子們/hai2zi5men5 一起/yi1qi3 唱/chang4 《明亮/ming2liang4 晨星/chen2xing1》，小光/xiao3guang1 唱/chang4 得/de5 最/zui4 大聲/da4sheng1 。
+= À la fin, les enfants chantent ensemble « Brillante étoile du matin », et c'est Xiao Guang qui chante le plus fort.
+
+=== 065
+series: 061
+title_zh: 最好的禮物
+title_fr: Le plus beau cadeau
+tagline: Courses au marché de nuit — du thé pour Mme Wang, un poulet frit pour Luc et un cadeau qu'il faut ouvrir.
+song: 最美的禮物
+vocab: 禮物=cadeau | 福音=Évangile ; bonne nouvelle | 接受=accepter, recevoir | 消息=nouvelle, information | 比=plus que (comparaison)
+---
+路加/lu4jia1 和/he2 小恩/xiao3en1 在/zai4 士林夜市/shi4lin2ye4shi4 買/mai3 聖誕/sheng4dan4 禮物/li3wu4 。
+= Luc et Xiao En achètent des cadeaux de Noël au marché de nuit de Shilin.
+路加/lu4jia1 ：我/wo3 想/xiang3 送/song4 王牧師/wang2mu4shi1 他們/ta1men5 禮物/li3wu4 。買/mai3 什麼/shen2me5 好/hao3 呢/ne5 ？
+= Luc : Je voudrais offrir un cadeau au pasteur Wang et sa femme. Qu'est-ce que je pourrais acheter ?
+小恩/xiao3en1 ：師母/shi1mu3 喜歡/xi3huan5 喝/he1 茶/cha2 ，你/ni3 可以/ke3yi3 買/mai3 一點/yi1dian3 台灣/tai2wan1 茶/cha2 。
+= Xiao En : Mme Wang aime le thé, tu peux acheter un peu de thé de Taïwan.
+路加/lu4jia1 買/mai3 了/le5 茶/cha2 ，也/ye3 買/mai3 了/le5 一/yi1 個/ge4 很/hen3 大/da4 的/de5 雞排/ji1pai2 。
+= Luc achète du thé, et aussi une énorme escalope de poulet frit.
+路加/lu4jia1 ：這/zhe4 個/ge4 雞排/ji1pai2 是/shi4 我/wo3 給/gei3 自己/zi4ji3 的/de5 禮物/li3wu4 ！
+= Luc : Ce poulet frit, c'est mon cadeau à moi !
+小恩/xiao3en1 笑/xiao4 了/le5 ：「你/ni3 知道/zhi1dao5 嗎/ma5 ？聖誕節/sheng4dan4jie2 有/you3 一/yi1 個/ge4 最/zui4 好/hao3 的/de5 禮物/li3wu4 。」
+= Xiao En rit : « Tu sais, à Noël, il y a un cadeau qui est le meilleur de tous. »
+路加/lu4jia1 ：是/shi4 什麼/shen2me5 ？比/bi3 雞排/ji1pai2 好/hao3 嗎/ma5 ？
+= Luc : C'est quoi ? C'est mieux qu'un poulet frit ?
+小恩/xiao3en1 ：比/bi3 雞排/ji1pai2 好/hao3 多/duo1 了/le5 ！神/shen2 送給/song4gei3 我們/wo3men5 耶穌/ye1su1 ，這/zhe4 就是/jiu4shi4 「福音/fu2yin1 」。
+= Xiao En : Bien mieux ! Dieu nous a donné Jésus : c'est ça, « l'Évangile ».
+路加/lu4jia1 ：福音/fu2yin1 …… 是/shi4 「好/hao3 消息/xiao1xi5 」的/de5 意思/yi4si5 嗎/ma5 ？
+= Luc : L'Évangile… ça veut dire « bonne nouvelle » ?
+小恩/xiao3en1 ：對/dui4 ！可是/ke3shi4 禮物/li3wu4 要/yao4 打開/da3kai1 ，要/yao4 接受/jie1shou4 ，才/cai2 是/shi4 你/ni3 的/de5 。
+= Xiao En : Oui ! Mais un cadeau, il faut l'ouvrir, l'accepter ; alors seulement il est à toi.
+路加/lu4jia1 ：接受/jie1shou4 …… 我/wo3 還/hai2 在/zai4 想/xiang3 。
+= Luc : L'accepter… J'y réfléchis encore.
+小恩/xiao3en1 ：沒關係/mei2guan1xi5 ，慢慢/man4man4 想/xiang3 。這/zhe4 個/ge4 禮物/li3wu4 會/hui4 一直/yi1zhi2 在/zai4 那裡/na4li3 。
+= Xiao En : Pas de souci, prends ton temps. Ce cadeau sera toujours là.
+回家/hui2jia1 的/de5 路/lu4 上/shang4 ，小恩/xiao3en1 輕輕/qing1qing1 地/de5 唱/chang4 《最/zui4 美/mei3 的/de5 禮物/li3wu4》。
+= Sur le chemin du retour, Xiao En fredonne doucement « Le plus beau cadeau ».
+
+=== 066
+series: 061
+title_zh: 世界的光
+title_fr: La lumière du monde
+tagline: Illuminations à Xinyi — des soldes partout, un ami sceptique et une autre sorte de lumière.
+song: 世界之光
+vocab: 世界=monde | 光=lumière | 黑暗=obscur ; ténèbres | 打折=faire des soldes, une remise | 以前=avant, autrefois
+---
+晚上/wan3shang4 ，路加/lu4jia1 和/he2 大衛/da4wei4 在/zai4 信義區/xin4yi4qu1 看/kan4 聖誕燈/sheng4dan4deng1 。
+= Le soir, Luc et David regardent les illuminations de Noël dans le quartier de Xinyi.
+大衛/da4wei4 ：你/ni3 看/kan4 ，到處/dao4chu4 都/dou1 是/shi4 燈/deng1 ，到處/dao4chu4 都/dou1 在/zai4 打折/da3zhe2 。聖誕節/sheng4dan4jie2 就是/jiu4shi4 買/mai3 東西/dong1xi5 的/de5 節日/jie2ri4 吧/ba5 。
+= David : Regarde, des lumières partout, des soldes partout. Noël, c'est juste la fête du shopping, non ?
+路加/lu4jia1 ：以前/yi3qian2 我/wo3 也/ye3 這樣/zhe4yang4 想/xiang3 。可是/ke3shi4 在/zai4 教會/jiao4hui4 ，我/wo3 聽到/ting1dao4 了/le5 不/bu4 一樣/yi1yang4 的/de5 故事/gu4shi5 。
+= Luc : Avant, je pensais pareil. Mais à l'église, j'ai entendu une autre histoire.
+大衛/da4wei4 ：什麼/shen2me5 故事/gu4shi5 ？
+= David : Quelle histoire ?
+路加/lu4jia1 ：耶穌/ye1su1 說/shuo1 ：「我/wo3 是/shi4 世界/shi4jie4 的/de5 光/guang1 。」（約翰福音/yue1han4fu2yin1 8:12）
+= Luc : Jésus a dit : « Je suis la lumière du monde. » (Jean 8:12)
+大衛/da4wei4 ：光/guang1 ？這裡/zhe4li3 的/de5 光/guang1 已經/yi3jing1 夠/gou4 多/duo1 了/le5 ！
+= David : De la lumière ? Il y en a déjà bien assez ici !
+路加/lu4jia1 ：哈哈/ha1ha1 ，不/bu4 是/shi4 這/zhe4 種/zhong3 光/guang1 。小恩/xiao3en1 說/shuo1 ，人/ren2 的/de5 心/xin1 有時候/you3shi2hou5 很/hen3 黑暗/hei1an4 ，耶穌/ye1su1 來/lai2 ，就是/jiu4shi4 要/yao4 照亮/zhao4liang4 我們/wo3men5 。
+= Luc : Haha, pas ce genre de lumière. Xiao En dit que le cœur de l'homme est parfois très sombre, et que Jésus est venu pour nous éclairer.
+大衛/da4wei4 ：那/na4 你/ni3 信/xin4 了/le5 嗎/ma5 ？
+= David : Et toi, tu y crois maintenant ?
+路加/lu4jia1 想/xiang3 了/le5 一下/yi1xia4 ：「我/wo3 還/hai2 不/bu4 知道/zhi1dao5 。可是/ke3shi4 我/wo3 比/bi3 以前/yi3qian2 更/geng4 想/xiang3 知道/zhi1dao5 。」
+= Luc réfléchit un instant : « Je ne sais pas encore. Mais j'ai plus envie de savoir qu'avant. »
+大衛/da4wei4 ：好/hao3 吧/ba5 ，哲學系/zhe2xue2xi4 的/de5 學生/xue2sheng1 也/ye3 喜歡/xi3huan5 問/wen4 問題/wen4ti2 。聖誕/sheng4dan4 晚會/wan3hui4 ，我/wo3 跟/gen1 你/ni3 去/qu4 看看/kan4kan5 。
+= David : Bon, les étudiants en philo aiment aussi poser des questions. Je viendrai voir la soirée de Noël avec toi.
+路加/lu4jia1 ：真的/zhen1de5 ？太/tai4 好/hao3 了/le5 ！他們/ta1men5 會/hui4 唱/chang4 《世界/shi4jie4 之/zhi1 光/guang1》。
+= Luc : C'est vrai ? Génial ! Ils chanteront « Lumière du monde ».
+大衛/da4wei4 ：先/xian1 說/shuo1 好/hao3 ，我/wo3 是/shi4 為了/wei4le5 吃/chi1 的/de5 東西/dong1xi5 才/cai2 去/qu4 的/de5 ！
+= David : Mettons les choses au clair : je n'y vais que pour le buffet !
+
+@series 067 | 報佳音 | Annoncer la bonne nouvelle | La nuit de Noël : chanter dans les rues, à l'hôpital et chez Mamie Chen, puis le culte de Noël et un appel de France.
+
+=== 067
+series: 067
+title_zh: 去報佳音
+title_fr: Chanter Noël dans la ville
+tagline: Le soir du 24 décembre — une guitare, une lanterne rouge et une voisine qui ouvre sa porte.
+song: 我們歡迎君王降臨
+vocab: 報佳音=aller chanter Noël (annoncer la bonne nouvelle) | 佳音=bonne nouvelle | 信息=message, nouvelle | 燈籠=lanterne | 牧羊人=berger
+---
+十二月/shi2er4yue4 二十四/er4shi2si4 日/ri4 晚上/wan3shang4 ，教會/jiao4hui4 的/de5 年輕人/nian2qing1ren2 要/yao4 去/qu4 報佳音/bao4jia1yin1 。
+= Le soir du 24 décembre, les jeunes de l'église partent chanter Noël dans la ville.
+路加/lu4jia1 ：「報佳音/bao4jia1yin1 」是/shi4 什麼/shen2me5 ？
+= Luc : « Baojiayin », qu'est-ce que c'est ?
+阿傑/a1jie2 ：「佳音/jia1yin1 」就是/jiu4shi4 好/hao3 消息/xiao1xi5 。我們/wo3men5 去/qu4 街/jie1 上/shang4 、去/qu4 朋友/peng2you5 家/jia1 唱歌/chang4ge1 ，告訴/gao4su4 大家/da4jia1 耶穌/ye1su1 降生/jiang4sheng1 了/le5 ！
+= A-Jie : « Jiayin », c'est une bonne nouvelle. On va chanter dans la rue et chez des amis pour annoncer à tout le monde que Jésus est né !
+美玲/mei3ling2 ：天使/tian1shi3 對/dui4 牧羊人/mu4yang2ren2 說/shuo1 ：「我/wo3 報/bao4 給/gei3 你們/ni3men5 大/da4 喜/xi3 的/de5 信息/xin4xi1 。」（路加福音/lu4jia1fu2yin1 2:10）我們/wo3men5 也/ye3 一樣/yi1yang4 。
+= Meiling : L'ange a dit aux bergers : « Je vous annonce une bonne nouvelle, qui sera le sujet d'une grande joie. » (Luc 2:10) Nous faisons pareil.
+阿傑/a1jie2 拿/na2 著/zhe5 吉他/ji2ta1 ，小恩/xiao3en1 拿/na2 著/zhe5 歌本/ge1ben3 ，路加/lu4jia1 拿/na2 著/zhe5 一/yi1 個/ge4 紅色/hong2se4 的/de5 燈籠/deng1long2 。
+= A-Jie porte sa guitare, Xiao En le carnet de chants, et Luc une lanterne rouge.
+外面/wai4mian4 很/hen3 冷/leng3 ，可是/ke3shi4 大家/da4jia1 都/dou1 很/hen3 開心/kai1xin1 。
+= Dehors il fait froid, mais tout le monde est joyeux.
+他們/ta1men5 在/zai4 一/yi1 個/ge4 公寓/gong1yu4 門口/men2kou3 唱/chang4 《我們/wo3men5 歡迎/huan1ying2 君王/jun1wang2 降臨/jiang4lin2》。
+= Devant un immeuble, ils chantent « Nous accueillons la venue du Roi ».
+一/yi1 位/wei4 阿姨/a1yi2 開/kai1 了/le5 門/men2 ，聽/ting1 了/le5 很/hen3 久/jiu3 ，還/hai2 給/gei3 了/le5 他們/ta1men5 一/yi1 包/bao1 餅乾/bing3gan1 。
+= Une dame ouvre la porte, écoute longtemps, et leur donne même un paquet de biscuits.
+阿姨/a1yi2 ：謝謝/xie4xie5 你們/ni3men5 ！好久/hao3jiu3 沒有/mei2you3 人/ren2 來/lai2 唱歌/chang4ge1 給/gei3 我/wo3 聽/ting1 了/le5 。
+= La dame : Merci à vous ! Ça faisait longtemps que personne n'était venu chanter pour moi.
+路加/lu4jia1 ：阿傑/a1jie2 ，她/ta1 是/shi4 基督徒/ji1du1tu2 嗎/ma5 ？
+= Luc : A-Jie, elle est chrétienne ?
+阿傑/a1jie2 ：不/bu4 是/shi4 。可是/ke3shi4 好/hao3 消息/xiao1xi5 是/shi4 給/gei3 每/mei3 一/yi1 個/ge4 人/ren2 的/de5 ！
+= A-Jie : Non. Mais la bonne nouvelle est pour tout le monde !
+路加/lu4jia1 看/kan4 著/zhe5 手/shou3 裡/li3 的/de5 燈籠/deng1long2 ，心/xin1 裡/li3 也/ye3 覺得/jue2de5 暖暖/nuan3nuan3 的/de5 。
+= Luc regarde la lanterne dans sa main et sent, lui aussi, une chaleur dans son cœur.
+
+=== 068
+series: 067
+title_zh: 醫院裡的歌
+title_fr: Un chant à l'hôpital
+tagline: Neuf heures du soir à l'hôpital — un vieil homme seul, des larmes et un mot nouveau : l'espérance.
+song: 有一位神
+vocab: 盼望=espérance ; espérer | 醫院=hôpital | 護士=infirmière, infirmier | 難過=triste | 記得=se souvenir de
+---
+晚上/wan3shang4 九/jiu3 點/dian3 ，他們/ta1men5 到/dao4 了/le5 醫院/yi1yuan4 。王牧師/wang2mu4shi1 也/ye3 來/lai2 了/le5 。
+= À neuf heures du soir, ils arrivent à l'hôpital. Le pasteur Wang est venu aussi.
+護士/hu4shi4 說/shuo1 ：「你們/ni3men5 可以/ke3yi3 在/zai4 三/san1 樓/lou2 唱/chang4 ，可是/ke3shi4 要/yao4 小聲/xiao3sheng1 一點/yi1dian3 。」
+= L'infirmière dit : « Vous pouvez chanter au troisième étage, mais un peu moins fort. »
+三/san1 樓/lou2 有/you3 一/yi1 位/wei4 老先生/lao3xian1sheng5 ，一/yi1 個/ge4 人/ren2 坐/zuo4 在/zai4 床/chuang2 上/shang4 ，看起來/kan4qi3lai2 很/hen3 難過/nan2guo4 。
+= Au troisième étage, un vieux monsieur est assis seul sur son lit ; il a l'air très triste.
+他們/ta1men5 輕輕/qing1qing1 地/de5 唱/chang4 《有/you3 一/yi1 位/wei4 神/shen2》。
+= Ils chantent doucement « Il y a un Dieu ».
+老先生/lao3xian1sheng5 聽/ting1 著/zhe5 聽/ting1 著/zhe5 ，就/jiu4 哭/ku1 了/le5 。
+= En écoutant, le vieux monsieur se met à pleurer.
+唱/chang4 完/wan2 以後/yi3hou4 ，王牧師/wang2mu4shi1 拉/la1 著/zhe5 他/ta1 的/de5 手/shou3 ，為/wei4 他/ta1 禱告/dao3gao4 。
+= Après le chant, le pasteur Wang lui prend la main et prie pour lui.
+老先生/lao3xian1sheng5 ：我/wo3 太太/tai4tai5 去年/qu4nian2 走/zou3 了/le5 。我/wo3 以為/yi3wei2 今年/jin1nian2 沒有/mei2you3 人/ren2 記得/ji4de5 我/wo3 。
+= Le vieux monsieur : Ma femme nous a quittés l'an dernier. Je croyais que cette année, plus personne ne penserait à moi.
+王牧師/wang2mu4shi1 ：神/shen2 記得/ji4de5 你/ni3 。祂/ta1 來/lai2 到/dao4 世界/shi4jie4 上/shang4 ，就是/jiu4shi4 要/yao4 給/gei3 我們/wo3men5 盼望/pan4wang4 。
+= Le pasteur Wang : Dieu se souvient de vous. Il est venu dans le monde justement pour nous donner l'espérance.
+老先生/lao3xian1sheng5 ：盼望/pan4wang4 …… 我/wo3 已經/yi3jing1 很/hen3 久/jiu3 沒有/mei2you3 盼望/pan4wang4 了/le5 。
+= Le vieux monsieur : L'espérance… Ça fait longtemps que je n'en ai plus.
+出來/chu1lai2 以後/yi3hou4 ，路加/lu4jia1 一直/yi1zhi2 沒有/mei2you3 說話/shuo1hua4 。
+= En sortant, Luc reste longtemps silencieux.
+路加/lu4jia1 ：小恩/xiao3en1 ，盼望/pan4wang4 是/shi4 什麼/shen2me5 ？
+= Luc : Xiao En, c'est quoi, l'espérance ?
+小恩/xiao3en1 ：盼望/pan4wang4 就是/jiu4shi4 知道/zhi1dao5 明天/ming2tian1 還/hai2 有/you3 光/guang1 ，因為/yin1wei4 神/shen2 還/hai2 在/zai4 。
+= Xiao En : L'espérance, c'est savoir qu'il y aura encore de la lumière demain, parce que Dieu est toujours là.
+路加/lu4jia1 點/dian3 了/le5 點/dian3 頭/tou2 。他/ta1 忘/wang4 不/bu4 了/le5 老先生/lao3xian1sheng5 的/de5 眼淚/yan3lei4 。
+= Luc hoche la tête. Il n'arrive pas à oublier les larmes du vieux monsieur.
+
+=== 069
+series: 067
+title_zh: 陳奶奶的雞湯
+title_fr: Le bouillon de Mamie Chen
+tagline: Dernière étape chez Mamie Chen — une soupe brûlante, soixante ans de foi et une toute petite graine.
+song: 耶穌愛你
+vocab: 信心=foi, confiance | 種子=graine, semence | 雞湯=bouillon de poulet | 長大=grandir | 台語=taïwanais (langue)
+---
+最後/zui4hou4 一/yi1 站/zhan4 是/shi4 陳奶奶/chen2nai3nai5 家/jia1 。已經/yi3jing1 十一/shi2yi1 點/dian3 了/le5 ，奶奶/nai3nai5 還/hai2 在/zai4 等/deng3 他們/ta1men5 。
+= La dernière étape, c'est chez Mamie Chen. Il est déjà onze heures, mais elle les attend encore.
+陳奶奶/chen2nai3nai5 ：快/kuai4 進來/jin4lai2 ！外面/wai4mian4 冷/leng3 ，先/xian1 喝/he1 一/yi1 碗/wan3 雞湯/ji1tang1 ！
+= Mamie Chen : Entrez vite ! Il fait froid dehors, buvez d'abord un bol de bouillon !
+大家/da4jia1 喝/he1 了/le5 雞湯/ji1tang1 ，身體/shen1ti3 馬上/ma3shang4 暖/nuan3 了/le5 。
+= Tout le monde boit le bouillon, et ils se réchauffent aussitôt.
+路加/lu4jia1 ：奶奶/nai3nai5 ，您/nin2 信/xin4 耶穌/ye1su1 多久/duo1jiu3 了/le5 ？
+= Luc : Mamie, depuis combien de temps croyez-vous en Jésus ?
+陳奶奶/chen2nai3nai5 ：六十/liu4shi2 年/nian2 了/le5 。我/wo3 年輕/nian2qing1 的/de5 時候/shi2hou5 ，家/jia1 裡/li3 很/hen3 窮/qiong2 ，生活/sheng1huo2 很/hen3 苦/ku3 。
+= Mamie Chen : Soixante ans. Quand j'étais jeune, ma famille était très pauvre, la vie était dure.
+陳奶奶/chen2nai3nai5 ：一/yi1 位/wei4 老師/lao3shi1 帶/dai4 我/wo3 去/qu4 教會/jiao4hui4 。我/wo3 一/yi1 聽到/ting1dao4 「神/shen2 愛/ai4 世人/shi4ren2 」，就/jiu4 哭/ku1 了/le5 。
+= Mamie Chen : Une institutrice m'a emmenée à l'église. Dès que j'ai entendu « Dieu a tant aimé le monde », j'ai pleuré.
+路加/lu4jia1 ：那/na4 時候/shi2hou5 您/nin2 就/jiu4 相信/xiang1xin4 了/le5 嗎/ma5 ？
+= Luc : Et vous avez cru tout de suite ?
+陳奶奶/chen2nai3nai5 ：一/yi1 開始/kai1shi3 只/zhi3 有/you3 一點點/yi1dian3dian3 信心/xin4xin1 ，像/xiang4 一/yi1 粒/li4 小/xiao3 種子/zhong3zi5 。可是/ke3shi4 神/shen2 一直/yi1zhi2 照顧/zhao4gu4 我/wo3 ，信心/xin4xin1 就/jiu4 慢慢/man4man4 長大/zhang3da4 了/le5 。
+= Mamie Chen : Au début, je n'avais qu'un tout petit peu de foi, comme une petite graine. Mais Dieu a toujours pris soin de moi, et ma foi a grandi peu à peu.
+路加/lu4jia1 ：我/wo3 現在/xian4zai4 的/de5 信心/xin4xin1 ，可能/ke3neng2 比/bi3 一/yi1 粒/li4 種子/zhong3zi5 還/hai2 小/xiao3 。
+= Luc : Ma foi à moi, en ce moment, est peut-être encore plus petite qu'une graine.
+陳奶奶/chen2nai3nai5 笑/xiao4 著/zhe5 說/shuo1 ：「小/xiao3 也/ye3 沒關係/mei2guan1xi5 ，種子/zhong3zi5 會/hui4 長大/zhang3da4 的/de5 。」
+= Mamie Chen sourit : « Petite, ce n'est pas grave. Une graine, ça grandit. »
+走/zou3 以前/yi3qian2 ，奶奶/nai3nai5 用/yong4 台語/tai2yu3 說/shuo1 了/le5 一/yi1 句/ju4 話/hua4 。小恩/xiao3en1 翻譯/fan1yi4 ：「耶穌/ye1su1 愛/ai4 你/ni3 。」
+= Avant leur départ, Mamie dit une phrase en taïwanais. Xiao En traduit : « Jésus t'aime. »
+大家/da4jia1 在/zai4 客廳/ke4ting1 裡/li3 一起/yi1qi3 唱/chang4 了/le5 《耶穌/ye1su1 愛/ai4 你/ni3》。
+= Alors tout le monde chante « Jésus t'aime » ensemble dans le salon.
+
+=== 070
+series: 067
+title_zh: 聖誕節的早上
+title_fr: Le matin de Noël
+tagline: Le culte de Noël — une église pleine, un mot nouveau pour David et un chocolat chaud bien mérité.
+song: 榮耀歸於至高真神
+vocab: 救主=Sauveur | 喜悅=prendre plaisir à, agréer | 崇拜=culte | 溫暖=chaleureux, chaleur | 才=seulement (pas avant)
+---
+聖誕節/sheng4dan4jie2 早上/zao3shang5 ，教會/jiao4hui4 裡/li3 坐/zuo4 滿/man3 了/le5 人/ren2 。大衛/da4wei4 也/ye3 來/lai2 了/le5 ！
+= Le matin de Noël, l'église est pleine. David est venu, lui aussi !
+王牧師/wang2mu4shi1 ：今天/jin1tian1 我們/wo3men5 慶祝/qing4zhu4 耶穌/ye1su1 的/de5 降生/jiang4sheng1 。祂/ta1 是/shi4 我們/wo3men5 的/de5 救主/jiu4zhu3 。
+= Le pasteur Wang : Aujourd'hui, nous célébrons la naissance de Jésus. Il est notre Sauveur.
+大衛/da4wei4 小聲/xiao3sheng1 問/wen4 路加/lu4jia1 ：「救主/jiu4zhu3 是/shi4 什麼/shen2me5 ？」
+= David demande tout bas à Luc : « Le "Sauveur", c'est quoi ? »
+路加/lu4jia1 ：就是/jiu4shi4 「救/jiu4 我們/wo3men5 的/de5 主/zhu3 」。這/zhe4 個/ge4 詞/ci2 我/wo3 也/ye3 是/shi4 上/shang4 個/ge4 星期/xing1qi1 才/cai2 學到/xue2dao4 的/de5 。
+= Luc : C'est « le Seigneur qui nous sauve ». Moi aussi, je n'ai appris ce mot que la semaine dernière.
+王牧師/wang2mu4shi1 ：天使/tian1shi3 說/shuo1 ：「在/zai4 至高/zhi4gao1 之/zhi1 處/chu4 榮耀/rong2yao4 歸/gui1 與/yu3 神/shen2 ！在/zai4 地/di4 上/shang4 平安/ping2an1 歸/gui1 與/yu3 他/ta1 所/suo3 喜悅/xi3yue4 的/de5 人/ren2 ！」（路加福音/lu4jia1fu2yin1 2:14）
+= Le pasteur Wang : Les anges ont dit : « Gloire à Dieu dans les lieux très hauts, et paix sur la terre parmi les hommes qu'il agrée ! » (Luc 2:14)
+王牧師/wang2mu4shi1 ：神/shen2 從/cong2 天上/tian1shang4 來/lai2 到/dao4 地/di4 上/shang4 ，要/yao4 給/gei3 世人/shi4ren2 帶來/dai4lai2 平安/ping2an1 。
+= Le pasteur Wang : Dieu est descendu du ciel sur la terre pour apporter la paix aux hommes.
+敬拜團/jing4bai4tuan2 唱/chang4 《榮耀/rong2yao4 歸/gui1 於/yu2 至高/zhi4gao1 真/zhen1 神/shen2》，小恩/xiao3en1 唱/chang4 得/de5 很/hen3 美/mei3 。
+= L'équipe de louange chante « Gloire au vrai Dieu très-haut » ; Xiao En chante magnifiquement.
+大衛/da4wei4 ：歌/ge1 很/hen3 好聽/hao3ting1 ，可是/ke3shi4 我/wo3 還/hai2 不/bu4 太/tai4 懂/dong3 。
+= David : Les chants sont beaux, mais je ne comprends pas encore bien.
+路加/lu4jia1 ：我/wo3 也/ye3 是/shi4 。不過/bu4guo4 ，我/wo3 覺得/jue2de5 這裡/zhe4li3 的/de5 人/ren2 很/hen3 真/zhen1 。
+= Luc : Moi non plus. Mais je trouve que les gens d'ici sont vrais.
+崇拜/chong2bai4 以後/yi3hou4 ，王師母/wang2shi1mu3 給/gei3 每/mei3 個/ge4 人/ren2 一/yi1 杯/bei1 熱/re4 可可/ke3ke3 。
+= Après le culte, Mme Wang offre à chacun une tasse de chocolat chaud.
+大衛/da4wei4 ：這/zhe4 個/ge4 我/wo3 完全/wan2quan2 懂/dong3 ！
+= David : Ça, au moins, je comprends parfaitement !
+路加/lu4jia1 笑/xiao4 了/le5 。這/zhe4 是/shi4 他/ta1 在/zai4 台北/tai2bei3 的/de5 第一/di4yi1 個/ge4 聖誕節/sheng4dan4jie2 ，比/bi3 他/ta1 想/xiang3 的/de5 更/geng4 溫暖/wen1nuan3 。
+= Luc rit. C'est son premier Noël à Taipei, et il est bien plus chaleureux qu'il ne l'imaginait.

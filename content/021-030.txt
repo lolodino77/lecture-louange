@@ -1,0 +1,323 @@
+# Conversations 021–030 — niveau 1 (Débutant)
+
+=== 021
+series: 020
+title_zh: 阿傑的吉他
+title_fr: La guitare d'A-Jie
+tagline: Pendant la pause — une première leçon de guitare, des doigts douloureux et de la joie au cœur.
+song: 我有喜樂
+vocab: 吉他=guitare | 老師=professeur | 手指=doigt | 痛=avoir mal ; douleur | 喜樂=joie | 心裡=dans le cœur
+---
+休息/xiu1xi5 的/de5 時候/shi2hou5 ，阿傑/a1jie2 叫/jiao4 路加/lu4jia1 過來/guo4lai2 。
+= Pendant la pause, A-Jie appelle Luc.
+阿傑/a1jie2 ：你/ni3 想/xiang3 學/xue2 吉他/ji2ta1 嗎/ma5 ？
+= A-Jie : Tu veux apprendre la guitare ?
+路加/lu4jia1 ：想/xiang3 ！可是/ke3shi4 我/wo3 不/bu4 會/hui4 。
+= Luc : Oui ! Mais je ne sais pas jouer.
+阿傑/a1jie2 ：沒關係/mei2guan1xi5 ，我/wo3 是/shi4 很/hen3 好/hao3 的/de5 老師/lao3shi1 ！
+= A-Jie : Pas de souci, je suis un excellent prof !
+阿傑/a1jie2 給/gei3 路加/lu4jia1 他/ta1 的/de5 吉他/ji2ta1 。
+= A-Jie lui tend sa guitare.
+阿傑/a1jie2 ：手指/shou3zhi3 放/fang4 這裡/zhe4li3 ，對/dui4 ！
+= A-Jie : Mets tes doigts ici, voilà !
+路加/lu4jia1 彈/tan2 。聲音/sheng1yin1 很/hen3 奇怪/qi2guai4 。
+= Luc gratte. Le son est très bizarre.
+阿傑/a1jie2 ：哈哈/ha1ha1 ！沒關係/mei2guan1xi5 ，再/zai4 來/lai2 ！
+= A-Jie : Haha ! Pas grave, encore une fois !
+路加/lu4jia1 ：我/wo3 的/de5 手指/shou3zhi3 很/hen3 痛/tong4 ！
+= Luc : J'ai mal aux doigts !
+阿傑/a1jie2 ：我們/wo3men5 彈/tan2 《我/wo3 有/you3 喜樂/xi3le4 》吧/ba5 ，很/hen3 簡單/jian3dan1 。
+= A-Jie : Jouons « J'ai de la joie », c'est très simple.
+阿傑/a1jie2 ：手指/shou3zhi3 痛/tong4 ，可是/ke3shi4 心裡/xin1li3 有/you3 喜樂/xi3le4 ！
+= A-Jie : Les doigts ont mal, mais le cœur est dans la joie !
+路加/lu4jia1 笑/xiao4 ：「你/ni3 真/zhen1 的/de5 很/hen3 會/hui4 說/shuo1 ！」
+= Luc rit : « Toi, tu as vraiment réponse à tout ! »
+
+=== 022
+series: 020
+title_zh: 「祂」是誰？
+title_fr: Qui est « 祂 » ?
+tagline: Après la répétition — un caractère mystérieux, trois façons d'écrire « il » et un Dieu qui nous aime.
+song: 敬拜耶穌
+vocab: 祂=Il, Lui (Dieu) | 歌詞=paroles (d'une chanson) | 聲音=son, prononciation | 覺得=trouver, penser | 怎麼樣=comment (c'est) ?
+---
+練習/lian4xi2 以後/yi3hou4 ，美玲/mei3ling2 坐/zuo4 在/zai4 路加/lu4jia1 旁邊/pang2bian1 。
+= Après la répétition, Meiling s'assoit à côté de Luc.
+美玲/mei3ling2 ：路加/lu4jia1 ，你/ni3 覺得/jue2de5 我們/wo3men5 的/de5 歌/ge1 怎麼樣/zen3me5yang4 ？
+= Meiling : Luc, que penses-tu de nos chants ?
+路加/lu4jia1 ：很/hen3 好聽/hao3ting1 ！可是/ke3shi4 我/wo3 不/bu4 懂/dong3 一/yi1 個/ge4 字/zi4 。
+= Luc : C'est très beau ! Mais il y a un caractère que je ne comprends pas.
+路加/lu4jia1 指/zhi3 著/zhe5 歌詞/ge1ci2 上/shang4 的/de5 「祂/ta1 」。
+= Luc montre du doigt le « 祂 » dans les paroles.
+美玲/mei3ling2 ：這/zhe4 個/ge4 「祂/ta1 」，就/jiu4 是/shi4 神/shen2 。
+= Meiling : Ce « 祂 », c'est Dieu.
+美玲/mei3ling2 ：「他/ta1 」是/shi4 男生/nan2sheng1 ，「她/ta1 」是/shi4 女生/nv3sheng1 。
+= Meiling : « 他 », c'est pour un homme ; « 她 », pour une femme.
+美玲/mei3ling2 ：「祂/ta1 」是/shi4 神/shen2 ，也/ye3 是/shi4 耶穌/ye1su1 。
+= Meiling : Et « 祂 », c'est pour Dieu, et pour Jésus aussi.
+路加/lu4jia1 ：三/san1 個/ge4 字/zi4 ，聲音/sheng1yin1 都/dou1 一樣/yi1yang4 嗎/ma5 ？
+= Luc : Les trois se prononcent pareil ?
+美玲/mei3ling2 ：對/dui4 ！我們/wo3men5 今天/jin1tian1 也/ye3 練習/lian4xi2 《敬拜/jing4bai4 耶穌/ye1su1 》。
+= Meiling : Oui ! Aujourd'hui, on a aussi répété « Adorer Jésus ».
+美玲/mei3ling2 ：祂/ta1 愛/ai4 我們/wo3men5 ，我們/wo3men5 也/ye3 愛/ai4 祂/ta1 。
+= Meiling : Il nous aime, et nous l'aimons aussi.
+路加/lu4jia1 在/zai4 本子/ben3zi5 上/shang4 寫/xie3 下/xia4 「祂/ta1 」。
+= Luc écrit « 祂 » dans son cahier.
+
+=== 023
+series: 020
+title_zh: 白衣服的唱詩班
+title_fr: La chorale en blanc
+tagline: Au culte — une chorale en blanc, des voix multiples et un vieux chant cher à Mamie.
+song: 齊來讚美
+vocab: 唱詩班=chorale | 衣服=vêtements | 爺爺=grand-père, papi | 聲部=pupitre, voix | 記得=se souvenir
+---
+禮拜天/li3bai4tian1 ，教會/jiao4hui4 的/de5 唱詩班/chang4shi1ban1 唱歌/chang4ge1 。
+= Dimanche, c'est la chorale de l'église qui chante.
+他們/ta1men5 穿/chuan1 白色/bai2se4 的/de5 衣服/yi1fu5 。
+= Ils portent des habits blancs.
+唱詩班/chang4shi1ban1 裡/li3 有/you3 很/hen3 多/duo1 爺爺/ye2ye5 奶奶/nai3nai5 。
+= Dans la chorale, il y a beaucoup de papis et de mamies.
+他們/ta1men5 唱/chang4 《齊/qi2 來/lai2 讚美/zan4mei3 》。
+= Ils chantent « Venez tous louer ».
+路加/lu4jia1 ：好/hao3 好聽/hao3ting1 ！跟/gen1 敬拜團/jing4bai4tuan2 不/bu4 一樣/yi1yang4 。
+= Luc : C'est magnifique ! C'est différent de l'équipe de louange.
+小恩/xiao3en1 ：敬拜團/jing4bai4tuan2 有/you3 吉他/ji2ta1 和/he2 鼓/gu3 。
+= Xiao En : L'équipe de louange a des guitares et une batterie.
+小恩/xiao3en1 ：唱詩班/chang4shi1ban1 有/you3 鋼琴/gang1qin2 和/he2 很/hen3 多/duo1 聲部/sheng1bu4 。
+= Xiao En : La chorale a le piano et plein de voix différentes.
+路加/lu4jia1 ：你/ni3 喜歡/xi3huan1 哪/na3 一/yi1 個/ge4 ？
+= Luc : Laquelle tu préfères ?
+小恩/xiao3en1 ：都/dou1 喜歡/xi3huan1 ！都/dou1 是/shi4 讚美/zan4mei3 神/shen2 。
+= Xiao En : J'aime les deux ! Les deux louent Dieu.
+陳奶奶/chen2nai3nai5 坐/zuo4 在/zai4 前面/qian2mian4 ，也/ye3 小/xiao3 聲/sheng1 地/de5 唱/chang4 。
+= Mamie Chen, assise devant, chante aussi à voix basse.
+路加/lu4jia1 ：奶奶/nai3nai5 還/hai2 記得/ji4de5 每/mei3 個/ge4 字/zi4 ！
+= Luc : Mamie se souvient encore de chaque mot !
+小恩/xiao3en1 ：這/zhe4 是/shi4 奶奶/nai3nai5 的/de5 老/lao3 朋友/peng2you3 ！
+= Xiao En : Ce chant, c'est un vieil ami de Mamie !
+
+=== 024
+series: 020
+title_zh: 「祢」和「祂」
+title_fr: « 祢 » et « 祂 »
+tagline: Échange linguistique — deux caractères pour Dieu, une phrase d'entraînement et un malentendu.
+song: 耶穌我愛祢
+vocab: 祢=Tu, Toi (pour Dieu) | 祂=Il, Lui (pour Dieu) | 問題=question ; problème | 語言=langue | 左邊=côté gauche
+---
+星期三/xing1qi1san1 是/shi4 語言/yu3yan2 交換/jiao1huan4 的/de5 時間/shi2jian1 。
+= Le mercredi, c'est l'heure de l'échange linguistique.
+路加/lu4jia1 ：小恩/xiao3en1 ，我/wo3 有/you3 問題/wen4ti2 。
+= Luc : Xiao En, j'ai une question.
+路加/lu4jia1 ：這/zhe4 首/shou3 歌/ge1 叫/jiao4 《耶穌/ye1su1 我/wo3 愛/ai4 祢/ni3 》。
+= Luc : Cette chanson s'appelle « Jésus, je t'aime ».
+路加/lu4jia1 ：為什麼/wei4shen2me5 「祢/ni3 」不/bu4 是/shi4 「你/ni3 」？
+= Luc : Pourquoi c'est « 祢 » et pas « 你 » ?
+小恩/xiao3en1 ：跟/gen1 神/shen2 說話/shuo1hua4 ，我們/wo3men5 用/yong4 「祢/ni3 」。
+= Xiao En : Quand on parle à Dieu, on utilise « 祢 ».
+小恩/xiao3en1 ：說/shuo1 到/dao4 神/shen2 ，我們/wo3men5 用/yong4 「祂/ta1 」。
+= Xiao En : Quand on parle de Dieu, on utilise « 祂 ».
+路加/lu4jia1 ：兩/liang3 個/ge4 字/zi4 的/de5 左邊/zuo3bian1 都/dou1 一樣/yi1yang4 ！
+= Luc : Les deux caractères ont la même partie gauche !
+小恩/xiao3en1 ：對/dui4 ！這/zhe4 是/shi4 給/gei3 神/shen2 用/yong4 的/de5 字/zi4 。
+= Xiao En : Oui ! Ce sont des caractères réservés à Dieu.
+路加/lu4jia1 想/xiang3 一/yi1 想/xiang3 ，寫/xie3 ：「耶穌/ye1su1 ，我/wo3 愛/ai4 祢/ni3 。」
+= Luc réfléchit, puis écrit : « Jésus, je t'aime. »
+小恩/xiao3en1 ：哇/wa1 ！你/ni3 也/ye3 愛/ai4 耶穌/ye1su1 嗎/ma5 ？
+= Xiao En : Waouh ! Toi aussi, tu aimes Jésus ?
+路加/lu4jia1 ：不/bu4 是/shi4 ，我/wo3 只/zhi3 是/shi4 練習/lian4xi2 寫/xie3 字/zi4 ！
+= Luc : Non, non, je m'entraîne juste à écrire !
+兩/liang3 個/ge4 人/ren2 都/dou1 笑/xiao4 。
+= Ils éclatent de rire tous les deux.
+
+=== 025
+series: 020
+title_zh: 慈愛的天父
+title_fr: Un Père plein d'amour
+tagline: Un soir seul — un mot difficile, un père lointain et un verset sur l'amour.
+song: 慈愛天父
+vocab: 天父=Père céleste | 慈愛=amour tendre, bonté | 孩子=enfant | 工作=travailler ; travail | 聖經=Bible
+---
+晚上/wan3shang4 ，路加/lu4jia1 在/zai4 宿舍/su4she4 聽/ting1 《慈愛/ci2ai4 天父/tian1fu4 》。
+= Le soir, dans sa chambre, Luc écoute « Père plein d'amour ».
+他/ta1 不/bu4 懂/dong3 「慈愛/ci2ai4 」，就/jiu4 問/wen4 小恩/xiao3en1 。
+= Il ne comprend pas « 慈愛 », alors il demande à Xiao En.
+小恩/xiao3en1 回/hui2 ：「慈愛/ci2ai4 就/jiu4 是/shi4 溫柔/wen1rou2 的/de5 愛/ai4 。」
+= Xiao En répond : « 慈愛, c'est un amour plein de tendresse. »
+小恩/xiao3en1 ：「天父/tian1fu4 很/hen3 愛/ai4 祂/ta1 的/de5 孩子/hai2zi5 。」
+= Xiao En : « Le Père céleste aime beaucoup ses enfants. »
+路加/lu4jia1 想/xiang3 到/dao4 法國/fa3guo2 的/de5 爸爸/ba4ba5 。
+= Luc pense à son père, en France.
+爸爸/ba4ba5 工作/gong1zuo4 很/hen3 忙/mang2 ，不/bu4 常/chang2 說話/shuo1hua4 。
+= Son père travaille beaucoup et ne parle pas souvent.
+爸爸/ba4ba5 很/hen3 少/shao3 說/shuo1 「我/wo3 愛/ai4 你/ni3 」。
+= Il dit rarement « je t'aime ».
+路加/lu4jia1 寫/xie3 ：「天父/tian1fu4 會/hui4 說/shuo1 『我/wo3 愛/ai4 你/ni3 』嗎/ma5 ？」
+= Luc écrit : « Et le Père céleste, il dit "je t'aime" ? »
+小恩/xiao3en1 ：會/hui4 ！聖經/sheng4jing1 這樣/zhe4yang4 說/shuo1 ：
+= Xiao En : Oui ! La Bible dit ceci :
+「神/shen2 就/jiu4 是/shi4 愛/ai4 。」（約翰一書/yue1han4yi1shu1 4:16）
+= « Dieu est amour. » (1 Jean 4.16)
+路加/lu4jia1 看/kan4 著/zhe5 窗外/chuang1wai4 ，聽/ting1 那/na4 首/shou3 歌/ge1 很/hen3 久/jiu3 。
+= Luc regarde par la fenêtre et écoute longtemps la chanson.
+
+=== 026
+series: 020
+title_zh: 一起吃便當
+title_fr: Bentos partagés
+tagline: Après la répétition — un bento, une cuisse de poulet partagée et des joues qui rougissent.
+song: 彼此相愛
+vocab: 便當=bento, repas en boîte | 彼此=l'un l'autre | 相愛=s'aimer | 家庭=famille | 弟兄=frère (dans la foi) | 姐妹=sœur (dans la foi)
+---
+練習/lian4xi2 以後/yi3hou4 ，大家/da4jia1 一起/yi1qi3 吃/chi1 便當/bian4dang1 。
+= Après la répétition, tout le monde mange un bento ensemble.
+阿傑/a1jie2 ：路加/lu4jia1 ，你/ni3 的/de5 雞腿/ji1tui3 好/hao3 大/da4 ！
+= A-Jie : Luc, ta cuisse de poulet est énorme !
+路加/lu4jia1 ：你/ni3 要/yao4 吃/chi1 嗎/ma5 ？給/gei3 你/ni3 一半/yi1ban4 。
+= Luc : Tu en veux ? Je t'en donne la moitié.
+阿傑/a1jie2 ：哇/wa1 ！路加/lu4jia1 弟兄/di4xiong1 ，你/ni3 真/zhen1 好/hao3 ！
+= A-Jie : Waouh ! Frère Luc, t'es vraiment sympa !
+美玲/mei3ling2 ：這/zhe4 就/jiu4 是/shi4 《彼此/bi3ci3 相愛/xiang1ai4 》。
+= Meiling : Voilà, c'est ça, « S'aimer les uns les autres ».
+路加/lu4jia1 ：「彼此/bi3ci3 」是/shi4 什麼/shen2me5 ？
+= Luc : Que veut dire « 彼此 » ?
+小恩/xiao3en1 ：就/jiu4 是/shi4 「你/ni3 和/he2 我/wo3 」，我/wo3 愛/ai4 你/ni3 ，你/ni3 愛/ai4 我/wo3 。
+= Xiao En : Ça veut dire « l'un l'autre » : je t'aime, tu m'aimes.
+阿傑/a1jie2 看/kan4 看/kan4 小恩/xiao3en1 ，又/you4 看/kan4 看/kan4 路加/lu4jia1 。
+= A-Jie regarde Xiao En, puis Luc.
+小恩/xiao3en1 的/de5 臉/lian3 紅/hong2 紅/hong2 的/de5 。
+= Xiao En a les joues toutes rouges.
+小恩/xiao3en1 ：我/wo3 是/shi4 說/shuo1 弟兄/di4xiong1 姐妹/jie3mei4 ！
+= Xiao En : Je parlais des frères et sœurs !
+美玲/mei3ling2 ：對/dui4 ，教會/jiao4hui4 就/jiu4 是/shi4 一/yi1 個/ge4 大/da4 家庭/jia1ting2 。
+= Meiling : C'est ça : l'église est une grande famille.
+大家/da4jia1 都/dou1 笑/xiao4 。阿傑/a1jie2 吃/chi1 他/ta1 的/de5 雞腿/ji1tui3 。
+= Tout le monde rit. A-Jie mange sa cuisse de poulet.
+
+@series 027 | 小光的問題 | Les questions de Xiao Guang | Luc fait la connaissance de Xiao Guang, huit ans, dont les questions sur la foi, les anges, le paradis et la croix le font réfléchir.
+
+=== 027
+series: 027
+title_zh: 小光
+title_fr: Xiao Guang
+tagline: Un petit garçon — une question directe, un ami invisible et le vent.
+song: 我相信
+vocab: 相信=croire | 外國人=étranger | 歲=an (âge) | 風=vent | 涼快=frais, agréable
+---
+禮拜天/li3bai4tian1 ，一/yi1 個/ge4 小/xiao3 男孩/nan2hai2 跑/pao3 過來/guo4lai2 。
+= Dimanche, un petit garçon accourt.
+小光/xiao3guang1 ：你/ni3 是/shi4 外國人/wai4guo2ren2 嗎/ma5 ？
+= Xiao Guang : Tu es étranger ?
+路加/lu4jia1 ：對/dui4 ，我/wo3 是/shi4 法國/fa3guo2 人/ren2 。你/ni3 叫/jiao4 什麼/shen2me5 ？
+= Luc : Oui, je suis français. Comment tu t'appelles ?
+小光/xiao3guang1 ：我/wo3 叫/jiao4 小光/xiao3guang1 ，八/ba1 歲/sui4 。美玲/mei3ling2 是/shi4 我/wo3 媽媽/ma1ma5 ！
+= Xiao Guang : Je m'appelle Xiao Guang, j'ai huit ans. Meiling, c'est ma maman !
+小光/xiao3guang1 ：你/ni3 相信/xiang1xin4 耶穌/ye1su1 嗎/ma5 ？
+= Xiao Guang : Tu crois en Jésus ?
+路加/lu4jia1 ：我/wo3 ……我/wo3 不/bu4 知道/zhi1dao4 。
+= Luc : Je… je ne sais pas.
+小光/xiao3guang1 ：我/wo3 相信/xiang1xin4 ！耶穌/ye1su1 是/shi4 我/wo3 的/de5 好/hao3 朋友/peng2you3 。
+= Xiao Guang : Moi, j'y crois ! Jésus, c'est mon copain.
+路加/lu4jia1 ：你/ni3 看/kan4 不/bu4 到/dao4 祂/ta1 ，怎麼/zen3me5 相信/xiang1xin4 ？
+= Luc : Tu ne le vois pas ; comment peux-tu croire en lui ?
+小光/xiao3guang1 ：我/wo3 也/ye3 看/kan4 不/bu4 到/dao4 風/feng1 啊/a5 ！
+= Xiao Guang : Le vent non plus, je ne le vois pas !
+小光/xiao3guang1 ：可是/ke3shi4 風/feng1 來/lai2 的/de5 時候/shi2hou5 ，我/wo3 很/hen3 涼快/liang2kuai4 。
+= Xiao Guang : Mais quand il souffle, je sens la fraîcheur.
+小光/xiao3guang1 一邊/yi1bian1 唱/chang4 《我/wo3 相信/xiang1xin4 》，一邊/yi1bian1 跑/pao3 。
+= Xiao Guang repart en courant et en chantant « Je crois ».
+
+=== 028
+series: 027
+title_zh: 白色的翅膀
+title_fr: Des ailes blanches
+tagline: Un dessin d'enfant — des ailes blanches, des anges qui louent Dieu et un compliment inattendu.
+song: 天使心
+vocab: 天使=ange | 翅膀=aile | 幫助=aider | 姐姐=grande sœur | 畫=dessin ; dessiner
+---
+小光/xiao3guang1 拿/na2 著/zhe5 一/yi1 張/zhang1 畫/hua4 給/gei3 路加/lu4jia1 看/kan4 。
+= Xiao Guang montre un dessin à Luc.
+畫/hua4 上/shang4 有/you3 一/yi1 個/ge4 人/ren2 ，有/you3 白色/bai2se4 的/de5 翅膀/chi4bang3 。
+= Sur le dessin, il y a quelqu'un avec des ailes blanches.
+路加/lu4jia1 ：這/zhe4 是/shi4 鳥/niao3 嗎/ma5 ？
+= Luc : C'est un oiseau ?
+小光/xiao3guang1 ：不/bu4 是/shi4 啦/la5 ！這/zhe4 是/shi4 天使/tian1shi3 ！
+= Xiao Guang : Mais non ! C'est un ange !
+路加/lu4jia1 ：天使/tian1shi3 ？天使/tian1shi3 做/zuo4 什麼/shen2me5 ？
+= Luc : Un ange ? Et ça fait quoi, un ange ?
+小光/xiao3guang1 ：天使/tian1shi3 讚美/zan4mei3 神/shen2 ，也/ye3 幫助/bang1zhu4 人/ren2 。
+= Xiao Guang : Les anges louent Dieu, et ils aident les gens.
+小光/xiao3guang1 ：你/ni3 有/you3 天使/tian1shi3 嗎/ma5 ？
+= Xiao Guang : Toi, tu as un ange ?
+路加/lu4jia1 ：我/wo3 不/bu4 知道/zhi1dao4 。我/wo3 沒有/mei2you3 看/kan4 到/dao4 。
+= Luc : Je ne sais pas. Je n'en ai jamais vu.
+小光/xiao3guang1 想/xiang3 一/yi1 想/xiang3 ：「小恩/xiao3en1 姐姐/jie3jie5 是/shi4 你/ni3 的/de5 天使/tian1shi3 ！」
+= Xiao Guang réfléchit : « Grande sœur Xiao En, c'est ton ange ! »
+路加/lu4jia1 ：為什麼/wei4shen2me5 ？
+= Luc : Pourquoi ?
+小光/xiao3guang1 ：她/ta1 帶/dai4 你/ni3 來/lai2 教會/jiao4hui4 ，她/ta1 有/you3 《天使/tian1shi3 心/xin1 》！
+= Xiao Guang : Elle t'a amené à l'église ; elle a « un cœur d'ange » !
+小恩/xiao3en1 在/zai4 旁邊/pang2bian1 聽/ting1 到/dao4 ，笑/xiao4 ：「那/na4 是/shi4 一/yi1 首/shou3 歌/ge1 啦/la5 ！」
+= Xiao En, qui a tout entendu, rit : « Ça, c'est le titre d'une chanson ! »
+
+=== 029
+series: 027
+title_zh: 天堂在哪裡？
+title_fr: Où est le paradis ?
+tagline: Après l'école du dimanche — un avion, une glace imaginaire et la maison de Dieu.
+song: 天上的家
+vocab: 天堂=paradis, ciel | 主日學=école du dimanche | 哥哥=grand frère | 冰淇淋=glace | 天上=au ciel
+---
+主日學/zhu3ri4xue2 下課/xia4ke4 ，小光/xiao3guang1 又/you4 來/lai2 找/zhao3 路加/lu4jia1 。
+= Après l'école du dimanche, Xiao Guang revient voir Luc.
+小光/xiao3guang1 ：路加/lu4jia1 哥哥/ge1ge5 ，天堂/tian1tang2 在/zai4 哪裡/na3li3 ？
+= Xiao Guang : Grand frère Luc, où est le paradis ?
+路加/lu4jia1 ：天堂/tian1tang2 ？在/zai4 天上/tian1shang4 吧/ba5 ？
+= Luc : Le paradis ? Dans le ciel, sans doute ?
+小光/xiao3guang1 ：我/wo3 坐/zuo4 飛機/fei1ji1 ，沒有/mei2you3 看/kan4 到/dao4 天堂/tian1tang2 ！
+= Xiao Guang : J'ai pris l'avion, et je n'ai pas vu le paradis !
+路加/lu4jia1 笑/xiao4 。他/ta1 也/ye3 不/bu4 知道/zhi1dao4 。
+= Luc rit. Lui non plus ne sait pas.
+美玲/mei3ling2 走/zou3 過來/guo4lai2 ：「天堂/tian1tang2 是/shi4 神/shen2 的/de5 家/jia1 。」
+= Meiling s'approche : « Le paradis, c'est la maison de Dieu. »
+美玲/mei3ling2 ：我們/wo3men5 有/you3 一/yi1 首/shou3 歌/ge1 ，叫/jiao4 《天/tian1 上/shang4 的/de5 家/jia1 》。
+= Meiling : Nous avons un chant qui s'appelle « La maison du ciel ».
+小光/xiao3guang1 ：天堂/tian1tang2 有/you3 冰淇淋/bing1qi2lin2 嗎/ma5 ？
+= Xiao Guang : Il y a des glaces, au paradis ?
+美玲/mei3ling2 ：哈哈/ha1ha1 ，天堂/tian1tang2 有/you3 耶穌/ye1su1 ，最/zui4 好/hao3 ！
+= Meiling : Haha ! Au paradis, il y a Jésus : c'est encore mieux !
+小光/xiao3guang1 ：那/na4 我/wo3 要/yao4 去/qu4 ！路加/lu4jia1 哥哥/ge1ge5 也/ye3 要/yao4 去/qu4 ！
+= Xiao Guang : Alors je veux y aller ! Et grand frère Luc aussi !
+路加/lu4jia1 不/bu4 說話/shuo1hua4 。「天堂/tian1tang2 ……真/zhen1 的/de5 有/you3 嗎/ma5 ？」
+= Luc ne dit rien. « Le paradis… est-ce que ça existe vraiment ? »
+
+=== 030
+series: 027
+title_zh: 好牧人
+title_fr: Le bon berger
+tagline: À l'école du dimanche — une grande Bible, une brebis perdue et des mains qui se tiennent.
+song: 大手牽著小手
+vocab: 聖經=Bible | 故事=histoire | 牧人=berger | 羊=mouton, brebis | 迷路=se perdre | 幫忙=aider
+---
+美玲/mei3ling2 請/qing3 路加/lu4jia1 去/qu4 主日學/zhu3ri4xue2 幫忙/bang1mang2 。
+= Meiling demande à Luc de venir aider à l'école du dimanche.
+教室/jiao4shi4 裡/li3 有/you3 十/shi2 個/ge4 小/xiao3 朋友/peng2you3 。
+= Dans la salle, il y a dix enfants.
+美玲/mei3ling2 拿/na2 出/chu1 一/yi1 本/ben3 大/da4 書/shu1 ：「這/zhe4 是/shi4 聖經/sheng4jing1 。」
+= Meiling sort un gros livre : « Voici la Bible. »
+美玲/mei3ling2 ：今天/jin1tian1 的/de5 故事/gu4shi5 是/shi4 「好/hao3 牧人/mu4ren2 」。
+= Meiling : L'histoire d'aujourd'hui, c'est « le bon berger ».
+美玲/mei3ling2 ：牧人/mu4ren2 有/you3 一百/yi1bai3 隻/zhi1 羊/yang2 ，一/yi1 隻/zhi1 迷路/mi2lu4 。
+= Meiling : Un berger a cent brebis ; l'une d'elles se perd.
+美玲/mei3ling2 ：牧人/mu4ren2 去/qu4 找/zhao3 ，找/zhao3 到/dao4 就/jiu4 很/hen3 高興/gao1xing4 。
+= Meiling : Le berger part la chercher ; quand il la trouve, il est fou de joie.
+小光/xiao3guang1 ：耶穌/ye1su1 就/jiu4 是/shi4 好/hao3 牧人/mu4ren2 ！
+= Xiao Guang : Le bon berger, c'est Jésus !
+一/yi1 個/ge4 小/xiao3 女孩/nv3hai2 拉/la1 著/zhe5 路加/lu4jia1 的/de5 手/shou3 。
+= Une petite fille prend la main de Luc.
+小/xiao3 女孩/nv3hai2 ：哥哥/ge1ge5 ，我們/wo3men5 唱/chang4 《大/da4 手/shou3 牽/qian1 著/zhe5 小/xiao3 手/shou3 》！
+= La petite fille : Grand frère, chantons « La grande main tient la petite » !
+大家/da4jia1 手/shou3 牽/qian1 手/shou3 ，一起/yi1qi3 唱/chang4 。
+= Tous se tiennent la main et chantent ensemble.
+路加/lu4jia1 想/xiang3 ：「我/wo3 是/shi4 那/na4 隻/zhi1 迷路/mi2lu4 的/de5 羊/yang2 嗎/ma5 ？」
+= Luc pense : « Est-ce que je suis la brebis perdue ? »

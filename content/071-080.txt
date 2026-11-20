@@ -1,0 +1,333 @@
+# Tranche 071–080 — niveau 2 (Élémentaire) — fin décembre année 1 – janvier année 2
+
+=== 071
+series: 067
+title_zh: 媽媽的電話
+title_fr: L'appel de maman
+tagline: Le soir de Noël — un appel vers la France, une famille inattendue et un mot nouveau : la reconnaissance.
+song: 這一生最美的祝福
+vocab: 感恩=reconnaissance ; rendre grâce | 孤單=seul, solitaire | 放心=être rassuré | 家庭=famille, foyer | 從來=jamais (jusqu'ici)
+---
+聖誕節/sheng4dan4jie2 晚上/wan3shang4 ，路加/lu4jia1 打/da3 電話/dian4hua4 給/gei3 在/zai4 法國/fa3guo2 的/de5 媽媽/ma1ma5 。法國/fa3guo2 那邊/na4bian1 是/shi4 中午/zhong1wu3 。
+= Le soir de Noël, Luc appelle sa mère en France. Là-bas, il est midi.
+媽媽/ma1ma5 ：路加/lu4jia1 ！聖誕/sheng4dan4 快樂/kuai4le4 ！你/ni3 一/yi1 個/ge4 人/ren2 過/guo4 聖誕節/sheng4dan4jie2 ，會/hui4 不/bu4 會/hui4 很/hen3 孤單/gu1dan1 ？
+= Maman : Luc ! Joyeux Noël ! Tu passes Noël tout seul, tu ne te sens pas trop seul ?
+路加/lu4jia1 ：不/bu4 會/hui4 ！我/wo3 昨天/zuo2tian1 晚上/wan3shang4 去/qu4 報佳音/bao4jia1yin1 了/le5 ，今天/jin1tian1 早上/zao3shang5 也/ye3 去/qu4 了/le5 教會/jiao4hui4 。
+= Luc : Pas du tout ! Hier soir, je suis allé chanter Noël dans la ville, et ce matin je suis allé à l'église.
+媽媽/ma1ma5 ：教會/jiao4hui4 ？你/ni3 以前/yi3qian2 從來/cong2lai2 不/bu4 去/qu4 教會/jiao4hui4 的/de5 ！
+= Maman : L'église ? Toi qui n'y allais jamais !
+路加/lu4jia1 ：我/wo3 知道/zhi1dao5 …… 可是/ke3shi4 這裡/zhe4li3 的/de5 人/ren2 像/xiang4 一/yi1 個/ge4 大/da4 家庭/jia1ting2 。
+= Luc : Je sais… Mais les gens d'ici sont comme une grande famille.
+路加/lu4jia1 ：陳奶奶/chen2nai3nai5 給/gei3 我/wo3 喝/he1 雞湯/ji1tang1 ，王師母/wang2shi1mu3 給/gei3 我/wo3 喝/he1 熱/re4 可可/ke3ke3 ，我/wo3 吃/chi1 得/de5 比/bi3 在/zai4 家/jia1 裡/li3 還/hai2 多/duo1 ！
+= Luc : Mamie Chen m'a donné du bouillon, Mme Wang du chocolat chaud ; je mange encore plus qu'à la maison !
+媽媽/ma1ma5 笑/xiao4 了/le5 ：「那/na4 我/wo3 就/jiu4 放心/fang4xin1 了/le5 。」
+= Maman rit : « Alors me voilà rassurée. »
+路加/lu4jia1 ：媽媽/ma1ma5 ，我/wo3 今年/jin1nian2 學到/xue2dao4 一/yi1 個/ge4 中文/zhong1wen2 詞/ci2 ：「感恩/gan3en1 」。
+= Luc : Maman, cette année, j'ai appris un mot chinois : « gan'en ».
+媽媽/ma1ma5 ：什麼/shen2me5 意思/yi4si5 ？
+= Maman : Qu'est-ce que ça veut dire ?
+路加/lu4jia1 ：就是/jiu4shi4 心/xin1 裡/li3 很/hen3 感謝/gan3xie4 。我/wo3 現在/xian4zai4 很/hen3 感恩/gan3en1 ，因為/yin1wei4 我/wo3 不/bu4 是/shi4 一/yi1 個/ge4 人/ren2 。
+= Luc : C'est être reconnaissant au fond du cœur. En ce moment, je suis plein de reconnaissance, parce que je ne suis pas seul.
+媽媽/ma1ma5 ：路加/lu4jia1 ，你/ni3 變/bian4 了/le5 ，好像/hao3xiang4 長大/zhang3da4 了/le5 一點/yi1dian3 。
+= Maman : Luc, tu as changé. On dirait que tu as un peu grandi.
+掛/gua4 了/le5 電話/dian4hua4 ，路加/lu4jia1 聽/ting1 了/le5 一/yi1 首/shou3 《這/zhe4 一生/yi1sheng1 最/zui4 美/mei3 的/de5 祝福/zhu4fu2》。
+= Après avoir raccroché, Luc écoute « La plus belle bénédiction de ma vie ».
+
+@series 072 | 新年新開始 | Une année nouvelle | Fin décembre – janvier : compter les bienfaits, prendre des résolutions et faire ses premiers pas dans la Bible.
+
+=== 072
+series: 072
+title_zh: 數一數
+title_fr: Compter les bienfaits
+tagline: Le 31 décembre sur la colline de l'Éléphant — un jeu de reconnaissance, trois guitares et un merci murmuré.
+song: 數算恩典
+vocab: 數算=compter, énumérer | 煙火=feu d'artifice | 遊戲=jeu | 件=classificateur (choses, événements) | 認識=connaître, faire la connaissance de
+---
+十二月/shi2er4yue4 三十一/san1shi2yi1 日/ri4 晚上/wan3shang4 ，路加/lu4jia1 、小恩/xiao3en1 、阿傑/a1jie2 和/he2 大衛/da4wei4 在/zai4 象山/xiang4shan1 上/shang4 等/deng3 台北/tai2bei3 101 的/de5 煙火/yan1huo3 。
+= Le soir du 31 décembre, Luc, Xiao En, A-Jie et David attendent le feu d'artifice de Taipei 101 sur la colline de l'Éléphant.
+人/ren2 很/hen3 多/duo1 ，大家/da4jia1 等/deng3 得/de5 有點/you3dian3 累/lei4 了/le5 。
+= Il y a foule, et tout le monde commence à être fatigué d'attendre.
+小恩/xiao3en1 ：我們/wo3men5 來/lai2 玩/wan2 一/yi1 個/ge4 遊戲/you2xi4 ：每/mei3 個/ge4 人/ren2 說/shuo1 三/san1 件/jian4 今年/jin1nian2 感恩/gan3en1 的/de5 事/shi4 ！
+= Xiao En : On fait un jeu : chacun dit trois choses de cette année pour lesquelles il est reconnaissant !
+阿傑/a1jie2 ：第一/di4yi1 ，我/wo3 買/mai3 了/le5 新/xin1 吉他/ji2ta1 。第二/di4er4 ，我/wo3 買/mai3 了/le5 新/xin1 吉他/ji2ta1 。第三/di4san1 …… 我/wo3 很/hen3 愛/ai4 我/wo3 的/de5 新/xin1 吉他/ji2ta1 ！
+= A-Jie : Un : j'ai acheté une nouvelle guitare. Deux : j'ai acheté une nouvelle guitare. Trois… j'adore ma nouvelle guitare !
+大家/da4jia1 都/dou1 笑/xiao4 了/le5 。
+= Tout le monde éclate de rire.
+小恩/xiao3en1 ：《數算/shu3suan4 恩典/en1dian3》這/zhe4 首/shou3 歌/ge1 說/shuo1 ，我們/wo3men5 要/yao4 一/yi1 件/jian4 一/yi1 件/jian4 地/de5 數算/shu3suan4 神/shen2 的/de5 恩典/en1dian3 。
+= Xiao En : Le chant « Compter les grâces » dit qu'il faut compter une à une les grâces de Dieu.
+大衛/da4wei4 ：我/wo3 不/bu4 信/xin4 神/shen2 ，可是/ke3shi4 我/wo3 也/ye3 可以/ke3yi3 數/shu3 一/yi1 數/shu3 吧/ba5 ？第一/di4yi1 件/jian4 ：我/wo3 有/you3 好/hao3 朋友/peng2you5 。
+= David : Je ne crois pas en Dieu, mais je peux compter aussi, non ? Première chose : j'ai de bons amis.
+路加/lu4jia1 ：我/wo3 的/de5 第一/di4yi1 件/jian4 ：我/wo3 來/lai2 了/le5 台北/tai2bei3 。第二/di4er4 件/jian4 ：我/wo3 認識/ren4shi5 了/le5 你們/ni3men5 。
+= Luc : Ma première : je suis venu à Taipei. La deuxième : je vous ai rencontrés.
+路加/lu4jia1 ：第三/di4san1 件/jian4 …… 我/wo3 聽到/ting1dao4 了/le5 福音/fu2yin1 。
+= Luc : La troisième… j'ai entendu l'Évangile.
+小恩/xiao3en1 看/kan4 著/zhe5 他/ta1 ，笑/xiao4 得/de5 很/hen3 開心/kai1xin1 。
+= Xiao En le regarde avec un grand sourire.
+「十/shi2 、九/jiu3 、八/ba1 …… 」煙火/yan1huo3 開始/kai1shi3 了/le5 ！
+= « Dix, neuf, huit… » Le feu d'artifice commence !
+路加/lu4jia1 在/zai4 心/xin1 裡/li3 說/shuo1 ：「神/shen2 啊/a5 ，如果/ru2guo3 祢/ni3 真的/zhen1de5 在/zai4 ，謝謝/xie4xie5 祢/ni3 。」
+= Luc dit en lui-même : « Mon Dieu, si tu es vraiment là, merci. »
+
+=== 073
+series: 072
+title_zh: 新的一天
+title_fr: Un jour nouveau
+tagline: Le matin du 1er janvier — un réveil tardif, un verset par message et un Dieu qui tient parole.
+song: 新的一天
+vocab: 信實=fidèle (fidélité de Dieu) | 訊息=message (texto) | 經文=verset, passage biblique | 早晨=matin | 起床=se lever
+---
+一月/yi1yue4 一/yi1 日/ri4 ，路加/lu4jia1 十/shi2 點/dian3 才/cai2 起床/qi3chuang2 。手機/shou3ji1 裡/li3 有/you3 小恩/xiao3en1 的/de5 訊息/xun4xi1 。
+= Le 1er janvier, Luc ne se lève qu'à dix heures. Il a un message de Xiao En sur son téléphone.
+「新年/xin1nian2 快樂/kuai4le4 ！送/song4 你/ni3 一/yi1 節/jie2 經文/jing1wen2 ：『每/mei3 早晨/zao3chen2 ，這些/zhe4xie1 都/dou1 是/shi4 新/xin1 的/de5 ；你/ni3 的/de5 誠實/cheng2shi2 極其/ji2qi2 廣大/guang3da4 ！』（耶利米哀歌/ye1li4mi3ai1ge1 3:23）」
+= « Bonne année ! Je t'offre un verset : "Elles se renouvellent chaque matin. Oh ! que ta fidélité est grande !" (Lamentations 3:23) »
+路加/lu4jia1 回/hui2 ：「誠實/cheng2shi2 」不/bu4 是/shi4 「不/bu4 說謊/shuo1huang3 」的/de5 意思/yi4si5 嗎/ma5 ？
+= Luc répond : « Chengshi », ça ne veut pas dire « ne pas mentir » ?
+小恩/xiao3en1 馬上/ma3shang4 打/da3 電話/dian4hua4 來/lai2 ：「這裡/zhe4li3 的/de5 『誠實/cheng2shi2 』，就是/jiu4shi4 『信實/xin4shi2 』。」
+= Xiao En l'appelle aussitôt : « Ici, "chengshi" veut dire "fidélité". »
+路加/lu4jia1 ：信實/xin4shi2 ？
+= Luc : La fidélité ?
+小恩/xiao3en1 ：就是/jiu4shi4 說/shuo1 到/dao4 做/zuo4 到/dao4 。神/shen2 說/shuo1 過/guo4 的/de5 話/hua4 ，祂/ta1 一定/yi2ding4 會/hui4 做/zuo4 到/dao4 。
+= Xiao En : C'est tenir parole. Ce que Dieu a dit, il le fera toujours.
+小恩/xiao3en1 ：去年/qu4nian2 祂/ta1 很/hen3 信實/xin4shi2 ，今年/jin1nian2 祂/ta1 也/ye3 會/hui4 一樣/yi1yang4 信實/xin4shi2 。
+= Xiao En : L'an dernier, il a été fidèle, et cette année il le sera tout autant.
+路加/lu4jia1 ：可是/ke3shi4 我/wo3 去年/qu4nian2 什麼/shen2me5 也/ye3 沒有/mei2you3 給/gei3 祂/ta1 ……
+= Luc : Mais moi, l'an dernier, je ne lui ai rien donné…
+小恩/xiao3en1 ：祂/ta1 信實/xin4shi2 ，不/bu4 是/shi4 因為/yin1wei4 我們/wo3men5 好/hao3 ，是/shi4 因為/yin1wei4 祂/ta1 好/hao3 。
+= Xiao En : Il est fidèle, non pas parce que nous sommes bons, mais parce que lui est bon.
+路加/lu4jia1 看/kan4 著/zhe5 窗外/chuang1wai4 。台北/tai2bei3 的/de5 天空/tian1kong1 很/hen3 藍/lan2 ，真的/zhen1de5 像/xiang4 新/xin1 的/de5 一/yi1 天/tian1 。
+= Luc regarde par la fenêtre. Le ciel de Taipei est tout bleu ; on dirait vraiment un jour nouveau.
+他/ta1 打開/da3kai1 《新/xin1 的/de5 一/yi1 天/tian1》這/zhe4 首/shou3 歌/ge1 ，一邊/yi1bian1 聽/ting1 ，一邊/yi1bian1 做/zuo4 早餐/zao3can1 。
+= Il met le chant « Un jour nouveau » et l'écoute en préparant son petit-déjeuner.
+
+=== 074
+series: 072
+title_zh: 新年願望
+title_fr: Les bonnes résolutions
+tagline: Au café — un guitariste au régime, une lectrice ambitieuse et Luc qui veut ouvrir la Bible.
+song: 祢是信實的上帝
+vocab: 讀經=lire la Bible | 願望=vœu, souhait | 運動=faire du sport | 厚=épais | 開始=commencer
+---
+新年/xin1nian2 的/de5 第一/di4yi1 個/ge4 星期/xing1qi1 ，路加/lu4jia1 、小恩/xiao3en1 和/he2 阿傑/a1jie2 在/zai4 咖啡店/ka1fei1dian4 聊天/liao2tian1 。
+= La première semaine de l'année, Luc, Xiao En et A-Jie discutent dans un café.
+阿傑/a1jie2 ：我/wo3 今年/jin1nian2 的/de5 願望/yuan4wang4 是/shi4 ：每天/mei3tian1 運動/yun4dong4 ，瘦/shou4 五/wu3 公斤/gong1jin1 ！
+= A-Jie : Ma résolution cette année : faire du sport tous les jours et perdre cinq kilos !
+小恩/xiao3en1 ：你/ni3 去年/qu4nian2 也/ye3 是/shi4 這樣/zhe4yang4 說/shuo1 的/de5 。
+= Xiao En : Tu as dit exactement la même chose l'an dernier.
+阿傑/a1jie2 ：去年/qu4nian2 我/wo3 瘦/shou4 了/le5 …… 一/yi1 公斤/gong1jin1 。
+= A-Jie : L'an dernier, j'ai perdu… un kilo.
+小恩/xiao3en1 ：我/wo3 的/de5 願望/yuan4wang4 是/shi4 每天/mei3tian1 讀經/du2jing1 ，從/cong2 創世記/chuang4shi4ji4 讀/du2 到/dao4 啟示錄/qi3shi4lu4 。
+= Xiao En : Ma résolution, c'est de lire la Bible chaque jour, de la Genèse à l'Apocalypse.
+路加/lu4jia1 ：讀經/du2jing1 ？就是/jiu4shi4 讀/du2 聖經/sheng4jing1 嗎/ma5 ？
+= Luc : « Dujing » ? C'est lire la Bible ?
+小恩/xiao3en1 ：對/dui4 。每天/mei3tian1 讀/du2 一點/yi1dian3 ，就/jiu4 像/xiang4 每天/mei3tian1 吃飯/chi1fan4 一樣/yi1yang4 。
+= Xiao En : Oui. Un peu chaque jour, comme on mange chaque jour.
+路加/lu4jia1 ：我/wo3 的/de5 願望/yuan4wang4 是/shi4 中文/zhong1wen2 說/shuo1 得/de5 更/geng4 好/hao3 …… 還有/hai2you3 ，我/wo3 也/ye3 想/xiang3 讀經/du2jing1 。
+= Luc : Ma résolution, c'est de mieux parler chinois… et aussi, je voudrais lire la Bible.
+阿傑/a1jie2 ：哇/wa1 ！路加/lu4jia1 要/yao4 開始/kai1shi3 讀經/du2jing1 了/le5 ！
+= A-Jie : Waouh ! Luc va se mettre à lire la Bible !
+路加/lu4jia1 ：可是/ke3shi4 聖經/sheng4jing1 太/tai4 厚/hou4 了/le5 ，我/wo3 要/yao4 從/cong2 哪裡/na3li3 開始/kai1shi3 呢/ne5 ？
+= Luc : Mais la Bible est tellement épaisse… Par où je commence ?
+小恩/xiao3en1 ：你/ni3 可以/ke3yi3 問/wen4 張長老/zhang1zhang3lao3 ，他/ta1 最/zui4 會/hui4 教/jiao1 聖經/sheng4jing1 了/le5 。
+= Xiao En : Tu peux demander à l'ancien Zhang, c'est lui qui enseigne le mieux la Bible.
+阿傑/a1jie2 拿/na2 出/chu1 吉他/ji2ta1 ，開始/kai1shi3 唱/chang4 《祢/ni3 是/shi4 信實/xin4shi2 的/de5 上帝/shang4di4》。
+= A-Jie sort sa guitare et commence à chanter « Tu es le Dieu fidèle ».
+咖啡店/ka1fei1dian4 老闆/lao3ban3 看/kan4 了/le5 他/ta1 一/yi1 眼/yan3 ，阿傑/a1jie2 就/jiu4 小聲/xiao3sheng1 地/de5 唱/chang4 完/wan2 了/le5 。
+= Le patron du café lui jette un regard, et A-Jie finit sa chanson tout bas.
+
+=== 075
+series: 072
+title_zh: 從約翰福音開始
+title_fr: Commencer par Jean
+tagline: Conseils de l'ancien Zhang — un évangile pour débuter, une lampe pour les pieds et un pas à la fois.
+song: 喜愛祢的話
+vocab: 約翰福音=Évangile selon Jean | 章=chapitre | 討論=discuter | 腳=pied | 認真=sérieux, appliqué
+---
+星期天/xing1qi1tian1 崇拜/chong2bai4 以後/yi3hou4 ，路加/lu4jia1 去/qu4 找/zhao3 張長老/zhang1zhang3lao3 。
+= Dimanche, après le culte, Luc va voir l'ancien Zhang.
+路加/lu4jia1 ：長老/zhang3lao3 ，我/wo3 想/xiang3 讀/du2 聖經/sheng4jing1 ，可是/ke3shi4 不/bu4 知道/zhi1dao5 從/cong2 哪裡/na3li3 開始/kai1shi3 。
+= Luc : Monsieur l'ancien, je voudrais lire la Bible, mais je ne sais pas par où commencer.
+張長老/zhang1zhang3lao3 ：很/hen3 好/hao3 ！你/ni3 可以/ke3yi3 先/xian1 讀/du2 約翰福音/yue1han4fu2yin1 。
+= L'ancien Zhang : Très bien ! Tu peux commencer par l'Évangile de Jean.
+路加/lu4jia1 ：為什麼/wei4shen2me5 是/shi4 約翰福音/yue1han4fu2yin1 ？
+= Luc : Pourquoi Jean ?
+張長老/zhang1zhang3lao3 ：因為/yin1wei4 約翰/yue1han4 說/shuo1 得/de5 很/hen3 清楚/qing1chu5 ：他/ta1 寫/xie3 這/zhe4 本/ben3 書/shu1 ，是/shi4 要/yao4 我們/wo3men5 認識/ren4shi5 耶穌/ye1su1 。
+= L'ancien Zhang : Parce que Jean le dit clairement : il a écrit ce livre pour que nous connaissions Jésus.
+張長老/zhang1zhang3lao3 ：你/ni3 每天/mei3tian1 讀/du2 一/yi1 章/zhang1 ，有/you3 不/bu4 懂/dong3 的/de5 地方/di4fang5 就/jiu4 寫/xie3 下來/xia4lai2 ，我們/wo3men5 一起/yi1qi3 討論/tao3lun4 。
+= L'ancien Zhang : Lis un chapitre par jour ; note ce que tu ne comprends pas, et nous en discuterons ensemble.
+路加/lu4jia1 ：可是/ke3shi4 我/wo3 的/de5 中文/zhong1wen2 還/hai2 不/bu4 夠/gou4 好/hao3 ……
+= Luc : Mais mon chinois n'est pas encore assez bon…
+張長老/zhang1zhang3lao3 ：所以/suo3yi3 要/yao4 慢慢/man4man4 讀/du2 。詩篇/shi1pian1 說/shuo1 ：「你/ni3 的/de5 話/hua4 是/shi4 我/wo3 腳/jiao3 前/qian2 的/de5 燈/deng1 ，是/shi4 我/wo3 路/lu4 上/shang4 的/de5 光/guang1 。」（詩篇/shi1pian1 119:105）
+= L'ancien Zhang : Alors lis lentement. Le psaume dit : « Ta parole est une lampe à mes pieds, et une lumière sur mon sentier. » (Psaume 119:105)
+路加/lu4jia1 ：燈/deng1 只/zhi3 能/neng2 照/zhao4 一點點/yi1dian3dian3 路/lu4 吧/ba5 ？
+= Luc : Une lampe n'éclaire qu'un tout petit bout de chemin, non ?
+張長老/zhang1zhang3lao3 ：對/dui4 ，可是/ke3shi4 一點點/yi1dian3dian3 就/jiu4 夠/gou4 了/le5 。你/ni3 走/zou3 一/yi1 步/bu4 ，它/ta1 就/jiu4 照/zhao4 下/xia4 一/yi1 步/bu4 。
+= L'ancien Zhang : Oui, mais ce petit bout suffit. Tu fais un pas, et elle éclaire le suivant.
+那天/na4tian1 晚上/wan3shang4 ，路加/lu4jia1 讀/du2 了/le5 約翰福音/yue1han4fu2yin1 第一/di4yi1 章/zhang1 。他/ta1 讀/du2 得/de5 很/hen3 慢/man4 ，可是/ke3shi4 很/hen3 認真/ren4zhen1 。
+= Ce soir-là, Luc lit le premier chapitre de Jean. Il lit très lentement, mais avec beaucoup d'application.
+他/ta1 一邊/yi1bian1 讀/du2 ，一邊/yi1bian1 聽/ting1 《喜愛/xi3ai4 祢/ni3 的/de5 話/hua4》。
+= Il lit en écoutant « J'aime ta parole ».
+
+=== 076
+series: 072
+title_zh: 早上六點的靈修
+title_fr: Méditation à six heures
+tagline: Premier essai de « temps calme » — un réveil courageux, trois versets et une sieste imprévue.
+song: 安靜等候祢
+vocab: 靈修=temps de méditation (prière et lecture) | 安靜=calme, silencieux | 等候=attendre (avec patience) | 鬧鐘=réveil | 睡著=s'endormir
+---
+路加/lu4jia1 ：小恩/xiao3en1 ，妳/ni3 每天/mei3tian1 早上/zao3shang5 六/liu4 點/dian3 起床/qi3chuang2 做/zuo4 什麼/shen2me5 ？
+= Luc : Xiao En, qu'est-ce que tu fais en te levant à six heures tous les matins ?
+小恩/xiao3en1 ：靈修/ling2xiu1 。就是/jiu4shi4 安靜/an1jing4 地/de5 讀經/du2jing1 、禱告/dao3gao4 ，和/he2 神/shen2 在/zai4 一起/yi1qi3 。
+= Xiao En : Ma méditation. Je lis la Bible et je prie dans le calme, pour être avec Dieu.
+路加/lu4jia1 ：六/liu4 點/dian3 ？太/tai4 早/zao3 了/le5 吧/ba5 ！
+= Luc : Six heures ? C'est beaucoup trop tôt !
+小恩/xiao3en1 ：詩篇/shi1pian1 說/shuo1 ：「你們/ni3men5 要/yao4 休息/xiu1xi5 ，要/yao4 知道/zhi1dao5 我/wo3 是/shi4 神/shen2 ！」（詩篇/shi1pian1 46:10）早上/zao3shang5 最/zui4 安靜/an1jing4 。
+= Xiao En : Le psaume dit : « Arrêtez, et sachez que je suis Dieu ! » (Psaume 46:10) Le matin, c'est le moment le plus calme.
+小恩/xiao3en1 ：你/ni3 可以/ke3yi3 先/xian1 聽/ting1 《安靜/an1jing4 等候/deng3hou4 祢/ni3》，心/xin1 就/jiu4 會/hui4 安靜/an1jing4 下來/xia4lai2 。
+= Xiao En : Tu peux d'abord écouter « Attendre en silence devant toi » ; ton cœur se calmera.
+第二天/di4er4tian1 ，路加/lu4jia1 的/de5 鬧鐘/nao4zhong1 六/liu4 點/dian3 響/xiang3 了/le5 。他/ta1 坐/zuo4 起來/qi3lai2 ，打開/da3kai1 了/le5 聖經/sheng4jing1 。
+= Le lendemain, le réveil de Luc sonne à six heures. Il s'assied et ouvre sa Bible.
+他/ta1 讀/du2 了/le5 三/san1 節/jie2 ，然後/ran2hou4 禱告/dao3gao4 ：「神/shen2 啊/a5 ，我/wo3 在/zai4 這裡/zhe4li3 ，我/wo3 在/zai4 等候/deng3hou4 祢/ni3 …… 」
+= Il lit trois versets, puis prie : « Mon Dieu, je suis là, je t'attends… »
+他/ta1 等/deng3 著/zhe5 ，等/deng3 著/zhe5 …… 就/jiu4 睡著/shui4zhao2 了/le5 。
+= Il attend, il attend… et il s'endort.
+九/jiu3 點/dian3 ，他/ta1 醒/xing3 了/le5 ，臉/lian3 上/shang4 都/dou1 是/shi4 聖經/sheng4jing1 的/de5 印子/yin4zi5 。
+= À neuf heures, il se réveille, la Bible imprimée sur la joue.
+路加/lu4jia1 ：小恩/xiao3en1 ，我/wo3 靈修/ling2xiu1 的/de5 時候/shi2hou5 睡著/shui4zhao2 了/le5 …… 神/shen2 會/hui4 不/bu4 會/hui4 生氣/sheng1qi4 ？
+= Luc : Xiao En, je me suis endormi pendant ma méditation… Dieu va être fâché ?
+小恩/xiao3en1 笑/xiao4 得/de5 說/shuo1 不/bu4 出/chu1 話/hua4 來/lai2 。
+= Xiao En rit tellement qu'elle n'arrive plus à parler.
+小恩/xiao3en1 ：不/bu4 會/hui4 啦/la5 ！神/shen2 知道/zhi1dao5 你/ni3 很/hen3 累/lei4 。明天/ming2tian1 再/zai4 試試/shi4shi4 看/kan4 吧/ba5 ！
+= Xiao En : Mais non ! Dieu sait que tu es fatigué. Réessaie demain !
+路加/lu4jia1 ：好/hao3 ，可是/ke3shi4 明天/ming2tian1 我/wo3 要/yao4 先/xian1 喝/he1 咖啡/ka1fei1 ！
+= Luc : D'accord, mais demain, je bois d'abord un café !
+
+@series 077 | 星期三的小組 | Le groupe de maison du mercredi | Janvier : chez les Wang, Luc découvre le groupe de maison, ses repas, ses prières et ses témoignages.
+
+=== 077
+series: 077
+title_zh: 第一次去小組
+title_fr: Première soirée au groupe de maison
+tagline: Mercredi soir chez les Wang — du riz au porc braisé, une promesse de Jésus et un plat vite vidé.
+song: 謝謝你成為我的家
+vocab: 小組=groupe de maison | 聚會=se réunir ; réunion | 分享=partager | 參加=participer | 奉=au nom de
+---
+星期三/xing1qi1san1 晚上/wan3shang4 ，小恩/xiao3en1 帶/dai4 路加/lu4jia1 去/qu4 王牧師/wang2mu4shi1 家/jia1 參加/can1jia1 小組/xiao3zu3 。
+= Mercredi soir, Xiao En emmène Luc chez le pasteur Wang pour participer au groupe de maison.
+王師母/wang2shi1mu3 ：歡迎/huan1ying2 歡迎/huan1ying2 ！快/kuai4 坐/zuo4 ，先/xian1 吃飯/chi1fan4 ！
+= Mme Wang : Bienvenue, bienvenue ! Asseyez-vous vite, on mange d'abord !
+桌/zhuo1 上/shang4 有/you3 滷肉飯/lu3rou4fan4 、炒/chao3 青菜/qing1cai4 ，還有/hai2you3 一/yi1 大/da4 鍋/guo1 湯/tang1 。
+= Sur la table, il y a du riz au porc braisé, des légumes sautés et une grande marmite de soupe.
+路加/lu4jia1 ：牧師/mu4shi1 ，小組/xiao3zu3 是/shi4 什麼/shen2me5 ？是/shi4 上課/shang4ke4 嗎/ma5 ？
+= Luc : Pasteur, c'est quoi un groupe de maison ? C'est un cours ?
+王牧師/wang2mu4shi1 ：不/bu4 是/shi4 上課/shang4ke4 。小組/xiao3zu3 就是/jiu4shi4 一/yi1 群/qun2 人/ren2 一起/yi1qi3 吃飯/chi1fan4 、讀經/du2jing1 、分享/fen1xiang3 、禱告/dao3gao4 。
+= Le pasteur Wang : Ce n'est pas un cours. C'est un groupe de gens qui mangent, lisent la Bible, partagent et prient ensemble.
+王牧師/wang2mu4shi1 ：教會/jiao4hui4 很/hen3 大/da4 ，可是/ke3shi4 在/zai4 小組/xiao3zu3 裡/li3 ，每/mei3 個/ge4 人/ren2 的/de5 名字/ming2zi5 都/dou1 有/you3 人/ren2 記得/ji4de5 。
+= Le pasteur Wang : L'église est grande, mais dans un groupe de maison, quelqu'un se souvient du nom de chacun.
+吃/chi1 完/wan2 飯/fan4 ，美玲/mei3ling2 彈/tan2 琴/qin2 ，大家/da4jia1 唱/chang4 了/le5 《謝謝/xie4xie5 你/ni3 成為/cheng2wei2 我/wo3 的/de5 家/jia1》。
+= Après le repas, Meiling joue du piano et tout le monde chante « Merci d'être devenu ma famille ».
+王牧師/wang2mu4shi1 ：耶穌/ye1su1 說/shuo1 ：「因為/yin1wei4 無論/wu2lun4 在/zai4 哪裡/na3li3 ，有/you3 兩/liang3 三/san1 個/ge4 人/ren2 奉/feng4 我/wo3 的/de5 名/ming2 聚會/ju4hui4 ，那裡/na4li3 就/jiu4 有/you3 我/wo3 在/zai4 他們/ta1men5 中間/zhong1jian1 。」（馬太福音/ma3tai4fu2yin1 18:20）
+= Le pasteur Wang : Jésus a dit : « Car là où deux ou trois sont assemblés en mon nom, je suis au milieu d'eux. » (Matthieu 18:20)
+路加/lu4jia1 ：我們/wo3men5 有/you3 十/shi2 個/ge4 人/ren2 ，所以/suo3yi3 耶穌/ye1su1 一定/yi2ding4 在/zai4 這裡/zhe4li3 ！
+= Luc : Nous sommes dix, donc Jésus est forcément là !
+阿傑/a1jie2 ：有/you3 十/shi2 個/ge4 人/ren2 ，所以/suo3yi3 滷肉飯/lu3rou4fan4 很/hen3 快/kuai4 就/jiu4 沒/mei2 了/le5 ！
+= A-Jie : On est dix, donc le riz au porc a vite disparu !
+大家/da4jia1 都/dou1 笑/xiao4 了/le5 。路加/lu4jia1 覺得/jue2de5 ，這裡/zhe4li3 比/bi3 他/ta1 的/de5 宿舍/su4she4 溫暖/wen1nuan3 多/duo1 了/le5 。
+= Tout le monde rit. Luc trouve qu'ici, c'est bien plus chaleureux que sa résidence universitaire.
+
+=== 078
+series: 077
+title_zh: 團契像火鍋
+title_fr: La communion, c'est comme une fondue
+tagline: Soirée fondue chinoise — chacun apporte quelque chose, Luc apporte du fromage et le pasteur trouve une image.
+song: 彼此相愛
+vocab: 團契=communion fraternelle | 彼此=les uns les autres | 相愛=s'aimer | 火鍋=fondue chinoise | 起司=fromage
+---
+這/zhe4 個/ge4 星期三/xing1qi1san1 ，小組/xiao3zu3 吃/chi1 火鍋/huo3guo1 。每/mei3 個/ge4 人/ren2 都/dou1 帶/dai4 了/le5 一/yi1 樣/yang4 東西/dong1xi5 。
+= Ce mercredi, le groupe mange une fondue chinoise. Chacun a apporté quelque chose.
+阿傑/a1jie2 帶/dai4 了/le5 肉/rou4 ，美玲/mei3ling2 帶/dai4 了/le5 青菜/qing1cai4 ，路加/lu4jia1 帶/dai4 了/le5 …… 一/yi1 包/bao1 法國/fa3guo2 起司/qi3si1 。
+= A-Jie a apporté de la viande, Meiling des légumes, et Luc… un paquet de fromage français.
+小光/xiao3guang1 ：起司/qi3si1 可以/ke3yi3 放/fang4 在/zai4 火鍋/huo3guo1 裡/li3 嗎/ma5 ？
+= Xiao Guang : On peut mettre du fromage dans la fondue ?
+路加/lu4jia1 ：在/zai4 法國/fa3guo2 ，起司/qi3si1 放/fang4 在/zai4 哪裡/na3li3 都/dou1 可以/ke3yi3 ！
+= Luc : En France, le fromage, on le met partout !
+大家/da4jia1 試/shi4 了/le5 試/shi4 ，味道/wei4dao4 還/hai2 不錯/bu2cuo4 。
+= Tout le monde goûte : ce n'est pas mauvais du tout.
+路加/lu4jia1 ：牧師/mu4shi1 ，大家/da4jia1 常/chang2 說/shuo1 「團契/tuan2qi4 」，團契/tuan2qi4 是/shi4 什麼/shen2me5 ？
+= Luc : Pasteur, tout le monde parle de « tuanqi ». Qu'est-ce que c'est, la communion fraternelle ?
+王牧師/wang2mu4shi1 ：團契/tuan2qi4 就/jiu4 像/xiang4 這/zhe4 鍋/guo1 火鍋/huo3guo1 。每/mei3 個/ge4 人/ren2 帶來/dai4lai2 不/bu4 一樣/yi1yang4 的/de5 東西/dong1xi5 ，放/fang4 在/zai4 一起/yi1qi3 就/jiu4 更/geng4 好吃/hao3chi1 。
+= Le pasteur Wang : La communion, c'est comme cette fondue. Chacun apporte quelque chose de différent, et tout ensemble, c'est encore meilleur.
+王牧師/wang2mu4shi1 ：耶穌/ye1su1 說/shuo1 ：「我/wo3 怎樣/zen3yang4 愛/ai4 你們/ni3men5 ，你們/ni3men5 也/ye3 要/yao4 怎樣/zen3yang4 相愛/xiang1ai4 。」（約翰福音/yue1han4fu2yin1 13:34）
+= Le pasteur Wang : Jésus a dit : « Comme je vous ai aimés, vous aussi, aimez-vous les uns les autres. » (Jean 13:34)
+美玲/mei3ling2 ：所以/suo3yi3 團契/tuan2qi4 不/bu4 只/zhi3 是/shi4 吃飯/chi1fan4 ，是/shi4 彼此/bi3ci3 幫助/bang1zhu4 、一起/yi1qi3 生活/sheng1huo2 。
+= Meiling : Donc la communion, ce n'est pas seulement manger ensemble : c'est s'entraider et vivre ensemble.
+路加/lu4jia1 ：那/na4 我/wo3 的/de5 起司/qi3si1 也/ye3 是/shi4 團契/tuan2qi4 的/de5 一/yi1 部分/bu4fen5 嗎/ma5 ？
+= Luc : Alors mon fromage fait aussi partie de la communion ?
+王牧師/wang2mu4shi1 ：當然/dang1ran2 ！你/ni3 也/ye3 是/shi4 團契/tuan2qi4 的/de5 一/yi1 部分/bu4fen5 。
+= Le pasteur Wang : Bien sûr ! Et toi aussi, tu fais partie de la communion.
+路加/lu4jia1 聽/ting1 了/le5 很/hen3 高興/gao1xing4 。最後/zui4hou4 ，大家/da4jia1 一起/yi1qi3 唱/chang4 《彼此/bi3ci3 相愛/xiang1ai4》。
+= Luc est tout content de l'entendre. Pour finir, tout le monde chante « Aimez-vous les uns les autres ».
+
+=== 079
+series: 077
+title_zh: 為路加禱告
+title_fr: On prie pour Luc
+tagline: Semaine d'examens — un étudiant stressé, une prière d'enfant très précise et un message de victoire.
+song: 有人在為你禱告
+vocab: 力量=force | 壓力=stress, pression | 考試=examen ; passer un examen | 需要=avoir besoin de | 肩膀=épaule
+---
+一月/yi1yue4 中/zhong1 ，路加/lu4jia1 要/yao4 考/kao3 期末考/qi1mo4kao3 了/le5 。他/ta1 很/hen3 緊張/jin3zhang1 ，常常/chang2chang2 睡/shui4 不/bu4 好/hao3 。
+= À la mi-janvier, Luc va passer ses examens de fin de semestre. Il est très stressé et dort souvent mal.
+小組/xiao3zu3 的/de5 時候/shi2hou5 ，王牧師/wang2mu4shi1 問/wen4 ：「大家/da4jia1 有/you3 什麼/shen2me5 需要/xu1yao4 禱告/dao3gao4 的/de5 嗎/ma5 ？」
+= Au groupe de maison, le pasteur Wang demande : « Est-ce que quelqu'un a un sujet de prière ? »
+路加/lu4jia1 想/xiang3 了/le5 一下/yi1xia4 ，小聲/xiao3sheng1 說/shuo1 ：「我/wo3 下/xia4 個/ge4 星期/xing1qi1 要/yao4 考試/kao3shi4 ，壓力/ya1li4 很/hen3 大/da4 。」
+= Luc hésite un peu, puis dit tout bas : « J'ai des examens la semaine prochaine, je suis très stressé. »
+阿傑/a1jie2 ：考試/kao3shi4 ？我/wo3 最/zui4 怕/pa4 考試/kao3shi4 了/le5 ！我們/wo3men5 一起/yi1qi3 為/wei4 路加/lu4jia1 禱告/dao3gao4 吧/ba5 ！
+= A-Jie : Des examens ? C'est ma plus grande peur ! Prions ensemble pour Luc !
+大家/da4jia1 站/zhan4 在/zai4 路加/lu4jia1 旁邊/pang2bian1 ，阿傑/a1jie2 拍/pai1 了/le5 拍/pai1 他/ta1 的/de5 肩膀/jian1bang3 。
+= Tout le monde se met autour de Luc, et A-Jie lui tapote l'épaule.
+美玲/mei3ling2 禱告/dao3gao4 ：「主/zhu3 啊/a5 ，求/qiu2 祢/ni3 給/gei3 路加/lu4jia1 力量/li4liang4 和/he2 平安/ping2an1 ，讓/rang4 他/ta1 睡/shui4 得/de5 好/hao3 。」
+= Meiling prie : « Seigneur, donne à Luc force et paix, et qu'il puisse bien dormir. »
+小光/xiao3guang1 也/ye3 禱告/dao3gao4 ：「耶穌/ye1su1 ，請/qing3 幫/bang1 路加/lu4jia1 記得/ji4de5 所有/suo3you3 的/de5 字/zi4 ！阿們/a1men2 ！」
+= Xiao Guang prie aussi : « Jésus, aide Luc à se souvenir de tous les caractères ! Amen ! »
+路加/lu4jia1 忍不住/ren3bu4zhu4 笑/xiao4 了/le5 ，可是/ke3shi4 眼睛/yan3jing1 也/ye3 有/you3 一點/yi1dian3 紅/hong2 。
+= Luc ne peut s'empêcher de rire, mais ses yeux sont un peu rouges aussi.
+下/xia4 個/ge4 星期/xing1qi1 ，路加/lu4jia1 考/kao3 完/wan2 了/le5 。他/ta1 考/kao3 得/de5 比/bi3 他/ta1 想/xiang3 的/de5 好/hao3 。
+= La semaine suivante, Luc termine ses examens. Ils se sont mieux passés qu'il ne le pensait.
+他/ta1 傳/chuan2 訊息/xun4xi1 給/gei3 小組/xiao3zu3 ：「謝謝/xie4xie5 大家/da4jia1 為/wei4 我/wo3 禱告/dao3gao4 ！我/wo3 都/dou1 考/kao3 過/guo4 了/le5 ！」
+= Il envoie un message au groupe : « Merci à tous d'avoir prié pour moi ! J'ai tout réussi ! »
+小恩/xiao3en1 回/hui2 了/le5 一/yi1 首/shou3 歌/ge1 ：《有/you3 人/ren2 在/zai4 為/wei4 你/ni3 禱告/dao3gao4》。
+= Xiao En lui répond en envoyant un chant : « Quelqu'un prie pour toi ».
+
+=== 080
+series: 077
+title_zh: 阿傑的見證
+title_fr: Le témoignage d'A-Jie
+tagline: Un mercredi pas comme les autres — A-Jie pose sa guitare et raconte le fils qui est rentré à la maison.
+song: 浪子的我
+vocab: 見證=témoignage ; témoigner | 浪子=fils prodigue | 吵架=se disputer | 離開=quitter | 天父=Père céleste
+---
+這/zhe4 個/ge4 星期三/xing1qi1san1 ，王牧師/wang2mu4shi1 請/qing3 阿傑/a1jie2 分享/fen1xiang3 他/ta1 的/de5 見證/jian4zheng4 。
+= Ce mercredi, le pasteur Wang demande à A-Jie de partager son témoignage.
+路加/lu4jia1 ：「見證/jian4zheng4 」是/shi4 什麼/shen2me5 ？
+= Luc : Un « témoignage », qu'est-ce que c'est ?
+小恩/xiao3en1 ：就是/jiu4shi4 說說/shuo1shuo5 神/shen2 在/zai4 你/ni3 的/de5 生命/sheng1ming4 中/zhong1 做/zuo4 了/le5 什麼/shen2me5 。
+= Xiao En : C'est raconter ce que Dieu a fait dans ta vie.
+阿傑/a1jie2 放下/fang4xia4 吉他/ji2ta1 ，難得/nan2de2 很/hen3 安靜/an1jing4 。
+= A-Jie pose sa guitare ; pour une fois, il est très calme.
+阿傑/a1jie2 ：我/wo3 十八/shi2ba1 歲/sui4 的/de5 時候/shi2hou5 ，和/he2 爸爸/ba4ba5 吵架/chao3jia4 ，就/jiu4 離開/li2kai1 了/le5 家/jia1 。
+= A-Jie : À dix-huit ans, je me suis disputé avec mon père, et je suis parti de la maison.
+阿傑/a1jie2 ：我/wo3 每天/mei3tian1 玩/wan2 音樂/yin1yue4 、喝酒/he1jiu3 ，覺得/jue2de5 很/hen3 自由/zi4you2 。可是/ke3shi4 晚上/wan3shang4 一/yi1 個/ge4 人/ren2 的/de5 時候/shi2hou5 ，心/xin1 裡/li3 很/hen3 空/kong1 。
+= A-Jie : Je faisais de la musique et je buvais tous les jours ; je me sentais libre. Mais le soir, seul, je me sentais vide.
+阿傑/a1jie2 ：有/you3 一/yi1 天/tian1 ，我/wo3 在/zai4 路/lu4 上/shang4 聽到/ting1dao4 一/yi1 首/shou3 歌/ge1 ，講/jiang3 的/de5 是/shi4 一/yi1 個/ge4 浪子/lang4zi3 回家/hui2jia1 。
+= A-Jie : Un jour, dans la rue, j'ai entendu un chant qui parlait d'un fils prodigue qui rentre chez lui.
+阿傑/a1jie2 ：我/wo3 就/jiu4 哭/ku1 了/le5 。那天/na4tian1 晚上/wan3shang4 ，我/wo3 打/da3 電話/dian4hua4 給/gei3 爸爸/ba4ba5 。
+= A-Jie : Et j'ai pleuré. Ce soir-là, j'ai appelé mon père.
+阿傑/a1jie2 ：爸爸/ba4ba5 只/zhi3 說/shuo1 ：「回來/hui2lai2 吧/ba5 。」就/jiu4 像/xiang4 天父/tian1fu4 在/zai4 等/deng3 我/wo3 回家/hui2jia1 一樣/yi1yang4 。
+= A-Jie : Mon père a juste dit : « Reviens. » Exactement comme le Père céleste qui m'attendait à la maison.
+大家/da4jia1 都/dou1 很/hen3 安靜/an1jing4 ，王師母/wang2shi1mu3 在/zai4 擦/ca1 眼淚/yan3lei4 。
+= Tout le monde se tait ; Mme Wang essuie ses larmes.
+路加/lu4jia1 ：你/ni3 現在/xian4zai4 和/he2 爸爸/ba4ba5 好/hao3 嗎/ma5 ？
+= Luc : Et maintenant, ça va avec ton père ?
+阿傑/a1jie2 ：好/hao3 多/duo1 了/le5 ！上/shang4 個/ge4 月/yue4 他/ta1 還/hai2 來/lai2 教會/jiao4hui4 聽/ting1 我/wo3 彈/tan2 《浪子/lang4zi3 的/de5 我/wo3》。
+= A-Jie : Beaucoup mieux ! Le mois dernier, il est même venu à l'église m'écouter jouer « Moi, le fils prodigue ».

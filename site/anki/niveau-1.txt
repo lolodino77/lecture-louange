@@ -1,0 +1,137 @@
+你好	nǐ hǎo	ㄋㄧˇ ㄏㄠˇ	bonjour	路加：你好！我是路加。	Luc : Bonjour ! Je suis Luc.	n° 001
+學生	xué shēng	ㄒㄩㄝˊ ㄕㄥ	étudiant	小恩：你是學生嗎？	Xiao En : Tu es étudiant ?	n° 001
+朋友	péng yǒu	ㄆㄥˊ ㄧㄡˇ	ami(e)	路加：好！我們做朋友吧！	Luc : Très bien ! Soyons amis !	n° 001
+喜歡	xǐ huān	ㄒㄧˇ ㄏㄨㄢ	aimer (bien)	小恩：我很喜歡這首歌。	Xiao En : J'aime beaucoup cette chanson.	n° 001
+歌	gē	ㄍㄜ	chanson	小恩在聽歌。	Xiao En écoute une chanson.	n° 001
+唱歌	chàng gē	ㄔㄤˋ ㄍㄜ	chanter	小恩：我喜歡唱歌！	Xiao En : J'aime chanter !	n° 002
+教會	jiào huì	ㄐㄧㄠˋ ㄏㄨㄟˋ	église (communauté, bâtiment)	小恩：我在教會唱歌。	Xiao En : Je chante à l'église.	n° 002
+禮拜天	lǐ bài tiān	ㄌㄧˇ ㄅㄞˋ ㄊㄧㄢ	dimanche	小恩：對。禮拜天，我去教會。	Xiao En : Oui. Le dimanche, je vais à l'église.	n° 002
+咖啡店	kā fēi diàn	ㄎㄚ ㄈㄟ ㄉㄧㄢˋ	café (lieu)	路加和小恩在咖啡店。	Luc et Xiao En sont dans un café.	n° 002
+沒關係	méi guān xi	ㄇㄟˊ ㄍㄨㄢ ˙ㄒㄧ	ce n'est pas grave	小恩：沒關係！我教你。	Xiao En : Pas grave ! Je vais t'apprendre.	n° 002
+神	shén	ㄕㄣˊ	Dieu	本子上有四個字：《神愛世人》。	Sur le cahier, il y a quatre caractères : « Dieu aime les hommes ».	n° 003
+上帝	shàng dì	ㄕㄤˋ ㄉㄧˋ	Dieu (autre nom courant)	小恩：「神」也叫「上帝」。	Xiao En : « 神 », on dit aussi « 上帝 » : c'est Dieu.	n° 003
+愛	ài	ㄞˋ	aimer ; amour	本子上有四個字：《神愛世人》。	Sur le cahier, il y a quatre caractères : « Dieu aime les hommes ».	n° 003
+世人	shì rén	ㄕˋ ㄖㄣˊ	les hommes, les gens du monde	本子上有四個字：《神愛世人》。	Sur le cahier, il y a quatre caractères : « Dieu aime les hommes ».	n° 003
+認識	rèn shi	ㄖㄣˋ ˙ㄕ	connaître (quelqu'un)	路加：愛我？神認識我嗎？	Luc : M'aimer, moi ? Dieu me connaît ?	n° 003
+捷運	jié yùn	ㄐㄧㄝˊ ㄩㄣˋ	métro (MRT de Taipei)	路加和小恩坐捷運。	Luc et Xiao En prennent le métro.	n° 004
+耶穌	yē sū	ㄧㄝ ㄙㄨ	Jésus	小恩：你聽，這是《耶穌愛我》。	Xiao En : Écoute, c'est « Jésus m'aime ».	n° 004
+基督徒	jī dū tú	ㄐㄧ ㄉㄨ ㄊㄨˊ	chrétien(ne)	小恩：你是基督徒嗎？	Xiao En : Tu es chrétien ?	n° 004
+名字	míng zi	ㄇㄧㄥˊ ˙ㄗ	nom, prénom	路加：耶穌？我知道這個名字。	Luc : Jésus ? Je connais ce nom.	n° 004
+耳機	ěr jī	ㄦˇ ㄐㄧ	écouteur(s)	小恩給路加一個耳機。	Xiao En donne un écouteur à Luc.	n° 004
+珍珠奶茶	zhēn zhū nǎi chá	ㄓㄣ ㄓㄨ ㄋㄞˇ ㄔㄚˊ	thé aux perles	小恩：我們去喝珍珠奶茶吧！	Xiao En : Allons boire un thé aux perles !	n° 005
+主日	zhǔ rì	ㄓㄨˇ ㄖˋ	jour du Seigneur (dimanche)	小恩：禮拜天是主日。	Xiao En : Le dimanche, c'est le jour du Seigneur.	n° 005
+詩歌	shī gē	ㄕ ㄍㄜ	cantique, chant d'église	小恩：我們唱詩歌，很好聽！	Xiao En : On chante des cantiques, c'est très beau !	n° 005
+好聽	hǎo tīng	ㄏㄠˇ ㄊㄧㄥ	agréable à écouter, beau	小恩：我們唱詩歌，很好聽！	Xiao En : On chante des cantiques, c'est très beau !	n° 005
+有空	yǒu kòng	ㄧㄡˇ ㄎㄨㄥˋ	être libre	小恩：路加，這個禮拜天你有空嗎？	Xiao En : Luc, tu es libre ce dimanche ?	n° 005
+媽媽	mā ma	ㄇㄚ ˙ㄇㄚ	maman	晚上，路加的媽媽打電話來。	Le soir, la mère de Luc l'appelle.	n° 006
+電話	diàn huà	ㄉㄧㄢˋ ㄏㄨㄚˋ	téléphone	晚上，路加的媽媽打電話來。	Le soir, la mère de Luc l'appelle.	n° 006
+家	jiā	ㄐㄧㄚ	maison ; famille ; foyer	媽媽：你一個人，想家嗎？	Maman : Tout seul là-bas, la maison ne te manque pas ?	n° 006
+孤單	gū dān	ㄍㄨ ㄉㄢ	seul, solitaire	路加：小恩說，一首歌叫《一路不孤單》。	Luc : Xiao En m'a parlé d'une chanson : « Jamais seul en chemin ».	n° 006
+晚上	wǎn shàng	ㄨㄢˇ ㄕㄤˋ	le soir	晚上，路加的媽媽打電話來。	Le soir, la mère de Luc l'appelle.	n° 006
+恩典教會	ēn diǎn jiào huì	ㄣ ㄉㄧㄢˇ ㄐㄧㄠˋ ㄏㄨㄟˋ	l'église de la Grâce	禮拜天早上，路加來恩典教會。	Dimanche matin, Luc arrive à l'église de la Grâce.	n° 007
+牧師	mù shī	ㄇㄨˋ ㄕ	pasteur	小恩：這是我們的牧師。	Xiao En : Voici notre pasteur, le pasteur Wang.	n° 007
+弟兄	dì xiōng	ㄉㄧˋ ㄒㄩㄥ	frère (dans la foi)	王牧師：你好！你是路加弟兄吧？	Pasteur Wang : Bonjour ! Tu dois être frère Luc ?	n° 007
+姐妹	jiě mèi	ㄐㄧㄝˇ ㄇㄟˋ	sœur (dans la foi)	王牧師：女生都叫姐妹。	Pasteur Wang : Et toutes les femmes, « sœur ».	n° 007
+一家人	yī jiā rén	ㄧ ㄐㄧㄚ ㄖㄣˊ	une même famille	路加：那我們是一家人嗎？	Luc : Alors on est tous une même famille ?	n° 007
+敬拜	jìng bài	ㄐㄧㄥˋ ㄅㄞˋ	adorer ; adoration	王牧師：今天我們唱《前來敬拜》。	Pasteur Wang : Aujourd'hui, nous chantons « Venez adorer ».	n° 007
+讚美	zàn měi	ㄗㄢˋ ㄇㄟˇ	louer ; louange	大家一起唱《天天讚美》。	Tous chantent ensemble « Louer chaque jour ».	n° 008
+鋼琴	gāng qín	ㄍㄤ ㄑㄧㄣˊ	piano	有人彈鋼琴，有人唱歌。	Quelqu'un joue du piano, d'autres chantent.	n° 008
+天天	tiān tiān	ㄊㄧㄢ ㄊㄧㄢ	chaque jour	大家一起唱《天天讚美》。	Tous chantent ensemble « Louer chaque jour ».	n° 008
+大家	dà jiā	ㄉㄚˋ ㄐㄧㄚ	tout le monde	敬拜開始。大家都站起來。	Le culte commence. Tout le monde se lève.	n° 008
+螢幕	yíng mù	ㄧㄥˊ ㄇㄨˋ	écran	路加看大螢幕上的字。	Luc regarde les mots sur le grand écran.	n° 008
+禱告	dǎo gào	ㄉㄠˇ ㄍㄠˋ	prier ; prière	大家唱《禱告》這首歌。	Tout le monde chante le chant « Prière ».	n° 009
+天父	tiān fù	ㄊㄧㄢ ㄈㄨˋ	Père céleste	王牧師：「天父，謝謝祢愛我們。」	Pasteur Wang : « Père céleste, merci de nous aimer. »	n° 009
+祢	nǐ	ㄋㄧˇ	Tu, Toi (adressé à Dieu)	王牧師：「天父，謝謝祢愛我們。」	Pasteur Wang : « Père céleste, merci de nous aimer. »	n° 009
+阿們	ā mén	ㄚ ㄇㄣˊ	amen	最後，大家一起說：「阿們！」	À la fin, tout le monde dit ensemble : « Amen ! »	n° 009
+眼睛	yǎn jīng	ㄧㄢˇ ㄐㄧㄥ	yeux	大家都閉上眼睛。	Tout le monde ferme les yeux.	n° 009
+平安	píng ān	ㄆㄧㄥˊ ㄢ	paix	禮拜結束。大家說：「平安！」	Le culte se termine. Tout le monde se dit : « Paix ! »	n° 010
+師母	shī mǔ	ㄕ ㄇㄨˇ	épouse du pasteur (Madame)	路加：師母，好好吃！	Luc : Madame Wang, c'est délicieux !	n° 010
+午飯	wǔ fàn	ㄨˇ ㄈㄢˋ	déjeuner	王師母：來，我們一起吃午飯。	Mme Wang : Viens, on déjeune ensemble.	n° 010
+好吃	hǎo chī	ㄏㄠˇ ㄔ	bon (à manger)	路加：師母，好好吃！	Luc : Madame Wang, c'est délicieux !	n° 010
+心	xīn	ㄒㄧㄣ	cœur	路加的心很平安。	Luc a le cœur en paix.	n° 010
+敬拜團	jìng bài tuán	ㄐㄧㄥˋ ㄅㄞˋ ㄊㄨㄢˊ	équipe de louange	小恩：這是我們的敬拜團。	Xiao En : Voici notre équipe de louange.	n° 011
+吉他	jí tā	ㄐㄧˊ ㄊㄚ	guitare	樓上有鋼琴、吉他和鼓。	À l'étage, il y a un piano, des guitares et une batterie.	n° 011
+隊長	duì zhǎng	ㄉㄨㄟˋ ㄓㄤˇ	chef d'équipe, responsable	小恩：她是美玲，敬拜團的隊長。	Xiao En : Elle, c'est Meiling, la responsable de l'équipe.	n° 011
+簡單	jiǎn dān	ㄐㄧㄢˇ ㄉㄢ	simple	阿傑彈《簡單的歌》。	A-Jie joue « Un chant simple ».	n° 011
+和弦	hé xián	ㄏㄜˊ ㄒㄧㄢˊ	accord (musique)	阿傑：很簡單！只有三個和弦！	A-Jie : Super simple ! Il n'y a que trois accords !	n° 011
+哈利路亞	hā lì lù yà	ㄏㄚ ㄌㄧˋ ㄌㄨˋ ㄧㄚˋ	alléluia	她唱《我要唱哈利路亞》。	Elle chante « Je veux chanter alléluia ».	n° 012
+主	zhǔ	ㄓㄨˇ	Seigneur	美玲：意思是「你們要讚美主」。	Meiling : Ça veut dire « Louez le Seigneur ».	n° 012
+喜樂	xǐ lè	ㄒㄧˇ ㄌㄜˋ	joie (profonde)	小恩唱歌的時候很喜樂。	Quand Xiao En chante, elle rayonne de joie.	n° 012
+快樂	kuài lè	ㄎㄨㄞˋ ㄌㄜˋ	heureux, content	路加：小恩，你為什麼這麼快樂？	Luc : Xiao En, pourquoi es-tu si heureuse ?	n° 012
+意思	yì si	ㄧˋ ˙ㄙ	sens, signification	美玲：意思是「你們要讚美主」。	Meiling : Ça veut dire « Louez le Seigneur ».	n° 012
+感謝	gǎn xiè	ㄍㄢˇ ㄒㄧㄝˋ	remercier ; reconnaissance	路加：我要感謝你！今天很好。	Luc : C'est moi qui te remercie ! C'était une super journée.	n° 013
+祝福	zhù fú	ㄓㄨˋ ㄈㄨˊ	bénir ; bénédiction	路加：最後，王牧師說「祝福」。	Luc : À la fin, le pasteur Wang a parlé de « bénir ».	n° 013
+捷運站	jié yùn zhàn	ㄐㄧㄝˊ ㄩㄣˋ ㄓㄢˋ	station de métro	晚上，路加和小恩走去捷運站。	Le soir, Luc et Xiao En marchent jusqu'à la station de métro.	n° 013
+東西	dōng xi	ㄉㄨㄥ ˙ㄒㄧ	chose	小恩：祝福就是神給你好的東西。	Xiao En : Bénir, c'est quand Dieu te donne de bonnes choses.	n° 013
+再見	zài jiàn	ㄗㄞˋ ㄐㄧㄢˋ	au revoir	他們在捷運站說再見。	Ils se disent au revoir à la station.	n° 013
+奶奶	nǎi nai	ㄋㄞˇ ˙ㄋㄞ	grand-mère, mamie	小恩：這是奶奶最喜歡的歌。	Xiao En : C'est la chanson préférée de ma grand-mère.	n° 014
+溫暖	wēn nuǎn	ㄨㄣ ㄋㄨㄢˇ	chaleureux	小恩的家很小，可是很溫暖。	La maison de Xiao En est petite, mais très chaleureuse.	n° 014
+沙發	shā fā	ㄕㄚ ㄈㄚ	canapé	一位老奶奶坐在沙發上。	Une vieille dame est assise sur le canapé.	n° 014
+飛機	fēi jī	ㄈㄟ ㄐㄧ	avion	路加：主？不是，是飛機！	Luc : Le Seigneur ? Non, c'est l'avion !	n° 014
+筷子	kuài zi	ㄎㄨㄞˋ ˙ㄗ	baguettes	路加拿起筷子，想吃。	Luc prend ses baguettes, il a envie de manger.	n° 015
+食物	shí wù	ㄕˊ ㄨˋ	nourriture	陳奶奶禱告：「天父，感謝祢給我們食物。」	Mamie Chen prie : « Père céleste, merci de nous donner cette nourriture. »	n° 015
+禮物	lǐ wù	ㄌㄧˇ ㄨˋ	cadeau	陳奶奶：當然！你是天父給的禮物。	Mamie Chen : Bien sûr ! Tu es un cadeau du Père céleste.	n° 015
+爸爸	bà ba	ㄅㄚˋ ˙ㄅㄚ	papa	路加想到法國的爸爸媽媽。	Luc pense à son papa et à sa maman en France.	n° 016
+笑話	xiào huà	ㄒㄧㄠˋ ㄏㄨㄚˋ	blague	陳爸爸很愛說笑話。	Papa Chen adore raconter des blagues.	n° 016
+麵包	miàn bāo	ㄇㄧㄢˋ ㄅㄠ	pain	陳爸爸：路加，法國人都吃麵包嗎？	Papa Chen : Luc, les Français mangent tous du pain ?	n° 016
+好像	hǎo xiàng	ㄏㄠˇ ㄒㄧㄤˋ	on dirait que, comme si	路加：謝謝你們。我好像在家！	Luc : Merci à vous. J'ai l'impression d'être à la maison !	n° 016
+恩典	ēn diǎn	ㄣ ㄉㄧㄢˇ	grâce	小恩：「恩」就是「恩典」。	Xiao En : « 恩 », c'est la « grâce ».	n° 017
+白白	bái bái	ㄅㄞˊ ㄅㄞˊ	gratuitement	陳爸爸：對。恩典就是神白白給的愛。	Papa Chen : Exactement. La grâce, c'est l'amour que Dieu donne gratuitement.	n° 017
+錢	qián	ㄑㄧㄢˊ	argent	路加：白白給？不用錢嗎？	Luc : Gratuitement ? Ça ne coûte rien ?	n° 017
+何等	hé děng	ㄏㄜˊ ㄉㄥˇ	combien, quel (exclamatif)	陳奶奶開始唱《何等恩典》。	Mamie Chen se met à chanter « Quelle grâce ».	n° 017
+唱詩班	chàng shī bān	ㄔㄤˋ ㄕ ㄅㄢ	chorale	陳奶奶：年輕的時候，我在唱詩班。	Mamie Chen : Quand j'étais jeune, je chantais dans la chorale.	n° 018
+年輕	nián qīng	ㄋㄧㄢˊ ㄑㄧㄥ	jeune	陳奶奶：年輕的時候，我在唱詩班。	Mamie Chen : Quand j'étais jeune, je chantais dans la chorale.	n° 018
+奇異	qí yì	ㄑㄧˊ ㄧˋ	étonnant, merveilleux	小恩：這是《奇異恩典》，很老的詩歌。	Xiao En : C'est « Grâce étonnante », un très vieux cantique.	n° 018
+需要	xū yào	ㄒㄩ ㄧㄠˋ	avoir besoin de	陳奶奶：神的恩典，每個國家都需要。	Mamie Chen : Tous les pays ont besoin de la grâce de Dieu.	n° 018
+為	wèi	ㄨㄟˋ	pour (en faveur de)	陳奶奶：路加，我可以為你禱告嗎？	Mamie Chen : Luc, est-ce que je peux prier pour toi ?	n° 019
+台語	tái yǔ	ㄊㄞˊ ㄩˇ	taïwanais (langue)	奶奶閉上眼睛，說台語。	Mamie ferme les yeux et prie en taïwanais.	n° 019
+保護	bǎo hù	ㄅㄠˇ ㄏㄨˋ	protéger	陳奶奶：我求神祝福你，保護你。	Mamie Chen : J'ai demandé à Dieu de te bénir et de te protéger.	n° 019
+宿舍	sù shè	ㄙㄨˋ ㄕㄜˋ	résidence étudiante	九點，路加要回宿舍。	À neuf heures, Luc doit rentrer à la résidence.	n° 019
+練習	liàn xí	ㄌㄧㄢˋ ㄒㄧˊ	répéter, s'exercer	星期六下午，敬拜團練習。	Le samedi après-midi, l'équipe de louange répète.	n° 020
+表演	biǎo yǎn	ㄅㄧㄠˇ ㄧㄢˇ	spectacle	美玲：敬拜不是表演。我們唱給神聽。	Meiling : L'adoration n'est pas un spectacle. Nous chantons pour Dieu.	n° 020
+對不起	duì bù qǐ	ㄉㄨㄟˋ ㄅㄨˋ ㄑㄧˇ	pardon, désolé	阿傑：對不起！我太興奮！	A-Jie : Pardon ! Je suis trop excité !	n° 020
+地方	dì fāng	ㄉㄧˋ ㄈㄤ	endroit	小恩：在！神在每個地方。	Xiao En : Oui ! Dieu est partout.	n° 020
+老師	lǎo shī	ㄌㄠˇ ㄕ	professeur	阿傑：沒關係，我是很好的老師！	A-Jie : Pas de souci, je suis un excellent prof !	n° 021
+手指	shǒu zhǐ	ㄕㄡˇ ㄓˇ	doigt	阿傑：手指放這裡，對！	A-Jie : Mets tes doigts ici, voilà !	n° 021
+痛	tòng	ㄊㄨㄥˋ	avoir mal ; douleur	路加：我的手指很痛！	Luc : J'ai mal aux doigts !	n° 021
+心裡	xīn lǐ	ㄒㄧㄣ ㄌㄧˇ	dans le cœur	阿傑：手指痛，可是心裡有喜樂！	A-Jie : Les doigts ont mal, mais le cœur est dans la joie !	n° 021
+祂	tā	ㄊㄚ	Il, Lui (Dieu)	路加指著歌詞上的「祂」。	Luc montre du doigt le « 祂 » dans les paroles.	n° 022
+歌詞	gē cí	ㄍㄜ ㄘˊ	paroles (d'une chanson)	路加指著歌詞上的「祂」。	Luc montre du doigt le « 祂 » dans les paroles.	n° 022
+聲音	shēng yīn	ㄕㄥ ㄧㄣ	son, prononciation	路加：三個字，聲音都一樣嗎？	Luc : Les trois se prononcent pareil ?	n° 022
+覺得	jué de	ㄐㄩㄝˊ ˙ㄉㄜ	trouver, penser	美玲：路加，你覺得我們的歌怎麼樣？	Meiling : Luc, que penses-tu de nos chants ?	n° 022
+怎麼樣	zěn me yàng	ㄗㄣˇ ˙ㄇㄜ ㄧㄤˋ	comment (c'est) ?	美玲：路加，你覺得我們的歌怎麼樣？	Meiling : Luc, que penses-tu de nos chants ?	n° 022
+衣服	yī fu	ㄧ ˙ㄈㄨ	vêtements	他們穿白色的衣服。	Ils portent des habits blancs.	n° 023
+爺爺	yé ye	ㄧㄝˊ ˙ㄧㄝ	grand-père, papi	唱詩班裡有很多爺爺奶奶。	Dans la chorale, il y a beaucoup de papis et de mamies.	n° 023
+聲部	shēng bù	ㄕㄥ ㄅㄨˋ	pupitre, voix	小恩：唱詩班有鋼琴和很多聲部。	Xiao En : La chorale a le piano et plein de voix différentes.	n° 023
+記得	jì de	ㄐㄧˋ ˙ㄉㄜ	se souvenir	路加：奶奶還記得每個字！	Luc : Mamie se souvient encore de chaque mot !	n° 023
+問題	wèn tí	ㄨㄣˋ ㄊㄧˊ	question ; problème	路加：小恩，我有問題。	Luc : Xiao En, j'ai une question.	n° 024
+語言	yǔ yán	ㄩˇ ㄧㄢˊ	langue	星期三是語言交換的時間。	Le mercredi, c'est l'heure de l'échange linguistique.	n° 024
+左邊	zuǒ biān	ㄗㄨㄛˇ ㄅㄧㄢ	côté gauche	路加：兩個字的左邊都一樣！	Luc : Les deux caractères ont la même partie gauche !	n° 024
+慈愛	cí ài	ㄘˊ ㄞˋ	amour tendre, bonté	晚上，路加在宿舍聽《慈愛天父》。	Le soir, dans sa chambre, Luc écoute « Père plein d'amour ».	n° 025
+孩子	hái zi	ㄏㄞˊ ˙ㄗ	enfant	小恩：「天父很愛祂的孩子。」	Xiao En : « Le Père céleste aime beaucoup ses enfants. »	n° 025
+工作	gōng zuò	ㄍㄨㄥ ㄗㄨㄛˋ	travailler ; travail	爸爸工作很忙，不常說話。	Son père travaille beaucoup et ne parle pas souvent.	n° 025
+聖經	shèng jīng	ㄕㄥˋ ㄐㄧㄥ	Bible	小恩：會！聖經這樣說：	Xiao En : Oui ! La Bible dit ceci :	n° 025
+便當	biàn dāng	ㄅㄧㄢˋ ㄉㄤ	bento, repas en boîte	練習以後，大家一起吃便當。	Après la répétition, tout le monde mange un bento ensemble.	n° 026
+彼此	bǐ cǐ	ㄅㄧˇ ㄘˇ	l'un l'autre	美玲：這就是《彼此相愛》。	Meiling : Voilà, c'est ça, « S'aimer les uns les autres ».	n° 026
+相愛	xiāng ài	ㄒㄧㄤ ㄞˋ	s'aimer	美玲：這就是《彼此相愛》。	Meiling : Voilà, c'est ça, « S'aimer les uns les autres ».	n° 026
+家庭	jiā tíng	ㄐㄧㄚ ㄊㄧㄥˊ	famille	美玲：對，教會就是一個大家庭。	Meiling : C'est ça : l'église est une grande famille.	n° 026
+相信	xiāng xìn	ㄒㄧㄤ ㄒㄧㄣˋ	croire	小光：你相信耶穌嗎？	Xiao Guang : Tu crois en Jésus ?	n° 027
+外國人	wài guó rén	ㄨㄞˋ ㄍㄨㄛˊ ㄖㄣˊ	étranger	小光：你是外國人嗎？	Xiao Guang : Tu es étranger ?	n° 027
+歲	suì	ㄙㄨㄟˋ	an (âge)	小光：我叫小光，八歲。美玲是我媽媽！	Xiao Guang : Je m'appelle Xiao Guang, j'ai huit ans. Meiling, c'est ma maman !	n° 027
+風	fēng	ㄈㄥ	vent	小光：我也看不到風啊！	Xiao Guang : Le vent non plus, je ne le vois pas !	n° 027
+涼快	liáng kuài	ㄌㄧㄤˊ ㄎㄨㄞˋ	frais, agréable	小光：可是風來的時候，我很涼快。	Xiao Guang : Mais quand il souffle, je sens la fraîcheur.	n° 027
+天使	tiān shǐ	ㄊㄧㄢ ㄕˇ	ange	小光：不是啦！這是天使！	Xiao Guang : Mais non ! C'est un ange !	n° 028
+翅膀	chì bǎng	ㄔˋ ㄅㄤˇ	aile	畫上有一個人，有白色的翅膀。	Sur le dessin, il y a quelqu'un avec des ailes blanches.	n° 028
+幫助	bāng zhù	ㄅㄤ ㄓㄨˋ	aider	小光：天使讚美神，也幫助人。	Xiao Guang : Les anges louent Dieu, et ils aident les gens.	n° 028
+姐姐	jiě jie	ㄐㄧㄝˇ ˙ㄐㄧㄝ	grande sœur	小光想一想：「小恩姐姐是你的天使！」	Xiao Guang réfléchit : « Grande sœur Xiao En, c'est ton ange ! »	n° 028
+畫	huà	ㄏㄨㄚˋ	dessin ; dessiner	小光拿著一張畫給路加看。	Xiao Guang montre un dessin à Luc.	n° 028
+天堂	tiān táng	ㄊㄧㄢ ㄊㄤˊ	paradis, ciel	小光：路加哥哥，天堂在哪裡？	Xiao Guang : Grand frère Luc, où est le paradis ?	n° 029
+主日學	zhǔ rì xué	ㄓㄨˇ ㄖˋ ㄒㄩㄝˊ	école du dimanche	主日學下課，小光又來找路加。	Après l'école du dimanche, Xiao Guang revient voir Luc.	n° 029
+哥哥	gē ge	ㄍㄜ ˙ㄍㄜ	grand frère	小光：路加哥哥，天堂在哪裡？	Xiao Guang : Grand frère Luc, où est le paradis ?	n° 029
+冰淇淋	bīng qí lín	ㄅㄧㄥ ㄑㄧˊ ㄌㄧㄣˊ	glace	小光：天堂有冰淇淋嗎？	Xiao Guang : Il y a des glaces, au paradis ?	n° 029
+天上	tiān shàng	ㄊㄧㄢ ㄕㄤˋ	au ciel	路加：天堂？在天上吧？	Luc : Le paradis ? Dans le ciel, sans doute ?	n° 029
+故事	gù shi	ㄍㄨˋ ˙ㄕ	histoire	美玲：今天的故事是「好牧人」。	Meiling : L'histoire d'aujourd'hui, c'est « le bon berger ».	n° 030
+牧人	mù rén	ㄇㄨˋ ㄖㄣˊ	berger	美玲：今天的故事是「好牧人」。	Meiling : L'histoire d'aujourd'hui, c'est « le bon berger ».	n° 030
+羊	yáng	ㄧㄤˊ	mouton, brebis	美玲：牧人有一百隻羊，一隻迷路。	Meiling : Un berger a cent brebis ; l'une d'elles se perd.	n° 030
+迷路	mí lù	ㄇㄧˊ ㄌㄨˋ	se perdre	美玲：牧人有一百隻羊，一隻迷路。	Meiling : Un berger a cent brebis ; l'une d'elles se perd.	n° 030
+幫忙	bāng máng	ㄅㄤ ㄇㄤˊ	aider	美玲請路加去主日學幫忙。	Meiling demande à Luc de venir aider à l'école du dimanche.	n° 030

@@ -1,0 +1,21 @@
+{
+  "name": "lecture-louange",
+  "version": "1.0.0",
+  "description": "Conversations graduées en chinois traditionnel pour apprendre le vocabulaire chrétien (inspirées des chants de 讚美之泉)",
+  "scripts": {
+    "validate": "node scripts/validate.js --all",
+    "build": "node scripts/build.js",
+    "serve": "node scripts/serve.js site 8123",
+    "mots": "node scripts/extract_words.js 6",
+    "etat": "node scripts/etat.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "opencc-js": "^1.4.2",
+    "pinyin-pro": "^3.29.5"
+  },
+  "private": true
+}

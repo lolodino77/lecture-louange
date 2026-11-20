@@ -1,0 +1,348 @@
+# Conversations 001–010 — niveau 1 (Débutant)
+@series 001 | 初到台北 | Arrivée à Taipei | Luc arrive à Taipei, rencontre Xiao En à l'université et reçoit une invitation à l'église.
+
+=== 001
+series: 001
+title_zh: 你好，我是路加
+title_fr: Bonjour, je suis Luc
+tagline: Première rencontre — un bonjour, un échange de langues et une chanson.
+song: 最好的朋友
+vocab: 你好=bonjour | 學生=étudiant | 朋友=ami(e) | 喜歡=aimer (bien) | 歌=chanson
+---
+路加/lu4jia1 ：你好/ni3hao3 ！我/wo3 是/shi4 路加/lu4jia1 。
+= Luc : Bonjour ! Je suis Luc.
+小恩/xiao3en1 ：你好/ni3hao3 ！我/wo3 叫/jiao4 小恩/xiao3en1 。
+= Xiao En : Bonjour ! Je m'appelle Xiao En.
+小恩/xiao3en1 ：你/ni3 是/shi4 學生/xue2sheng1 嗎/ma5 ？
+= Xiao En : Tu es étudiant ?
+路加/lu4jia1 ：是/shi4 ，我/wo3 是/shi4 法國/fa3guo2 學生/xue2sheng1 。
+= Luc : Oui, je suis un étudiant français.
+路加/lu4jia1 ：我/wo3 來/lai2 台北/tai2bei3 學/xue2 中文/zhong1wen2 。
+= Luc : Je suis venu à Taipei pour apprendre le chinois.
+小恩/xiao3en1 ：很/hen3 好/hao3 ！我/wo3 想/xiang3 學/xue2 法文/fa3wen2 。
+= Xiao En : Super ! Et moi, je veux apprendre le français.
+路加/lu4jia1 ：好/hao3 ！我們/wo3men5 做/zuo4 朋友/peng2you3 吧/ba5 ！
+= Luc : Très bien ! Soyons amis !
+小恩/xiao3en1 ：好/hao3 啊/a5 ！
+= Xiao En : Avec plaisir !
+小恩/xiao3en1 在/zai4 聽/ting1 歌/ge1 。
+= Xiao En écoute une chanson.
+路加/lu4jia1 ：這/zhe4 是/shi4 什麼/shen2me5 歌/ge1 ？
+= Luc : C'est quoi, cette chanson ?
+小恩/xiao3en1 ：《最/zui4 好/hao3 的/de5 朋友/peng2you3 》。
+= Xiao En : « Le meilleur ami ».
+小恩/xiao3en1 ：我/wo3 很/hen3 喜歡/xi3huan1 這/zhe4 首/shou3 歌/ge1 。
+= Xiao En : J'aime beaucoup cette chanson.
+路加/lu4jia1 ：我/wo3 也/ye3 喜歡/xi3huan1 ！
+= Luc : Moi aussi, je l'aime bien !
+
+=== 002
+series: 001
+title_zh: 小恩喜歡唱歌
+title_fr: Xiao En aime chanter
+tagline: Au café — un passe-temps, une église et une chanson à apprendre.
+song: 我要歌唱
+vocab: 唱歌=chanter | 教會=église (communauté, bâtiment) | 禮拜天=dimanche | 咖啡店=café (lieu) | 沒關係=ce n'est pas grave
+---
+路加/lu4jia1 和/he2 小恩/xiao3en1 在/zai4 咖啡店/ka1fei1dian4 。
+= Luc et Xiao En sont dans un café.
+路加/lu4jia1 ：小恩/xiao3en1 ，你/ni3 喜歡/xi3huan1 什麼/shen2me5 ？
+= Luc : Xiao En, qu'est-ce que tu aimes ?
+小恩/xiao3en1 ：我/wo3 喜歡/xi3huan1 唱歌/chang4ge1 ！
+= Xiao En : J'aime chanter !
+路加/lu4jia1 ：你/ni3 在/zai4 哪裡/na3li3 唱歌/chang4ge1 ？
+= Luc : Où est-ce que tu chantes ?
+小恩/xiao3en1 ：我/wo3 在/zai4 教會/jiao4hui4 唱歌/chang4ge1 。
+= Xiao En : Je chante à l'église.
+路加/lu4jia1 ：教會/jiao4hui4 ？
+= Luc : À l'église ?
+小恩/xiao3en1 ：對/dui4 。禮拜天/li3bai4tian1 ，我/wo3 去/qu4 教會/jiao4hui4 。
+= Xiao En : Oui. Le dimanche, je vais à l'église.
+小恩/xiao3en1 ：你/ni3 喜歡/xi3huan1 唱歌/chang4ge1 嗎/ma5 ？
+= Xiao En : Et toi, tu aimes chanter ?
+路加/lu4jia1 ：喜歡/xi3huan1 ！可是/ke3shi4 我/wo3 不/bu4 會/hui4 唱/chang4 中文/zhong1wen2 歌/ge1 。
+= Luc : Oui ! Mais je ne sais pas chanter en chinois.
+小恩/xiao3en1 ：沒關係/mei2guan1xi5 ！我/wo3 教/jiao1 你/ni3 。
+= Xiao En : Pas grave ! Je vais t'apprendre.
+小恩/xiao3en1 ：這/zhe4 首/shou3 歌/ge1 叫/jiao4 《我/wo3 要/yao4 歌唱/ge1chang4 》。
+= Xiao En : Cette chanson s'appelle « Je veux chanter ».
+路加/lu4jia1 ：《我/wo3 要/yao4 歌唱/ge1chang4 》？好/hao3 ，我/wo3 也/ye3 要/yao4 ！
+= Luc : « Je veux chanter » ? D'accord, moi aussi, je veux !
+兩/liang3 個/ge4 人/ren2 都/dou1 很/hen3 高興/gao1xing4 。
+= Tous les deux sont très contents.
+
+=== 003
+series: 001
+title_zh: 神是什麼？
+title_fr: « 神 », c'est quoi ?
+tagline: Un cahier — quatre caractères, un nom pour Dieu et une question surprise.
+song: 神愛世人
+vocab: 神=Dieu | 上帝=Dieu (autre nom courant) | 愛=aimer ; amour | 世人=les hommes, les gens du monde | 認識=connaître (quelqu'un)
+---
+路加/lu4jia1 看/kan4 小恩/xiao3en1 的/de5 本子/ben3zi5 。
+= Luc regarde le cahier de Xiao En.
+本子/ben3zi5 上/shang4 有/you3 四/si4 個/ge4 字/zi4 ：《神/shen2 愛/ai4 世人/shi4ren2 》。
+= Sur le cahier, il y a quatre caractères : « Dieu aime les hommes ».
+路加/lu4jia1 ：這/zhe4 是/shi4 什麼/shen2me5 ？
+= Luc : Qu'est-ce que c'est ?
+小恩/xiao3en1 ：這/zhe4 是/shi4 一/yi1 首/shou3 歌/ge1 。
+= Xiao En : C'est une chanson.
+路加/lu4jia1 ：「神/shen2 」是/shi4 什麼/shen2me5 ？
+= Luc : Que veut dire « 神 » ?
+小恩/xiao3en1 ：「神/shen2 」也/ye3 叫/jiao4 「上帝/shang4di4 」。
+= Xiao En : « 神 », on dit aussi « 上帝 » : c'est Dieu.
+路加/lu4jia1 ：上帝/shang4di4 ？我/wo3 知道/zhi1dao4 ！
+= Luc : Dieu ? Je connais !
+路加/lu4jia1 ：「愛/ai4 」我/wo3 也/ye3 知道/zhi1dao4 。
+= Luc : Et « 愛 », je sais aussi : c'est aimer.
+路加/lu4jia1 ：「世人/shi4ren2 」是/shi4 什麼/shen2me5 ？
+= Luc : Et « 世人 », qu'est-ce que c'est ?
+小恩/xiao3en1 ：世人/shi4ren2 就/jiu4 是/shi4 世界/shi4jie4 上/shang4 的/de5 人/ren2 。
+= Xiao En : Ce sont les gens du monde entier.
+小恩/xiao3en1 ：神/shen2 愛/ai4 世人/shi4ren2 ，也/ye3 愛/ai4 你/ni3 。
+= Xiao En : Dieu aime les hommes, et il t'aime toi aussi.
+路加/lu4jia1 ：愛/ai4 我/wo3 ？神/shen2 認識/ren4shi5 我/wo3 嗎/ma5 ？
+= Luc : M'aimer, moi ? Dieu me connaît ?
+小恩/xiao3en1 笑/xiao4 ：「當然/dang1ran2 ！」
+= Xiao En sourit : « Bien sûr ! »
+
+=== 004
+series: 001
+title_zh: 捷運上的歌
+title_fr: Une chanson dans le métro
+tagline: Dans le MRT — un écouteur partagé, un nom connu et une question franche.
+song: 耶穌愛我
+vocab: 捷運=métro (MRT de Taipei) | 耶穌=Jésus | 基督徒=chrétien(ne) | 名字=nom, prénom | 耳機=écouteur(s)
+---
+路加/lu4jia1 和/he2 小恩/xiao3en1 坐/zuo4 捷運/jie2yun4 。
+= Luc et Xiao En prennent le métro.
+捷運/jie2yun4 上/shang4 人/ren2 很/hen3 多/duo1 。
+= Il y a beaucoup de monde dans la rame.
+小恩/xiao3en1 給/gei3 路加/lu4jia1 一/yi1 個/ge4 耳機/er3ji1 。
+= Xiao En donne un écouteur à Luc.
+小恩/xiao3en1 ：你/ni3 聽/ting1 ，這/zhe4 是/shi4 《耶穌/ye1su1 愛/ai4 我/wo3 》。
+= Xiao En : Écoute, c'est « Jésus m'aime ».
+路加/lu4jia1 ：耶穌/ye1su1 ？我/wo3 知道/zhi1dao4 這/zhe4 個/ge4 名字/ming2zi5 。
+= Luc : Jésus ? Je connais ce nom.
+路加/lu4jia1 ：法國/fa3guo2 也/ye3 有/you3 很/hen3 多/duo1 教會/jiao4hui4 。
+= Luc : En France aussi, il y a beaucoup d'églises.
+小恩/xiao3en1 ：你/ni3 是/shi4 基督徒/ji1du1tu2 嗎/ma5 ？
+= Xiao En : Tu es chrétien ?
+路加/lu4jia1 ：不/bu4 是/shi4 。我/wo3 家/jia1 不/bu4 去/qu4 教會/jiao4hui4 。
+= Luc : Non. Dans ma famille, on ne va pas à l'église.
+路加/lu4jia1 ：你/ni3 呢/ne5 ？
+= Luc : Et toi ?
+小恩/xiao3en1 ：我/wo3 是/shi4 基督徒/ji1du1tu2 。我/wo3 愛/ai4 耶穌/ye1su1 。
+= Xiao En : Je suis chrétienne. J'aime Jésus.
+路加/lu4jia1 ：耶穌/ye1su1 也/ye3 愛/ai4 你/ni3 嗎/ma5 ？
+= Luc : Et Jésus t'aime aussi ?
+小恩/xiao3en1 ：對/dui4 ！耶穌/ye1su1 愛/ai4 我/wo3 ，也/ye3 愛/ai4 你/ni3 。
+= Xiao En : Oui ! Jésus m'aime, et il t'aime aussi.
+路加/lu4jia1 不/bu4 說話/shuo1hua4 。他/ta1 想/xiang3 一/yi1 想/xiang3 。
+= Luc ne dit rien. Il réfléchit.
+
+=== 005
+series: 001
+title_zh: 一杯珍珠奶茶
+title_fr: Un thé aux perles
+tagline: Après les cours — un thé aux perles, un dimanche libre et une invitation à l'église.
+song: 新的一天
+vocab: 珍珠奶茶=thé aux perles | 主日=jour du Seigneur (dimanche) | 詩歌=cantique, chant d'église | 好聽=agréable à écouter, beau | 有空=être libre
+---
+下課/xia4ke4 以後/yi3hou4 ，路加/lu4jia1 很/hen3 渴/ke3 。
+= Après les cours, Luc a très soif.
+小恩/xiao3en1 ：我們/wo3men5 去/qu4 喝/he1 珍珠奶茶/zhen1zhu1nai3cha2 吧/ba5 ！
+= Xiao En : Allons boire un thé aux perles !
+路加/lu4jia1 ：好/hao3 ！我/wo3 要/yao4 大/da4 杯/bei1 的/de5 ！
+= Luc : D'accord ! J'en prends un grand !
+小恩/xiao3en1 ：路加/lu4jia1 ，這/zhe4 個/ge4 禮拜天/li3bai4tian1 你/ni3 有空/you3kong4 嗎/ma5 ？
+= Xiao En : Luc, tu es libre ce dimanche ?
+路加/lu4jia1 ：有/you3 。你/ni3 想/xiang3 去/qu4 哪裡/na3li3 ？
+= Luc : Oui. Où veux-tu aller ?
+小恩/xiao3en1 ：禮拜天/li3bai4tian1 是/shi4 主日/zhu3ri4 。
+= Xiao En : Le dimanche, c'est le jour du Seigneur.
+小恩/xiao3en1 ：你/ni3 想/xiang3 來/lai2 我們/wo3men5 的/de5 教會/jiao4hui4 嗎/ma5 ？
+= Xiao En : Tu veux venir à notre église ?
+路加/lu4jia1 ：教會/jiao4hui4 有/you3 什麼/shen2me5 ？
+= Luc : Qu'est-ce qu'on y fait ?
+小恩/xiao3en1 ：我們/wo3men5 唱/chang4 詩歌/shi1ge1 ，很/hen3 好聽/hao3ting1 ！
+= Xiao En : On chante des cantiques, c'est très beau !
+路加/lu4jia1 ：詩歌/shi1ge1 是/shi4 什麼/shen2me5 ？
+= Luc : C'est quoi, un « 詩歌 » ?
+小恩/xiao3en1 ：就/jiu4 是/shi4 教會/jiao4hui4 的/de5 歌/ge1 。
+= Xiao En : Ce sont les chants de l'église.
+小恩/xiao3en1 ：這/zhe4 個/ge4 禮拜/li3bai4 要/yao4 唱/chang4 《新/xin1 的/de5 一/yi1 天/tian1 》。
+= Xiao En : Cette semaine, on va chanter « Un jour nouveau ».
+路加/lu4jia1 喝/he1 一/yi1 口/kou3 奶茶/nai3cha2 ：「好/hao3 ，我/wo3 去/qu4 ！」
+= Luc boit une gorgée de thé : « D'accord, je viens ! »
+
+=== 006
+series: 001
+title_zh: 媽媽的電話
+title_fr: L'appel de maman
+tagline: Un soir — un appel de France, un peu de mal du pays et un dimanche prévu.
+song: 一路不孤單
+vocab: 媽媽=maman | 電話=téléphone | 家=maison ; famille ; foyer | 孤單=seul, solitaire | 晚上=le soir
+---
+晚上/wan3shang4 ，路加/lu4jia1 的/de5 媽媽/ma1ma5 打/da3 電話/dian4hua4 來/lai2 。
+= Le soir, la mère de Luc l'appelle.
+媽媽/ma1ma5 ：路加/lu4jia1 ，你/ni3 好/hao3 嗎/ma5 ？
+= Maman : Luc, comment vas-tu ?
+路加/lu4jia1 ：我/wo3 很/hen3 好/hao3 。台北/tai2bei3 很/hen3 熱/re4 ！
+= Luc : Je vais bien. Il fait très chaud à Taipei !
+媽媽/ma1ma5 ：你/ni3 一/yi1 個/ge4 人/ren2 ，想/xiang3 家/jia1 嗎/ma5 ？
+= Maman : Tout seul là-bas, la maison ne te manque pas ?
+路加/lu4jia1 ：有/you3 一點/yi1dian3 想/xiang3 家/jia1 。
+= Luc : Un peu.
+路加/lu4jia1 ：可是/ke3shi4 我/wo3 有/you3 朋友/peng2you3 。她/ta1 叫/jiao4 小恩/xiao3en1 。
+= Luc : Mais j'ai une amie. Elle s'appelle Xiao En.
+媽媽/ma1ma5 ：真/zhen1 好/hao3 ！
+= Maman : Ça me fait plaisir !
+路加/lu4jia1 ：禮拜天/li3bai4tian1 ，我/wo3 要/yao4 去/qu4 她/ta1 的/de5 教會/jiao4hui4 。
+= Luc : Dimanche, je vais aller à son église.
+媽媽/ma1ma5 ：教會/jiao4hui4 ？你/ni3 ？
+= Maman : À l'église ? Toi ?
+路加/lu4jia1 ：對/dui4 。我/wo3 想/xiang3 聽/ting1 他們/ta1men5 唱歌/chang4ge1 。
+= Luc : Oui. J'ai envie de les entendre chanter.
+路加/lu4jia1 ：小恩/xiao3en1 說/shuo1 ，一/yi1 首/shou3 歌/ge1 叫/jiao4 《一路/yi1lu4 不/bu4 孤單/gu1dan1 》。
+= Luc : Xiao En m'a parlé d'une chanson : « Jamais seul en chemin ».
+媽媽/ma1ma5 ：「不/bu4 孤單/gu1dan1 」，很/hen3 好/hao3 。
+= Maman : « Jamais seul »… c'est bien.
+媽媽/ma1ma5 ：我/wo3 愛/ai4 你/ni3 ，路加/lu4jia1 。
+= Maman : Je t'aime, Luc.
+
+@series 007 | 第一個主日 | Premier dimanche | Luc découvre le culte : le pasteur Wang, la louange, la prière et les membres de l'église de la Grâce.
+
+=== 007
+series: 007
+title_zh: 弟兄和姐妹
+title_fr: Frères et sœurs
+tagline: Premier dimanche — l'église de la Grâce, le pasteur Wang et une grande famille.
+song: 前來敬拜
+vocab: 恩典教會=l'église de la Grâce | 牧師=pasteur | 弟兄=frère (dans la foi) | 姐妹=sœur (dans la foi) | 一家人=une même famille | 敬拜=adorer ; adoration
+---
+禮拜天/li3bai4tian1 早上/zao3shang4 ，路加/lu4jia1 來/lai2 恩典教會/en1dian3jiao4hui4 。
+= Dimanche matin, Luc arrive à l'église de la Grâce.
+小恩/xiao3en1 ：路加/lu4jia1 ，歡迎/huan1ying2 你/ni3 ！
+= Xiao En : Luc, bienvenue !
+小恩/xiao3en1 ：這/zhe4 是/shi4 我們/wo3men5 的/de5 牧師/mu4shi1 。
+= Xiao En : Voici notre pasteur, le pasteur Wang.
+王牧師/wang2mu4shi1 ：你好/ni3hao3 ！你/ni3 是/shi4 路加/lu4jia1 弟兄/di4xiong1 吧/ba5 ？
+= Pasteur Wang : Bonjour ! Tu dois être frère Luc ?
+路加/lu4jia1 ：弟兄/di4xiong1 ？我/wo3 不/bu4 是/shi4 小恩/xiao3en1 的/de5 哥哥/ge1ge5 。
+= Luc : Frère ? Mais je ne suis pas le frère de Xiao En.
+王牧師/wang2mu4shi1 笑/xiao4 ：「在/zai4 教會/jiao4hui4 ，男生/nan2sheng1 都/dou1 叫/jiao4 弟兄/di4xiong1 。」
+= Le pasteur Wang rit : « À l'église, on appelle tous les hommes "frère". »
+王牧師/wang2mu4shi1 ：女生/nv3sheng1 都/dou1 叫/jiao4 姐妹/jie3mei4 。
+= Pasteur Wang : Et toutes les femmes, « sœur ».
+路加/lu4jia1 ：那/na4 我們/wo3men5 是/shi4 一家人/yi1jia1ren2 嗎/ma5 ？
+= Luc : Alors on est tous une même famille ?
+王牧師/wang2mu4shi1 ：對/dui4 ！在/zai4 神/shen2 的/de5 家/jia1 ，我們/wo3men5 是/shi4 一家人/yi1jia1ren2 。
+= Pasteur Wang : Exactement ! Dans la maison de Dieu, nous sommes une seule famille.
+王牧師/wang2mu4shi1 ：今天/jin1tian1 我們/wo3men5 唱/chang4 《前來/qian2lai2 敬拜/jing4bai4 》。
+= Pasteur Wang : Aujourd'hui, nous chantons « Venez adorer ».
+路加/lu4jia1 ：「敬拜/jing4bai4 」是/shi4 什麼/shen2me5 ？
+= Luc : Que veut dire « adorer » ?
+小恩/xiao3en1 ：等/deng3 一下/yi1xia4 ，你/ni3 就/jiu4 知道/zhi1dao4 ！
+= Xiao En : Attends un peu, tu vas voir !
+
+=== 008
+series: 007
+title_zh: 天天讚美
+title_fr: Louer chaque jour
+tagline: Le culte commence — un piano, un grand écran et un mot nouveau : louer.
+song: 天天讚美
+vocab: 讚美=louer ; louange | 鋼琴=piano | 天天=chaque jour | 大家=tout le monde | 螢幕=écran
+---
+敬拜/jing4bai4 開始/kai1shi3 。大家/da4jia1 都/dou1 站/zhan4 起來/qi3lai2 。
+= Le culte commence. Tout le monde se lève.
+有/you3 人/ren2 彈/tan2 鋼琴/gang1qin2 ，有/you3 人/ren2 唱歌/chang4ge1 。
+= Quelqu'un joue du piano, d'autres chantent.
+大家/da4jia1 一起/yi1qi3 唱/chang4 《天天/tian1tian1 讚美/zan4mei3 》。
+= Tous chantent ensemble « Louer chaque jour ».
+路加/lu4jia1 看/kan4 大/da4 螢幕/ying2mu4 上/shang4 的/de5 字/zi4 。
+= Luc regarde les mots sur le grand écran.
+他/ta1 認識/ren4shi5 「天/tian1 」，也/ye3 認識/ren4shi5 「美/mei3 」。
+= Il connaît « 天 » (ciel, jour) et aussi « 美 » (beau).
+路加/lu4jia1 小/xiao3 聲/sheng1 問/wen4 ：「讚美/zan4mei3 是/shi4 什麼/shen2me5 ？」
+= Luc demande tout bas : « Que veut dire 讚美 ? »
+小恩/xiao3en1 ：讚美/zan4mei3 就/jiu4 是/shi4 說/shuo1 神/shen2 很/hen3 好/hao3 。
+= Xiao En : Louer, c'est dire que Dieu est bon.
+小恩/xiao3en1 ：我們/wo3men5 天天/tian1tian1 讚美/zan4mei3 神/shen2 。
+= Xiao En : Nous louons Dieu chaque jour.
+路加/lu4jia1 ：天天/tian1tian1 ？不/bu4 是/shi4 只/zhi3 有/you3 禮拜天/li3bai4tian1 嗎/ma5 ？
+= Luc : Chaque jour ? Pas seulement le dimanche ?
+小恩/xiao3en1 ：在/zai4 家/jia1 也/ye3 可以/ke3yi3 ，在/zai4 捷運/jie2yun4 上/shang4 也/ye3 可以/ke3yi3 ！
+= Xiao En : On peut aussi à la maison, et même dans le métro !
+路加/lu4jia1 笑/xiao4 。他/ta1 想/xiang3 唱/chang4 ，可是/ke3shi4 歌/ge1 很/hen3 快/kuai4 ！
+= Luc rit. Il voudrait chanter, mais la chanson va trop vite !
+
+=== 009
+series: 007
+title_zh: 第一次禱告
+title_fr: Première prière
+tagline: Pendant le culte — des yeux fermés, un Père céleste et un petit mot : amen.
+song: 禱告
+vocab: 禱告=prier ; prière | 天父=Père céleste | 祢=Tu, Toi (adressé à Dieu) | 阿們=amen | 眼睛=yeux
+---
+大家/da4jia1 唱/chang4 《禱告/dao3gao4 》這/zhe4 首/shou3 歌/ge1 。
+= Tout le monde chante le chant « Prière ».
+王牧師/wang2mu4shi1 說/shuo1 ：「我們/wo3men5 來/lai2 禱告/dao3gao4 。」
+= Le pasteur Wang dit : « Prions. »
+大家/da4jia1 都/dou1 閉/bi4 上/shang4 眼睛/yan3jing1 。
+= Tout le monde ferme les yeux.
+路加/lu4jia1 不/bu4 知道/zhi1dao4 要/yao4 做/zuo4 什麼/shen2me5 。
+= Luc ne sait pas quoi faire.
+他/ta1 也/ye3 閉/bi4 上/shang4 眼睛/yan3jing1 。
+= Il ferme les yeux, lui aussi.
+王牧師/wang2mu4shi1 ：「天父/tian1fu4 ，謝謝/xie4xie5 祢/ni3 愛/ai4 我們/wo3men5 。」
+= Pasteur Wang : « Père céleste, merci de nous aimer. »
+「祢/ni3 是/shi4 好/hao3 天父/tian1fu4 。」
+= « Tu es un bon Père. »
+最後/zui4hou4 ，大家/da4jia1 一起/yi1qi3 說/shuo1 ：「阿們/a1men2 ！」
+= À la fin, tout le monde dit ensemble : « Amen ! »
+路加/lu4jia1 問/wen4 小恩/xiao3en1 ：「天父/tian1fu4 是/shi4 誰/shei2 ？」
+= Luc demande à Xiao En : « Qui est le Père céleste ? »
+小恩/xiao3en1 ：就/jiu4 是/shi4 神/shen2 ，天上/tian1shang4 的/de5 爸爸/ba4ba5 。
+= Xiao En : C'est Dieu, notre Papa du ciel.
+路加/lu4jia1 ：那/na4 「阿們/a1men2 」呢/ne5 ？
+= Luc : Et « amen » ?
+小恩/xiao3en1 ：「阿們/a1men2 」就/jiu4 是/shi4 「對/dui4 ，我/wo3 同意/tong2yi4 ！」
+= Xiao En : « Amen », ça veut dire « Oui, je suis d'accord ! »
+路加/lu4jia1 ：阿們/a1men2 ！我/wo3 喜歡/xi3huan1 這/zhe4 個/ge4 字/zi4 。
+= Luc : Amen ! J'aime bien ce mot.
+
+=== 010
+series: 007
+title_zh: 王師母的午飯
+title_fr: Le déjeuner de Mme Wang
+tagline: Après le culte — une salutation de paix, Mme Wang et un déjeuner partagé.
+song: 平安
+vocab: 平安=paix | 師母=épouse du pasteur (Madame) | 午飯=déjeuner | 好吃=bon (à manger) | 心=cœur
+---
+禮拜/li3bai4 結束/jie2shu4 。大家/da4jia1 說/shuo1 ：「平安/ping2an1 ！」
+= Le culte se termine. Tout le monde se dit : « Paix ! »
+路加/lu4jia1 ：小恩/xiao3en1 ，「平安/ping2an1 」是/shi4 「你好/ni3hao3 」嗎/ma5 ？
+= Luc : Xiao En, « 平安 », ça veut dire « bonjour » ?
+小恩/xiao3en1 ：對/dui4 ！在/zai4 教會/jiao4hui4 ，我們/wo3men5 說/shuo1 「平安/ping2an1 」。
+= Xiao En : Oui ! À l'église, on se souhaite « la paix ».
+小恩/xiao3en1 ：今天/jin1tian1 我們/wo3men5 也/ye3 唱/chang4 《平安/ping2an1 》。
+= Xiao En : D'ailleurs, aujourd'hui, on a chanté « Paix ».
+一/yi1 位/wei4 阿姨/a1yi2 走/zou3 過來/guo4lai2 。
+= Une dame s'approche.
+小恩/xiao3en1 ：這/zhe4 是/shi4 王師母/wang2shi1mu3 ，牧師/mu4shi1 的/de5 太太/tai4tai5 。
+= Xiao En : Voici Mme Wang, la femme du pasteur.
+王師母/wang2shi1mu3 ：路加/lu4jia1 ，平安/ping2an1 ！你/ni3 餓/e4 不/bu4 餓/e4 ？
+= Mme Wang : Luc, la paix soit avec toi ! Tu as faim ?
+路加/lu4jia1 ：平安/ping2an1 ！我/wo3 很/hen3 餓/e4 ！
+= Luc : La paix ! Oui, j'ai très faim !
+王師母/wang2shi1mu3 ：來/lai2 ，我們/wo3men5 一起/yi1qi3 吃/chi1 午飯/wu3fan4 。
+= Mme Wang : Viens, on déjeune ensemble.
+桌子/zhuo1zi5 上/shang4 有/you3 炒飯/chao3fan4 、水餃/shui3jiao3 和/he2 湯/tang1 。
+= Sur la table, il y a du riz sauté, des raviolis et de la soupe.
+路加/lu4jia1 ：師母/shi1mu3 ，好/hao3 好吃/hao3chi1 ！
+= Luc : Madame Wang, c'est délicieux !
+王師母/wang2shi1mu3 ：下/xia4 禮拜/li3bai4 也/ye3 來/lai2 吧/ba5 ！
+= Mme Wang : Reviens la semaine prochaine !
+路加/lu4jia1 的/de5 心/xin1 很/hen3 平安/ping2an1 。
+= Luc a le cœur en paix.

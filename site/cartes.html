@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cartes de révision du vocabulaire chrétien | Lecture Louange</title>
+<meta name="description" content="Révision espacée des mots clés en chinois traditionnel.">
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&family=Noto+Serif+TC:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body class="">
+<header>
+  <div class="container">
+    <a class="logo" href="index.html"><img src="assets/logo.svg" alt="" width="34" height="34"><div>Lecture Louange</div></a>
+    <nav aria-label="Navigation principale"><ul>
+      <li><a href="index.html">Lecture</a></li>
+      <li><a href="grammaire.html">Grammaire</a></li>
+      <li><a href="vocabulaire.html">Vocabulaire</a></li>
+      <li><a href="cartes.html">Cartes</a></li>
+      <li><a href="chants.html">Chants</a></li>
+      <li><button type="button" class="search-btn" id="search-open" aria-label="Rechercher" data-root=""><svg viewBox="0 0 24 24" width="19" height="19" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg></button></li>
+      <li><a class="nav-cta" id="cta-continue" href="conversations/001-bonjour-je-suis-luc.html" data-root="">Commencer</a></li>
+    </ul></nav>
+  </div>
+</header>
+<div id="search-layer" class="search-layer" hidden>
+  <div class="search-panel" role="dialog" aria-label="Recherche">
+    <div class="search-row"><input type="search" id="search-input" placeholder="Titre, mot chinois, pinyin, chant, mot français…" autocomplete="off" aria-label="Rechercher"><button type="button" id="search-close" aria-label="Fermer">×</button></div>
+    <div id="search-results" class="search-results"></div>
+  </div>
+</div>
+<main>
+<div class="container rp-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="index.html">Accueil</a> › Cartes</nav>
+    <div class="rp-intro-wrap"><h1>Cartes de révision</h1>
+    <p class="rp-intro">Révisez les mots clés de chaque niveau ou les mots que vous avez enregistrés en lisant (bouton « ＋ Carte » dans la définition). Répétition espacée : un mot bien connu revient de plus en plus tard. Votre progression reste dans ce navigateur.</p></div>
+    <div class="cards-app" id="cards-app">
+      <div class="deck-row" id="deck-row" role="group" aria-label="Paquet"></div>
+      <div class="deck-stats" id="deck-stats"></div>
+      <div class="flashcard" id="flashcard" hidden>
+        <div class="fc-front"><span class="fc-hz" lang="zh-Hant" id="fc-hz"></span></div>
+        <div class="fc-back" id="fc-back" hidden>
+          <div class="fc-py" id="fc-py"></div>
+          <div class="fc-zy" id="fc-zy" lang="zh-Hant"></div>
+          <div class="fc-def" id="fc-def"></div>
+          <div class="fc-ex"><span lang="zh-Hant" id="fc-ex"></span><span class="fc-exfr" id="fc-exfr"></span><a id="fc-link" href="#">Relire la conversation</a></div>
+        </div>
+        <div class="fc-actions">
+          <button type="button" class="fc-btn fc-show" id="fc-show">Afficher la réponse</button>
+          <button type="button" class="fc-btn fc-again" id="fc-again" hidden>À revoir</button>
+          <button type="button" class="fc-btn fc-good" id="fc-good" hidden>Je savais</button>
+          <button type="button" class="fc-btn fc-easy" id="fc-easy" hidden>Facile</button>
+          <button type="button" class="def-audio" id="fc-audio" aria-label="Écouter">🔊</button>
+        </div>
+      </div>
+      <div class="cards-done" id="cards-done" hidden></div>
+      <p class="cards-export"><button type="button" class="fc-btn" id="cards-export">Exporter ce paquet pour Anki (.txt)</button> <button type="button" class="fc-btn fc-ghost" id="cards-reset">Remettre ce paquet à zéro</button></p>
+    </div>
+  </div>
+  <script src="assets/vocab-data.js"></script>
+  <script src="assets/cards.js"></script>
+</main>
+<footer><div class="container"><p>Lecture Louange — conversations graduées en chinois traditionnel pour apprendre le vocabulaire chrétien, inspirées des titres des chants de <a href="https://www.youtube.com/@streamofpraise/videos" rel="noopener" target="_blank">讚美之泉 Stream of Praise</a>. Versets : 和合本 (1919) et Louis Segond (1910). Aucune parole de chant n'est reproduite.</p></div></footer>
+<script src="assets/site.js"></script>
+</body>
+</html>

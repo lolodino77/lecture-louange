@@ -1,0 +1,682 @@
+你好	nǐ hǎo	ㄋㄧˇ ㄏㄠˇ	bonjour	路加：你好！我是路加。	Luc : Bonjour ! Je suis Luc.	n° 001
+學生	xué shēng	ㄒㄩㄝˊ ㄕㄥ	étudiant	小恩：你是學生嗎？	Xiao En : Tu es étudiant ?	n° 001
+朋友	péng yǒu	ㄆㄥˊ ㄧㄡˇ	ami(e)	路加：好！我們做朋友吧！	Luc : Très bien ! Soyons amis !	n° 001
+喜歡	xǐ huān	ㄒㄧˇ ㄏㄨㄢ	aimer (bien)	小恩：我很喜歡這首歌。	Xiao En : J'aime beaucoup cette chanson.	n° 001
+歌	gē	ㄍㄜ	chanson	小恩在聽歌。	Xiao En écoute une chanson.	n° 001
+唱歌	chàng gē	ㄔㄤˋ ㄍㄜ	chanter	小恩：我喜歡唱歌！	Xiao En : J'aime chanter !	n° 002
+教會	jiào huì	ㄐㄧㄠˋ ㄏㄨㄟˋ	église (communauté, bâtiment)	小恩：我在教會唱歌。	Xiao En : Je chante à l'église.	n° 002
+禮拜天	lǐ bài tiān	ㄌㄧˇ ㄅㄞˋ ㄊㄧㄢ	dimanche	小恩：對。禮拜天，我去教會。	Xiao En : Oui. Le dimanche, je vais à l'église.	n° 002
+咖啡店	kā fēi diàn	ㄎㄚ ㄈㄟ ㄉㄧㄢˋ	café (lieu)	路加和小恩在咖啡店。	Luc et Xiao En sont dans un café.	n° 002
+沒關係	méi guān xi	ㄇㄟˊ ㄍㄨㄢ ˙ㄒㄧ	ce n'est pas grave	小恩：沒關係！我教你。	Xiao En : Pas grave ! Je vais t'apprendre.	n° 002
+神	shén	ㄕㄣˊ	Dieu	本子上有四個字：《神愛世人》。	Sur le cahier, il y a quatre caractères : « Dieu aime les hommes ».	n° 003
+上帝	shàng dì	ㄕㄤˋ ㄉㄧˋ	Dieu (autre nom courant)	小恩：「神」也叫「上帝」。	Xiao En : « 神 », on dit aussi « 上帝 » : c'est Dieu.	n° 003
+愛	ài	ㄞˋ	aimer ; amour	本子上有四個字：《神愛世人》。	Sur le cahier, il y a quatre caractères : « Dieu aime les hommes ».	n° 003
+世人	shì rén	ㄕˋ ㄖㄣˊ	les hommes, les gens du monde	本子上有四個字：《神愛世人》。	Sur le cahier, il y a quatre caractères : « Dieu aime les hommes ».	n° 003
+認識	rèn shi	ㄖㄣˋ ˙ㄕ	connaître (quelqu'un)	路加：愛我？神認識我嗎？	Luc : M'aimer, moi ? Dieu me connaît ?	n° 003
+捷運	jié yùn	ㄐㄧㄝˊ ㄩㄣˋ	métro (MRT de Taipei)	路加和小恩坐捷運。	Luc et Xiao En prennent le métro.	n° 004
+耶穌	yē sū	ㄧㄝ ㄙㄨ	Jésus	小恩：你聽，這是《耶穌愛我》。	Xiao En : Écoute, c'est « Jésus m'aime ».	n° 004
+基督徒	jī dū tú	ㄐㄧ ㄉㄨ ㄊㄨˊ	chrétien(ne)	小恩：你是基督徒嗎？	Xiao En : Tu es chrétien ?	n° 004
+名字	míng zi	ㄇㄧㄥˊ ˙ㄗ	nom, prénom	路加：耶穌？我知道這個名字。	Luc : Jésus ? Je connais ce nom.	n° 004
+耳機	ěr jī	ㄦˇ ㄐㄧ	écouteur(s)	小恩給路加一個耳機。	Xiao En donne un écouteur à Luc.	n° 004
+珍珠奶茶	zhēn zhū nǎi chá	ㄓㄣ ㄓㄨ ㄋㄞˇ ㄔㄚˊ	thé aux perles	小恩：我們去喝珍珠奶茶吧！	Xiao En : Allons boire un thé aux perles !	n° 005
+主日	zhǔ rì	ㄓㄨˇ ㄖˋ	jour du Seigneur (dimanche)	小恩：禮拜天是主日。	Xiao En : Le dimanche, c'est le jour du Seigneur.	n° 005
+詩歌	shī gē	ㄕ ㄍㄜ	cantique, chant d'église	小恩：我們唱詩歌，很好聽！	Xiao En : On chante des cantiques, c'est très beau !	n° 005
+好聽	hǎo tīng	ㄏㄠˇ ㄊㄧㄥ	agréable à écouter, beau	小恩：我們唱詩歌，很好聽！	Xiao En : On chante des cantiques, c'est très beau !	n° 005
+有空	yǒu kòng	ㄧㄡˇ ㄎㄨㄥˋ	être libre	小恩：路加，這個禮拜天你有空嗎？	Xiao En : Luc, tu es libre ce dimanche ?	n° 005
+媽媽	mā ma	ㄇㄚ ˙ㄇㄚ	maman	晚上，路加的媽媽打電話來。	Le soir, la mère de Luc l'appelle.	n° 006
+電話	diàn huà	ㄉㄧㄢˋ ㄏㄨㄚˋ	téléphone	晚上，路加的媽媽打電話來。	Le soir, la mère de Luc l'appelle.	n° 006
+家	jiā	ㄐㄧㄚ	maison ; famille ; foyer	媽媽：你一個人，想家嗎？	Maman : Tout seul là-bas, la maison ne te manque pas ?	n° 006
+孤單	gū dān	ㄍㄨ ㄉㄢ	seul, solitaire	路加：小恩說，一首歌叫《一路不孤單》。	Luc : Xiao En m'a parlé d'une chanson : « Jamais seul en chemin ».	n° 006
+晚上	wǎn shàng	ㄨㄢˇ ㄕㄤˋ	le soir	晚上，路加的媽媽打電話來。	Le soir, la mère de Luc l'appelle.	n° 006
+恩典教會	ēn diǎn jiào huì	ㄣ ㄉㄧㄢˇ ㄐㄧㄠˋ ㄏㄨㄟˋ	l'église de la Grâce	禮拜天早上，路加來恩典教會。	Dimanche matin, Luc arrive à l'église de la Grâce.	n° 007
+牧師	mù shī	ㄇㄨˋ ㄕ	pasteur	小恩：這是我們的牧師。	Xiao En : Voici notre pasteur, le pasteur Wang.	n° 007
+弟兄	dì xiōng	ㄉㄧˋ ㄒㄩㄥ	frère (dans la foi)	王牧師：你好！你是路加弟兄吧？	Pasteur Wang : Bonjour ! Tu dois être frère Luc ?	n° 007
+姐妹	jiě mèi	ㄐㄧㄝˇ ㄇㄟˋ	sœur (dans la foi)	王牧師：女生都叫姐妹。	Pasteur Wang : Et toutes les femmes, « sœur ».	n° 007
+一家人	yī jiā rén	ㄧ ㄐㄧㄚ ㄖㄣˊ	une même famille	路加：那我們是一家人嗎？	Luc : Alors on est tous une même famille ?	n° 007
+敬拜	jìng bài	ㄐㄧㄥˋ ㄅㄞˋ	adorer ; adoration	王牧師：今天我們唱《前來敬拜》。	Pasteur Wang : Aujourd'hui, nous chantons « Venez adorer ».	n° 007
+讚美	zàn měi	ㄗㄢˋ ㄇㄟˇ	louer ; louange	大家一起唱《天天讚美》。	Tous chantent ensemble « Louer chaque jour ».	n° 008
+鋼琴	gāng qín	ㄍㄤ ㄑㄧㄣˊ	piano	有人彈鋼琴，有人唱歌。	Quelqu'un joue du piano, d'autres chantent.	n° 008
+天天	tiān tiān	ㄊㄧㄢ ㄊㄧㄢ	chaque jour	大家一起唱《天天讚美》。	Tous chantent ensemble « Louer chaque jour ».	n° 008
+大家	dà jiā	ㄉㄚˋ ㄐㄧㄚ	tout le monde	敬拜開始。大家都站起來。	Le culte commence. Tout le monde se lève.	n° 008
+螢幕	yíng mù	ㄧㄥˊ ㄇㄨˋ	écran	路加看大螢幕上的字。	Luc regarde les mots sur le grand écran.	n° 008
+禱告	dǎo gào	ㄉㄠˇ ㄍㄠˋ	prier ; prière	大家唱《禱告》這首歌。	Tout le monde chante le chant « Prière ».	n° 009
+天父	tiān fù	ㄊㄧㄢ ㄈㄨˋ	Père céleste	王牧師：「天父，謝謝祢愛我們。」	Pasteur Wang : « Père céleste, merci de nous aimer. »	n° 009
+祢	nǐ	ㄋㄧˇ	Tu, Toi (adressé à Dieu)	王牧師：「天父，謝謝祢愛我們。」	Pasteur Wang : « Père céleste, merci de nous aimer. »	n° 009
+阿們	ā mén	ㄚ ㄇㄣˊ	amen	最後，大家一起說：「阿們！」	À la fin, tout le monde dit ensemble : « Amen ! »	n° 009
+眼睛	yǎn jīng	ㄧㄢˇ ㄐㄧㄥ	yeux	大家都閉上眼睛。	Tout le monde ferme les yeux.	n° 009
+平安	píng ān	ㄆㄧㄥˊ ㄢ	paix	禮拜結束。大家說：「平安！」	Le culte se termine. Tout le monde se dit : « Paix ! »	n° 010
+師母	shī mǔ	ㄕ ㄇㄨˇ	épouse du pasteur (Madame)	路加：師母，好好吃！	Luc : Madame Wang, c'est délicieux !	n° 010
+午飯	wǔ fàn	ㄨˇ ㄈㄢˋ	déjeuner	王師母：來，我們一起吃午飯。	Mme Wang : Viens, on déjeune ensemble.	n° 010
+好吃	hǎo chī	ㄏㄠˇ ㄔ	bon (à manger)	路加：師母，好好吃！	Luc : Madame Wang, c'est délicieux !	n° 010
+心	xīn	ㄒㄧㄣ	cœur	路加的心很平安。	Luc a le cœur en paix.	n° 010
+敬拜團	jìng bài tuán	ㄐㄧㄥˋ ㄅㄞˋ ㄊㄨㄢˊ	équipe de louange	小恩：這是我們的敬拜團。	Xiao En : Voici notre équipe de louange.	n° 011
+吉他	jí tā	ㄐㄧˊ ㄊㄚ	guitare	樓上有鋼琴、吉他和鼓。	À l'étage, il y a un piano, des guitares et une batterie.	n° 011
+隊長	duì zhǎng	ㄉㄨㄟˋ ㄓㄤˇ	chef d'équipe, responsable	小恩：她是美玲，敬拜團的隊長。	Xiao En : Elle, c'est Meiling, la responsable de l'équipe.	n° 011
+簡單	jiǎn dān	ㄐㄧㄢˇ ㄉㄢ	simple	阿傑彈《簡單的歌》。	A-Jie joue « Un chant simple ».	n° 011
+和弦	hé xián	ㄏㄜˊ ㄒㄧㄢˊ	accord (musique)	阿傑：很簡單！只有三個和弦！	A-Jie : Super simple ! Il n'y a que trois accords !	n° 011
+哈利路亞	hā lì lù yà	ㄏㄚ ㄌㄧˋ ㄌㄨˋ ㄧㄚˋ	alléluia	她唱《我要唱哈利路亞》。	Elle chante « Je veux chanter alléluia ».	n° 012
+主	zhǔ	ㄓㄨˇ	Seigneur	美玲：意思是「你們要讚美主」。	Meiling : Ça veut dire « Louez le Seigneur ».	n° 012
+喜樂	xǐ lè	ㄒㄧˇ ㄌㄜˋ	joie (profonde)	小恩唱歌的時候很喜樂。	Quand Xiao En chante, elle rayonne de joie.	n° 012
+快樂	kuài lè	ㄎㄨㄞˋ ㄌㄜˋ	heureux, content	路加：小恩，你為什麼這麼快樂？	Luc : Xiao En, pourquoi es-tu si heureuse ?	n° 012
+意思	yì si	ㄧˋ ˙ㄙ	sens, signification	美玲：意思是「你們要讚美主」。	Meiling : Ça veut dire « Louez le Seigneur ».	n° 012
+感謝	gǎn xiè	ㄍㄢˇ ㄒㄧㄝˋ	remercier ; reconnaissance	路加：我要感謝你！今天很好。	Luc : C'est moi qui te remercie ! C'était une super journée.	n° 013
+祝福	zhù fú	ㄓㄨˋ ㄈㄨˊ	bénir ; bénédiction	路加：最後，王牧師說「祝福」。	Luc : À la fin, le pasteur Wang a parlé de « bénir ».	n° 013
+捷運站	jié yùn zhàn	ㄐㄧㄝˊ ㄩㄣˋ ㄓㄢˋ	station de métro	晚上，路加和小恩走去捷運站。	Le soir, Luc et Xiao En marchent jusqu'à la station de métro.	n° 013
+東西	dōng xi	ㄉㄨㄥ ˙ㄒㄧ	chose	小恩：祝福就是神給你好的東西。	Xiao En : Bénir, c'est quand Dieu te donne de bonnes choses.	n° 013
+再見	zài jiàn	ㄗㄞˋ ㄐㄧㄢˋ	au revoir	他們在捷運站說再見。	Ils se disent au revoir à la station.	n° 013
+奶奶	nǎi nai	ㄋㄞˇ ˙ㄋㄞ	grand-mère, mamie	小恩：這是奶奶最喜歡的歌。	Xiao En : C'est la chanson préférée de ma grand-mère.	n° 014
+溫暖	wēn nuǎn	ㄨㄣ ㄋㄨㄢˇ	chaleureux	小恩的家很小，可是很溫暖。	La maison de Xiao En est petite, mais très chaleureuse.	n° 014
+沙發	shā fā	ㄕㄚ ㄈㄚ	canapé	一位老奶奶坐在沙發上。	Une vieille dame est assise sur le canapé.	n° 014
+飛機	fēi jī	ㄈㄟ ㄐㄧ	avion	路加：主？不是，是飛機！	Luc : Le Seigneur ? Non, c'est l'avion !	n° 014
+筷子	kuài zi	ㄎㄨㄞˋ ˙ㄗ	baguettes	路加拿起筷子，想吃。	Luc prend ses baguettes, il a envie de manger.	n° 015
+食物	shí wù	ㄕˊ ㄨˋ	nourriture	陳奶奶禱告：「天父，感謝祢給我們食物。」	Mamie Chen prie : « Père céleste, merci de nous donner cette nourriture. »	n° 015
+禮物	lǐ wù	ㄌㄧˇ ㄨˋ	cadeau	陳奶奶：當然！你是天父給的禮物。	Mamie Chen : Bien sûr ! Tu es un cadeau du Père céleste.	n° 015
+爸爸	bà ba	ㄅㄚˋ ˙ㄅㄚ	papa	路加想到法國的爸爸媽媽。	Luc pense à son papa et à sa maman en France.	n° 016
+笑話	xiào huà	ㄒㄧㄠˋ ㄏㄨㄚˋ	blague	陳爸爸很愛說笑話。	Papa Chen adore raconter des blagues.	n° 016
+麵包	miàn bāo	ㄇㄧㄢˋ ㄅㄠ	pain	陳爸爸：路加，法國人都吃麵包嗎？	Papa Chen : Luc, les Français mangent tous du pain ?	n° 016
+好像	hǎo xiàng	ㄏㄠˇ ㄒㄧㄤˋ	on dirait que, comme si	路加：謝謝你們。我好像在家！	Luc : Merci à vous. J'ai l'impression d'être à la maison !	n° 016
+恩典	ēn diǎn	ㄣ ㄉㄧㄢˇ	grâce	小恩：「恩」就是「恩典」。	Xiao En : « 恩 », c'est la « grâce ».	n° 017
+白白	bái bái	ㄅㄞˊ ㄅㄞˊ	gratuitement	陳爸爸：對。恩典就是神白白給的愛。	Papa Chen : Exactement. La grâce, c'est l'amour que Dieu donne gratuitement.	n° 017
+錢	qián	ㄑㄧㄢˊ	argent	路加：白白給？不用錢嗎？	Luc : Gratuitement ? Ça ne coûte rien ?	n° 017
+何等	hé děng	ㄏㄜˊ ㄉㄥˇ	combien, quel (exclamatif)	陳奶奶開始唱《何等恩典》。	Mamie Chen se met à chanter « Quelle grâce ».	n° 017
+唱詩班	chàng shī bān	ㄔㄤˋ ㄕ ㄅㄢ	chorale	陳奶奶：年輕的時候，我在唱詩班。	Mamie Chen : Quand j'étais jeune, je chantais dans la chorale.	n° 018
+年輕	nián qīng	ㄋㄧㄢˊ ㄑㄧㄥ	jeune	陳奶奶：年輕的時候，我在唱詩班。	Mamie Chen : Quand j'étais jeune, je chantais dans la chorale.	n° 018
+奇異	qí yì	ㄑㄧˊ ㄧˋ	étonnant, merveilleux	小恩：這是《奇異恩典》，很老的詩歌。	Xiao En : C'est « Grâce étonnante », un très vieux cantique.	n° 018
+需要	xū yào	ㄒㄩ ㄧㄠˋ	avoir besoin de	陳奶奶：神的恩典，每個國家都需要。	Mamie Chen : Tous les pays ont besoin de la grâce de Dieu.	n° 018
+為	wèi	ㄨㄟˋ	pour (en faveur de)	陳奶奶：路加，我可以為你禱告嗎？	Mamie Chen : Luc, est-ce que je peux prier pour toi ?	n° 019
+台語	tái yǔ	ㄊㄞˊ ㄩˇ	taïwanais (langue)	奶奶閉上眼睛，說台語。	Mamie ferme les yeux et prie en taïwanais.	n° 019
+保護	bǎo hù	ㄅㄠˇ ㄏㄨˋ	protéger	陳奶奶：我求神祝福你，保護你。	Mamie Chen : J'ai demandé à Dieu de te bénir et de te protéger.	n° 019
+宿舍	sù shè	ㄙㄨˋ ㄕㄜˋ	résidence étudiante	九點，路加要回宿舍。	À neuf heures, Luc doit rentrer à la résidence.	n° 019
+練習	liàn xí	ㄌㄧㄢˋ ㄒㄧˊ	répéter, s'exercer	星期六下午，敬拜團練習。	Le samedi après-midi, l'équipe de louange répète.	n° 020
+表演	biǎo yǎn	ㄅㄧㄠˇ ㄧㄢˇ	spectacle	美玲：敬拜不是表演。我們唱給神聽。	Meiling : L'adoration n'est pas un spectacle. Nous chantons pour Dieu.	n° 020
+對不起	duì bù qǐ	ㄉㄨㄟˋ ㄅㄨˋ ㄑㄧˇ	pardon, désolé	阿傑：對不起！我太興奮！	A-Jie : Pardon ! Je suis trop excité !	n° 020
+地方	dì fāng	ㄉㄧˋ ㄈㄤ	endroit	小恩：在！神在每個地方。	Xiao En : Oui ! Dieu est partout.	n° 020
+老師	lǎo shī	ㄌㄠˇ ㄕ	professeur	阿傑：沒關係，我是很好的老師！	A-Jie : Pas de souci, je suis un excellent prof !	n° 021
+手指	shǒu zhǐ	ㄕㄡˇ ㄓˇ	doigt	阿傑：手指放這裡，對！	A-Jie : Mets tes doigts ici, voilà !	n° 021
+痛	tòng	ㄊㄨㄥˋ	avoir mal ; douleur	路加：我的手指很痛！	Luc : J'ai mal aux doigts !	n° 021
+心裡	xīn lǐ	ㄒㄧㄣ ㄌㄧˇ	dans le cœur	阿傑：手指痛，可是心裡有喜樂！	A-Jie : Les doigts ont mal, mais le cœur est dans la joie !	n° 021
+祂	tā	ㄊㄚ	Il, Lui (Dieu)	路加指著歌詞上的「祂」。	Luc montre du doigt le « 祂 » dans les paroles.	n° 022
+歌詞	gē cí	ㄍㄜ ㄘˊ	paroles (d'une chanson)	路加指著歌詞上的「祂」。	Luc montre du doigt le « 祂 » dans les paroles.	n° 022
+聲音	shēng yīn	ㄕㄥ ㄧㄣ	son, prononciation	路加：三個字，聲音都一樣嗎？	Luc : Les trois se prononcent pareil ?	n° 022
+覺得	jué de	ㄐㄩㄝˊ ˙ㄉㄜ	trouver, penser	美玲：路加，你覺得我們的歌怎麼樣？	Meiling : Luc, que penses-tu de nos chants ?	n° 022
+怎麼樣	zěn me yàng	ㄗㄣˇ ˙ㄇㄜ ㄧㄤˋ	comment (c'est) ?	美玲：路加，你覺得我們的歌怎麼樣？	Meiling : Luc, que penses-tu de nos chants ?	n° 022
+衣服	yī fu	ㄧ ˙ㄈㄨ	vêtements	他們穿白色的衣服。	Ils portent des habits blancs.	n° 023
+爺爺	yé ye	ㄧㄝˊ ˙ㄧㄝ	grand-père, papi	唱詩班裡有很多爺爺奶奶。	Dans la chorale, il y a beaucoup de papis et de mamies.	n° 023
+聲部	shēng bù	ㄕㄥ ㄅㄨˋ	pupitre, voix	小恩：唱詩班有鋼琴和很多聲部。	Xiao En : La chorale a le piano et plein de voix différentes.	n° 023
+記得	jì de	ㄐㄧˋ ˙ㄉㄜ	se souvenir	路加：奶奶還記得每個字！	Luc : Mamie se souvient encore de chaque mot !	n° 023
+問題	wèn tí	ㄨㄣˋ ㄊㄧˊ	question ; problème	路加：小恩，我有問題。	Luc : Xiao En, j'ai une question.	n° 024
+語言	yǔ yán	ㄩˇ ㄧㄢˊ	langue	星期三是語言交換的時間。	Le mercredi, c'est l'heure de l'échange linguistique.	n° 024
+左邊	zuǒ biān	ㄗㄨㄛˇ ㄅㄧㄢ	côté gauche	路加：兩個字的左邊都一樣！	Luc : Les deux caractères ont la même partie gauche !	n° 024
+慈愛	cí ài	ㄘˊ ㄞˋ	amour tendre, bonté	晚上，路加在宿舍聽《慈愛天父》。	Le soir, dans sa chambre, Luc écoute « Père plein d'amour ».	n° 025
+孩子	hái zi	ㄏㄞˊ ˙ㄗ	enfant	小恩：「天父很愛祂的孩子。」	Xiao En : « Le Père céleste aime beaucoup ses enfants. »	n° 025
+工作	gōng zuò	ㄍㄨㄥ ㄗㄨㄛˋ	travailler ; travail	爸爸工作很忙，不常說話。	Son père travaille beaucoup et ne parle pas souvent.	n° 025
+聖經	shèng jīng	ㄕㄥˋ ㄐㄧㄥ	Bible	小恩：會！聖經這樣說：	Xiao En : Oui ! La Bible dit ceci :	n° 025
+便當	biàn dāng	ㄅㄧㄢˋ ㄉㄤ	bento, repas en boîte	練習以後，大家一起吃便當。	Après la répétition, tout le monde mange un bento ensemble.	n° 026
+彼此	bǐ cǐ	ㄅㄧˇ ㄘˇ	l'un l'autre	美玲：這就是《彼此相愛》。	Meiling : Voilà, c'est ça, « S'aimer les uns les autres ».	n° 026
+相愛	xiāng ài	ㄒㄧㄤ ㄞˋ	s'aimer	美玲：這就是《彼此相愛》。	Meiling : Voilà, c'est ça, « S'aimer les uns les autres ».	n° 026
+家庭	jiā tíng	ㄐㄧㄚ ㄊㄧㄥˊ	famille	美玲：對，教會就是一個大家庭。	Meiling : C'est ça : l'église est une grande famille.	n° 026
+相信	xiāng xìn	ㄒㄧㄤ ㄒㄧㄣˋ	croire	小光：你相信耶穌嗎？	Xiao Guang : Tu crois en Jésus ?	n° 027
+外國人	wài guó rén	ㄨㄞˋ ㄍㄨㄛˊ ㄖㄣˊ	étranger	小光：你是外國人嗎？	Xiao Guang : Tu es étranger ?	n° 027
+歲	suì	ㄙㄨㄟˋ	an (âge)	小光：我叫小光，八歲。美玲是我媽媽！	Xiao Guang : Je m'appelle Xiao Guang, j'ai huit ans. Meiling, c'est ma maman !	n° 027
+風	fēng	ㄈㄥ	vent	小光：我也看不到風啊！	Xiao Guang : Le vent non plus, je ne le vois pas !	n° 027
+涼快	liáng kuài	ㄌㄧㄤˊ ㄎㄨㄞˋ	frais, agréable	小光：可是風來的時候，我很涼快。	Xiao Guang : Mais quand il souffle, je sens la fraîcheur.	n° 027
+天使	tiān shǐ	ㄊㄧㄢ ㄕˇ	ange	小光：不是啦！這是天使！	Xiao Guang : Mais non ! C'est un ange !	n° 028
+翅膀	chì bǎng	ㄔˋ ㄅㄤˇ	aile	畫上有一個人，有白色的翅膀。	Sur le dessin, il y a quelqu'un avec des ailes blanches.	n° 028
+幫助	bāng zhù	ㄅㄤ ㄓㄨˋ	aider	小光：天使讚美神，也幫助人。	Xiao Guang : Les anges louent Dieu, et ils aident les gens.	n° 028
+姐姐	jiě jie	ㄐㄧㄝˇ ˙ㄐㄧㄝ	grande sœur	小光想一想：「小恩姐姐是你的天使！」	Xiao Guang réfléchit : « Grande sœur Xiao En, c'est ton ange ! »	n° 028
+畫	huà	ㄏㄨㄚˋ	dessin ; dessiner	小光拿著一張畫給路加看。	Xiao Guang montre un dessin à Luc.	n° 028
+天堂	tiān táng	ㄊㄧㄢ ㄊㄤˊ	paradis, ciel	小光：路加哥哥，天堂在哪裡？	Xiao Guang : Grand frère Luc, où est le paradis ?	n° 029
+主日學	zhǔ rì xué	ㄓㄨˇ ㄖˋ ㄒㄩㄝˊ	école du dimanche	主日學下課，小光又來找路加。	Après l'école du dimanche, Xiao Guang revient voir Luc.	n° 029
+哥哥	gē ge	ㄍㄜ ˙ㄍㄜ	grand frère	小光：路加哥哥，天堂在哪裡？	Xiao Guang : Grand frère Luc, où est le paradis ?	n° 029
+冰淇淋	bīng qí lín	ㄅㄧㄥ ㄑㄧˊ ㄌㄧㄣˊ	glace	小光：天堂有冰淇淋嗎？	Xiao Guang : Il y a des glaces, au paradis ?	n° 029
+天上	tiān shàng	ㄊㄧㄢ ㄕㄤˋ	au ciel	路加：天堂？在天上吧？	Luc : Le paradis ? Dans le ciel, sans doute ?	n° 029
+故事	gù shi	ㄍㄨˋ ˙ㄕ	histoire	美玲：今天的故事是「好牧人」。	Meiling : L'histoire d'aujourd'hui, c'est « le bon berger ».	n° 030
+牧人	mù rén	ㄇㄨˋ ㄖㄣˊ	berger	美玲：今天的故事是「好牧人」。	Meiling : L'histoire d'aujourd'hui, c'est « le bon berger ».	n° 030
+羊	yáng	ㄧㄤˊ	mouton, brebis	美玲：牧人有一百隻羊，一隻迷路。	Meiling : Un berger a cent brebis ; l'une d'elles se perd.	n° 030
+迷路	mí lù	ㄇㄧˊ ㄌㄨˋ	se perdre	美玲：牧人有一百隻羊，一隻迷路。	Meiling : Un berger a cent brebis ; l'une d'elles se perd.	n° 030
+幫忙	bāng máng	ㄅㄤ ㄇㄤˊ	aider	美玲請路加去主日學幫忙。	Meiling demande à Luc de venir aider à l'école du dimanche.	n° 030
+聖誕節	shèng dàn jié	ㄕㄥˋ ㄉㄢˋ ㄐㄧㄝˊ	Noël	小恩：我在練習《聖誕之願》。聖誕節要到了！	Xiao En : Je répète « Le vœu de Noël ». Noël arrive bientôt !	n° 061
+降生	jiàng shēng	ㄐㄧㄤˋ ㄕㄥ	naître, venir au monde (se dit de Jésus)	小恩：因為我們慶祝耶穌的降生。	Xiao En : Parce que nous fêtons la naissance de Jésus.	n° 061
+準備	zhǔn bèi	ㄓㄨㄣˇ ㄅㄟˋ	préparer	路加：我懂了。教會要準備什麼？	Luc : Je comprends. Qu'est-ce que l'église doit préparer ?	n° 061
+已經	yǐ jīng	ㄧˇ ㄐㄧㄥ	déjà	十二月了，台北已經有很多聖誕樹。	On est en décembre, et Taipei est déjà pleine de sapins de Noël.	n° 061
+慶祝	qìng zhù	ㄑㄧㄥˋ ㄓㄨˋ	fêter, célébrer	小恩：因為我們慶祝耶穌的降生。	Xiao En : Parce que nous fêtons la naissance de Jésus.	n° 061
+以馬內利	yǐ mǎ nèi lì	ㄧˇ ㄇㄚˇ ㄋㄟˋ ㄌㄧˋ	Emmanuel (« Dieu avec nous »)	敬拜團正在練習《以馬內利》。	L'équipe de louange est en train de répéter « Emmanuel ».	n° 062
+同在	tóng zài	ㄊㄨㄥˊ ㄗㄞˋ	être avec, présence	美玲：是耶穌的名字。聖經說：「以馬內利翻出來就是神與我們同在。」（馬太福音1:23）	Meiling : C'est un nom de Jésus. La Bible dit : « Emmanuel, ce qui signifie Dieu avec nous. » (Matthieu 1:23)	n° 062
+正在	zhèng zài	ㄓㄥˋ ㄗㄞˋ	être en train de	敬拜團正在練習《以馬內利》。	L'équipe de louange est en train de répéter « Emmanuel ».	n° 062
+馬槽	mǎ cáo	ㄇㄚˇ ㄘㄠˊ	crèche, mangeoire	星期天早上，王師母和路加在教會門口佈置馬槽。小光也來幫忙。	Dimanche matin, Mme Wang et Luc installent la crèche à l'entrée de l'église. Xiao Guang vient aussi aider.	n° 063
+客店	kè diàn	ㄎㄜˋ ㄉㄧㄢˋ	auberge	王師母：聖經說：「放在馬槽裡，因為客店裡沒有地方。」（路加福音2:7）	Mme Wang : La Bible dit : « Elle le coucha dans une crèche, parce qu'il n'y avait pas de place pour eux dans l'hôtellerie. » (Luc 2:7)	n° 063
+佈置	bù zhì	ㄅㄨˋ ㄓˋ	installer, décorer	星期天早上，王師母和路加在教會門口佈置馬槽。小光也來幫忙。	Dimanche matin, Mme Wang et Luc installent la crèche à l'entrée de l'église. Xiao Guang vient aussi aider.	n° 063
+窮	qióng	ㄑㄩㄥˊ	pauvre	王師母：是啊。祂是王，可是祂降生在一個很窮的地方。	Mme Wang : Eh oui. Il est roi, mais il est né dans un endroit très pauvre.	n° 063
+榮耀	róng yào	ㄖㄨㄥˊ ㄧㄠˋ	gloire	小光的台詞是：「在至高之處榮耀歸與神！」（路加福音2:14）	La réplique de Xiao Guang : « Gloire à Dieu dans les lieux très hauts ! » (Luc 2:14)	n° 064
+演	yǎn	ㄧㄢˇ	jouer (un rôle)	聖誕節前的星期天，主日學的孩子們要演聖誕故事。	Le dimanche avant Noël, les enfants de l'école du dimanche vont jouer l'histoire de Noël.	n° 064
+台詞	tái cí	ㄊㄞˊ ㄘˊ	réplique	小光：天使只有一句台詞，太少了！	Xiao Guang : L'ange n'a qu'une seule réplique, c'est trop peu !	n° 064
+福音	fú yīn	ㄈㄨˊ ㄧㄣ	Évangile ; bonne nouvelle	小恩：比雞排好多了！神送給我們耶穌，這就是「福音」。	Xiao En : Bien mieux ! Dieu nous a donné Jésus : c'est ça, « l'Évangile ».	n° 065
+接受	jiē shòu	ㄐㄧㄝ ㄕㄡˋ	accepter, recevoir	小恩：對！可是禮物要打開，要接受，才是你的。	Xiao En : Oui ! Mais un cadeau, il faut l'ouvrir, l'accepter ; alors seulement il est à toi.	n° 065
+消息	xiāo xi	ㄒㄧㄠ ˙ㄒㄧ	nouvelle, information	路加：福音……是「好消息」的意思嗎？	Luc : L'Évangile… ça veut dire « bonne nouvelle » ?	n° 065
+比	bǐ	ㄅㄧˇ	plus que (comparaison)	路加：是什麼？比雞排好嗎？	Luc : C'est quoi ? C'est mieux qu'un poulet frit ?	n° 065
+世界	shì jiè	ㄕˋ ㄐㄧㄝˋ	monde	路加：耶穌說：「我是世界的光。」（約翰福音8:12）	Luc : Jésus a dit : « Je suis la lumière du monde. » (Jean 8:12)	n° 066
+光	guāng	ㄍㄨㄤ	lumière	路加：耶穌說：「我是世界的光。」（約翰福音8:12）	Luc : Jésus a dit : « Je suis la lumière du monde. » (Jean 8:12)	n° 066
+黑暗	hēi àn	ㄏㄟ ㄢˋ	obscur ; ténèbres	路加：哈哈，不是這種光。小恩說，人的心有時候很黑暗，耶穌來，就是要照亮我們。	Luc : Haha, pas ce genre de lumière. Xiao En dit que le cœur de l'homme est parfois très sombre, et que Jésus est venu pour nous éclairer.	n° 066
+打折	dǎ zhé	ㄉㄚˇ ㄓㄜˊ	faire des soldes, une remise	大衛：你看，到處都是燈，到處都在打折。聖誕節就是買東西的節日吧。	David : Regarde, des lumières partout, des soldes partout. Noël, c'est juste la fête du shopping, non ?	n° 066
+以前	yǐ qián	ㄧˇ ㄑㄧㄢˊ	avant, autrefois	路加：以前我也這樣想。可是在教會，我聽到了不一樣的故事。	Luc : Avant, je pensais pareil. Mais à l'église, j'ai entendu une autre histoire.	n° 066
+報佳音	bào jiā yīn	ㄅㄠˋ ㄐㄧㄚ ㄧㄣ	aller chanter Noël (annoncer la bonne nouvelle)	十二月二十四日晚上，教會的年輕人要去報佳音。	Le soir du 24 décembre, les jeunes de l'église partent chanter Noël dans la ville.	n° 067
+佳音	jiā yīn	ㄐㄧㄚ ㄧㄣ	bonne nouvelle	阿傑：「佳音」就是好消息。我們去街上、去朋友家唱歌，告訴大家耶穌降生了！	A-Jie : « Jiayin », c'est une bonne nouvelle. On va chanter dans la rue et chez des amis pour annoncer à tout le monde que Jésus est né !	n° 067
+信息	xìn xī	ㄒㄧㄣˋ ㄒㄧ	message, nouvelle	美玲：天使對牧羊人說：「我報給你們大喜的信息。」（路加福音2:10）我們也一樣。	Meiling : L'ange a dit aux bergers : « Je vous annonce une bonne nouvelle, qui sera le sujet d'une grande joie. » (Luc 2:10) Nous faisons pareil.	n° 067
+燈籠	dēng lóng	ㄉㄥ ㄌㄨㄥˊ	lanterne	阿傑拿著吉他，小恩拿著歌本，路加拿著一個紅色的燈籠。	A-Jie porte sa guitare, Xiao En le carnet de chants, et Luc une lanterne rouge.	n° 067
+牧羊人	mù yáng rén	ㄇㄨˋ ㄧㄤˊ ㄖㄣˊ	berger	美玲：天使對牧羊人說：「我報給你們大喜的信息。」（路加福音2:10）我們也一樣。	Meiling : L'ange a dit aux bergers : « Je vous annonce une bonne nouvelle, qui sera le sujet d'une grande joie. » (Luc 2:10) Nous faisons pareil.	n° 067
+盼望	pàn wàng	ㄆㄢˋ ㄨㄤˋ	espérance ; espérer	王牧師：神記得你。祂來到世界上，就是要給我們盼望。	Le pasteur Wang : Dieu se souvient de vous. Il est venu dans le monde justement pour nous donner l'espérance.	n° 068
+醫院	yī yuàn	ㄧ ㄩㄢˋ	hôpital	晚上九點，他們到了醫院。王牧師也來了。	À neuf heures du soir, ils arrivent à l'hôpital. Le pasteur Wang est venu aussi.	n° 068
+護士	hù shì	ㄏㄨˋ ㄕˋ	infirmière, infirmier	護士說：「你們可以在三樓唱，可是要小聲一點。」	L'infirmière dit : « Vous pouvez chanter au troisième étage, mais un peu moins fort. »	n° 068
+難過	nán guò	ㄋㄢˊ ㄍㄨㄛˋ	triste	三樓有一位老先生，一個人坐在床上，看起來很難過。	Au troisième étage, un vieux monsieur est assis seul sur son lit ; il a l'air très triste.	n° 068
+信心	xìn xīn	ㄒㄧㄣˋ ㄒㄧㄣ	foi, confiance	陳奶奶：一開始只有一點點信心，像一粒小種子。可是神一直照顧我，信心就慢慢長大了。	Mamie Chen : Au début, je n'avais qu'un tout petit peu de foi, comme une petite graine. Mais Dieu a toujours pris soin de moi, et ma foi a grandi peu à peu.	n° 069
+種子	zhǒng zi	ㄓㄨㄥˇ ˙ㄗ	graine, semence	陳奶奶：一開始只有一點點信心，像一粒小種子。可是神一直照顧我，信心就慢慢長大了。	Mamie Chen : Au début, je n'avais qu'un tout petit peu de foi, comme une petite graine. Mais Dieu a toujours pris soin de moi, et ma foi a grandi peu à peu.	n° 069
+雞湯	jī tāng	ㄐㄧ ㄊㄤ	bouillon de poulet	陳奶奶：快進來！外面冷，先喝一碗雞湯！	Mamie Chen : Entrez vite ! Il fait froid dehors, buvez d'abord un bol de bouillon !	n° 069
+長大	zhǎng dà	ㄓㄤˇ ㄉㄚˋ	grandir	陳奶奶：一開始只有一點點信心，像一粒小種子。可是神一直照顧我，信心就慢慢長大了。	Mamie Chen : Au début, je n'avais qu'un tout petit peu de foi, comme une petite graine. Mais Dieu a toujours pris soin de moi, et ma foi a grandi peu à peu.	n° 069
+救主	jiù zhǔ	ㄐㄧㄡˋ ㄓㄨˇ	Sauveur	王牧師：今天我們慶祝耶穌的降生。祂是我們的救主。	Le pasteur Wang : Aujourd'hui, nous célébrons la naissance de Jésus. Il est notre Sauveur.	n° 070
+喜悅	xǐ yuè	ㄒㄧˇ ㄩㄝˋ	prendre plaisir à, agréer	王牧師：天使說：「在至高之處榮耀歸與神！在地上平安歸與他所喜悅的人！」（路加福音2:14）	Le pasteur Wang : Les anges ont dit : « Gloire à Dieu dans les lieux très hauts, et paix sur la terre parmi les hommes qu'il agrée ! » (Luc 2:14)	n° 070
+崇拜	chóng bài	ㄔㄨㄥˊ ㄅㄞˋ	culte	崇拜以後，王師母給每個人一杯熱可可。	Après le culte, Mme Wang offre à chacun une tasse de chocolat chaud.	n° 070
+才	cái	ㄘㄞˊ	seulement (pas avant)	路加：就是「救我們的主」。這個詞我也是上個星期才學到的。	Luc : C'est « le Seigneur qui nous sauve ». Moi aussi, je n'ai appris ce mot que la semaine dernière.	n° 070
+感恩	gǎn ēn	ㄍㄢˇ ㄣ	reconnaissance ; rendre grâce	路加：媽媽，我今年學到一個中文詞：「感恩」。	Luc : Maman, cette année, j'ai appris un mot chinois : « gan'en ».	n° 071
+放心	fàng xīn	ㄈㄤˋ ㄒㄧㄣ	être rassuré	媽媽笑了：「那我就放心了。」	Maman rit : « Alors me voilà rassurée. »	n° 071
+從來	cóng lái	ㄘㄨㄥˊ ㄌㄞˊ	jamais (jusqu'ici)	媽媽：教會？你以前從來不去教會的！	Maman : L'église ? Toi qui n'y allais jamais !	n° 071
+數算	shǔ suàn	ㄕㄨˇ ㄙㄨㄢˋ	compter, énumérer	小恩：《數算恩典》這首歌說，我們要一件一件地數算神的恩典。	Xiao En : Le chant « Compter les grâces » dit qu'il faut compter une à une les grâces de Dieu.	n° 072
+煙火	yān huǒ	ㄧㄢ ㄏㄨㄛˇ	feu d'artifice	十二月三十一日晚上，路加、小恩、阿傑和大衛在象山上等台北101的煙火。	Le soir du 31 décembre, Luc, Xiao En, A-Jie et David attendent le feu d'artifice de Taipei 101 sur la colline de l'Éléphant.	n° 072
+遊戲	yóu xì	ㄧㄡˊ ㄒㄧˋ	jeu	小恩：我們來玩一個遊戲：每個人說三件今年感恩的事！	Xiao En : On fait un jeu : chacun dit trois choses de cette année pour lesquelles il est reconnaissant !	n° 072
+件	jiàn	ㄐㄧㄢˋ	classificateur (choses, événements)	小恩：我們來玩一個遊戲：每個人說三件今年感恩的事！	Xiao En : On fait un jeu : chacun dit trois choses de cette année pour lesquelles il est reconnaissant !	n° 072
+信實	xìn shí	ㄒㄧㄣˋ ㄕˊ	fidèle (fidélité de Dieu)	小恩馬上打電話來：「這裡的『誠實』，就是『信實』。」	Xiao En l'appelle aussitôt : « Ici, "chengshi" veut dire "fidélité". »	n° 073
+訊息	xùn xī	ㄒㄩㄣˋ ㄒㄧ	message (texto)	一月一日，路加十點才起床。手機裡有小恩的訊息。	Le 1er janvier, Luc ne se lève qu'à dix heures. Il a un message de Xiao En sur son téléphone.	n° 073
+經文	jīng wén	ㄐㄧㄥ ㄨㄣˊ	verset, passage biblique	「新年快樂！送你一節經文：『每早晨，這些都是新的；你的誠實極其廣大！』（耶利米哀歌3:23）」	« Bonne année ! Je t'offre un verset : "Elles se renouvellent chaque matin. Oh ! que ta fidélité est grande !" (Lamentations 3:23) »	n° 073
+早晨	zǎo chén	ㄗㄠˇ ㄔㄣˊ	matin	「新年快樂！送你一節經文：『每早晨，這些都是新的；你的誠實極其廣大！』（耶利米哀歌3:23）」	« Bonne année ! Je t'offre un verset : "Elles se renouvellent chaque matin. Oh ! que ta fidélité est grande !" (Lamentations 3:23) »	n° 073
+起床	qǐ chuáng	ㄑㄧˇ ㄔㄨㄤˊ	se lever	一月一日，路加十點才起床。手機裡有小恩的訊息。	Le 1er janvier, Luc ne se lève qu'à dix heures. Il a un message de Xiao En sur son téléphone.	n° 073
+讀經	dú jīng	ㄉㄨˊ ㄐㄧㄥ	lire la Bible	小恩：我的願望是每天讀經，從創世記讀到啟示錄。	Xiao En : Ma résolution, c'est de lire la Bible chaque jour, de la Genèse à l'Apocalypse.	n° 074
+願望	yuàn wàng	ㄩㄢˋ ㄨㄤˋ	vœu, souhait	阿傑：我今年的願望是：每天運動，瘦五公斤！	A-Jie : Ma résolution cette année : faire du sport tous les jours et perdre cinq kilos !	n° 074
+運動	yùn dòng	ㄩㄣˋ ㄉㄨㄥˋ	faire du sport	阿傑：我今年的願望是：每天運動，瘦五公斤！	A-Jie : Ma résolution cette année : faire du sport tous les jours et perdre cinq kilos !	n° 074
+厚	hòu	ㄏㄡˋ	épais	路加：可是聖經太厚了，我要從哪裡開始呢？	Luc : Mais la Bible est tellement épaisse… Par où je commence ?	n° 074
+開始	kāi shǐ	ㄎㄞ ㄕˇ	commencer	阿傑：哇！路加要開始讀經了！	A-Jie : Waouh ! Luc va se mettre à lire la Bible !	n° 074
+約翰福音	yuē hàn fú yīn	ㄩㄝ ㄏㄢˋ ㄈㄨˊ ㄧㄣ	Évangile selon Jean	張長老：很好！你可以先讀約翰福音。	L'ancien Zhang : Très bien ! Tu peux commencer par l'Évangile de Jean.	n° 075
+章	zhāng	ㄓㄤ	chapitre	張長老：你每天讀一章，有不懂的地方就寫下來，我們一起討論。	L'ancien Zhang : Lis un chapitre par jour ; note ce que tu ne comprends pas, et nous en discuterons ensemble.	n° 075
+討論	tǎo lùn	ㄊㄠˇ ㄌㄨㄣˋ	discuter	張長老：你每天讀一章，有不懂的地方就寫下來，我們一起討論。	L'ancien Zhang : Lis un chapitre par jour ; note ce que tu ne comprends pas, et nous en discuterons ensemble.	n° 075
+腳	jiǎo	ㄐㄧㄠˇ	pied	張長老：所以要慢慢讀。詩篇說：「你的話是我腳前的燈，是我路上的光。」（詩篇119:105）	L'ancien Zhang : Alors lis lentement. Le psaume dit : « Ta parole est une lampe à mes pieds, et une lumière sur mon sentier. » (Psaume 119:105)	n° 075
+認真	rèn zhēn	ㄖㄣˋ ㄓㄣ	sérieux, appliqué	那天晚上，路加讀了約翰福音第一章。他讀得很慢，可是很認真。	Ce soir-là, Luc lit le premier chapitre de Jean. Il lit très lentement, mais avec beaucoup d'application.	n° 075
+靈修	líng xiū	ㄌㄧㄥˊ ㄒㄧㄡ	temps de méditation (prière et lecture)	小恩：靈修。就是安靜地讀經、禱告，和神在一起。	Xiao En : Ma méditation. Je lis la Bible et je prie dans le calme, pour être avec Dieu.	n° 076
+安靜	ān jìng	ㄢ ㄐㄧㄥˋ	calme, silencieux	小恩：靈修。就是安靜地讀經、禱告，和神在一起。	Xiao En : Ma méditation. Je lis la Bible et je prie dans le calme, pour être avec Dieu.	n° 076
+等候	děng hòu	ㄉㄥˇ ㄏㄡˋ	attendre (avec patience)	小恩：你可以先聽《安靜等候祢》，心就會安靜下來。	Xiao En : Tu peux d'abord écouter « Attendre en silence devant toi » ; ton cœur se calmera.	n° 076
+鬧鐘	nào zhōng	ㄋㄠˋ ㄓㄨㄥ	réveil	第二天，路加的鬧鐘六點響了。他坐起來，打開了聖經。	Le lendemain, le réveil de Luc sonne à six heures. Il s'assied et ouvre sa Bible.	n° 076
+睡著	shuì zháo	ㄕㄨㄟˋ ㄓㄠˊ	s'endormir	他等著，等著……就睡著了。	Il attend, il attend… et il s'endort.	n° 076
+小組	xiǎo zǔ	ㄒㄧㄠˇ ㄗㄨˇ	groupe de maison	星期三晚上，小恩帶路加去王牧師家參加小組。	Mercredi soir, Xiao En emmène Luc chez le pasteur Wang pour participer au groupe de maison.	n° 077
+聚會	jù huì	ㄐㄩˋ ㄏㄨㄟˋ	se réunir ; réunion	王牧師：耶穌說：「因為無論在哪裡，有兩三個人奉我的名聚會，那裡就有我在他們中間。」（馬太福音18:20）	Le pasteur Wang : Jésus a dit : « Car là où deux ou trois sont assemblés en mon nom, je suis au milieu d'eux. » (Matthieu 18:20)	n° 077
+分享	fēn xiǎng	ㄈㄣ ㄒㄧㄤˇ	partager	王牧師：不是上課。小組就是一群人一起吃飯、讀經、分享、禱告。	Le pasteur Wang : Ce n'est pas un cours. C'est un groupe de gens qui mangent, lisent la Bible, partagent et prient ensemble.	n° 077
+參加	cān jiā	ㄘㄢ ㄐㄧㄚ	participer	星期三晚上，小恩帶路加去王牧師家參加小組。	Mercredi soir, Xiao En emmène Luc chez le pasteur Wang pour participer au groupe de maison.	n° 077
+奉	fèng	ㄈㄥˋ	au nom de	王牧師：耶穌說：「因為無論在哪裡，有兩三個人奉我的名聚會，那裡就有我在他們中間。」（馬太福音18:20）	Le pasteur Wang : Jésus a dit : « Car là où deux ou trois sont assemblés en mon nom, je suis au milieu d'eux. » (Matthieu 18:20)	n° 077
+團契	tuán qì	ㄊㄨㄢˊ ㄑㄧˋ	communion fraternelle	路加：牧師，大家常說「團契」，團契是什麼？	Luc : Pasteur, tout le monde parle de « tuanqi ». Qu'est-ce que c'est, la communion fraternelle ?	n° 078
+火鍋	huǒ guō	ㄏㄨㄛˇ ㄍㄨㄛ	fondue chinoise	這個星期三，小組吃火鍋。每個人都帶了一樣東西。	Ce mercredi, le groupe mange une fondue chinoise. Chacun a apporté quelque chose.	n° 078
+起司	qǐ sī	ㄑㄧˇ ㄙ	fromage	阿傑帶了肉，美玲帶了青菜，路加帶了……一包法國起司。	A-Jie a apporté de la viande, Meiling des légumes, et Luc… un paquet de fromage français.	n° 078
+力量	lì liàng	ㄌㄧˋ ㄌㄧㄤˋ	force	美玲禱告：「主啊，求祢給路加力量和平安，讓他睡得好。」	Meiling prie : « Seigneur, donne à Luc force et paix, et qu'il puisse bien dormir. »	n° 079
+壓力	yā lì	ㄧㄚ ㄌㄧˋ	stress, pression	路加想了一下，小聲說：「我下個星期要考試，壓力很大。」	Luc hésite un peu, puis dit tout bas : « J'ai des examens la semaine prochaine, je suis très stressé. »	n° 079
+考試	kǎo shì	ㄎㄠˇ ㄕˋ	examen ; passer un examen	路加想了一下，小聲說：「我下個星期要考試，壓力很大。」	Luc hésite un peu, puis dit tout bas : « J'ai des examens la semaine prochaine, je suis très stressé. »	n° 079
+肩膀	jiān bǎng	ㄐㄧㄢ ㄅㄤˇ	épaule	大家站在路加旁邊，阿傑拍了拍他的肩膀。	Tout le monde se met autour de Luc, et A-Jie lui tapote l'épaule.	n° 079
+見證	jiàn zhèng	ㄐㄧㄢˋ ㄓㄥˋ	témoignage ; témoigner	這個星期三，王牧師請阿傑分享他的見證。	Ce mercredi, le pasteur Wang demande à A-Jie de partager son témoignage.	n° 080
+浪子	làng zǐ	ㄌㄤˋ ㄗˇ	fils prodigue	阿傑：有一天，我在路上聽到一首歌，講的是一個浪子回家。	A-Jie : Un jour, dans la rue, j'ai entendu un chant qui parlait d'un fils prodigue qui rentre chez lui.	n° 080
+吵架	chǎo jià	ㄔㄠˇ ㄐㄧㄚˋ	se disputer	阿傑：我十八歲的時候，和爸爸吵架，就離開了家。	A-Jie : À dix-huit ans, je me suis disputé avec mon père, et je suis parti de la maison.	n° 080
+離開	lí kāi	ㄌㄧˊ ㄎㄞ	quitter	阿傑：我十八歲的時候，和爸爸吵架，就離開了家。	A-Jie : À dix-huit ans, je me suis disputé avec mon père, et je suis parti de la maison.	n° 080
+軟弱	ruǎn ruò	ㄖㄨㄢˇ ㄖㄨㄛˋ	faible ; faiblesse	美玲：我對神說：「我不行了，我太軟弱了。」	Meiling : J'ai dit à Dieu : « Je n'en peux plus, je suis trop faible. »	n° 081
+夠	gòu	ㄍㄡˋ	suffire ; assez	美玲：那時候，我想起一節經文：「我的恩典夠你用的。」（哥林多後書12:9）	Meiling : À ce moment-là, je me suis souvenue d'un verset : « Ma grâce te suffit. » (2 Corinthiens 12:9)	n° 081
+發燒	fā shāo	ㄈㄚ ㄕㄠ	avoir de la fièvre	美玲：有一天晚上，小光發燒了，我也很累。我坐在地上哭了。	Meiling : Un soir, Xiao Guang avait de la fièvre, et j'étais épuisée. Je me suis assise par terre et j'ai pleuré.	n° 081
+照顧	zhào gù	ㄓㄠˋ ㄍㄨˋ	s'occuper de	美玲：去年，我先生去國外工作半年。我一個人照顧小光，還要帶敬拜團。	Meiling : L'an dernier, mon mari est parti travailler six mois à l'étranger. Je m'occupais seule de Xiao Guang, et je devais aussi diriger l'équipe de louange.	n° 081
+不行	bù xíng	ㄅㄨˋ ㄒㄧㄥˊ	ne plus en pouvoir	美玲：我對神說：「我不行了，我太軟弱了。」	Meiling : J'ai dit à Dieu : « Je n'en peux plus, je suis trop faible. »	n° 081
+新春	xīn chūn	ㄒㄧㄣ ㄔㄨㄣ	Nouvel An (nouveau printemps)	小恩：對了，下個月是農曆新年。教會有新春敬拜，你要來嗎？	Xiao En : Au fait, le mois prochain, c'est le Nouvel An lunaire. L'église organise un culte du Nouvel An, tu viens ?	n° 082
+年夜飯	nián yè fàn	ㄋㄧㄢˊ ㄧㄝˋ ㄈㄢˋ	repas du réveillon	小恩：對，就是春節。還有……我爸媽想請你來我家吃年夜飯。	Xiao En : Oui, c'est la fête du Printemps. Et puis… mes parents voudraient t'inviter chez nous pour le repas du réveillon.	n° 082
+期待	qí dài	ㄑㄧˊ ㄉㄞˋ	attendre avec impatience	路加：我也喜歡他們。每個星期三，我都很期待。	Luc : Moi aussi, je les aime bien. Chaque mercredi, j'ai hâte d'y être.	n° 082
+農曆	nóng lì	ㄋㄨㄥˊ ㄌㄧˋ	calendrier lunaire	小恩：對了，下個月是農曆新年。教會有新春敬拜，你要來嗎？	Xiao En : Au fait, le mois prochain, c'est le Nouvel An lunaire. L'église organise un culte du Nouvel An, tu viens ?	n° 082
+過年	guò nián	ㄍㄨㄛˋ ㄋㄧㄢˊ	fêter le Nouvel An	小恩：奶奶說，你一個人在台北，過年不可以一個人。	Xiao En : Mamie dit que tu es seul à Taipei, et qu'on ne fête pas le Nouvel An tout seul.	n° 082
+大掃除	dà sǎo chú	ㄉㄚˋ ㄙㄠˇ ㄔㄨˊ	grand ménage	除夕前兩天，路加去小恩家幫忙大掃除。	Deux jours avant le réveillon, Luc va chez Xiao En pour aider au grand ménage.	n° 083
+春聯	chūn lián	ㄔㄨㄣ ㄌㄧㄢˊ	inscriptions rouges du Nouvel An	掃完以後，陳奶奶拿出紅紙，開始寫春聯。	Une fois le ménage fini, Mamie Chen sort du papier rouge et commence à écrire les inscriptions du Nouvel An.	n° 083
+蒙福	méng fú	ㄇㄥˊ ㄈㄨˊ	être béni	陳奶奶：我們最想要的不是錢，是神的恩典。有神在，家就蒙福。	Mamie Chen : Ce que nous désirons le plus, ce n'est pas l'argent, c'est la grâce de Dieu. Quand Dieu est là, la maison est bénie.	n° 083
+除夕	chú xì	ㄔㄨˊ ㄒㄧˋ	veille du Nouvel An	除夕前兩天，路加去小恩家幫忙大掃除。	Deux jours avant le réveillon, Luc va chez Xiao En pour aider au grand ménage.	n° 083
+辛苦	xīn kǔ	ㄒㄧㄣ ㄎㄨˇ	pénible ; merci pour ta peine	陳媽媽：辛苦了！來，喝杯茶。	Maman Chen : Merci pour ton travail ! Viens boire une tasse de thé.	n° 083
+事奉	shì fèng	ㄕˋ ㄈㄥˋ	servir (Dieu)	陳爸爸：我們家的經文是：「至於我和我家，我們必定事奉耶和華。」（約書亞記24:15）	Papa Chen : Le verset de notre famille, c'est : « Moi et ma maison, nous servirons l'Éternel. » (Josué 24:15)	n° 084
+跟隨	gēn suí	ㄍㄣ ㄙㄨㄟˊ	suivre	陳爸爸：就是一家人一起跟隨神，為祂做事。	Papa Chen : C'est toute la famille qui suit Dieu ensemble et qui travaille pour lui.	n° 084
+看顧	kàn gù	ㄎㄢˋ ㄍㄨˋ	veiller sur, prendre soin	吃飯以前，陳爸爸禱告：「天父，謝謝祢這一年的看顧。」	Avant le repas, papa Chen prie : « Père céleste, merci d'avoir veillé sur nous cette année. »	n° 084
+年年有餘	nián nián yǒu yú	ㄋㄧㄢˊ ㄋㄧㄢˊ ㄧㄡˇ ㄩˊ	l'abondance d'année en année	陳媽媽：路加，多吃一點魚！過年吃魚，「年年有餘」！	Maman Chen : Luc, prends encore du poisson ! Au Nouvel An, on mange du poisson : « l'abondance chaque année » !	n° 084
+留	liú	ㄌㄧㄡˊ	garder, laisser	小恩：因為要「有餘」，就是留一點到明年。	Xiao En : Parce qu'il faut qu'il en « reste » : on en garde un peu pour l'année prochaine.	n° 084
+紅包	hóng bāo	ㄏㄨㄥˊ ㄅㄠ	enveloppe rouge	吃完年夜飯，陳奶奶拿出一個紅包給路加。	Après le repas du réveillon, Mamie Chen sort une enveloppe rouge pour Luc.	n° 085
+結婚	jié hūn	ㄐㄧㄝˊ ㄏㄨㄣ	se marier	陳媽媽：還沒結婚，就還是孩子！	Maman Chen : Tant qu'on n'est pas marié, on reste un enfant !	n° 085
+健康	jiàn kāng	ㄐㄧㄢˋ ㄎㄤ	santé ; en bonne santé	小恩：你要說「新年快樂，身體健康」！	Xiao En : Tu dois dire « Bonne année, bonne santé » !	n° 085
+賜福	cì fú	ㄘˋ ㄈㄨˊ	accorder sa bénédiction	敬拜一開始，大家一起唱《神要賜福與我們》。	Dès le début du culte, tout le monde chante « Dieu va nous bénir ».	n° 086
+講道	jiǎng dào	ㄐㄧㄤˇ ㄉㄠˋ	prêcher ; sermon	王牧師講道：「過年的時候，大家都說『恭喜發財』。」	Le pasteur Wang prêche : « Au Nouvel An, tout le monde se souhaite "Bonne fortune". »	n° 086
+喜氣	xǐ qì	ㄒㄧˇ ㄑㄧˋ	air de fête	阿傑：牧師，你今天好喜氣！	A-Jie : Pasteur, vous avez un air de fête aujourd'hui !	n° 086
+卡片	kǎ piàn	ㄎㄚˇ ㄆㄧㄢˋ	carte	路加打開一看，裡面不是錢，是一張卡片，上面有一節經文。	Luc l'ouvre : dedans, pas d'argent, mais une carte avec un verset.	n° 086
+冠冕	guān miǎn	ㄍㄨㄢ ㄇㄧㄢˇ	couronne	路加卡片上的經文是：「你以恩典為年歲的冠冕。」（詩篇65:11）	Le verset sur la carte de Luc est : « Tu couronnes l'année de tes biens. » (Psaume 65)	n° 087
+年歲	nián suì	ㄋㄧㄢˊ ㄙㄨㄟˋ	les années	路加卡片上的經文是：「你以恩典為年歲的冠冕。」（詩篇65:11）	Le verset sur la carte de Luc est : « Tu couronnes l'année de tes biens. » (Psaume 65)	n° 087
+戴	dài	ㄉㄞˋ	porter (sur la tête)	張長老：冠冕就是王戴在頭上的東西。	L'ancien Zhang : C'est ce que le roi porte sur la tête, une couronne.	n° 087
+特別	tè bié	ㄊㄜˋ ㄅㄧㄝˊ	spécial, particulier	路加：對，去年是我最特別的一年。	Luc : C'est vrai, l'an dernier a été l'année la plus particulière de ma vie.	n° 087
+拜年	bài nián	ㄅㄞˋ ㄋㄧㄢˊ	présenter ses vœux du Nouvel An	初二，大衛請路加去他台中的家拜年。	Le deuxième jour de l'an, David invite Luc chez lui, à Taichung, pour les vœux du Nouvel An.	n° 088
+祖先	zǔ xiān	ㄗㄨˇ ㄒㄧㄢ	ancêtres	客廳裡有一個神桌，大衛的爸爸正在拜祖先。	Dans le salon, il y a un autel, et le père de David est en train d'honorer les ancêtres.	n° 088
+尊敬	zūn jìng	ㄗㄨㄣ ㄐㄧㄥˋ	respecter	路加：我還不是基督徒。可是小恩說，基督徒不拜祖先，可是很尊敬祖先，也很孝順。	Luc : Je ne suis pas encore chrétien. Mais Xiao En dit que les chrétiens n'adorent pas les ancêtres, tout en les respectant beaucoup et en honorant leurs parents.	n° 088
+孝順	xiào shùn	ㄒㄧㄠˋ ㄕㄨㄣˋ	piété filiale ; être dévoué à ses parents	路加：我還不是基督徒。可是小恩說，基督徒不拜祖先，可是很尊敬祖先，也很孝順。	Luc : Je ne suis pas encore chrétien. Mais Xiao En dit que les chrétiens n'adorent pas les ancêtres, tout en les respectant beaucoup et en honorant leurs parents.	n° 088
+擔心	dān xīn	ㄉㄢ ㄒㄧㄣ	s'inquiéter	大衛：我奶奶很擔心這個。她怕信耶穌的人就不要家人了。	David : Ma grand-mère s'inquiète de ça. Elle a peur que ceux qui croient en Jésus abandonnent leur famille.	n° 088
+福分	fú fèn	ㄈㄨˊ ㄈㄣˋ	bonheur, part de bénédiction	陳奶奶：我年輕的時候什麼都沒有，可是我認識了神，這是我最大的福分。	Mamie Chen : Quand j'étais jeune, je n'avais rien, mais j'ai connu Dieu : c'est mon plus grand bonheur.	n° 089
+福氣	fú qì	ㄈㄨˊ ㄑㄧˋ	chance, bonheur	路加：奶奶，過年大家都說「福」。什麼才是真正的福氣呢？	Luc : Mamie, au Nouvel An, tout le monde parle de « bonheur ». Mais c'est quoi, la vraie chance ?	n° 089
+永遠	yǒng yuǎn	ㄩㄥˇ ㄩㄢˇ	pour toujours, éternellement	陳奶奶：錢會用完，房子會舊，人會老。可是神的愛永遠不會改變。	Mamie Chen : L'argent s'épuise, les maisons vieillissent, les gens aussi. Mais l'amour de Dieu ne changera jamais.	n° 089
+天國	tiān guó	ㄊㄧㄢ ㄍㄨㄛˊ	royaume des cieux	陳奶奶：還有，有一天我會去天國，和主永遠在一起。	Mamie Chen : Et puis, un jour, j'irai dans le royaume des cieux, et je serai avec le Seigneur pour toujours.	n° 089
+改變	gǎi biàn	ㄍㄞˇ ㄅㄧㄢˋ	changer	陳奶奶：錢會用完，房子會舊，人會老。可是神的愛永遠不會改變。	Mamie Chen : L'argent s'épuise, les maisons vieillissent, les gens aussi. Mais l'amour de Dieu ne changera jamais.	n° 089
+太初	tài chū	ㄊㄞˋ ㄔㄨ	au commencement	張長老：「太初有道，道與神同在，道就是神。」（約翰福音1:1）	L'ancien Zhang : « Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu. » (Jean 1:1)	n° 090
+道	dào	ㄉㄠˋ	la Parole (le Verbe)	張長老：「太初有道，道與神同在，道就是神。」（約翰福音1:1）	L'ancien Zhang : « Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu. » (Jean 1:1)	n° 090
+創造	chuàng zào	ㄔㄨㄤˋ ㄗㄠˋ	créer ; création	路加：所以耶穌也參加了創造？	Luc : Donc Jésus a aussi participé à la création ?	n° 090
+萬物	wàn wù	ㄨㄢˋ ㄨˋ	toutes choses	張長老：對。第三節說：「萬物是藉著他造的。」	L'ancien Zhang : Oui. Le verset 3 dit : « Toutes choses ont été faites par elle. »	n° 090
+肉身	ròu shēn	ㄖㄡˋ ㄕㄣ	chair, corps humain	張長老：第十四節說：「道成了肉身，住在我們中間。」	L'ancien Zhang : Le verset 14 dit : « La Parole a été faite chair, et elle a habité parmi nous. »	n° 090
+洗禮	xǐ lǐ	ㄒㄧˇ ㄌㄧˇ	baptême	路加：王牧師，我想受洗。我可以報名洗禮班嗎？	Luc : Pasteur Wang, je voudrais être baptisé. Est-ce que je peux m'inscrire au cours de baptême ?	n° 121
+悔改	huǐ gǎi	ㄏㄨㄟˇ ㄍㄞˇ	se repentir ; repentance	第一堂課，王牧師在白板上寫了兩個字：「悔改」。	Au premier cours, le pasteur Wang écrit deux caractères au tableau blanc : « se repentir ».	n° 121
+報名	bào míng	ㄅㄠˋ ㄇㄧㄥˊ	s'inscrire	路加：王牧師，我想受洗。我可以報名洗禮班嗎？	Luc : Pasteur Wang, je voudrais être baptisé. Est-ce que je peux m'inscrire au cours de baptême ?	n° 121
+方向	fāng xiàng	ㄈㄤ ㄒㄧㄤˋ	direction, sens	王牧師：難過很重要，但是還不夠。如果你坐錯了捷運的方向，你會怎麼做？	Pasteur Wang : Être triste, c'est important, mais ça ne suffit pas. Si tu prends le métro dans le mauvais sens, que fais-tu ?	n° 121
+承認	chéng rèn	ㄔㄥˊ ㄖㄣˋ	reconnaître, admettre	王牧師：對！悔改就像這樣。不但要承認自己走錯了，而且要轉過來，回到神那裡。	Pasteur Wang : Exactement ! Se repentir, c'est ça. Il ne suffit pas de reconnaître qu'on s'est trompé de chemin, il faut aussi faire demi-tour et revenir vers Dieu.	n° 121
+救贖	jiù shú	ㄐㄧㄡˋ ㄕㄨˊ	rédemption ; racheter	路加：奶奶，「救贖」這個詞好難，我查了字典還是不太懂。	Luc : Mamie, le mot « rédemption » est vraiment difficile. J'ai cherché dans le dictionnaire et je ne comprends toujours pas bien.	n° 122
+戒指	jiè zhǐ	ㄐㄧㄝˋ ㄓˇ	bague	陳奶奶笑了，把手上的金戒指給他看。	Mamie Chen sourit et lui montre la bague en or qu'elle porte au doigt.	n° 122
+當舖	dàng pù	ㄉㄤˋ ㄆㄨˋ	prêteur sur gages	陳奶奶：五十年前，我們家很窮。我只好把這個戒指拿去當舖換錢。	Mamie Chen : Il y a cinquante ans, nous étions très pauvres. J'ai dû porter cette bague au prêteur sur gages pour avoir un peu d'argent.	n° 122
+贖	shú	ㄕㄨˊ	racheter	陳奶奶：雖然戒指被放在當舖裡，但是我一直想著它。半年後，小恩的爺爺存夠了錢，就去把它贖回來了。	Mamie Chen : La bague était chez le prêteur, mais je ne cessais d'y penser. Six mois plus tard, le grand-père de Xiao En avait économisé assez d'argent, et il est allé la racheter.	n° 122
+代價	dài jià	ㄉㄞˋ ㄐㄧㄚˋ	prix (à payer), coût	陳奶奶：「贖」就是付代價，把本來屬於你的東西買回來。	Mamie Chen : « Racheter », c'est payer le prix pour récupérer ce qui t'appartenait déjà.	n° 122
+屬於	shǔ yú	ㄕㄨˇ ㄩˊ	appartenir à	陳奶奶：「贖」就是付代價，把本來屬於你的東西買回來。	Mamie Chen : « Racheter », c'est payer le prix pour récupérer ce qui t'appartenait déjà.	n° 122
+寶血	bǎo xuè	ㄅㄠˇ ㄒㄩㄝˋ	sang précieux (de Jésus)	小光：可是媽媽為什麼常常唱《唯有主耶穌的寶血》？血有什麼寶貴的？	Xiao Guang : Mais pourquoi maman chante souvent « Seul le sang précieux du Seigneur Jésus » ? Qu'est-ce que le sang a de précieux ?	n° 123
+寶貴	bǎo guì	ㄅㄠˇ ㄍㄨㄟˋ	précieux	小光：可是媽媽為什麼常常唱《唯有主耶穌的寶血》？血有什麼寶貴的？	Xiao Guang : Mais pourquoi maman chante souvent « Seul le sang précieux du Seigneur Jésus » ? Qu'est-ce que le sang a de précieux ?	n° 123
+傷口	shāng kǒu	ㄕㄤ ㄎㄡˇ	plaie, blessure	路加趕快拿來藥箱，先用水把傷口洗乾淨。	Luc apporte vite la trousse de secours et nettoie d'abord la plaie à l'eau.	n° 123
+洗淨	xǐ jìng	ㄒㄧˇ ㄐㄧㄥˋ	laver, purifier	美玲：對。路加用水洗你的傷口，耶穌的寶血卻能洗淨我們心裡的罪。	Meiling : Oui. Luc t'a lavé la plaie avec de l'eau ; le sang précieux de Jésus, lui, peut laver le péché dans notre cœur.	n° 123
+聖潔	shèng jié	ㄕㄥˋ ㄐㄧㄝˊ	saint ; sainteté	美玲：只要我們誠實地認罪，神就會讓我們變得乾淨、聖潔。	Meiling : Il suffit que nous confessions honnêtement nos péchés, et Dieu nous rendra purs et saints.	n° 123
+認罪	rèn zuì	ㄖㄣˋ ㄗㄨㄟˋ	confesser ses péchés	美玲：只要我們誠實地認罪，神就會讓我們變得乾淨、聖潔。	Meiling : Il suffit que nous confessions honnêtement nos péchés, et Dieu nous rendra purs et saints.	n° 123
+重生	chóng shēng	ㄔㄨㄥˊ ㄕㄥ	naître de nouveau ; nouvelle naissance	張長老：耶穌對他說：「我實實在在地告訴你，人若不重生，就不能見神的國。」	L'ancien Zhang : Jésus lui dit : « En vérité, en vérité, je te le dis, si un homme ne naît de nouveau, il ne peut voir le royaume de Dieu. »	n° 124
+新造	xīn zào	ㄒㄧㄣ ㄗㄠˋ	nouvellement créé (新造的人 : nouvelle créature)	張長老：哥林多後書5:17也說：「若有人在基督裡，他就是新造的人，舊事已過，都變成新的了。」	L'ancien Zhang : 2 Corinthiens 5:17 dit aussi : « Si quelqu'un est en Christ, il est une nouvelle créature. Les choses anciennes sont passées ; voici, toutes choses sont devenues nouvelles. »	n° 124
+舊事	jiù shì	ㄐㄧㄡˋ ㄕˋ	les choses anciennes	張長老：哥林多後書5:17也說：「若有人在基督裡，他就是新造的人，舊事已過，都變成新的了。」	L'ancien Zhang : 2 Corinthiens 5:17 dit aussi : « Si quelqu'un est en Christ, il est une nouvelle créature. Les choses anciennes sont passées ; voici, toutes choses sont devenues nouvelles. »	n° 124
+嬰兒	yīng ér	ㄧㄥ ㄦˊ	bébé, nourrisson	路加：怪不得我覺得自己像個嬰兒，什麼都要重新學。	Luc : Pas étonnant que je me sente comme un bébé : je dois tout réapprendre.	n° 124
+成長	chéng zhǎng	ㄔㄥˊ ㄓㄤˇ	grandir ; croissance	張長老：沒錯。嬰兒每天喝奶才會長大；我們每天讀經、禱告，生命才會成長。	L'ancien Zhang : Exactement. Un bébé grandit en buvant du lait chaque jour ; nous, c'est en lisant la Bible et en priant chaque jour que notre vie grandit.	n° 124
+舊人	jiù rén	ㄐㄧㄡˋ ㄖㄣˊ	le vieil homme	路加：衣服濕了沒關係，我是對自己很失望。我不是新造的人了嗎？為什麼舊人的脾氣還在？	Luc : Les vêtements mouillés, ce n'est pas grave ; c'est de moi que je suis déçu. Je ne suis pas censé être une nouvelle créature ? Pourquoi le caractère du vieil homme est-il toujours là ?	n° 125
+脾氣	pí qi	ㄆㄧˊ ˙ㄑㄧ	caractère, humeur	路加：衣服濕了沒關係，我是對自己很失望。我不是新造的人了嗎？為什麼舊人的脾氣還在？	Luc : Les vêtements mouillés, ce n'est pas grave ; c'est de moi que je suis déçu. Je ne suis pas censé être une nouvelle créature ? Pourquoi le caractère du vieil homme est-il toujours là ?	n° 125
+生氣	shēng qì	ㄕㄥ ㄑㄧˋ	se fâcher	路加一生氣，就用法文大聲罵了好幾句。旁邊的阿姨都被他嚇了一跳。	Sous le coup de la colère, Luc lâche plusieurs jurons en français, à voix haute. Les dames à côté sursautent.	n° 125
+失望	shī wàng	ㄕ ㄨㄤˋ	déçu	路加：衣服濕了沒關係，我是對自己很失望。我不是新造的人了嗎？為什麼舊人的脾氣還在？	Luc : Les vêtements mouillés, ce n'est pas grave ; c'est de moi que je suis déçu. Je ne suis pas censé être une nouvelle créature ? Pourquoi le caractère du vieil homme est-il toujours là ?	n° 125
+機車	jī chē	ㄐㄧ ㄔㄜ	scooter	一台機車很快地開過去，把水濺了他一身。	Un scooter passe à toute vitesse et l'éclabousse de la tête aux pieds.	n° 125
+浸池	jìn chí	ㄐㄧㄣˋ ㄔˊ	bassin baptismal	洗禮班的第四堂課，王牧師帶大家去看教會的浸池。	Au quatrième cours de baptême, le pasteur Wang emmène tout le monde voir le bassin baptismal de l'église.	n° 126
+浸	jìn	ㄐㄧㄣˋ	immerger	王牧師：對，我們教會用浸的。你知道為什麼嗎？	Pasteur Wang : Oui, dans notre église, on baptise par immersion. Tu sais pourquoi ?	n° 126
+埋葬	mái zàng	ㄇㄞˊ ㄗㄤˋ	ensevelir, enterrer	王牧師：羅馬書6:4說：「我們藉著洗禮歸入死，和他一同埋葬。」	Pasteur Wang : Romains 6:4 dit : « Nous avons donc été ensevelis avec lui par le baptême en sa mort. »	n° 126
+歸入	guī rù	ㄍㄨㄟ ㄖㄨˋ	être uni à, entrer dans	王牧師：羅馬書6:4說：「我們藉著洗禮歸入死，和他一同埋葬。」	Pasteur Wang : Romains 6:4 dit : « Nous avons donc été ensevelis avec lui par le baptême en sa mort. »	n° 126
+新生	xīn shēng	ㄒㄧㄣ ㄕㄥ	vie nouvelle	王牧師：進到水裡，就像舊人跟基督一起死了，被埋葬了；從水裡起來，就像跟祂一起復活，有新生的樣式。	Pasteur Wang : Descendre dans l'eau, c'est comme si le vieil homme mourait avec Christ et était enseveli ; remonter de l'eau, c'est comme ressusciter avec lui pour marcher en nouveauté de vie.	n° 126
+樣式	yàng shì	ㄧㄤˋ ㄕˋ	forme, manière	王牧師：進到水裡，就像舊人跟基督一起死了，被埋葬了；從水裡起來，就像跟祂一起復活，有新生的樣式。	Pasteur Wang : Descendre dans l'eau, c'est comme si le vieil homme mourait avec Christ et était enseveli ; remonter de l'eau, c'est comme ressusciter avec lui pour marcher en nouveauté de vie.	n° 126
+敬拜主領	jìng bài zhǔ lǐng	ㄐㄧㄥˋ ㄅㄞˋ ㄓㄨˇ ㄌㄧㄥˇ	responsable de louange	美玲：我是敬拜主領，團裡正好需要第二把吉他。你願意來服事嗎？	Meiling : Je suis responsable de la louange, et justement l'équipe a besoin d'une deuxième guitare. Veux-tu venir servir avec nous ?	n° 127
+服事	fú shì	ㄈㄨˊ ㄕˋ	servir (à l'église)	美玲：我是敬拜主領，團裡正好需要第二把吉他。你願意來服事嗎？	Meiling : Je suis responsable de la louange, et justement l'équipe a besoin d'une deuxième guitare. Veux-tu venir servir avec nous ?	n° 127
+樂器	yuè qì	ㄩㄝˋ ㄑㄧˋ	instrument de musique	美玲：就像《彈琴歌唱讚美祢》這首歌的名字：用樂器，也用聲音來讚美神。	Meiling : Comme le dit le titre du chant « Je joue et je chante pour te louer » : louer Dieu avec les instruments et avec la voix.	n° 127
+節奏	jié zòu	ㄐㄧㄝˊ ㄗㄡˋ	rythme	美玲：停一下！路加，你的節奏越來越快了。	Meiling : Stop ! Luc, ton rythme s'accélère de plus en plus.	n° 128
+鼓手	gǔ shǒu	ㄍㄨˇ ㄕㄡˇ	batteur	路加太緊張了，越彈越快，連鼓手都跟不上他。	Luc est trop nerveux : plus il joue, plus il accélère, au point que même le batteur n'arrive plus à le suivre.	n° 128
+心跳	xīn tiào	ㄒㄧㄣ ㄊㄧㄠˋ	battement de cœur	阿傑：你聽，心跳不會一下快一下慢。好的節奏就像心跳一樣穩定。	A-Jie : Écoute : le cœur ne bat pas tantôt vite, tantôt lentement. Un bon rythme est aussi régulier qu'un battement de cœur.	n° 128
+穩定	wěn dìng	ㄨㄣˇ ㄉㄧㄥˋ	stable, régulier	阿傑：你聽，心跳不會一下快一下慢。好的節奏就像心跳一樣穩定。	A-Jie : Écoute : le cœur ne bat pas tantôt vite, tantôt lentement. Un bon rythme est aussi régulier qu'un battement de cœur.	n° 128
+專心	zhuān xīn	ㄓㄨㄢ ㄒㄧㄣ	se concentrer	美玲：還有，你不是在表演，不用怕彈錯。只要你專心看著神，就不會那麼緊張了。	Meiling : Et puis, tu n'es pas en train de donner un spectacle : n'aie pas peur des fausses notes. Si tu gardes les yeux fixés sur Dieu, tu seras beaucoup moins nerveux.	n° 128
+和聲	hé shēng	ㄏㄜˊ ㄕㄥ	harmonie (voix)	美玲希望路加除了彈吉他以外，也能唱和聲。星期二晚上，小恩在教會教他。	Meiling aimerait que Luc, en plus de la guitare, puisse aussi chanter l'harmonie. Mardi soir, Xiao En lui donne une leçon à l'église.	n° 129
+主旋律	zhǔ xuán lǜ	ㄓㄨˇ ㄒㄩㄢˊ ㄌㄩˋ	mélodie principale	小恩：我唱主旋律，你唱低三度的音。準備好了嗎？	Xiao En : Je chante la mélodie, et toi tu chantes une tierce en dessous. Prêt ?	n° 129
+合一	hé yī	ㄏㄜˊ ㄧ	unité ; être un	他們開始唱《從心合一》。可是唱了兩句，路加又跟著小恩唱一樣的音了。	Ils commencent à chanter « Unis de cœur ». Mais au bout de deux phrases, Luc se remet à chanter les mêmes notes que Xiao En.	n° 129
+和睦	hé mù	ㄏㄜˊ ㄇㄨˋ	en bonne entente, en paix	小恩：詩篇133:1說：「看哪，弟兄和睦同居是何等地善，何等地美！」好，我們再唱一次！	Xiao En : Le psaume 133:1 dit : « Voici, oh ! qu'il est agréable, qu'il est doux pour des frères de demeurer ensemble ! » Allez, on recommence !	n° 129
+讚美祭	zàn měi jì	ㄗㄢˋ ㄇㄟˇ ㄐㄧˋ	sacrifice de louange	美玲：祭是要付代價的。心情好的時候讚美很容易；累的時候還選擇讚美，那才是獻上讚美祭。	Meiling : Un sacrifice, ça coûte quelque chose. Louer quand on a le moral, c'est facile ; choisir de louer quand on est épuisé, c'est ça, offrir un sacrifice de louange.	n° 130
+獻上	xiàn shàng	ㄒㄧㄢˋ ㄕㄤˋ	offrir	美玲：祭是要付代價的。心情好的時候讚美很容易；累的時候還選擇讚美，那才是獻上讚美祭。	Meiling : Un sacrifice, ça coûte quelque chose. Louer quand on a le moral, c'est facile ; choisir de louer quand on est épuisé, c'est ça, offrir un sacrifice de louange.	n° 130
+期末考	qī mò kǎo	ㄑㄧ ㄇㄛˋ ㄎㄠˇ	examens de fin de semestre	六月中，大學開始期末考了。路加每天都讀書讀到半夜。	Mi-juin, les examens de fin de semestre commencent à l'université. Luc révise tous les jours jusqu'à minuit.	n° 130
+心情	xīn qíng	ㄒㄧㄣ ㄑㄧㄥˊ	humeur, moral	路加：美玲姐，老實說，我今天一點都不想唱。心情不好還讚美，是不是很假？	Luc : Meiling, pour être honnête, aujourd'hui je n'ai aucune envie de chanter. Louer quand on n'a pas le moral, ce n'est pas hypocrite ?	n° 130
+感覺	gǎn jué	ㄍㄢˇ ㄐㄩㄝˊ	sentiment ; ressentir	美玲：這不是假。我們讚美神，不是因為我們的感覺，而是因為祂是誰。	Meiling : Ce n'est pas hypocrite. Nous ne louons pas Dieu à cause de ce que nous ressentons, mais à cause de qui Il est.	n° 130
+選擇	xuǎn zé	ㄒㄩㄢˇ ㄗㄜˊ	choisir	美玲：祭是要付代價的。心情好的時候讚美很容易；累的時候還選擇讚美，那才是獻上讚美祭。	Meiling : Un sacrifice, ça coûte quelque chose. Louer quand on a le moral, c'est facile ; choisir de louer quand on est épuisé, c'est ça, offrir un sacrifice de louange.	n° 130
+詩篇	shī piān	ㄕ ㄆㄧㄢ	les Psaumes	美玲建議他讀詩篇，因為很多敬拜歌的歌詞都是從詩篇來的。	Meiling lui a conseillé de lire les Psaumes, parce que les paroles de beaucoup de chants de louange en viennent.	n° 131
+稱頌	chēng sòng	ㄔㄥ ㄙㄨㄥˋ	bénir, célébrer	路加：你聽詩篇103:1：「我的心哪，你要稱頌耶和華！凡在我裡面的，也要稱頌他的聖名！」	Luc : Écoute le psaume 103:1 : « Mon âme, bénis l'Éternel ! Que tout ce qui est en moi bénisse son saint nom ! »	n° 131
+國王	guó wáng	ㄍㄨㄛˊ ㄨㄤˊ	roi	路加：開玩笑的。他本來是放羊的孩子，後來被神選作國王。	Luc : Je plaisante. C'était un jeune berger, et Dieu l'a ensuite choisi pour être roi.	n° 131
+聖名	shèng míng	ㄕㄥˋ ㄇㄧㄥˊ	saint nom	路加：你聽詩篇103:1：「我的心哪，你要稱頌耶和華！凡在我裡面的，也要稱頌他的聖名！」	Luc : Écoute le psaume 103:1 : « Mon âme, bénis l'Éternel ! Que tout ce qui est en moi bénisse son saint nom ! »	n° 131
+提醒	tí xǐng	ㄊㄧˊ ㄒㄧㄥˇ	rappeler à quelqu'un	路加：我想，因為心有時候會忘記神的恩典，所以要提醒它。	Luc : Je crois que c'est parce que le cœur oublie parfois la grâce de Dieu ; alors il faut la lui rappeler.	n° 131
+驕傲	jiāo ào	ㄐㄧㄠ ㄠˋ	orgueilleux ; orgueil	路加：美玲姐，我今天是不是有一點驕傲？	Luc : Meiling, j'ai été un peu orgueilleux aujourd'hui, non ?	n° 132
+謙卑	qiān bēi	ㄑㄧㄢ ㄅㄟ	humble ; humilité	美玲：雅各書4:6說：「神阻擋驕傲的人，賜恩給謙卑的人。」	Meiling : Jacques 4:6 dit : « Dieu résiste aux orgueilleux, mais il fait grâce aux humbles. »	n° 132
+稱讚	chēng zàn	ㄔㄥ ㄗㄢˋ	complimenter, faire l'éloge	崇拜結束後，很多人來稱讚他：「彈得真好！」「法國來的吉他手，好帥！」	Après le culte, beaucoup de gens viennent le complimenter : « Tu joues vraiment bien ! » « Un guitariste venu de France, trop classe ! »	n° 132
+獨奏	dú zòu	ㄉㄨˊ ㄗㄡˋ	solo	這個主日，路加第一次在崇拜中彈吉他，還有一小段獨奏。	Ce dimanche, Luc joue de la guitare au culte pour la première fois, avec même un petit solo.	n° 132
+阻擋	zǔ dǎng	ㄗㄨˇ ㄉㄤˇ	résister à, s'opposer à	美玲：雅各書4:6說：「神阻擋驕傲的人，賜恩給謙卑的人。」	Meiling : Jacques 4:6 dit : « Dieu résiste aux orgueilleux, mais il fait grâce aux humbles. »	n° 132
+主禱文	zhǔ dǎo wén	ㄓㄨˇ ㄉㄠˇ ㄨㄣˊ	le Notre Père	美玲決定下個主日唱《主禱文》這首歌。	Meiling décide de chanter « Le Notre Père » dimanche prochain.	n° 133
+背	bèi	ㄅㄟˋ	réciter par cœur	小光：路加哥哥，你會背主禱文嗎？我在主日學已經學會了！	Xiao Guang : Grand frère Luc, tu sais réciter le Notre Père ? Moi, je l'ai déjà appris à l'école du dimanche !	n° 133
+降臨	jiàng lín	ㄐㄧㄤˋ ㄌㄧㄣˊ	venir, advenir	小光站起來，很大聲地背：「我們在天上的父：願人都尊你的名為聖。願你的國降臨；願你的旨意行在地上，如同行在天上。」	Xiao Guang se lève et récite à pleine voix : « Notre Père qui es aux cieux ! Que ton nom soit sanctifié ; que ton règne vienne ; que ta volonté soit faite sur la terre comme au ciel. »	n° 133
+旨意	zhǐ yì	ㄓˇ ㄧˋ	volonté (de Dieu)	小光站起來，很大聲地背：「我們在天上的父：願人都尊你的名為聖。願你的國降臨；願你的旨意行在地上，如同行在天上。」	Xiao Guang se lève et récite à pleine voix : « Notre Père qui es aux cieux ! Que ton nom soit sanctifié ; que ton règne vienne ; que ta volonté soit faite sur la terre comme au ciel. »	n° 133
+國度	guó dù	ㄍㄨㄛˊ ㄉㄨˋ	royaume, règne	美玲：說得很好。神的國度，就是神作王的地方。只要有人順服祂，祂的國度就在那裡。	Meiling : Bien dit. Le Royaume de Dieu, c'est là où Dieu règne. Dès que quelqu'un lui obéit, son Royaume est là.	n° 133
+順服	shùn fú	ㄕㄨㄣˋ ㄈㄨˊ	obéir, se soumettre	美玲：說得很好。神的國度，就是神作王的地方。只要有人順服祂，祂的國度就在那裡。	Meiling : Bien dit. Le Royaume de Dieu, c'est là où Dieu règne. Dès que quelqu'un lui obéit, son Royaume est là.	n° 133
+捆綁	kǔn bǎng	ㄎㄨㄣˇ ㄅㄤˇ	lier, enchaîner ; servitude	小恩：那你想想，認識耶穌以前，有什麼東西一直捆綁著你？	Xiao En : Alors réfléchis : avant de connaître Jésus, qu'est-ce qui te tenait enchaîné ?	n° 134
+失敗	shī bài	ㄕ ㄅㄞˋ	échouer ; échec	路加：我一直很怕失敗。從小我就覺得，如果考得不好，就沒有人會愛我。	Luc : J'ai toujours eu très peur d'échouer. Depuis tout petit, j'ai l'impression que si je n'ai pas de bonnes notes, personne ne m'aimera.	n° 134
+真理	zhēn lǐ	ㄓㄣ ㄌㄧˇ	vérité	小恩：這就是你的見證啊！約翰福音8:32說：「你們必曉得真理，真理必叫你們得以自由。」	Xiao En : Mais c'est ça, ton témoignage ! Jean 8:32 dit : « Vous connaîtrez la vérité, et la vérité vous affranchira. »	n° 134
+自由	zì yóu	ㄗˋ ㄧㄡˊ	libre ; liberté	小恩：這就是你的見證啊！約翰福音8:32說：「你們必曉得真理，真理必叫你們得以自由。」	Xiao En : Mais c'est ça, ton témoignage ! Jean 8:32 dit : « Vous connaîtrez la vérité, et la vérité vous affranchira. »	n° 134
+成績	chéng jì	ㄔㄥˊ ㄐㄧˋ	notes, résultats scolaires	路加：現在我知道，神愛我不是因為我的成績。這次期末考，我第一次沒有失眠。	Luc : Maintenant je sais que Dieu ne m'aime pas pour mes notes. Pour ces examens, c'est la première fois que je n'ai pas fait d'insomnie.	n° 134
+記號	jì hào	ㄐㄧˋ ㄏㄠˋ	signe, marque	路加：他結婚了。戒指本身不是婚姻，可是它是一個記號，告訴大家：「我屬於另一個人。」	Luc : Il est marié. La bague n'est pas le mariage lui-même, mais c'est un signe qui dit à tout le monde : « J'appartiens à quelqu'un. »	n° 135
+公開	gōng kāi	ㄍㄨㄥ ㄎㄞ	publiquement ; public	路加：洗禮也是這樣。我要在大家面前公開宣告：我是耶穌的人，我要一輩子跟著祂。	Luc : Le baptême, c'est pareil. Je veux déclarer publiquement, devant tout le monde : j'appartiens à Jésus et je veux le suivre toute ma vie.	n° 135
+宣告	xuān gào	ㄒㄩㄢ ㄍㄠˋ	déclarer, proclamer	路加：洗禮也是這樣。我要在大家面前公開宣告：我是耶穌的人，我要一輩子跟著祂。	Luc : Le baptême, c'est pareil. Je veux déclarer publiquement, devant tout le monde : j'appartiens à Jésus et je veux le suivre toute ma vie.	n° 135
+婚姻	hūn yīn	ㄏㄨㄣ ㄧㄣ	mariage	路加：他結婚了。戒指本身不是婚姻，可是它是一個記號，告訴大家：「我屬於另一個人。」	Luc : Il est marié. La bague n'est pas le mariage lui-même, mais c'est un signe qui dit à tout le monde : « J'appartiens à quelqu'un. »	n° 135
+尊重	zūn zhòng	ㄗㄨㄣ ㄓㄨㄥˋ	respecter	大衛點了點頭：「這個比喻不錯。雖然我還不相信，但是我尊重你的選擇。」	David hoche la tête : « Pas mal, la comparaison. Je n'y crois pas encore, mais je respecte ton choix. »	n° 135
+比喻	bǐ yù	ㄅㄧˇ ㄩˋ	comparaison, image	大衛點了點頭：「這個比喻不錯。雖然我還不相信，但是我尊重你的選擇。」	David hoche la tête : « Pas mal, la comparaison. Je n'y crois pas encore, mais je respecte ton choix. »	n° 135
+試探	shì tàn	ㄕˋ ㄊㄢˋ	tentation ; tenter	阿傑：兄弟，這是試探啊！我大學的時候也遇過，那次我輸了，後來很後悔。	A-Jie : Frère, c'est une tentation ! Moi aussi, j'ai connu ça à la fac ; cette fois-là j'ai cédé, et je l'ai beaucoup regretté.	n° 136
+剛強	gāng qiáng	ㄍㄤ ㄑㄧㄤˊ	fort, vaillant	阿傑：覺得軟弱不是罪。承認自己軟弱，神才能讓你剛強。	A-Jie : Se sentir faible, ce n'est pas un péché. C'est quand tu reconnais ta faiblesse que Dieu peut te rendre fort.	n° 136
+儆醒	jǐng xǐng	ㄐㄧㄥˇ ㄒㄧㄥˇ	veiller	阿傑：馬太福音26:41，耶穌說：「總要儆醒禱告，免得入了迷惑。你們心靈固然願意，肉體卻軟弱了。」	A-Jie : En Matthieu 26:41, Jésus dit : « Veillez et priez, afin que vous ne tombiez pas en tentation ; l'esprit est bien disposé, mais la chair est faible. »	n° 136
+作弊	zuò bì	ㄗㄨㄛˋ ㄅㄧˋ	tricher	路加：我覺得自己好軟弱。下個月初就要受洗了，還會想作弊。	Luc : Je me sens tellement faible. Je vais être baptisé début juillet, et j'ai encore envie de tricher.	n° 136
+補考	bǔ kǎo	ㄅㄨˇ ㄎㄠˇ	examen de rattrapage	路加有一科沒有考好，下個星期要補考。	Luc a raté une matière ; il a un examen de rattrapage la semaine prochaine.	n° 136
+代禱	dài dǎo	ㄉㄞˋ ㄉㄠˇ	intercéder ; intercession	陳奶奶：你媽媽擔心你，是因為她愛你。以後我每天早上都為她代禱。	Mamie Chen : Ta mère s'inquiète parce qu'elle t'aime. Désormais, je prierai pour elle chaque matin.	n° 137
+宗教	zōng jiào	ㄗㄨㄥ ㄐㄧㄠˋ	religion	路加：媽，別擔心。這不是什麼奇怪的宗教，就是一般的基督教教會。	Luc : Maman, ne t'inquiète pas. Ce n'est pas une religion bizarre, c'est une église protestante tout à fait normale.	n° 137
+理解	lǐ jiě	ㄌㄧˇ ㄐㄧㄝˇ	comprendre	媽媽沉默了一下：「好吧，我會試著理解。你自己要小心。」	Sa mère se tait un instant : « Bon… j'essaierai de comprendre. Fais attention à toi. »	n° 137
+義人	yì rén	ㄧˋ ㄖㄣˊ	juste (personne)	陳奶奶：我不認識她，可是神認識她啊。雅各書5:16說：「義人祈禱所發的力量是大有功效的。」	Mamie Chen : Moi, je ne la connais pas, mais Dieu la connaît. Jacques 5:16 dit : « La prière agissante du juste a une grande efficacité. »	n° 137
+功效	gōng xiào	ㄍㄨㄥ ㄒㄧㄠˋ	efficacité	陳奶奶：我不認識她，可是神認識她啊。雅各書5:16說：「義人祈禱所發的力量是大有功效的。」	Mamie Chen : Moi, je ne la connais pas, mais Dieu la connaît. Jacques 5:16 dit : « La prière agissante du juste a une grande efficacité. »	n° 137
+釋放	shì fàng	ㄕˋ ㄈㄤˋ	libérer, délivrer	王牧師：加拉太書5:1說：「基督釋放了我們，叫我們得以自由，所以要站立得穩，不要再被奴僕的軛挾制。」	Pasteur Wang : Galates 5:1 dit : « C'est pour la liberté que Christ nous a affranchis. Demeurez donc fermes, et ne vous laissez pas mettre de nouveau sous le joug de la servitude. »	n° 138
+饒恕	ráo shù	ㄖㄠˊ ㄕㄨˋ	pardonner	路加：神要我饒恕他，對不對？可是這樣不就是說他沒有錯嗎？	Luc : Dieu veut que je lui pardonne, c'est ça ? Mais ça ne revient pas à dire qu'il n'a rien fait de mal ?	n° 138
+恨	hèn	ㄏㄣˋ	haïr ; en vouloir à	路加：在法國的時候，我最好的朋友多馬用自己的名字，把我的設計拿去參加比賽，還得了獎。從那天起，我一直恨他。	Luc : En France, mon meilleur ami, Thomas, a présenté mon projet à un concours sous son propre nom, et il a gagné un prix. Depuis ce jour-là, je lui en veux.	n° 138
+傷害	shāng hài	ㄕㄤ ㄏㄞˋ	blesser ; blessure	王牧師：謝謝你願意說出來。被最好的朋友傷害，一定很痛。	Pasteur Wang : Merci d'avoir osé le dire. Être blessé par son meilleur ami, ça doit faire très mal.	n° 138
+繩子	shéng zi	ㄕㄥˊ ˙ㄗ	corde	王牧師：不是的。饒恕不是說他沒有錯，而是把這筆債交給神。恨就像一條繩子，被綁住的其實是你自己。	Pasteur Wang : Non. Pardonner, ce n'est pas dire qu'il n'a pas eu tort, c'est remettre cette dette à Dieu. La rancune est comme une corde : celui qu'elle attache, en réalité, c'est toi.	n° 138
+軛	è	ㄜˋ	joug	王牧師：加拉太書5:1說：「基督釋放了我們，叫我們得以自由，所以要站立得穩，不要再被奴僕的軛挾制。」	Pasteur Wang : Galates 5:1 dit : « C'est pour la liberté que Christ nous a affranchis. Demeurez donc fermes, et ne vous laissez pas mettre de nouveau sous le joug de la servitude. »	n° 138
+緊張	jǐn zhāng	ㄐㄧㄣˇ ㄓㄤ	nerveux, tendu	路加：開心，可是也很緊張。如果我在大家面前把見證讀錯了怎麼辦？如果受洗以後，我還是常常犯錯呢？	Luc : Si, mais je suis aussi très nerveux. Et si je me trompe en lisant mon témoignage devant tout le monde ? Et si, après le baptême, je continue à faire souvent des erreurs ?	n° 139
+犯錯	fàn cuò	ㄈㄢˋ ㄘㄨㄛˋ	commettre une erreur	路加：開心，可是也很緊張。如果我在大家面前把見證讀錯了怎麼辦？如果受洗以後，我還是常常犯錯呢？	Luc : Si, mais je suis aussi très nerveux. Et si je me trompe en lisant mon témoignage devant tout le monde ? Et si, après le baptême, je continue à faire souvent des erreurs ?	n° 139
+完美	wán měi	ㄨㄢˊ ㄇㄟˇ	parfait	小恩：路加，受洗不是證明你已經很完美，而是宣告你屬於誰。	Xiao En : Luc, le baptême ne prouve pas que tu es déjà parfait ; il déclare à qui tu appartiens.	n° 139
+重價	zhòng jià	ㄓㄨㄥˋ ㄐㄧㄚˋ	grand prix	小恩：哥林多前書6:20說：「因為你們是重價買來的。所以，要在你們的身子上榮耀神。」	Xiao En : 1 Corinthiens 6:20 dit : « Car vous avez été rachetés à un grand prix. Glorifiez donc Dieu dans votre corps… »	n° 139
+身子	shēn zi	ㄕㄣ ˙ㄗ	corps	小恩：哥林多前書6:20說：「因為你們是重價買來的。所以，要在你們的身子上榮耀神。」	Xiao En : 1 Corinthiens 6:20 dit : « Car vous avez été rachetés à un grand prix. Glorifiez donc Dieu dans votre corps… »	n° 139
+放棄	fàng qì	ㄈㄤˋ ㄑㄧˋ	abandonner	小恩：耶穌用那麼大的代價把你買回來，祂不會因為你犯錯就放棄你。	Xiao En : Jésus t'a racheté à un prix si élevé ; il ne va pas t'abandonner parce que tu fais des erreurs.	n° 139
+施洗	shī xǐ	ㄕ ㄒㄧˇ	baptiser	王牧師：在馬太福音28:19，耶穌吩咐我們：「所以，你們要去，使萬民作我的門徒，奉父、子、聖靈的名給他們施洗。」	Pasteur Wang : En Matthieu 28:19, Jésus nous a ordonné : « Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint-Esprit. »	n° 140
+門徒	mén tú	ㄇㄣˊ ㄊㄨˊ	disciple	王牧師：在馬太福音28:19，耶穌吩咐我們：「所以，你們要去，使萬民作我的門徒，奉父、子、聖靈的名給他們施洗。」	Pasteur Wang : En Matthieu 28:19, Jésus nous a ordonné : « Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint-Esprit. »	n° 140
+萬民	wàn mín	ㄨㄢˋ ㄇㄧㄣˊ	toutes les nations	王牧師：在馬太福音28:19，耶穌吩咐我們：「所以，你們要去，使萬民作我的門徒，奉父、子、聖靈的名給他們施洗。」	Pasteur Wang : En Matthieu 28:19, Jésus nous a ordonné : « Allez, faites de toutes les nations des disciples, les baptisant au nom du Père, du Fils et du Saint-Esprit. »	n° 140
+直播	zhí bō	ㄓˊ ㄅㄛ	diffuser en direct	大衛真的帶了一束花來，陳奶奶坐在第一排。小恩用手機直播，讓路加的媽媽在法國也能看到。	David est vraiment venu avec un bouquet, et Mamie Chen est assise au premier rang. Xiao En diffuse en direct avec son téléphone, pour que la mère de Luc puisse regarder depuis la France.	n° 140
+鼓掌	gǔ zhǎng	ㄍㄨˇ ㄓㄤˇ	applaudir	全教會一起鼓掌，敬拜團開始唱《從今天起》。	Toute l'église applaudit, et l'équipe de louange entonne « À partir d'aujourd'hui ».	n° 140
+同工	tóng gōng	ㄊㄨㄥˊ ㄍㄨㄥ	collaborateur, coéquipier dans le service	美玲：別擔心，你不是一個人。小恩也是主日學的同工，她會帶你。	Meiling : Ne t'inquiète pas, tu ne seras pas seul. Xiao En fait aussi partie de l'équipe de l'école du dimanche, elle va t'accompagner.	n° 151
+恩賜	ēn cì	ㄣ ㄘˋ	don (spirituel), talent reçu de Dieu	美玲：而且你會彈吉他，這是神給你的恩賜。孩子們最喜歡唱歌了！	Meiling : En plus, tu joues de la guitare : c'est un don que Dieu t'a fait. Les enfants adorent chanter !	n° 151
+牧養	mù yǎng	ㄇㄨˋ ㄧㄤˇ	paître, prendre soin (d'un troupeau, de fidèles)	路加：沒錯！耶穌也這樣牧養我們，一直帶領我們回家。	Luc : Exactement ! C'est comme ça que Jésus prend soin de nous : il nous ramène toujours à la maison.	n° 152
+帶領	dài lǐng	ㄉㄞˋ ㄌㄧㄥˇ	conduire, guider	路加：沒錯！耶穌也這樣牧養我們，一直帶領我們回家。	Luc : Exactement ! C'est comme ça que Jésus prend soin de nous : il nous ramène toujours à la maison.	n° 152
+越來越	yuè lái yuè	ㄩㄝˋ ㄌㄞˊ ㄩㄝˋ	de plus en plus	小恩小聲說：「沒關係，他們越來越喜歡你了！」	Xiao En murmure : « Ce n'est pas grave, ils t'aiment de plus en plus ! »	n° 152
+禱告會	dǎo gào huì	ㄉㄠˇ ㄍㄠˋ ㄏㄨㄟˋ	réunion de prière	小恩：奶奶，星期五晚上的禱告會，人越來越少了。	Xiao En : Mamie, il y a de moins en moins de monde à la réunion de prière du vendredi soir.	n° 153
+守望	shǒu wàng	ㄕㄡˇ ㄨㄤˋ	veiller (dans la prière), monter la garde	陳奶奶：禱告的人就像城牆上守望的人：大家睡覺的時候，他還醒著。	Mamie Chen : Ceux qui prient sont comme les veilleurs sur la muraille : quand tout le monde dort, eux restent éveillés.	n° 153
+交託	jiāo tuō	ㄐㄧㄠ ㄊㄨㄛ	remettre, confier (à Dieu)	陳奶奶：神聽得懂法文！只要你把心裡的事交託給祂，就夠了。	Mamie Chen : Dieu comprend le français ! Il suffit que tu lui confies ce que tu as sur le cœur.	n° 153
+除了	chú le	ㄔㄨˊ ˙ㄌㄜ	à part, en dehors de	陳奶奶：除了你以外，我也為教會、為台灣、為每個孩子禱告。	Mamie Chen : À part toi, je prie aussi pour l'église, pour Taïwan, pour chaque enfant.	n° 153
+本子	běn zi	ㄅㄣˇ ˙ㄗ	carnet, cahier	陳奶奶家的桌子上，有一本很舊的本子。	Sur la table de Mamie Chen, il y a un très vieux carnet.	n° 153
+擔憂	dān yōu	ㄉㄢ ㄧㄡ	s'inquiéter ; inquiétude	陳奶奶拉著小恩的手。雖然她也擔憂自己的兒子，但是她的臉很平安。	Mamie Chen tient la main de Xiao En. Même si elle aussi s'inquiète pour son fils, son visage est paisible.	n° 154
+信靠	xìn kào	ㄒㄧㄣˋ ㄎㄠˋ	se fier à, faire confiance (à Dieu)	禱告結束後，王牧師說：「擔憂的時候，就是學習信靠的時候。」	La prière terminée, le pasteur Wang dit : « Le moment où l'on s'inquiète, c'est le moment d'apprendre à faire confiance. »	n° 154
+心臟	xīn zàng	ㄒㄧㄣ ㄗㄤˋ	cœur (organe)	小恩：請為我爸爸禱告。他最近常常胸口痛，下個禮拜要去醫院檢查心臟。	Xiao En : Priez pour mon père, s'il vous plaît. Ces derniers temps, il a souvent mal à la poitrine ; la semaine prochaine, il doit aller à l'hôpital pour un examen du cœur.	n° 154
+檢查	jiǎn chá	ㄐㄧㄢˇ ㄔㄚˊ	examen (médical) ; examiner	小恩：請為我爸爸禱告。他最近常常胸口痛，下個禮拜要去醫院檢查心臟。	Xiao En : Priez pour mon père, s'il vous plaît. Ces derniers temps, il a souvent mal à la poitrine ; la semaine prochaine, il doit aller à l'hôpital pour un examen du cœur.	n° 154
+醫治	yī zhì	ㄧ ㄓˋ	guérir ; guérison	小恩：祂會安慰我們，祂也能醫治我們。我們可以一起為爸爸禱告。	Xiao En : Il nous console, et il peut aussi nous guérir. On peut prier ensemble pour papa.	n° 155
+安慰	ān wèi	ㄢ ㄨㄟˋ	consoler ; consolation	小恩：祂會安慰我們，祂也能醫治我們。我們可以一起為爸爸禱告。	Xiao En : Il nous console, et il peut aussi nous guérir. On peut prier ensemble pour papa.	n° 155
+苦難	kǔ nàn	ㄎㄨˇ ㄋㄢˋ	souffrance, épreuve	小恩：小光，我也不完全明白。可是我知道，在苦難中，耶穌沒有離開我們。	Xiao En : Xiao Guang, moi non plus je ne comprends pas tout. Mais je sais que dans la souffrance, Jésus ne nous abandonne pas.	n° 155
+手術	shǒu shù	ㄕㄡˇ ㄕㄨˋ	opération chirurgicale	小恩：我爸爸生病了，醫生要給他動手術。	Xiao En : Mon papa est malade, le médecin doit l'opérer.	n° 155
+病房	bìng fáng	ㄅㄧㄥˋ ㄈㄤˊ	chambre d'hôpital	晚上，路加跟小恩一起去探訪他。病房裡很安靜，只有機器的聲音。	Le soir, Luc va lui rendre visite avec Xiao En. La chambre est très calme ; on n'entend que le bruit des machines.	n° 156
+探訪	tàn fǎng	ㄊㄢˋ ㄈㄤˇ	rendre visite (à un malade)	晚上，路加跟小恩一起去探訪他。病房裡很安靜，只有機器的聲音。	Le soir, Luc va lui rendre visite avec Xiao En. La chambre est très calme ; on n'entend que le bruit des machines.	n° 156
+掌管	zhǎng guǎn	ㄓㄤˇ ㄍㄨㄢˇ	diriger, tenir en main, avoir la maîtrise	路加：陳爸爸，我以前也只相信自己。後來我才明白：雖然我不知道明天，但是我認識掌管明天的那一位。	Luc : Papa Chen, avant, moi aussi je ne croyais qu'en moi-même. Plus tard, j'ai compris : même si je ne connais pas demain, je connais Celui qui tient demain entre ses mains.	n° 156
+倚靠	yǐ kào	ㄧˇ ㄎㄠˋ	s'appuyer sur, compter sur	陳爸爸：我知道。我一輩子都倚靠自己，現在躺在這裡，什麼都不能做。	Papa Chen : Je sais. Toute ma vie, je n'ai compté que sur moi-même ; et maintenant me voilà couché ici, sans rien pouvoir faire.	n° 156
+明天	míng tiān	ㄇㄧㄥˊ ㄊㄧㄢ	demain	十月中，陳爸爸住進了醫院。明天早上就要開刀了。	À la mi-octobre, papa Chen entre à l'hôpital. Il doit être opéré demain matin.	n° 156
+避難所	bì nàn suǒ	ㄅㄧˋ ㄋㄢˋ ㄙㄨㄛˇ	refuge, abri	陳奶奶：「神是我們的避難所，是我們的力量，是我們在患難中隨時的幫助。」	Mamie Chen : « Dieu est pour nous un refuge et un appui, un secours qui ne manque jamais dans la détresse. »	n° 157
+患難	huàn nàn	ㄏㄨㄢˋ ㄋㄢˋ	détresse, tribulation	陳奶奶：「神是我們的避難所，是我們的力量，是我們在患難中隨時的幫助。」	Mamie Chen : « Dieu est pour nous un refuge et un appui, un secours qui ne manque jamais dans la détresse. »	n° 157
+手術室	shǒu shù shì	ㄕㄡˇ ㄕㄨˋ ㄕˋ	bloc opératoire	手術從早上八點開始。到了下午兩點，手術室的燈還亮著。	L'opération a commencé à huit heures du matin. À deux heures de l'après-midi, la lumière du bloc opératoire est toujours allumée.	n° 157
+隨時	suí shí	ㄙㄨㄟˊ ㄕˊ	à tout moment	陳奶奶：「神是我們的避難所，是我們的力量，是我們在患難中隨時的幫助。」	Mamie Chen : « Dieu est pour nous un refuge et un appui, un secours qui ne manque jamais dans la détresse. »	n° 157
+輪流	lún liú	ㄌㄨㄣˊ ㄌㄧㄡˊ	à tour de rôle	小恩：是教會的弟兄姊妹。他們輪流禱告，從早上到現在都沒有停。	Xiao En : Ce sont les frères et sœurs de l'église. Ils prient à tour de rôle, sans s'arrêter depuis ce matin.	n° 157
+加護病房	jiā hù bìng fáng	ㄐㄧㄚ ㄏㄨˋ ㄅㄧㄥˋ ㄈㄤˊ	unité de soins intensifs	手術後第三天，陳爸爸突然發高燒，被送進了加護病房。	Trois jours après l'opération, papa Chen a soudain une forte fièvre et il est transféré aux soins intensifs.	n° 158
+傷心	shāng xīn	ㄕㄤ ㄒㄧㄣ	avoir le cœur brisé, triste	她坐在樓梯上，把臉埋在手裡，哭得很傷心。	Elle est assise sur les marches, le visage enfoui dans les mains, et pleure à chaudes larmes.	n° 158
+陪伴	péi bàn	ㄆㄟˊ ㄅㄢˋ	accompagner, être auprès de	路加不知道該說什麼。他就坐在她旁邊，陪伴她。	Luc ne sait pas quoi dire. Il s'assoit simplement à côté d'elle, pour être là.	n° 158
+神蹟	shén jī	ㄕㄣˊ ㄐㄧ	miracle, prodige (œuvre de Dieu)	路加：牧師，今天還有神蹟嗎？如果我們的信心夠大，神就一定會醫治嗎？	Luc : Pasteur, est-ce qu'il y a encore des miracles aujourd'hui ? Si notre foi est assez grande, est-ce que Dieu va forcément guérir ?	n° 159
+忍耐	rěn nài	ㄖㄣˇ ㄋㄞˋ	patience, persévérance ; endurer	王牧師：我們的責任是禱告，然後用忍耐等候。結果，就交給那位愛我們的神。	Pasteur Wang : Notre part, c'est de prier, puis d'attendre avec patience. Le résultat, on le remet au Dieu qui nous aime.	n° 159
+不但	bù dàn	ㄅㄨˋ ㄉㄢˋ	non seulement	大家分成小組，不但為陳爸爸的身體禱告，而且為陳媽媽和小恩禱告。	Tout le monde se répartit en petits groupes pour prier non seulement pour le corps de papa Chen, mais aussi pour maman Chen et Xiao En.	n° 159
+奇蹟	qí jī	ㄑㄧˊ ㄐㄧ	miracle, prodige	陳媽媽：醫生，這是奇蹟吧？	Maman Chen : Docteur, c'est un miracle, non ?	n° 160
+退燒	tuì shāo	ㄊㄨㄟˋ ㄕㄠ	(la fièvre) tomber	禱告會的那天半夜，陳爸爸開始退燒了。	La nuit même de la réunion de prière, la fièvre de papa Chen a commencé à tomber.	n° 160
+普通	pǔ tōng	ㄆㄨˇ ㄊㄨㄥ	ordinaire, normal	三天以後，他從加護病房搬回了普通病房。	Trois jours plus tard, il quitte les soins intensifs pour revenir dans une chambre normale.	n° 160
+恢復	huī fù	ㄏㄨㄟ ㄈㄨˋ	se rétablir, récupérer	醫生：說真的，他恢復得這麼快，連我都有一點驚訝。	Le médecin : Honnêtement, il se rétablit si vite que même moi, je suis un peu surpris.	n° 160
+出院	chū yuàn	ㄔㄨ ㄩㄢˋ	sortir de l'hôpital	十一月的第一個禮拜天，陳爸爸出院後第一次回到恩典教會。	Le premier dimanche de novembre, papa Chen revient pour la première fois à l'église de la Grâce depuis sa sortie de l'hôpital.	n° 161
+巧合	qiǎo hé	ㄑㄧㄠˇ ㄏㄜˊ	coïncidence	媽媽：真好，我為他們高興。可是路加，那也可能只是巧合，或者是醫生很厲害。	Maman : C'est formidable, je suis heureuse pour eux. Mais Luc, ce n'est peut-être qu'une coïncidence, ou alors les médecins sont très bons.	n° 162
+主奏	zhǔ zòu	ㄓㄨˇ ㄗㄡˋ	jouer la partie principale (solo)	美玲：這次的主題是《從心合一》。路加，前奏和間奏讓你來主奏，好嗎？	Meiling : Cette fois, le thème, c'est « Unis depuis le cœur ». Luc, c'est toi qui joueras le solo de l'intro et de l'interlude, d'accord ?	n° 163
+感恩節	gǎn ēn jié	ㄍㄢˇ ㄣ ㄐㄧㄝˊ	fête d'action de grâce (Thanksgiving)	星期六下午，敬拜團在教會練習。再過兩個禮拜就是感恩節崇拜了。	Samedi après-midi, l'équipe de louange répète à l'église. Dans deux semaines, ce sera le culte d'action de grâce.	n° 163
+嫉妒	jí dù	ㄐㄧˊ ㄉㄨˋ	jalouser ; jalousie	路加：你說什麼？你根本就是嫉妒！因為美玲沒有讓你主奏！	Luc : Qu'est-ce que tu dis ? Tu es tout simplement jaloux ! Parce que Meiling ne t'a pas confié le solo !	n° 164
+批評	pī píng	ㄆㄧ ㄆㄧㄥˊ	critiquer ; critique	第二個星期六，練習的時候，阿傑又開始批評路加。	Le samedi suivant, pendant la répétition, A-Jie recommence à critiquer Luc.	n° 164
+道歉	dào qiàn	ㄉㄠˋ ㄑㄧㄢˋ	s'excuser	他越想越生氣：明明是阿傑先說難聽的話，為什麼要我道歉？	Plus il y pense, plus il est en colère : c'est A-Jie qui a dit des choses blessantes en premier, alors pourquoi ce serait à lui de s'excuser ?	n° 164
+清潔	qīng jié	ㄑㄧㄥ ㄐㄧㄝˊ	pur, propre	他打開手機，聽《給我清潔的心》。這首歌是從詩篇五十一篇來的，是大衛王犯罪以後的禱告。	Il ouvre son téléphone et écoute « Donne-moi un cœur pur ». Ce chant vient du psaume 51 : c'est la prière du roi David après son péché.	n° 164
+和好	hé hǎo	ㄏㄜˊ ㄏㄠˇ	se réconcilier	王牧師：而且，和好常常要有一個人先走第一步。為什麼不是你呢？	Pasteur Wang : Et puis, pour se réconcilier, il faut souvent que quelqu'un fasse le premier pas. Pourquoi pas toi ?	n° 165
+得罪	dé zuì	ㄉㄜˊ ㄗㄨㄟˋ	offenser, pécher contre	路加：有一點。牧師，是他先得罪我的。如果他不道歉，我就不原諒他。	Luc : Un peu. Pasteur, c'est lui qui m'a offensé le premier. S'il ne s'excuse pas, je ne lui pardonnerai pas.	n° 165
+原諒	yuán liàng	ㄩㄢˊ ㄌㄧㄤˋ	excuser, pardonner	路加：有一點。牧師，是他先得罪我的。如果他不道歉，我就不原諒他。	Luc : Un peu. Pasteur, c'est lui qui m'a offensé le premier. S'il ne s'excuse pas, je ne lui pardonnerai pas.	n° 165
+裁員	cái yuán	ㄘㄞˊ ㄩㄢˊ	licencier (réduction de personnel)	阿傑：兩個月前，我被公司裁員了。我不敢告訴我爸媽，每天還是假裝去上班。	A-Jie : Il y a deux mois, j'ai été licencié. Je n'ose pas le dire à mes parents ; tous les jours, je fais encore semblant d'aller au travail.	n° 166
+價值	jià zhí	ㄐㄧㄚˋ ㄓˊ	valeur	阿傑：結果妳把主奏給了路加，我覺得連這一點價值都被拿走了。	A-Jie : Et puis tu as confié le solo à Luc, et j'ai eu l'impression qu'on m'enlevait même ce petit peu de valeur.	n° 166
+恩慈	ēn cí	ㄣ ㄘˊ	bonté, bienveillance	路加：王牧師給我看了一節經文：「並要以恩慈相待，存憐憫的心，彼此饒恕，正如神在基督裡饒恕了你們一樣。」	Luc : Le pasteur Wang m'a montré un verset : « Soyez bons les uns envers les autres, compatissants, vous pardonnant réciproquement, comme Dieu vous a pardonné en Christ. »	n° 167
+憐憫	lián mǐn	ㄌㄧㄢˊ ㄇㄧㄣˇ	compassion, miséricorde	路加：王牧師給我看了一節經文：「並要以恩慈相待，存憐憫的心，彼此饒恕，正如神在基督裡饒恕了你們一樣。」	Luc : Le pasteur Wang m'a montré un verset : « Soyez bons les uns envers les autres, compatissants, vous pardonnant réciproquement, comme Dieu vous a pardonné en Christ. »	n° 167
+同心	tóng xīn	ㄊㄨㄥˊ ㄒㄧㄣ	d'un même cœur	唱完《同心高舉十架》以後，張長老上台讀經。	Après « D'un même cœur, élevons la croix », l'ancien Zhang monte lire les Écritures.	n° 168
+復興	fù xīng	ㄈㄨˋ ㄒㄧㄥ	réveil (spirituel), renouveau	王牧師：很多人為台灣的復興禱告。可是復興常常不是從大聚會開始的，而是從兩個人和好開始的。	Pasteur Wang : Beaucoup prient pour un réveil à Taïwan. Mais souvent, le réveil ne commence pas par un grand rassemblement : il commence quand deux personnes se réconcilient.	n° 168
+短宣	duǎn xuān	ㄉㄨㄢˇ ㄒㄩㄢ	mission de courte durée	十二月初，教會開了一個短宣說明會，來了二十幾個人。	Début décembre, l'église organise une réunion d'information sur la mission courte ; une vingtaine de personnes viennent.	n° 169
+異象	yì xiàng	ㄧˋ ㄒㄧㄤˋ	vision (projet reçu de Dieu)	王牧師：高牧師請我們寒假去幫忙辦兒童營。這不只是一個活動，而是神給我們的異象。	Pasteur Wang : Le pasteur Gao nous demande de venir aider à organiser un camp pour enfants pendant les vacances d'hiver. Ce n'est pas seulement une activité : c'est une vision que Dieu nous donne.	n° 169
+差遣	chāi qiǎn	ㄔㄞ ㄑㄧㄢˇ	envoyer (en mission)	王牧師：先知以賽亞聽見主說：「我可以差遣誰呢？誰肯為我們去呢？」	Pasteur Wang : Le prophète Ésaïe a entendu le Seigneur dire : « Qui enverrai-je, et qui marchera pour nous ? »	n° 169
+部落	bù luò	ㄅㄨˋ ㄌㄨㄛˋ	village (aborigène), tribu	王牧師：這是花蓮一個阿美族部落的教會。年輕人都去城市工作了，只剩下老人和孩子。	Pasteur Wang : C'est l'église d'un village amis de Hualien. Les jeunes sont tous partis travailler en ville ; il ne reste que les anciens et les enfants.	n° 169
+兒童	ér tóng	ㄦˊ ㄊㄨㄥˊ	enfant	王牧師：高牧師請我們寒假去幫忙辦兒童營。這不只是一個活動，而是神給我們的異象。	Pasteur Wang : Le pasteur Gao nous demande de venir aider à organiser un camp pour enfants pendant les vacances d'hiver. Ce n'est pas seulement une activité : c'est une vision que Dieu nous donne.	n° 169
+使命	shǐ mìng	ㄕˇ ㄇㄧㄥˋ	mission (confiée), mandat	張長老在白板上寫了兩個大字：「使命」。	L'ancien Zhang écrit deux grands caractères au tableau blanc : « mission ».	n° 170
+宣教	xuān jiào	ㄒㄩㄢ ㄐㄧㄠˋ	mission ; évangéliser	張長老：還有，宣教要先學尊重別人的文化。阿美族有自己的語言、歌和傳統。	L'ancien Zhang : Et puis, en mission, il faut d'abord apprendre à respecter la culture des autres. Les Amis ont leur propre langue, leurs chants et leurs traditions.	n° 170
+文化	wén huà	ㄨㄣˊ ㄏㄨㄚˋ	culture	張長老：還有，宣教要先學尊重別人的文化。阿美族有自己的語言、歌和傳統。	L'ancien Zhang : Et puis, en mission, il faut d'abord apprendre à respecter la culture des autres. Les Amis ont leur propre langue, leurs chants et leurs traditions.	n° 170
+原住民	yuán zhù mín	ㄩㄢˊ ㄓㄨˋ ㄇㄧㄣˊ	aborigène, autochtone	路加：太美了！不過我其實有一點緊張。我從來沒有去過原住民的部落。	Luc : C'est trop beau ! Mais en fait, j'ai un peu le trac. Je ne suis jamais allé dans un village aborigène.	n° 181
+阿美族	ā měi zú	ㄚ ㄇㄟˇ ㄗㄨˊ	peuple amis	美玲：我們要去的是一個阿美族部落。台灣有十六個原住民族，阿美族的人口最多。	Meiling : Nous allons dans un village amis. Taïwan compte seize peuples autochtones, et les Amis sont les plus nombreux.	n° 181
+即使	jí shǐ	ㄐㄧˊ ㄕˇ	même si	王牧師：所以即使你聽不懂族語，也不用怕。神已經在那裡了，祂也和我們一起去。	Pasteur Wang : Alors, même si tu ne comprends pas la langue amis, n'aie pas peur. Dieu est déjà là-bas, et il part aussi avec nous.	n° 181
+族語	zú yǔ	ㄗㄨˊ ㄩˇ	langue d'un peuple autochtone	王牧師：所以即使你聽不懂族語，也不用怕。神已經在那裡了，祂也和我們一起去。	Pasteur Wang : Alors, même si tu ne comprends pas la langue amis, n'aie pas peur. Dieu est déjà là-bas, et il part aussi avec nous.	n° 181
+頭目	tóu mù	ㄊㄡˊ ㄇㄨˋ	chef de village (aborigène)	一位頭上戴著羽毛帽的老人走過來。巴奈小聲說：「他是我們部落的頭目。」	Un vieil homme coiffé d'un chapeau à plumes s'approche. Panay murmure : « C'est le chef de notre village. »	n° 182
+野菜	yě cài	ㄧㄝˇ ㄘㄞˋ	légumes sauvages	晚餐是部落的媽媽們準備的：一大桌野菜、烤魚，還有有名的石頭火鍋。	Le dîner a été préparé par les mamans du village : une grande table de légumes sauvages, du poisson grillé, et la fameuse « fondue aux pierres ».	n° 182
+石頭火鍋	shí tou huǒ guō	ㄕˊ ˙ㄊㄡ ㄏㄨㄛˇ ㄍㄨㄛ	« fondue aux pierres » (plat amis)	晚餐是部落的媽媽們準備的：一大桌野菜、烤魚，還有有名的石頭火鍋。	Le dîner a été préparé par les mamans du village : une grande table de légumes sauvages, du poisson grillé, et la fameuse « fondue aux pierres ».	n° 182
+接待	jiē dài	ㄐㄧㄝ ㄉㄞˋ	accueil, hospitalité	吃完飯，短宣隊為了感謝大家的接待，唱了《謝謝你成為我的家》。	Après le repas, pour remercier tout le monde de leur accueil, l'équipe chante « Merci d'être devenu ma maison ».	n° 182
+無論	wú lùn	ㄨˊ ㄌㄨㄣˋ	quel que soit, où que	頭目握著王牧師的手說：「無論你們從哪裡來，進了部落，就都是我們的家人。」	Le chef serre la main du pasteur Wang : « D'où que vous veniez, une fois entrés dans le village, vous êtes tous de notre famille. »	n° 182
+敬畏	jìng wèi	ㄐㄧㄥˋ ㄨㄟˋ	crainte (révérencielle) de Dieu	小恩：這叫「敬畏」。不是害怕，而是知道神是聖潔、偉大的，所以用尊敬的心來到祂面前。	Xiao En : Ça s'appelle « la crainte de Dieu ». Ce n'est pas avoir peur : c'est savoir que Dieu est saint et grand, et venir devant lui avec un cœur plein de respect.	n° 183
+啟示	qǐ shì	ㄑㄧˇ ㄕˋ	révélation	講道的時候，王牧師讀了啟示錄七章九節，這是神給使徒約翰的啟示：	Pendant la prédication, le pasteur Wang lit Apocalypse 7.9, la révélation que Dieu a donnée à l'apôtre Jean :	n° 183
+使徒	shǐ tú	ㄕˇ ㄊㄨˊ	apôtre	講道的時候，王牧師讀了啟示錄七章九節，這是神給使徒約翰的啟示：	Pendant la prédication, le pasteur Wang lit Apocalypse 7.9, la révélation que Dieu a donnée à l'apôtre Jean :	n° 183
+翻譯	fān yì	ㄈㄢ ㄧˋ	traduire ; traduction	接著，短宣隊用中文帶《萬國得知祢的救恩》，馬耀牧師在旁邊一句一句翻譯成族語。	Ensuite, l'équipe conduit « Que les nations connaissent ton salut » en chinois, et le pasteur Mayaw traduit phrase après phrase en amis.	n° 183
+各族	gè zú	ㄍㄜˋ ㄗㄨˊ	chaque tribu, chaque peuple	「是從各國、各族、各民、各方來的，站在寶座和羔羊面前。」	« ... de toute nation, de toute tribu, de tout peuple, et de toute langue. Ils se tenaient devant le trône et devant l'agneau. »	n° 183
+兒童營	ér tóng yíng	ㄦˊ ㄊㄨㄥˊ ㄧㄥˊ	camp d'enfants	星期一到星期三，教會辦了兒童營。三十幾個孩子一大早就跑來了，有的甚至沒有穿鞋子。	Du lundi au mercredi, l'église organise un camp d'enfants. Une trentaine d'enfants arrivent en courant dès l'aube ; certains n'ont même pas de chaussures.	n° 184
+隔代教養	gé dài jiào yǎng	ㄍㄜˊ ㄉㄞˋ ㄐㄧㄠˋ ㄧㄤˇ	enfants élevés par leurs grands-parents	馬耀牧師：這些孩子大多是爺爺奶奶帶大的，這叫「隔代教養」。他們最需要的不是禮物，而是有人陪伴。	Pasteur Mayaw : La plupart de ces enfants sont élevés par leurs grands-parents. Ce dont ils ont le plus besoin, ce n'est pas de cadeaux, mais de quelqu'un qui soit là pour eux.	n° 184
+至於	zhì yú	ㄓˋ ㄩˊ	quant à	至於路加，他的吉他一拿出來，就被一群孩子圍住了。	Quant à Luc, à peine a-t-il sorti sa guitare qu'une bande d'enfants l'encercle.	n° 184
+甚至	shèn zhì	ㄕㄣˋ ㄓˋ	même, jusqu'à	星期一到星期三，教會辦了兒童營。三十幾個孩子一大早就跑來了，有的甚至沒有穿鞋子。	Du lundi au mercredi, l'église organise un camp d'enfants. Une trentaine d'enfants arrivent en courant dès l'aube ; certains n'ont même pas de chaussures.	n° 184
+喝酒	hē jiǔ	ㄏㄜ ㄐㄧㄡˇ	boire de l'alcool	頭目：年輕的時候，我每天喝酒。工作沒有了，家也快沒有了。	Le chef : Quand j'étais jeune, je buvais tous les jours. J'avais perdu mon travail, et j'étais en train de perdre ma famille.	n° 185
+既然	jì rán	ㄐㄧˋ ㄖㄢˊ	puisque	馬耀牧師：既然神呼召了你們，你們就不只是來一個禮拜的客人，而是被差遣的人。	Pasteur Mayaw : Puisque Dieu vous a appelés, vous n'êtes pas seulement des invités d'une semaine, mais des envoyés.	n° 186
+於是	yú shì	ㄩˊ ㄕˋ	alors, c'est ainsi que	於是，大家一起唱《差遣我》。阿美族的弟兄姊妹用族語，短宣隊用中文，兩種聲音混在一起。	Alors tout le monde chante ensemble « Envoie-moi ». Les frères et sœurs amis chantent dans leur langue, l'équipe en chinois, et les deux voix se mêlent.	n° 186
+義工	yì gōng	ㄧˋ ㄍㄨㄥ	bénévole	美玲笑著搖頭：「他們需要的是義工，負責招待和帶位。我們教會報名了十個名額。」	Meiling secoue la tête en riant : « Ce qu'il leur faut, ce sont des bénévoles pour l'accueil et le placement. Notre église a inscrit dix personnes. »	n° 187
+泉源	quán yuán	ㄑㄩㄢˊ ㄩㄢˊ	source	美玲：耶穌說過：「我所賜的水要在他裡頭成為泉源，直湧到永生。」（約翰福音四章十四節）	Meiling : Jésus a dit : « L'eau que je lui donnerai deviendra en lui une source d'eau qui jaillira jusque dans la vie éternelle. » (Jean 4.14)	n° 187
+邀請	yāo qǐng	ㄧㄠ ㄑㄧㄥˇ	inviter ; invitation	當天晚上，他傳訊息邀請大衛一起去。大衛很快就回了：	Le soir même, il envoie un message à David pour l'inviter. David répond très vite :	n° 187
+難道	nán dào	ㄋㄢˊ ㄉㄠˋ	se pourrait-il que (question rhétorique)	大衛：一萬個人一起唱歌？難道你要我這個唸哲學的人，站在中間舉手嗎？	David : Dix mille personnes qui chantent ensemble ? Tu ne voudrais quand même pas qu'un étudiant en philo comme moi se tienne au milieu, les mains levées ?	n° 187
+招待	zhāo dài	ㄓㄠ ㄉㄞˋ	accueil ; accueillir	義工的負責人是一位頭髮花白的阿姨。她已經當了二十年的招待。	La responsable des bénévoles est une dame aux cheveux grisonnants. Elle sert à l'accueil depuis vingt ans.	n° 188
+舞台	wǔ tái	ㄨˇ ㄊㄞˊ	scène	路加看著舞台，心裡居然有一點酸酸的。	En regardant la scène, Luc ressent, à sa propre surprise, une petite pointe d'amertume.	n° 188
+居然	jū rán	ㄐㄩ ㄖㄢˊ	contre toute attente	路加看著舞台，心裡居然有一點酸酸的。	En regardant la scène, Luc ressent, à sa propre surprise, une petite pointe d'amertume.	n° 188
+主權	zhǔ quán	ㄓㄨˇ ㄑㄩㄢˊ	souveraineté	主領：無論你今天帶著什麼問題來，都要記得：神有主權。世界沒有失控，祂仍然作王！	Le conducteur : Quelle que soit la question que vous apportez ce soir, souvenez-vous : Dieu est souverain. Le monde n'est pas hors de contrôle ; il règne toujours !	n° 189
+作王	zuò wáng	ㄗㄨㄛˋ ㄨㄤˊ	régner	台上的主領讀了詩篇九十三篇：「耶和華作王，他以威嚴為衣穿上。」	Le conducteur de louange lit le psaume 93 : « L'Éternel règne, il est revêtu de majesté. »	n° 189
+威嚴	wēi yán	ㄨㄟ ㄧㄢˊ	majesté	台上的主領讀了詩篇九十三篇：「耶和華作王，他以威嚴為衣穿上。」	Le conducteur de louange lit le psaume 93 : « L'Éternel règne, il est revêtu de majesté. »	n° 189
+情緒	qíng xù	ㄑㄧㄥˊ ㄒㄩˋ	émotion	大衛：我承認，剛才那個氣氛很感人。可是，難道這不只是一萬個人的情緒嗎？	David : J'avoue que l'ambiance tout à l'heure était émouvante. Mais est-ce que ce n'était pas simplement l'émotion de dix mille personnes ?	n° 190
+心靈	xīn líng	ㄒㄧㄣ ㄌㄧㄥˊ	esprit (de l'homme), âme	小恩：而且，敬拜的重點不是感覺。耶穌說：「神是個靈，所以拜他的必須用心靈和誠實拜他。」	Xiao En : Et puis, l'essentiel de l'adoration, ce n'est pas le ressenti. Jésus a dit : « Dieu est Esprit, et il faut que ceux qui l'adorent l'adorent en esprit et en vérité. »	n° 190
+羅馬書	luó mǎ shū	ㄌㄨㄛˊ ㄇㄚˇ ㄕㄨ	épître aux Romains	三月的第一個星期五，張長老的查經班開始了新的課程：八個禮拜讀完羅馬書。	Le premier vendredi de mars, le groupe d'étude biblique de l'ancien Zhang commence un nouveau cycle : huit semaines pour lire toute l'épître aux Romains.	n° 191
+書信	shū xìn	ㄕㄨ ㄒㄧㄣˋ	épître, lettre	張長老：後面是新約，有二十七卷。一開始的四卷是福音書，講耶穌的生平；後來有很多書信。	Ancien Zhang : Derrière, il y a le Nouveau Testament, vingt-sept livres. Les quatre premiers sont les Évangiles, qui racontent la vie de Jésus ; ensuite viennent beaucoup d'épîtres.	n° 191
+福音書	fú yīn shū	ㄈㄨˊ ㄧㄣ ㄕㄨ	Évangile (livre)	張長老：後面是新約，有二十七卷。一開始的四卷是福音書，講耶穌的生平；後來有很多書信。	Ancien Zhang : Derrière, il y a le Nouveau Testament, vingt-sept livres. Les quatre premiers sont les Évangiles, qui racontent la vie de Jésus ; ensuite viennent beaucoup d'épîtres.	n° 191
+舊約	jiù yuē	ㄐㄧㄡˋ ㄩㄝ	Ancien Testament	張長老：前面是舊約，有三十九卷，記載神和以色列的歷史，還有先知們傳的信息。	Ancien Zhang : Devant, il y a l'Ancien Testament, trente-neuf livres : l'histoire de Dieu et d'Israël, et les messages transmis par les prophètes.	n° 191
+新約	xīn yuē	ㄒㄧㄣ ㄩㄝ	Nouveau Testament	張長老：後面是新約，有二十七卷。一開始的四卷是福音書，講耶穌的生平；後來有很多書信。	Ancien Zhang : Derrière, il y a le Nouveau Testament, vingt-sept livres. Les quatre premiers sont les Évangiles, qui racontent la vie de Jésus ; ensuite viennent beaucoup d'épîtres.	n° 191
+先知	xiān zhī	ㄒㄧㄢ ㄓ	prophète	張長老：前面是舊約，有三十九卷，記載神和以色列的歷史，還有先知們傳的信息。	Ancien Zhang : Devant, il y a l'Ancien Testament, trente-neuf livres : l'histoire de Dieu et d'Israël, et les messages transmis par les prophètes.	n° 191
+律法	lǜ fǎ	ㄌㄩˋ ㄈㄚˇ	la Loi	張長老：今天我們談律法。舊約裡，神給以色列人很多誡命，最有名的就是十誡。	Ancien Zhang : Ce soir, nous parlons de la Loi. Dans l'Ancien Testament, Dieu a donné de nombreux commandements aux Israélites ; les plus célèbres sont les Dix Commandements.	n° 192
+誡命	jiè mìng	ㄐㄧㄝˋ ㄇㄧㄥˋ	commandement	張長老：今天我們談律法。舊約裡，神給以色列人很多誡命，最有名的就是十誡。	Ancien Zhang : Ce soir, nous parlons de la Loi. Dans l'Ancien Testament, Dieu a donné de nombreux commandements aux Israélites ; les plus célèbres sont les Dix Commandements.	n° 192
+稱義	chēng yì	ㄔㄥ ㄧˋ	justifier ; être justifié	張長老：羅馬書三章二十節說：「所以凡有血氣的，沒有一個因行律法能在神面前稱義，因為律法本是叫人知罪。」	Ancien Zhang : Romains 3.20 dit : « Car nul ne sera justifié devant lui par les œuvres de la loi, puisque c'est par la loi que vient la connaissance du péché. »	n° 192
+虧缺	kuī quē	ㄎㄨㄟ ㄑㄩㄝ	être privé de, manquer	張長老：所以保羅接著說：「因為世人都犯了罪，虧缺了神的榮耀；如今卻蒙神的恩典，因基督耶穌的救贖，就白白地稱義。」	Ancien Zhang : C'est pourquoi Paul continue : « Car tous ont péché et sont privés de la gloire de Dieu ; et ils sont gratuitement justifiés par sa grâce, par le moyen de la rédemption qui est en Jésus-Christ. »	n° 192
+中保	zhōng bǎo	ㄓㄨㄥ ㄅㄠˇ	médiateur	張長老：還有一個詞：「中保」。提摩太前書說：「在神和人中間只有一位中保，乃是降世為人的基督耶穌。」	Ancien Zhang : Encore un mot : « médiateur ». La première épître à Timothée dit : « Il y a un seul médiateur entre Dieu et les hommes, Jésus-Christ homme. »	n° 193
+法官	fǎ guān	ㄈㄚˇ ㄍㄨㄢ	juge	張長老：想像一個法庭。法官是公義的，不能假裝沒看見你的罪，一定要宣判。	Ancien Zhang : Imagine un tribunal. Le juge est juste ; il ne peut pas faire semblant de ne pas voir ta faute : il doit prononcer un verdict.	n° 193
+宣判	xuān pàn	ㄒㄩㄢ ㄆㄢˋ	prononcer un verdict	張長老：想像一個法庭。法官是公義的，不能假裝沒看見你的罪，一定要宣判。	Ancien Zhang : Imagine un tribunal. Le juge est juste ; il ne peut pas faire semblant de ne pas voir ta faute : il doit prononcer un verdict.	n° 193
+相和	xiāng hé	ㄒㄧㄤ ㄏㄜˊ	être en paix (avec)	張長老：所以羅馬書五章一節說：「我們既因信稱義，就藉著我們的主耶穌基督得與神相和。」	Ancien Zhang : C'est pourquoi Romains 5.1 dit : « Étant donc justifiés par la foi, nous avons la paix avec Dieu par notre Seigneur Jésus-Christ. »	n° 193
+盟約	méng yuē	ㄇㄥˊ ㄩㄝ	alliance (pacte)	路加：「約」就是盟約，是很認真的約定。很久以前，神跟一個叫亞伯拉罕的人立約，應許要給他的後代像星星一樣多。	Luc : Le mot « alliance », c'est un engagement très sérieux. Il y a très longtemps, Dieu a fait alliance avec un homme appelé Abraham, et lui a promis une descendance aussi nombreuse que les étoiles.	n° 194
+應許	yīng xǔ	ㄧㄥ ㄒㄩˇ	promesse ; promettre	路加：「約」就是盟約，是很認真的約定。很久以前，神跟一個叫亞伯拉罕的人立約，應許要給他的後代像星星一樣多。	Luc : Le mot « alliance », c'est un engagement très sérieux. Il y a très longtemps, Dieu a fait alliance avec un homme appelé Abraham, et lui a promis une descendance aussi nombreuse que les étoiles.	n° 194
+聖餐	shèng cān	ㄕㄥˋ ㄘㄢ	sainte cène	三月底的主日，教會有聖餐。小光坐在路加旁邊，一直盯著那個裝葡萄汁的小杯子。	Le dernier dimanche de mars, il y a la sainte cène à l'église. Assis à côté de Luc, Xiao Guang fixe la petite coupe de jus de raisin.	n° 194
+成聖	chéng shèng	ㄔㄥˊ ㄕㄥˋ	sanctification ; être sanctifié	張長老：這是一個非常好的問題。你要分清楚兩件事：稱義和成聖。	Ancien Zhang : C'est une excellente question. Il faut bien distinguer deux choses : la justification et la sanctification.	n° 195
+過程	guò chéng	ㄍㄨㄛˋ ㄔㄥˊ	processus	張長老：稱義是一次就完成的，是神在法庭上宣布你無罪。至於成聖，那是一生的過程，是聖靈慢慢把你變得像耶穌。	Ancien Zhang : La justification est accomplie une fois pour toutes : Dieu te déclare innocent au tribunal. Quant à la sanctification, c'est le travail de toute une vie : le Saint-Esprit te transforme peu à peu pour te rendre semblable à Jésus.	n° 195
+煉淨	liàn jìng	ㄌㄧㄢˋ ㄐㄧㄥˋ	purifier (au feu)	那天他們唱《煉淨我》，求神像煉金子一樣，煉淨他們的心。	Ce soir-là, ils chantent « Purifie-moi », demandant à Dieu de purifier leur cœur comme on purifie l'or.	n° 195
+成全	chéng quán	ㄔㄥˊ ㄑㄩㄢˊ	accomplir, achever	「我深信那在你們心裡動了善工的，必成全這工，直到耶穌基督的日子。」	« Je suis persuadé que celui qui a commencé en vous cette bonne œuvre la rendra parfaite pour le jour de Jésus-Christ. »	n° 195
+獻祭	xiàn jì	ㄒㄧㄢˋ ㄐㄧˋ	offrir un sacrifice	張長老：舊約時代，以色列人犯了罪，要帶牛或羊到聖殿。祭司在祭壇上獻祭，求神赦免。	Ancien Zhang : À l'époque de l'Ancien Testament, quand les Israélites péchaient, ils devaient amener un bœuf ou un mouton au temple. Le prêtre offrait le sacrifice sur l'autel pour demander le pardon de Dieu.	n° 196
+祭壇	jì tán	ㄐㄧˋ ㄊㄢˊ	autel	張長老：舊約時代，以色列人犯了罪，要帶牛或羊到聖殿。祭司在祭壇上獻祭，求神赦免。	Ancien Zhang : À l'époque de l'Ancien Testament, quand les Israélites péchaient, ils devaient amener un bœuf ou un mouton au temple. Le prêtre offrait le sacrifice sur l'autel pour demander le pardon de Dieu.	n° 196
+馨香	xīn xiāng	ㄒㄧㄣ ㄒㄧㄤ	odeur agréable, parfum	張長老：哈哈，可是聖經說，順服的獻祭在神面前是「馨香」的，就是讓神喜悅的香氣。	Ancien Zhang : Ha ha ! Mais la Bible dit que le sacrifice offert avec obéissance est « d'agréable odeur » devant Dieu : un parfum qui lui plaît.	n° 196
+祭司	jì sī	ㄐㄧˋ ㄙ	prêtre	張長老：舊約時代，以色列人犯了罪，要帶牛或羊到聖殿。祭司在祭壇上獻祭，求神赦免。	Ancien Zhang : À l'époque de l'Ancien Testament, quand les Israélites péchaient, ils devaient amener un bœuf ou un mouton au temple. Le prêtre offrait le sacrifice sur l'autel pour demander le pardon de Dieu.	n° 196
+活祭	huó jì	ㄏㄨㄛˊ ㄐㄧˋ	sacrifice vivant	路加慢慢地唸：「所以弟兄們，我以神的慈悲勸你們，將身體獻上，當作活祭，是聖潔的，是神所喜悅的；你們如此事奉乃是理所當然的。」	Luc lit lentement : « Je vous exhorte donc, frères, par les compassions de Dieu, à offrir vos corps comme un sacrifice vivant, saint, agréable à Dieu, ce qui sera de votre part un culte raisonnable. »	n° 196
+以及	yǐ jí	ㄧˇ ㄐㄧˊ	ainsi que	張長老：舊約的祭物是死的，我們是「活祭」。不是一次死在祭壇上，而是每天把自己交給神：時間、金錢、才幹，以及我們的心。	Ancien Zhang : Les sacrifices de l'Ancien Testament étaient morts ; nous, nous sommes un « sacrifice vivant ». Il ne s'agit pas de mourir une fois sur l'autel, mais de se donner chaque jour à Dieu : notre temps, notre argent, nos talents, ainsi que notre cœur.	n° 196
+君尊	jūn zūn	ㄐㄩㄣ ㄗㄨㄣ	royal	張長老笑著繼續：「還有更驚人的。彼得前書說：『惟有你們是被揀選的族類，是有君尊的祭司。』」	L'ancien Zhang continue en riant : « Il y a encore plus étonnant. La première épître de Pierre dit : « Vous, au contraire, vous êtes une race élue, un sacerdoce royal. » »	n° 197
+聖殿	shèng diàn	ㄕㄥˋ ㄉㄧㄢˋ	temple	張長老：上次我們說到聖殿和祭司。舊約時代，只有祭司能進聖殿，一般人不能隨便靠近神。	Ancien Zhang : La dernière fois, nous avons parlé du temple et des prêtres. À l'époque de l'Ancien Testament, seuls les prêtres pouvaient entrer dans le temple ; les gens ordinaires ne pouvaient pas s'approcher de Dieu comme ils voulaient.	n° 197
+道成肉身	dào chéng ròu shēn	ㄉㄠˋ ㄔㄥˊ ㄖㄡˋ ㄕㄣ	la Parole faite chair, l'Incarnation	張長老：可是約翰福音說：「道成了肉身，住在我們中間。」這就是「道成肉身」：神自己成為人，來到我們當中。	Ancien Zhang : Mais l'Évangile de Jean dit : « La parole a été faite chair, et elle a habité parmi nous. » C'est l'Incarnation : Dieu lui-même s'est fait homme et est venu au milieu de nous.	n° 197
+宣揚	xuān yáng	ㄒㄩㄢ ㄧㄤˊ	proclamer	張長老：對。祭司有兩個工作：代表人到神面前禱告，以及代表神向人宣揚祂的美德。	Ancien Zhang : Oui. Le prêtre a deux tâches : représenter les hommes devant Dieu dans la prière, ainsi que représenter Dieu auprès des hommes en proclamant ses vertus.	n° 197
+誘惑	yòu huò	ㄧㄡˋ ㄏㄨㄛˋ	tentation, séduction	他傳訊息給小恩：「我遇到一個很大的誘惑。」小恩馬上打電話來。	Il envoie un message à Xiao En : « Je suis face à une grosse tentation. » Xiao En l'appelle aussitôt.	n° 198
+期中考	qī zhōng kǎo	ㄑㄧ ㄓㄨㄥ ㄎㄠˇ	examen de mi-semestre	四月中，期中考快到了。路加的壓力很大：如果中文語法考不過，他下學期的獎學金就沒有了。	Mi-avril, les partiels approchent. Luc est sous pression : s'il rate son examen de grammaire chinoise, il perdra sa bourse pour le semestre suivant.	n° 198
+獎學金	jiǎng xué jīn	ㄐㄧㄤˇ ㄒㄩㄝˊ ㄐㄧㄣ	bourse d'études	四月中，期中考快到了。路加的壓力很大：如果中文語法考不過，他下學期的獎學金就沒有了。	Mi-avril, les partiels approchent. Luc est sous pression : s'il rate son examen de grammaire chinoise, il perdra sa bourse pour le semestre suivant.	n° 198
+曠野	kuàng yě	ㄎㄨㄤˋ ㄧㄝˇ	désert	小恩：你記得耶穌在曠野受試探嗎？祂四十天沒有吃東西，魔鬼叫祂把石頭變成麵包。	Xiao En : Tu te souviens de Jésus tenté au désert ? Il n'avait rien mangé depuis quarante jours, et le diable lui a dit de changer les pierres en pain.	n° 198
+屬靈爭戰	shǔ líng zhēng zhàn	ㄕㄨˇ ㄌㄧㄥˊ ㄓㄥ ㄓㄢˋ	combat spirituel	阿傑：這就是屬靈爭戰。你的敵人不是凱文，也不是考試，而是那個想讓你離開神的力量。	A-Jie : C'est ça, le combat spirituel. Ton ennemi, ce n'est pas Kevin, ni l'examen : c'est la force qui veut t'éloigner de Dieu.	n° 199
+撒但	sā dàn	ㄙㄚ ㄉㄢˋ	Satan	路加：仇敵？你是說撒但？我以為那只是電影裡長角的怪物。	Luc : L'ennemi ? Tu veux dire Satan ? Je croyais que ce n'était qu'un monstre à cornes dans les films.	n° 199
+仇敵	chóu dí	ㄔㄡˊ ㄉㄧˊ	ennemi	阿傑：我太懂了。以前我也常常跟自己說：「只一次，沒關係。」那不是你自己的聲音，是仇敵的謊言。	A-Jie : Je comprends trop bien. Avant, moi aussi je me disais souvent : « Juste une fois, ce n'est pas grave. » Ce n'est pas ta propre voix : c'est le mensonge de l'ennemi.	n° 199
+謊言	huǎng yán	ㄏㄨㄤˇ ㄧㄢˊ	mensonge	阿傑：我太懂了。以前我也常常跟自己說：「只一次，沒關係。」那不是你自己的聲音，是仇敵的謊言。	A-Jie : Je comprends trop bien. Avant, moi aussi je me disais souvent : « Juste une fois, ce n'est pas grave. » Ce n'est pas ta propre voix : c'est le mensonge de l'ennemi.	n° 199
+抵擋	dǐ dǎng	ㄉㄧˇ ㄉㄤˇ	résister	阿傑：雅各書說：「你們要順服神。務要抵擋魔鬼，魔鬼就必離開你們逃跑了。」先順服，再抵擋。順序很重要。	A-Jie : L'épître de Jacques dit : « Soumettez-vous donc à Dieu ; résistez au diable, et il fuira loin de vous. » D'abord se soumettre, ensuite résister. L'ordre est important.	n° 199
+魔鬼	mó guǐ	ㄇㄛˊ ㄍㄨㄟˇ	diable	阿傑：雅各書說：「你們要順服神。務要抵擋魔鬼，魔鬼就必離開你們逃跑了。」先順服，再抵擋。順序很重要。	A-Jie : L'épître de Jacques dit : « Soumettez-vous donc à Dieu ; résistez au diable, et il fuira loin de vous. » D'abord se soumettre, ensuite résister. L'ordre est important.	n° 199
+恩典夠用	ēn diǎn gòu yòng	ㄣ ㄉㄧㄢˇ ㄍㄡˋ ㄩㄥˋ	la grâce suffit	陳奶奶：你看，神沒有說「你要更努力」，而是說「恩典夠用」。即使你跌倒了，祂的恩典也還在那裡。	Mamie Chen : Tu vois, Dieu n'a pas dit « fais plus d'efforts », il a dit « ma grâce suffit ». Même si tu tombes, sa grâce est toujours là.	n° 200
+能力	néng lì	ㄋㄥˊ ㄌㄧˋ	puissance	「我的恩典夠你用的，因為我的能力是在人的軟弱上顯得完全。」（哥林多後書十二章九節）	« Ma grâce te suffit, car ma puissance s'accomplit dans la faiblesse. » (2 Corinthiens 12.9)	n° 200
+降服	xiáng fú	ㄒㄧㄤˊ ㄈㄨˊ	se rendre, se soumettre (à Dieu)	路加：我降服。考試的結果、我的未來，都在祢的主權之下。無論考得怎麼樣，我都要誠實。	Luc : Je me rends. Le résultat de l'examen, mon avenir, tout est sous ta souveraineté. Quelle que soit ma note, je veux être honnête.	n° 201
+刪除	shān chú	ㄕㄢ ㄔㄨˊ	supprimer, effacer	他坐回電腦前，按下了刪除鍵，然後連資源回收筒也清空了。	Il se rassoit devant l'ordinateur, appuie sur la touche « Supprimer », puis vide même la corbeille.	n° 201
+得勝	dé shèng	ㄉㄜˊ ㄕㄥˋ	remporter la victoire ; victoire	路加：這不是我的得勝。如果沒有小恩的電話、阿傑的泡麵，以及陳奶奶的收音機，我早就打開那個檔案了。	Luc : Cette victoire n'est pas la mienne. Sans le coup de fil de Xiao En, les nouilles d'A-Jie, ainsi que la radio de Mamie Chen, j'aurais ouvert ce fichier depuis longtemps.	n° 202
+出路	chū lù	ㄔㄨ ㄌㄨˋ	issue, porte de sortie	「你們所遇見的試探，無非是人所能受的。神是信實的，必不叫你們受試探過於所能受的；在受試探的時候，總要給你們開一條出路，叫你們能忍受得住。」	« Aucune tentation ne vous est survenue qui n'ait été humaine, et Dieu, qui est fidèle, ne permettra pas que vous soyez tentés au delà de vos forces ; mais avec la tentation il préparera aussi le moyen d'en sortir, afin que vous puissiez la supporter. »	n° 202
+忍受	rěn shòu	ㄖㄣˇ ㄕㄡˋ	supporter, endurer	「你們所遇見的試探，無非是人所能受的。神是信實的，必不叫你們受試探過於所能受的；在受試探的時候，總要給你們開一條出路，叫你們能忍受得住。」	« Aucune tentation ne vous est survenue qui n'ait été humaine, et Dieu, qui est fidèle, ne permettra pas que vous soyez tentés au delà de vos forces ; mais avec la tentation il préparera aussi le moyen d'en sortir, afin que vous puissiez la supporter. »	n° 202
+羔羊	gāo yáng	ㄍㄠ ㄧㄤˊ	agneau	小光舉手：「路加哥哥，為什麼大家都叫耶穌『神的羔羊』？祂明明是人，又不是羊。」	Xiao Guang lève la main : « Grand frère Luc, pourquoi tout le monde appelle Jésus « l'Agneau de Dieu » ? C'est un homme, pas un mouton ! »	n° 203
+逾越節	yú yuè jié	ㄩˊ ㄩㄝˋ ㄐㄧㄝˊ	la Pâque (juive)	路加：審判來的時候，看到門上有血，就越過那一家。所以這個節日叫「逾越節」。	Luc : Quand le jugement est passé, en voyant le sang sur la porte, il a « passé par-dessus » cette maison. C'est pour ça que cette fête s'appelle la Pâque, le « passage ».	n° 203
+受難週	shòu nàn zhōu	ㄕㄡˋ ㄋㄢˋ ㄓㄡ	Semaine sainte	路加是這個月的助教。上課時，他告訴孩子們：「從今天開始，就是受難週。」	Luc est assistant ce mois-ci. Pendant le cours, il explique aux enfants : « À partir d'aujourd'hui, c'est la Semaine sainte. »	n° 203
+除去	chú qù	ㄔㄨˊ ㄑㄩˋ	ôter, enlever	路加在白板上寫下約翰福音一章二十九節：「看哪，神的羔羊，除去世人罪孽的！」	Luc écrit au tableau Jean 1.29 : « Voici l'Agneau de Dieu, qui ôte le péché du monde. »	n° 203
+棕樹枝	zōng shù zhī	ㄗㄨㄥ ㄕㄨˋ ㄓ	branche de palmier	復活節前一個主日，主日學的孩子們拿著紙做的棕樹枝，在教會走廊上跑來跑去，喊著「和散那！」	Le dimanche avant Pâques, les enfants de l'école du dimanche courent dans les couloirs de l'église avec des palmes en papier en criant « Hosanna ! »	n° 203
+宇宙	yǔ zhòu	ㄩˇ ㄓㄡˋ	univers	路加：比如宇宙。科學家說，宇宙有一個開始。既然它有開始，就應該有一個原因吧？	Luc : Par exemple l'univers. Les scientifiques disent qu'il a eu un commencement. Puisqu'il a commencé, il doit bien y avoir une cause, non ?	n° 206
+創造主	chuàng zào zhǔ	ㄔㄨㄤˋ ㄗㄠˋ ㄓㄨˇ	Créateur	路加：我不能像做數學題一樣證明祂。不過，我覺得有很多證據指向一位創造主。	Luc : Je ne peux pas Le démontrer comme un exercice de maths. Mais je trouve que beaucoup d'indices pointent vers un Créateur.	n° 206
+設計	shè jì	ㄕㄜˋ ㄐㄧˋ	concevoir ; conception	路加：你看大自然多麼精彩：花、鳥、人的眼睛和大腦。這麼複雜的設計，難道都是偶然出現的嗎？	Luc : Regarde comme la nature est extraordinaire : les fleurs, les oiseaux, l'œil et le cerveau humains. Une conception aussi complexe, ce serait vraiment le fruit du hasard ?	n° 206
+證據	zhèng jù	ㄓㄥˋ ㄐㄩˋ	preuve, indice	路加：我不能像做數學題一樣證明祂。不過，我覺得有很多證據指向一位創造主。	Luc : Je ne peux pas Le démontrer comme un exercice de maths. Mais je trouve que beaucoup d'indices pointent vers un Créateur.	n° 206
+理性	lǐ xìng	ㄌㄧˇ ㄒㄧㄥˋ	raison	大衛：你說得有道理，可是我還是懷疑。我是讀哲學的，我只相信理性。	David : Ce que tu dis se tient, mais j'ai encore des doutes. J'étudie la philosophie : je ne crois qu'en la raison.	n° 206
+懷疑	huái yí	ㄏㄨㄞˊ ㄧˊ	douter ; doute	大衛：你說得有道理，可是我還是懷疑。我是讀哲學的，我只相信理性。	David : Ce que tu dis se tient, mais j'ai encore des doutes. J'étudie la philosophie : je ne crois qu'en la raison.	n° 206
+公義	gōng yì	ㄍㄨㄥ ㄧˋ	juste ; justice	王牧師：我不能完全明白。但是我知道兩件事。第一，神是公義的，世界上的惡，祂不會永遠不管。總有一天，祂要審判一切的不義。	Pasteur Wang : Je ne comprends pas tout. Mais je sais deux choses. D'abord, Dieu est juste : le mal qui est dans le monde, Il ne le laissera pas faire pour toujours. Un jour, Il jugera toute injustice.	n° 207
+審判	shěn pàn	ㄕㄣˇ ㄆㄢˋ	juger ; jugement	王牧師：我不能完全明白。但是我知道兩件事。第一，神是公義的，世界上的惡，祂不會永遠不管。總有一天，祂要審判一切的不義。	Pasteur Wang : Je ne comprends pas tout. Mais je sais deux choses. D'abord, Dieu est juste : le mal qui est dans le monde, Il ne le laissera pas faire pour toujours. Un jour, Il jugera toute injustice.	n° 207
+約伯記	yuē bó jì	ㄩㄝ ㄅㄛˊ ㄐㄧˋ	le livre de Job	王牧師：我不想給你一個簡單的答案。即使是聖經裡的人，也常常這樣問神。約伯記和詩篇裡，有很多這樣的哭喊。	Pasteur Wang : Je ne veux pas te donner une réponse facile. Même les gens de la Bible posaient souvent cette question à Dieu. Le livre de Job et les Psaumes sont pleins de cris comme celui-là.	n° 207
+歷史	lì shǐ	ㄌㄧˋ ㄕˇ	histoire	張長老：當然，歷史的證據不能強迫人相信。但是它告訴我們，信仰不是盲目的。	Ancien Zhang : Bien sûr, les preuves historiques ne peuvent forcer personne à croire. Mais elles nous montrent que la foi n'est pas aveugle.	n° 208
+見證人	jiàn zhèng rén	ㄐㄧㄢˋ ㄓㄥˋ ㄖㄣˊ	témoin	張長老：這是很好的問題，我們要看證據。一方面，我們要問：今天的聖經和古代的抄本一樣嗎？另一方面，我們要問：寫的人是不是真的見證人？	Ancien Zhang : C'est une très bonne question ; regardons les preuves. D'un côté, il faut se demander si la Bible d'aujourd'hui est identique aux manuscrits anciens. De l'autre, si ceux qui l'ont écrite étaient de vrais témoins.	n° 208
+抄本	chāo běn	ㄔㄠ ㄅㄣˇ	manuscrit (copie ancienne)	張長老：這是很好的問題，我們要看證據。一方面，我們要問：今天的聖經和古代的抄本一樣嗎？另一方面，我們要問：寫的人是不是真的見證人？	Ancien Zhang : C'est une très bonne question ; regardons les preuves. D'un côté, il faut se demander si la Bible d'aujourd'hui est identique aux manuscrits anciens. De l'autre, si ceux qui l'ont écrite étaient de vrais témoins.	n° 208
+空墳墓	kōng fén mù	ㄎㄨㄥ ㄈㄣˊ ㄇㄨˋ	tombeau vide	小恩：可是你要怎麼解釋空墳墓呢？耶穌被埋葬以後，第三天墳墓空了。連反對祂的人也沒有說墳墓不是空的。	Xiao En : Mais comment expliques-tu le tombeau vide ? Après l'ensevelissement de Jésus, le troisième jour, le tombeau était vide. Même ses adversaires n'ont pas prétendu le contraire.	n° 209
+殉道	xùn dào	ㄒㄩㄣˋ ㄉㄠˋ	mourir en martyr	路加：可是你想想，耶穌死的時候，門徒都害怕得躲起來了。後來他們卻勇敢地到處傳講耶穌復活，甚至為這件事殉道。	Luc : Mais réfléchis : quand Jésus est mort, les disciples avaient si peur qu'ils se cachaient. Plus tard pourtant, ils ont proclamé partout avec courage que Jésus était ressuscité, au point de mourir en martyrs pour cela.	n° 209
+幻覺	huàn jué	ㄏㄨㄢˋ ㄐㄩㄝˊ	hallucination	大衛：那會不會是他們太想念耶穌，所以看到了幻覺？	David : Et si Jésus leur manquait tellement qu'ils ont eu des hallucinations ?	n° 209
+與其	yǔ qí	ㄩˇ ㄑㄧˊ	plutôt que (與其…不如)	大衛笑了：「與其說我相信了，不如說我被你們問倒了。我需要時間想一想。」	David rit : « Ce n'est pas tant que je sois convaincu ; disons plutôt que vous m'avez laissé sans réponse. J'ai besoin de temps pour réfléchir. »	n° 209
+科學	kē xué	ㄎㄜ ㄒㄩㄝˊ	science	路加：小光，科學告訴我們宇宙「怎麼」變成今天的樣子；聖經告訴我們是「誰」創造了宇宙，以及「為什麼」創造。兩個不一定互相反對。	Luc : Xiao Guang, la science nous dit « comment » l'univers est devenu ce qu'il est ; la Bible nous dit « qui » l'a créé, et « pourquoi ». Les deux ne s'opposent pas forcément.	n° 210
+智慧	zhì huì	ㄓˋ ㄏㄨㄟˋ	sagesse	路加：其實，很多偉大的科學家都是基督徒，像克卜勒和法拉第。他們相信，既然宇宙是有智慧的創造主設計的，就一定有規律可以研究。	Luc : En fait, beaucoup de grands scientifiques étaient chrétiens, comme Kepler et Faraday. Ils croyaient que, puisque l'univers avait été conçu par un Créateur plein de sagesse, il devait avoir des lois qu'on pouvait étudier.	n° 210
+天文館	tiān wén guǎn	ㄊㄧㄢ ㄨㄣˊ ㄍㄨㄢˇ	planétarium	七月的一個星期六，美玲請路加帶小光去天文館。大衛聽說了，也想一起去。	Un samedi de juillet, Meiling demanda à Luc d'emmener Xiao Guang au planétarium. Quand David l'apprit, il voulut venir aussi.	n° 210
+果子	guǒ zi	ㄍㄨㄛˇ ˙ㄗ	fruit (聖靈的果子 : le fruit de l'Esprit)	七月初，星期三的小組開始了一個新的系列：「聖靈的果子」。	Début juillet, le groupe de maison du mercredi commença une nouvelle série : « Le fruit de l'Esprit ».	n° 211
+仁愛	rén ài	ㄖㄣˊ ㄞˋ	amour, charité	「聖靈所結的果子，就是仁愛、喜樂、和平、忍耐、恩慈、良善、信實、溫柔、節制。這樣的事，沒有律法禁止。」	« Mais le fruit de l'Esprit, c'est l'amour, la joie, la paix, la patience, la bonté, la bénignité, la fidélité, la douceur, la tempérance ; la loi n'est pas contre ces choses. »	n° 211
+三位一體	sān wèi yī tǐ	ㄙㄢ ㄨㄟˋ ㄧ ㄊㄧˇ	Trinité	王牧師：問得好！我們相信三位一體：只有一位神，可是有聖父、聖子、聖靈三個位格。	Pasteur Wang : Bonne question ! Nous croyons en la Trinité : il n'y a qu'un seul Dieu, en trois personnes, le Père, le Fils et le Saint-Esprit.	n° 211
+位格	wèi gé	ㄨㄟˋ ㄍㄜˊ	personne (de la Trinité)	王牧師：問得好！我們相信三位一體：只有一位神，可是有聖父、聖子、聖靈三個位格。	Pasteur Wang : Bonne question ! Nous croyons en la Trinité : il n'y a qu'un seul Dieu, en trois personnes, le Père, le Fils et le Saint-Esprit.	n° 211
+加拉太書	jiā lā tài shū	ㄐㄧㄚ ㄌㄚ ㄊㄞˋ ㄕㄨ	épître aux Galates	王牧師請大家打開加拉太書五章二十二到二十三節，一起念出來：	Le pasteur Wang demanda à tous d'ouvrir Galates 5.22-23 et de lire ensemble à voix haute :	n° 211
+反而	fǎn ér	ㄈㄢˇ ㄦˊ	au contraire	第二天晚上，阿明又在打電動。路加沒有生氣，反而買了兩碗牛肉麵：「阿明，一起吃吧！」	Le lendemain soir, A-Ming jouait encore. Luc ne se fâcha pas ; au contraire, il acheta deux bols de nouilles au bœuf : « A-Ming, viens manger avec moi ! »	n° 211
+和平	hé píng	ㄏㄜˊ ㄆㄧㄥˊ	paix (entre les personnes)	路加想起星期三學的經文：和平也是聖靈的果子。他深吸一口氣，站了起來。	Luc se rappela le passage étudié mercredi : la paix aussi fait partie du fruit de l'Esprit. Il prit une grande inspiration et se leva.	n° 212
+環境	huán jìng	ㄏㄨㄢˊ ㄐㄧㄥˋ	circonstances, environnement	美玲：快樂常常看環境，冷氣好了就快樂。喜樂是從神來的，無論環境怎麼樣，我們心裡都可以有喜樂。就像尼希米記說的：「因靠耶和華而得的喜樂是你們的力量。」	Meiling : Le bonheur dépend souvent des circonstances : la clim remarche, on est content. La joie vient de Dieu : quelles que soient les circonstances, notre cœur peut rester dans la joie. Comme le dit Néhémie : « La joie de l'Éternel sera votre force. »	n° 212
+耐心	nài xīn	ㄋㄞˋ ㄒㄧㄣ	patience	陳奶奶：哪裡！神對我們更有耐心。我們跌倒了多少次，祂都沒有放棄我們。	Mamie Chen : Allons donc ! Dieu est bien plus patient avec nous. Combien de fois sommes-nous tombés ? Il ne nous a jamais abandonnés.	n° 213
+恆久	héng jiǔ	ㄏㄥˊ ㄐㄧㄡˇ	constant, durable	小恩拿出手機，給路加看哥林多前書十三章四節：「愛是恆久忍耐，又有恩慈……」	Xiao En sortit son téléphone et montra à Luc 1 Corinthiens 13.4 : « La charité est patiente, elle est pleine de bonté… »	n° 213
+回收	huí shōu	ㄏㄨㄟˊ ㄕㄡ	recyclage	做好以後，陳奶奶把最好的三張餅包起來。一張給樓下的警衛，兩張給每天在巷子裡做回收的阿伯。	Quand tout fut prêt, Mamie Chen emballa les trois meilleures galettes : une pour le gardien de l'immeuble, deux pour le vieil homme qui ramassait chaque jour le recyclage dans la ruelle.	n° 213
+良善	liáng shàn	ㄌㄧㄤˊ ㄕㄢˋ	bonté, droiture	路加：因為那不是我們的錢啊。即使沒有人看見，神也看見。良善就是在沒有人看的地方，也做對的事。	Luc : Parce que ce n'est pas notre argent. Même si personne ne voit, Dieu, Lui, voit. La bonté, c'est faire ce qui est juste même là où personne ne regarde.	n° 214
+落空	luò kōng	ㄌㄨㄛˋ ㄎㄨㄥ	tomber à l'eau, rester sans effet	路加：其實，真正信實的是神。我們常常忘記自己說過的話，可是祂的應許從來不會落空。所以我們唱《信實的神》。	Luc : En réalité, Celui qui est vraiment fidèle, c'est Dieu. Nous oublions souvent ce que nous avons dit, mais Ses promesses ne restent jamais sans effet. C'est pour ça qu'on chante 《Le Dieu fidèle》.	n° 214
+溫柔	wēn róu	ㄨㄣ ㄖㄡˊ	doux ; douceur	王師母：聖靈的果子裡有一個叫「溫柔」。溫柔不是軟弱，而是有力量，卻不用力量傷人。耶穌說：「我心裡柔和謙卑。」祂是全能的神，卻對人那麼溫柔。	Mme Wang : Dans le fruit de l'Esprit, il y a la « douceur ». La douceur n'est pas de la faiblesse : c'est avoir de la force sans s'en servir pour blesser. Jésus a dit : « Je suis doux et humble de cœur. » Il est le Dieu tout-puissant, et pourtant Il est si doux avec les gens.	n° 215
+彼得前書	bǐ dé qián shū	ㄅㄧˇ ㄉㄜˊ ㄑㄧㄢˊ ㄕㄨ	1re épître de Pierre	王師母：你可以堅定地相信，也可以溫柔地說話。彼得前書說，有人問我們心中盼望的緣由，要「以溫柔、敬畏的心回答各人」。	Mme Wang : Tu peux croire avec fermeté et parler avec douceur. La première épître de Pierre dit que, si quelqu'un nous demande raison de l'espérance qui est en nous, il faut répondre « avec douceur et respect ».	n° 215
+節制	jié zhì	ㄐㄧㄝˊ ㄓˋ	maîtrise de soi, tempérance	阿傑第一個舉手：「節制！我以前一天喝三杯珍珠奶茶，甚至半夜也去買。上個月醫生說我的血糖太高了。」	A-Jie leva la main le premier : « La maîtrise de soi ! Avant, je buvais trois thés aux perles par jour, j'allais même en acheter en pleine nuit. Le mois dernier, le médecin m'a dit que j'avais trop de sucre dans le sang. »	n° 216
+枝子	zhī zi	ㄓ ˙ㄗ	sarment, branche	王牧師：大家的分享都很誠實。一方面，我們要努力，要做出選擇；另一方面，果子不是靠自己硬擠出來的。枝子不會說：「我要用力結果子！」它只要好好地連在葡萄樹上。	Pasteur Wang : Vous avez tous été très honnêtes. D'un côté, nous devons faire des efforts et des choix ; de l'autre, le fruit ne s'obtient pas en forçant. Le sarment ne dit pas : « Je vais porter du fruit à la force des bras ! » Il lui suffit de rester bien attaché au cep.	n° 216
+葡萄樹	pú táo shù	ㄆㄨˊ ㄊㄠˊ ㄕㄨˋ	vigne, cep	王牧師：大家的分享都很誠實。一方面，我們要努力，要做出選擇；另一方面，果子不是靠自己硬擠出來的。枝子不會說：「我要用力結果子！」它只要好好地連在葡萄樹上。	Pasteur Wang : Vous avez tous été très honnêtes. D'un côté, nous devons faire des efforts et des choix ; de l'autre, le fruit ne s'obtient pas en forçant. Le sarment ne dit pas : « Je vais porter du fruit à la force des bras ! » Il lui suffit de rester bien attaché au cep.	n° 216
+一方面	yī fāng miàn	ㄧ ㄈㄤ ㄇㄧㄢˋ	d'un côté (一方面…另一方面)	王牧師：大家的分享都很誠實。一方面，我們要努力，要做出選擇；另一方面，果子不是靠自己硬擠出來的。枝子不會說：「我要用力結果子！」它只要好好地連在葡萄樹上。	Pasteur Wang : Vous avez tous été très honnêtes. D'un côté, nous devons faire des efforts et des choix ; de l'autre, le fruit ne s'obtient pas en forçant. Le sarment ne dit pas : « Je vais porter du fruit à la force des bras ! » Il lui suffit de rester bien attaché au cep.	n° 216
+天家	tiān jiā	ㄊㄧㄢ ㄐㄧㄚ	la maison céleste (demeure des croyants auprès de Dieu)	她慢慢地說，好像在講一件很平常的事：「這個身體就像一頂舊帳棚，總有一天要拆下來。可是我知道，天家有一個地方在等我。」	Elle parle lentement, comme d'une chose tout ordinaire : « Ce corps est comme une vieille tente ; un jour, il faudra la démonter. Mais je sais qu'une place m'attend dans la maison du Père. »	n° 231
+寄居	jì jū	ㄐㄧˋ ㄐㄩ	séjourner en étranger	陳奶奶：傻孩子，奶奶也是客人啊。聖經說，我們在世上都是客旅，是寄居的。	Mamie Chen : Petit nigaud, Mamie aussi est une invitée. La Bible dit que sur la terre, nous sommes tous des voyageurs et des étrangers.	n° 231
+客旅	kè lǚ	ㄎㄜˋ ㄌㄩˇ	voyageur, pèlerin	陳奶奶：傻孩子，奶奶也是客人啊。聖經說，我們在世上都是客旅，是寄居的。	Mamie Chen : Petit nigaud, Mamie aussi est une invitée. La Bible dit que sur la terre, nous sommes tous des voyageurs et des étrangers.	n° 231
+安寧病房	ān níng bìng fáng	ㄢ ㄋㄧㄥˊ ㄅㄧㄥˋ ㄈㄤˊ	unité de soins palliatifs	十月的一個下午，路加和小恩到醫院的安寧病房探望陳奶奶。	Un après-midi d'octobre, Luc et Xiao En vont voir Mamie Chen à l'unité de soins palliatifs de l'hôpital.	n° 231
+一心一意	yī xīn yī yì	ㄧ ㄒㄧㄣ ㄧ ㄧˋ	de tout son cœur, sans partage	陳奶奶：路加，奶奶每天都為你禱告。你要一心一意跟隨主，好好照顧小恩，也照顧教會的孩子們。	Mamie Chen : Luc, Mamie prie pour toi chaque jour. Suis le Seigneur de tout ton cœur, prends bien soin de Xiao En, et aussi des enfants de l'église.	n° 231
+安息主懷	ān xí zhǔ huái	ㄢ ㄒㄧˊ ㄓㄨˇ ㄏㄨㄞˊ	s'endormir dans le Seigneur (décès d'un croyant)	小恩：路加，奶奶……凌晨四點安息主懷了。	Xiao En : Luc, Mamie… s'est endormie dans le Seigneur à quatre heures du matin.	n° 232
+生死	shēng sǐ	ㄕㄥ ㄙˇ	la vie et la mort	王牧師：在我們眼中，死亡是失去；在神眼中，這是祂的孩子回家。生死都在祂手中。	Pasteur Wang : À nos yeux, la mort est une perte ; aux yeux de Dieu, c'est son enfant qui rentre à la maison. La vie et la mort sont entre ses mains.	n° 232
+百感交集	bǎi gǎn jiāo jí	ㄅㄞˇ ㄍㄢˇ ㄐㄧㄠ ㄐㄧˊ	éprouver mille émotions mêlées	唱到一半，小恩的聲音哽咽了。路加心裡百感交集：有不捨，有感恩，也有一種說不出的平安。	Au milieu du chant, la voix de Xiao En se brise. Luc éprouve mille émotions mêlées : le déchirement, la gratitude, et une paix indicible.	n° 232
+哽咽	gěng yè	ㄍㄥˇ ㄧㄝˋ	avoir la gorge nouée	唱到一半，小恩的聲音哽咽了。路加心裡百感交集：有不捨，有感恩，也有一種說不出的平安。	Au milieu du chant, la voix de Xiao En se brise. Luc éprouve mille émotions mêlées : le déchirement, la gratitude, et une paix indicible.	n° 232
+哀慟	āi tòng	ㄞ ㄊㄨㄥˋ	être dans l'affliction, pleurer un mort	路加：耶穌明明知道祂馬上要叫拉撒路復活，卻還是在墳墓前哭了。可見哀慟並不等於沒有信心。	Luc : Jésus savait parfaitement qu'il allait ressusciter Lazare, et pourtant il a pleuré devant le tombeau. Pleurer un mort n'est donc pas manquer de foi.	n° 233
+保惠師	bǎo huì shī	ㄅㄠˇ ㄏㄨㄟˋ ㄕ	le Consolateur (le Saint-Esprit)	路加：其實我也不知道該說什麼。不過耶穌說過，祂要求父賜給我們另一位保惠師，永遠與我們同在。	Luc : À vrai dire, moi non plus je ne sais pas quoi dire. Mais Jésus a dit qu'il prierait le Père de nous donner un autre Consolateur, qui demeurerait éternellement avec nous.	n° 233
+堅強	jiān qiáng	ㄐㄧㄢ ㄑㄧㄤˊ	fort, solide	小恩：謝謝你沒有叫我「要堅強」。這幾天好多人這樣說，我反而覺得更累。	Xiao En : Merci de ne pas m'avoir dit « sois forte ». Ces jours-ci, beaucoup de gens me l'ont dit, et ça me fatigue encore plus.	n° 233
+心平氣和	xīn píng qì hé	ㄒㄧㄣ ㄆㄧㄥˊ ㄑㄧˋ ㄏㄜˊ	calme et apaisé	她的聲音還是有點抖，神情卻比剛才心平氣和多了。原來，耶和華真的靠近傷心的人。	Sa voix tremble encore un peu, mais son visage est bien plus apaisé qu'avant. L'Éternel est vraiment près de ceux qui ont le cœur brisé.	n° 233
+追思禮拜	zhuī sī lǐ bài	ㄓㄨㄟ ㄙ ㄌㄧˇ ㄅㄞˋ	culte d'action de grâce (funérailles chrétiennes)	十一月初，恩典教會為陳奶奶舉行追思禮拜。禮堂前面沒有黑白的布置，而是擺滿了奶奶最愛的白色百合。	Début novembre, l'église de la Grâce célèbre un culte d'action de grâce pour Mamie Chen. Devant l'estrade, pas de décor noir et blanc, mais une profusion des lys blancs que Mamie aimait tant.	n° 234
+救贖主	jiù shú zhǔ	ㄐㄧㄡˋ ㄕㄨˊ ㄓㄨˇ	Rédempteur	他引用約伯記19:25：「我知道我的救贖主活著，末了必站立在地上。」	Il cite Job 19.25 : « Je sais que mon rédempteur est vivant, et qu'il se lèvera le dernier sur la terre. »	n° 234
+傳承	chuán chéng	ㄔㄨㄢˊ ㄔㄥˊ	transmission ; héritage transmis	陳爸爸：她留給我們的不是財產，而是這份信仰的傳承。那個跪著的背影，我一輩子刻骨銘心。	Papa Chen : Ce qu'elle nous a laissé, ce n'est pas un patrimoine, c'est une foi transmise. Cette silhouette agenouillée restera gravée en moi toute ma vie.	n° 234
+刻骨銘心	kè gǔ míng xīn	ㄎㄜˋ ㄍㄨˇ ㄇㄧㄥˊ ㄒㄧㄣ	gravé à jamais dans le cœur	陳爸爸：她留給我們的不是財產，而是這份信仰的傳承。那個跪著的背影，我一輩子刻骨銘心。	Papa Chen : Ce qu'elle nous a laissé, ce n'est pas un patrimoine, c'est une foi transmise. Cette silhouette agenouillée restera gravée en moi toute ma vie.	n° 234
+屬靈長輩	shǔ líng zhǎng bèi	ㄕㄨˇ ㄌㄧㄥˊ ㄓㄤˇ ㄅㄟˋ	aîné(e) dans la foi	王牧師：今天我們不是來告別一個結束，而是來感謝神，因為祂把這樣一位屬靈長輩賜給我們。	Pasteur Wang : Aujourd'hui, nous ne sommes pas venus saluer une fin, mais remercier Dieu de nous avoir donné une telle aînée dans la foi.	n° 234
+喪禮	sāng lǐ	ㄙㄤ ㄌㄧˇ	funérailles	禮拜結束後，大衛走到路加身邊，低聲說：「我參加過很多喪禮，從來沒有一個像今天這樣，悲傷裡竟然有喜樂。」	Après le culte, David s'approche de Luc et murmure : « J'ai assisté à beaucoup de funérailles, mais jamais à une comme celle-ci : il y a de la joie jusque dans la tristesse. »	n° 234
+墓碑	mù bēi	ㄇㄨˋ ㄅㄟ	pierre tombale	簡單的安葬禮之後，大家圍在新立的墓碑旁邊。墓碑上除了奶奶的名字，只刻了一句經文。	Après une courte cérémonie, tous se rassemblent autour de la pierre tombale fraîchement posée. À part le nom de Mamie, on n'y a gravé qu'un seul verset.	n° 235
+復活	fù huó	ㄈㄨˋ ㄏㄨㄛˊ	ressusciter ; résurrection	小恩輕聲念出來：「復活在我，生命也在我。信我的人雖然死了，也必復活。」——約翰福音11:25。	Xiao En lit à voix basse : « Je suis la résurrection et la vie. Celui qui croit en moi vivra, quand même il serait mort. » — Jean 11.25.	n° 235
+永恆	yǒng héng	ㄩㄥˇ ㄏㄥˊ	éternité ; éternel	大衛：可是「永恆」這個概念太大了。人怎麼可能想像一個沒有盡頭的生命？	David : Mais le concept d'« éternité » est trop vaste. Comment un être humain pourrait-il imaginer une vie sans fin ?	n° 235
+指望	zhǐ wàng	ㄓˇ ㄨㄤˋ	espoir	路加：保羅寫給帖撒羅尼迦教會的信裡說，我們為睡了的人憂傷，卻不像「那些沒有指望的人」一樣。	Luc : Dans sa lettre à l'Église de Thessalonique, Paul dit que nous sommes affligés pour ceux qui dorment, mais pas comme « les autres qui n'ont point d'espérance ».	n° 235
+安葬	ān zàng	ㄢ ㄗㄤˋ	inhumer	安葬那天，天空下著細細的小雨。基督徒墓園在北海岸的山坡上，遠遠可以看到大海。	Le jour de l'inhumation, une pluie fine tombe. Le cimetière chrétien est accroché à une colline de la côte nord ; on aperçoit la mer au loin.	n° 235
+喜出望外	xǐ chū wàng wài	ㄒㄧˇ ㄔㄨ ㄨㄤˋ ㄨㄞˋ	fou de joie, au comble de la joie	路加愣了一下，接著喜出望外地說：「從路加福音開始吧！跟我同名，一定不會錯。」	Luc reste interdit une seconde, puis répond, fou de joie : « Commence par l'Évangile de Luc ! Il porte mon nom, tu ne peux pas te tromper. »	n° 235
+系統神學	xì tǒng shén xué	ㄒㄧˋ ㄊㄨㄥˇ ㄕㄣˊ ㄒㄩㄝˊ	théologie systématique	九月，神學院開學了。路加升上二年級，第一堂課就是林老師的系統神學。	En septembre, c'est la rentrée au séminaire. Luc passe en deuxième année, et son tout premier cours est la théologie systématique du professeur Lin.	n° 271
+聖經神學	shèng jīng shén xué	ㄕㄥˋ ㄐㄧㄥ ㄕㄣˊ ㄒㄩㄝˊ	théologie biblique	林老師：去年我們讀聖經神學，順著救贖歷史，從創世記一路走到啟示錄，好比沿著一條河，從源頭走到出海口。	Professeur Lin : L'an dernier, nous avons fait de la théologie biblique : nous avons suivi l'histoire du salut de la Genèse à l'Apocalypse, comme on longe un fleuve de sa source jusqu'à son embouchure.	n° 271
+救贖歷史	jiù shú lì shǐ	ㄐㄧㄡˋ ㄕㄨˊ ㄌㄧˋ ㄕˇ	histoire du salut	林老師：去年我們讀聖經神學，順著救贖歷史，從創世記一路走到啟示錄，好比沿著一條河，從源頭走到出海口。	Professeur Lin : L'an dernier, nous avons fait de la théologie biblique : nous avons suivi l'histoire du salut de la Genèse à l'Apocalypse, comme on longe un fleuve de sa source jusqu'à son embouchure.	n° 271
+三一論	sān yī lùn	ㄙㄢ ㄧ ㄌㄨㄣˋ	doctrine de la Trinité	接著，林老師在黑板上寫下三個字：三一論。	Puis le professeur Lin écrit trois caractères au tableau : 三一論, la doctrine de la Trinité.	n° 271
+奧祕	ào mì	ㄠˋ ㄇㄧˋ	mystère	林老師：所以，神學始於啟示，而終於奧祕。我們越認識祂，越發現祂遠超過我們所能想像的。	Professeur Lin : Ainsi, la théologie commence par la révélation et s'achève dans le mystère. Plus nous Le connaissons, plus nous découvrons qu'Il dépasse tout ce que nous pouvons imaginer.	n° 271
+博大精深	bó dà jīng shēn	ㄅㄛˊ ㄉㄚˋ ㄐㄧㄥ ㄕㄣ	vaste et profond (chengyu)	林老師：記住，系統神學不是要把神裝進盒子，而是學習俯伏在祂面前。博大精深的真理，最後要化為敬拜。	Professeur Lin : Retenez-le : la théologie systématique ne cherche pas à enfermer Dieu dans une boîte, mais apprend à se prosterner devant Lui. Une vérité aussi vaste et profonde doit finir en adoration.	n° 271
+本質	běn zhì	ㄅㄣˇ ㄓˋ	essence, nature	路加：這學期林老師剛好講到這裡。關鍵在於，「一」和「三」不是在同一個層面上說的：神在本質上是一，在位格上是三。	Luc : C'est justement ce que le professeur Lin enseigne ce semestre. La clé, c'est que « un » et « trois » ne se disent pas au même niveau : Dieu est un quant à l'essence, et trois quant aux personnes.	n° 272
+同質	tóng zhì	ㄊㄨㄥˊ ㄓˋ	de même essence, consubstantiel	路加：父、子、聖靈是三個位格，彼此有別，卻同質、同等、同永恆。所以耶穌吩咐門徒「奉父、子、聖靈的名給他們施洗」——注意，是一個「名」，不是三個。	Luc : Le Père, le Fils et l'Esprit sont trois personnes distinctes, mais de même essence, égales et également éternelles. C'est pourquoi Jésus ordonne aux disciples de baptiser « au nom du Père, du Fils et du Saint-Esprit » : remarquez, un seul « nom », pas trois.	n° 272
+異端	yì duān	ㄧˋ ㄉㄨㄢ	hérésie	張長老微笑著搖頭：路加，這個比喻很常見，卻正好是古代的一種異端，叫「形態論」。	L'ancien Zhang secoue la tête en souriant : Luc, cette comparaison est très répandue, mais elle correspond justement à une hérésie ancienne, le « modalisme ».	n° 272
+錯綜複雜	cuò zōng fù zá	ㄘㄨㄛˋ ㄗㄨㄥ ㄈㄨˋ ㄗㄚˊ	enchevêtré, compliqué (chengyu)	大衛沉默片刻：聽起來錯綜複雜，不過至少不是自相矛盾。	David reste silencieux un instant : Ça paraît très embrouillé, mais au moins ce n'est pas contradictoire.	n° 272
+基督論	jī dū lùn	ㄐㄧ ㄉㄨ ㄌㄨㄣˋ	christologie	十月，林老師的課從三一論進入基督論。週末，路加約大衛和小恩在公館的咖啡店見面。	En octobre, le cours du professeur Lin passe de la Trinité à la christologie. Le week-end, Luc retrouve David et Xiao En dans un café de Gongguan.	n° 273
+神人二性	shén rén èr xìng	ㄕㄣˊ ㄖㄣˊ ㄦˋ ㄒㄧㄥˋ	les deux natures (divine et humaine) du Christ	路加：教會的回答是：兩者皆是。這叫「神人二性」——耶穌是完全的神，也是完全的人。	Luc : La réponse de l'Église, c'est : les deux. On parle des « deux natures » : Jésus est pleinement Dieu et pleinement homme.	n° 273
+人性	rén xìng	ㄖㄣˊ ㄒㄧㄥˋ	nature humaine	路加：這就是道成肉身。永恆的神之子並沒有停止作神，而是披上了人性。	Luc : C'est l'incarnation. Le Fils éternel de Dieu n'a pas cessé d'être Dieu : il a revêtu la nature humaine.	n° 273
+體恤	tǐ xù	ㄊㄧˇ ㄒㄩˋ	compatir à	小恩：我最喜歡希伯來書那句：「因我們的大祭司並非不能體恤我們的軟弱；他也曾凡事受過試探，與我們一樣，只是他沒有犯罪。」	Xiao En : Mon passage préféré est dans l'épître aux Hébreux : « Car nous n'avons pas un souverain sacrificateur qui ne puisse compatir à nos faiblesses ; au contraire, il a été tenté comme nous en toutes choses, sans commettre de péché. »	n° 273
+不可思議	bù kě sī yì	ㄅㄨˋ ㄎㄜˇ ㄙ ㄧˋ	inconcevable (chengyu)	大衛安靜下來，用湯匙攪著咖啡：一位會哭的神……在我讀過的哲學裡，這真是不可思議。	David se tait et tourne sa cuillère dans son café : Un Dieu qui pleure… Dans toute la philosophie que j'ai lue, c'est proprement inconcevable.	n° 273
+虛己	xū jǐ	ㄒㄩ ㄐㄧˇ	se dépouiller (kénose)	路加放下手中的書：真巧，我這週剛交了一篇報告，題目是腓立比書第二章的「虛己」。	Luc pose le livre qu'il tient : Quelle coïncidence : je viens de rendre cette semaine un devoir sur le « dépouillement » de Philippiens 2.	n° 274
+降卑	jiàng bēi	ㄐㄧㄤˋ ㄅㄟ	abaissement (du Christ)	路加：祂放下的，是自己的權利和榮耀的彰顯。從馬槽到十字架，神學上稱為基督的「降卑」。	Luc : Ce qu'il a déposé, ce sont ses droits et la manifestation de sa gloire. De la crèche à la croix, c'est ce que la théologie appelle l'« abaissement » du Christ.	n° 274
+升高	shēng gāo	ㄕㄥ ㄍㄠ	élévation (du Christ)	美玲：復活、升天、坐在父的右邊，這是基督的「升高」。我們今天要唱的《耶穌，超乎萬名之名》，正是從這節經文來的。	Meiling : La résurrection, l'ascension, le fait de siéger à la droite du Père : c'est l'« élévation » du Christ. Le chant que nous chantons aujourd'hui, 《耶穌，超乎萬名之名》 (« Jésus, nom au-dessus de tout nom »), vient justement de ce verset.	n° 274
+形像	xíng xiàng	ㄒㄧㄥˊ ㄒㄧㄤˋ	forme, image	路加笑了，還是翻開聖經念道：「你們當以基督耶穌的心為心：他本有神的形像，不以自己與神同等為強奪的；反倒虛己，取了奴僕的形像，成為人的樣式。」	Luc rit, mais ouvre quand même sa Bible et lit : « Ayez en vous les sentiments qui étaient en Jésus Christ, lequel, existant en forme de Dieu, n'a point regardé comme une proie à arracher d'être égal avec Dieu, mais s'est dépouillé lui-même, en prenant une forme de serviteur, en devenant semblable aux hommes. »	n° 274
+信經	xìn jīng	ㄒㄧㄣˋ ㄐㄧㄥ	credo, symbole de foi	小光跑過來：張爺爺，我已經背起來了！可是那不就是縮短版的聖經嗎？那只讀信經就好啦。	Xiao Guang accourt : Papi Zhang, je le connais déjà par cœur ! Mais ce n'est pas juste la Bible en version courte ? Alors il suffit de lire le credo !	n° 275
+使徒信經	shǐ tú xìn jīng	ㄕˇ ㄊㄨˊ ㄒㄧㄣˋ ㄐㄧㄥ	Symbole des apôtres	十一月的第一個主日，王牧師宣布：從今天起，每月第一週的崇拜，會眾要一起宣認使徒信經。	Le premier dimanche de novembre, le pasteur Wang annonce : désormais, au culte du premier dimanche de chaque mois, l'assemblée confessera ensemble le Symbole des apôtres.	n° 275
+大公教會	dà gōng jiào huì	ㄉㄚˋ ㄍㄨㄥ ㄐㄧㄠˋ ㄏㄨㄟˋ	Église universelle	張長老笑了：陳兄弟，這是很多人的誤會。「公」是「大公」的意思，也就是普世的。大公教會指的是歷世歷代、各地所有真正屬基督的人，不是某一個宗派。	L'ancien Zhang sourit : Frère Chen, c'est un malentendu fréquent. « Universelle » traduit ici le mot « catholique » dans son sens premier : ce qui concerne le monde entier. L'Église universelle, ce sont tous ceux qui appartiennent vraiment au Christ, en tout temps et en tout lieu, et non une dénomination particulière.	n° 275
+正統	zhèng tǒng	ㄓㄥˋ ㄊㄨㄥˇ	orthodoxe ; orthodoxie	張長老：正是。信經也為正統信仰劃出界線。在界線之內，各宗派可以有不同的看法；越過了，就不再是基督教信仰了。	L'ancien Zhang : Exactement. Le credo trace aussi les limites de la foi orthodoxe. À l'intérieur, les différentes Églises peuvent avoir des avis divergents ; au-delà, ce n'est plus la foi chrétienne.	n° 275
+宗派	zōng pài	ㄗㄨㄥ ㄆㄞˋ	dénomination, confession	張長老笑了：陳兄弟，這是很多人的誤會。「公」是「大公」的意思，也就是普世的。大公教會指的是歷世歷代、各地所有真正屬基督的人，不是某一個宗派。	L'ancien Zhang sourit : Frère Chen, c'est un malentendu fréquent. « Universelle » traduit ici le mot « catholique » dans son sens premier : ce qui concerne le monde entier. L'Église universelle, ce sont tous ceux qui appartiennent vraiment au Christ, en tout temps et en tout lieu, et non une dénomination particulière.	n° 275
+告白	gào bái	ㄍㄠˋ ㄅㄞˊ	confession, déclaration	張長老：使徒信經的雛形，是早期教會受洗時的信仰告白，比天主教和基督教的分裂早了一千多年。	L'ancien Zhang : Le Symbole des apôtres trouve son origine dans la confession de foi que l'Église primitive prononçait au baptême, plus de mille ans avant la séparation entre catholiques et protestants.	n° 275
+尼西亞信經	ní xī yà xìn jīng	ㄋㄧˊ ㄒㄧ ㄧㄚˋ ㄒㄧㄣˋ ㄐㄧㄥ	Symbole de Nicée	平安夜，恩典教會的燭光崇拜上，會眾一起宣認尼西亞信經。這是大衛第一次留到最後。	La veille de Noël, au culte aux chandelles de l'église de la Grâce, l'assemblée confesse ensemble le Symbole de Nicée. C'est la première fois que David reste jusqu'à la fin.	n° 276
+受造物	shòu zào wù	ㄕㄡˋ ㄗㄠˋ ㄨˋ	créature	路加：這正好是我期末報告的主題。四世紀時，有一位叫亞流的長老主張：子是父所造的第一個受造物，「曾經有一段時間，子並不存在」。	Luc : C'est justement le sujet de mon devoir de fin de semestre. Au IVe siècle, un prêtre nommé Arius soutenait que le Fils était la première créature faite par le Père : « il fut un temps où le Fils n'existait pas ».	n° 276
+教父	jiào fù	ㄐㄧㄠˋ ㄈㄨˋ	Père de l'Église	路加：有一位教父叫亞他那修，為了捍衛正統信仰，一生被流放了五次。相傳有人對他說：「全世界都反對你。」他回答：「那我就反對全世界。」	Luc : Un Père de l'Église nommé Athanase a été exilé cinq fois au cours de sa vie pour avoir défendu la foi orthodoxe. On raconte que quelqu'un lui dit : « Le monde entier est contre toi. » Et qu'il répondit : « Alors je suis contre le monde entier. »	n° 276
+捍衛	hàn wèi	ㄏㄢˋ ㄨㄟˋ	défendre	路加：有一位教父叫亞他那修，為了捍衛正統信仰，一生被流放了五次。相傳有人對他說：「全世界都反對你。」他回答：「那我就反對全世界。」	Luc : Un Père de l'Église nommé Athanase a été exilé cinq fois au cours de sa vie pour avoir défendu la foi orthodoxe. On raconte que quelqu'un lui dit : « Le monde entier est contre toi. » Et qu'il répondit : « Alors je suis contre le monde entier. »	n° 276
+奧古斯丁	ào gǔ sī dīng	ㄠˋ ㄍㄨˇ ㄙ ㄉㄧㄥ	saint Augustin	小恩：奧古斯丁的《懺悔錄》？你怎麼會讀這本？	Xiao En : Les « Confessions » d'Augustin ? Comment se fait-il que tu lises ça ?	n° 277
+懺悔錄	chàn huǐ lù	ㄔㄢˋ ㄏㄨㄟˇ ㄌㄨˋ	les Confessions (d'Augustin)	小恩：奧古斯丁的《懺悔錄》？你怎麼會讀這本？	Xiao En : Les « Confessions » d'Augustin ? Comment se fait-il que tu lises ça ?	n° 277
+悔改歸主	huǐ gǎi guī zhǔ	ㄏㄨㄟˇ ㄍㄞˇ ㄍㄨㄟ ㄓㄨˇ	se repentir et se convertir au Seigneur	大衛：他說，讀完這一句，心中豁然開朗，所有疑雲都消散了。就這樣，公元386年，他悔改歸主。	David : Il raconte qu'en lisant cette phrase, tout s'est éclairé dans son cœur et que tous ses doutes se sont dissipés. C'est ainsi qu'en 386, il s'est converti au Seigneur.	n° 277
+歸信	guī xìn	ㄍㄨㄟ ㄒㄧㄣˋ	conversion ; se convertir	路加：每個人的歸信都不一樣。有人像保羅，被一道大光擊倒；有人像我，是一首歌、一句話慢慢累積起來的。	Luc : Chaque conversion est différente. Certains, comme Paul, sont terrassés par une grande lumière ; d'autres, comme moi, y arrivent peu à peu, un chant après l'autre, une parole après l'autre.	n° 277
+豁然開朗	huò rán kāi lǎng	ㄏㄨㄛˋ ㄖㄢˊ ㄎㄞ ㄌㄤˇ	tout s'éclaire soudain (chengyu)	大衛：他說，讀完這一句，心中豁然開朗，所有疑雲都消散了。就這樣，公元386年，他悔改歸主。	David : Il raconte qu'en lisant cette phrase, tout s'est éclairé dans son cœur et que tous ses doutes se sont dissipés. C'est ainsi qu'en 386, il s'est converti au Seigneur.	n° 277
+安寧	ān níng	ㄢ ㄋㄧㄥˊ	paix, repos	路加：奧古斯丁在書的開頭就對神說，人是為祂而造的，人心若不在祂裡面安息，就不得安寧。我們常唱的《我心靈得安寧》，說的也是這份安息。	Luc : Dès le début du livre, Augustin dit à Dieu que l'homme a été fait pour Lui, et que son cœur reste sans repos tant qu'il ne repose pas en Lui. Le chant 《我心靈得安寧》 (« Mon âme trouve la paix »), que nous chantons souvent, parle aussi de ce repos-là.	n° 277
+宗教改革	zōng jiào gǎi gé	ㄗㄨㄥ ㄐㄧㄠˋ ㄍㄞˇ ㄍㄜˊ	la Réforme (protestante)	開學後，教會歷史課講到宗教改革。星期六早上，路加帶著筆記，到張長老家請教。	Après la rentrée, le cours d'histoire de l'Église aborde la Réforme. Samedi matin, Luc apporte ses notes chez l'ancien Zhang pour le consulter.	n° 278
+馬丁路德	mǎ dīng lù dé	ㄇㄚˇ ㄉㄧㄥ ㄌㄨˋ ㄉㄜˊ	Martin Luther	張長老：馬丁路德本來是奧古斯丁修會的修士。他拚命禁食、告解，卻始終害怕神的審判。直到他明白，神的義不是要求我們達到的標準，而是白白賜給人的禮物。	L'ancien Zhang : Martin Luther était au départ moine dans l'ordre des Augustins. Il jeûnait et se confessait sans relâche, mais il vivait dans la terreur du jugement de Dieu. Jusqu'au jour où il a compris que la justice de Dieu n'est pas une norme qu'on exige de nous, mais un don accordé gratuitement.	n° 278
+加爾文	jiā ěr wén	ㄐㄧㄚ ㄦˇ ㄨㄣˊ	Jean Calvin	路加：那加爾文呢？同學們一提到他，就開始爭論預定論。	Luc : Et Calvin ? Dès qu'on parle de lui, mes camarades se mettent à débattre de la prédestination.	n° 278
+唯獨聖經	wéi dú shèng jīng	ㄨㄟˊ ㄉㄨˊ ㄕㄥˋ ㄐㄧㄥ	l'Écriture seule (sola scriptura)	路加看著筆記：後人把改教家的核心思想歸納成五個「唯獨」：唯獨聖經、唯獨恩典、唯獨信心、唯獨基督、唯獨神的榮耀。	Luc regarde ses notes : Plus tard, on a résumé la pensée centrale des Réformateurs en cinq « seul » : l'Écriture seule, la grâce seule, la foi seule, le Christ seul, et à Dieu seul la gloire.	n° 278
+改教家	gǎi jiào jiā	ㄍㄞˇ ㄐㄧㄠˋ ㄐㄧㄚ	Réformateur	路加看著筆記：後人把改教家的核心思想歸納成五個「唯獨」：唯獨聖經、唯獨恩典、唯獨信心、唯獨基督、唯獨神的榮耀。	Luc regarde ses notes : Plus tard, on a résumé la pensée centrale des Réformateurs en cinq « seul » : l'Écriture seule, la grâce seule, la foi seule, le Christ seul, et à Dieu seul la gloire.	n° 278
+一脈相承	yī mài xiāng chéng	ㄧ ㄇㄞˋ ㄒㄧㄤ ㄔㄥˊ	d'une même lignée (chengyu)	路加：從保羅到奧古斯丁，再到路德，真是一脈相承。	Luc : De Paul à Augustin, puis à Luther : c'est vraiment une seule et même lignée.	n° 278
+會眾	huì zhòng	ㄏㄨㄟˋ ㄓㄨㄥˋ	assemblée (des fidèles)	張長老：不過你知道嗎？宗教改革也是一場詩歌的改革。路德把聖經譯成德文，還親自寫詩歌，讓會眾用母語一起唱；加爾文則推動全體會眾吟唱詩篇。	L'ancien Zhang : Mais tu sais quoi ? La Réforme a aussi été une réforme du chant. Luther a traduit la Bible en allemand et composé lui-même des cantiques pour que l'assemblée chante ensemble dans sa langue maternelle ; Calvin, lui, a fait chanter les psaumes par toute l'assemblée.	n° 278
+聖詩	shèng shī	ㄕㄥˋ ㄕ	cantique, hymne	在抽屜最深處，他們找到一本封面破舊的《聖詩》。書頁泛黃，上面不是漢字，而是密密麻麻的羅馬字母。	Au fond d'un tiroir, ils trouvent un recueil de cantiques à la couverture usée. Les pages ont jauni, et elles ne sont pas couvertes de caractères chinois, mais de lettres latines serrées.	n° 279
+宣教士	xuān jiào shì	ㄒㄩㄢ ㄐㄧㄠˋ ㄕˋ	missionnaire	陳媽媽：對，是白話字。當年宣教士為了讓不識字的百姓也能讀聖經、唱聖詩，就用羅馬字母拼寫台語。奶奶沒讀過幾年書，卻看得懂這個。	Maman Chen : Oui, c'est du pe̍h-ōe-jī. À l'époque, les missionnaires transcrivaient le taïwanais en lettres latines pour que même les gens qui ne connaissaient pas les caractères puissent lire la Bible et chanter les cantiques. Mamie n'est pas allée longtemps à l'école, mais elle savait lire ça.	n° 279
+聖樂	shèng yuè	ㄕㄥˋ ㄩㄝˋ	musique sacrée	路加：我正在寫一份聖樂史的報告。華人的讚美詩其實源遠流長：早在1818年，第一位來華的基督教宣教士馬禮遜，就出版了一本中文聖詩集。	Luc : Je suis en train d'écrire un devoir sur l'histoire de la musique sacrée. Les hymnes chinois ont en fait une longue histoire : dès 1818, Robert Morrison, le premier missionnaire protestant venu en Chine, a publié un recueil de cantiques en chinois.	n° 279
+讚美詩	zàn měi shī	ㄗㄢˋ ㄇㄟˇ ㄕ	hymne de louange	路加：我正在寫一份聖樂史的報告。華人的讚美詩其實源遠流長：早在1818年，第一位來華的基督教宣教士馬禮遜，就出版了一本中文聖詩集。	Luc : Je suis en train d'écrire un devoir sur l'histoire de la musique sacrée. Les hymnes chinois ont en fait une longue histoire : dès 1818, Robert Morrison, le premier missionnaire protestant venu en Chine, a publié un recueil de cantiques en chinois.	n° 279
+禮儀	lǐ yí	ㄌㄧˇ ㄧˊ	liturgie	小恩：以前主日的禮儀很固定：宣召、讀經、唱聖詩、講道、祝禱。奶奶常說，聖詩的歌詞就是她的神學課本。	Xiao En : Autrefois, la liturgie du dimanche était très fixe : appel à l'adoration, lecture biblique, cantiques, prédication, bénédiction. Mamie disait souvent que les paroles des cantiques étaient son manuel de théologie.	n° 279
+潛移默化	qián yí mò huà	ㄑㄧㄢˊ ㄧˊ ㄇㄛˋ ㄏㄨㄚˋ	transformer insensiblement (chengyu)	路加：這就是詩歌潛移默化的力量。保羅也說：「當用各樣的智慧，把基督的道理豐豐富富地存在心裡，用詩章、頌詞、靈歌，彼此教導，互相勸戒，心被恩感，歌頌神。」	Luc : C'est la force du chant, qui transforme sans qu'on s'en aperçoive. Paul dit aussi : « Que la parole de Christ habite parmi vous abondamment ; instruisez-vous et exhortez-vous les uns les autres en toute sagesse, par des psaumes, par des hymnes, par des cantiques spirituels, chantant à Dieu dans vos cœurs sous l'inspiration de la grâce. »	n° 279
+源遠流長	yuán yuǎn liú cháng	ㄩㄢˊ ㄩㄢˇ ㄌㄧㄡˊ ㄔㄤˊ	avoir une longue histoire (chengyu)	路加：我正在寫一份聖樂史的報告。華人的讚美詩其實源遠流長：早在1818年，第一位來華的基督教宣教士馬禮遜，就出版了一本中文聖詩集。	Luc : Je suis en train d'écrire un devoir sur l'histoire de la musique sacrée. Les hymnes chinois ont en fait une longue histoire : dès 1818, Robert Morrison, le premier missionnaire protestant venu en Chine, a publié un recueil de cantiques en chinois.	n° 279
+本色化	běn sè huà	ㄅㄣˇ ㄙㄜˋ ㄏㄨㄚˋ	inculturation, indigénisation	林老師點頭：所以二十世紀初，華人教會開始追求「本色化」，希望用自己的語言和音樂來敬拜。1936年出版的《普天頌讚》，就收錄了不少中國曲調和華人作曲家的作品。	Le professeur Lin hoche la tête : C'est pourquoi, au début du XXe siècle, les Églises chinoises ont recherché l'« inculturation » : adorer dans leur propre langue et avec leur propre musique. Le recueil 《普天頌讚》, publié en 1936, contenait déjà de nombreux airs chinois et des œuvres de compositeurs chinois.	n° 280
+曲調	qǔ diào	ㄑㄩˇ ㄉㄧㄠˋ	air, mélodie	林老師點頭：所以二十世紀初，華人教會開始追求「本色化」，希望用自己的語言和音樂來敬拜。1936年出版的《普天頌讚》，就收錄了不少中國曲調和華人作曲家的作品。	Le professeur Lin hoche la tête : C'est pourquoi, au début du XXe siècle, les Églises chinoises ont recherché l'« inculturation » : adorer dans leur propre langue et avec leur propre musique. Le recueil 《普天頌讚》, publié en 1936, contenait déjà de nombreux airs chinois et des œuvres de compositeurs chinois.	n° 280
+承先啟後	chéng xiān qǐ hòu	ㄔㄥˊ ㄒㄧㄢ ㄑㄧˇ ㄏㄡˋ	hériter du passé et ouvrir l'avenir (chengyu)	林老師：所以你的報告不要寫成「新歌打敗老歌」，也不要寫成「老歌才屬靈」。真正的主線是承先啟後：每一首新歌，都站在前人的信仰上。	Professeur Lin : Alors, dans ton devoir, n'écris pas « les nouveaux chants ont vaincu les anciens », ni « seuls les vieux cantiques sont spirituels ». Le vrai fil conducteur, c'est la transmission : chaque chant nouveau se tient sur la foi de ceux qui nous ont précédés.	n° 280
+讚美之泉	zàn měi zhī quán	ㄗㄢˋ ㄇㄟˇ ㄓ ㄑㄩㄢˊ	Stream of Praise (ministère de louange)	下半場，美玲拿起麥克風：九十年代初，美國加州的華人教會中，誕生了一個叫讚美之泉的音樂事工。我們這一代人，就是唱著他們的歌長大的。	Dans la seconde partie, Meiling prend le micro : Au début des années 1990, dans les Églises chinoises de Californie, aux États-Unis, est né un ministère musical appelé 讚美之泉, Stream of Praise. Ma génération a grandi en chantant leurs chants.	n° 281
+事工	shì gōng	ㄕˋ ㄍㄨㄥ	ministère, œuvre	下半場，美玲拿起麥克風：九十年代初，美國加州的華人教會中，誕生了一個叫讚美之泉的音樂事工。我們這一代人，就是唱著他們的歌長大的。	Dans la seconde partie, Meiling prend le micro : Au début des années 1990, dans les Églises chinoises de Californie, aux États-Unis, est né un ministère musical appelé 讚美之泉, Stream of Praise. Ma génération a grandi en chantant leurs chants.	n° 281
+莊重	zhuāng zhòng	ㄓㄨㄤ ㄓㄨㄥˋ	solennel	這時，坐在前排的黃伯伯舉手：說句老實話，有些新歌一直重複，聽起來只剩下情緒。聖樂不是應該莊重一點嗎？	À ce moment-là, oncle Huang, assis au premier rang, lève la main : Pour être franc, certains chants nouveaux se répètent sans fin, et il ne semble rester que de l'émotion. La musique sacrée ne devrait-elle pas être un peu plus solennelle ?	n° 281
+紮根	zhā gēn	ㄓㄚ ㄍㄣ	s'enraciner	美玲不慌不忙地回答：黃伯伯說得對，好的敬拜詩歌必須紮根在聖經裡。不過，詩篇自己也有很多重複——詩篇一百三十六篇，每一節都說「因他的慈愛永遠長存」。	Meiling répond sans se démonter : Oncle Huang a raison : un bon chant de louange doit être enraciné dans la Bible. Mais les psaumes eux-mêmes se répètent beaucoup : dans le psaume 136, chaque verset dit « car sa miséricorde dure à toujours ».	n° 281
+新歌	xīn gē	ㄒㄧㄣ ㄍㄜ	chant nouveau	五月的一個晚上，恩典教會舉辦了「聖詩與新歌之夜」。這是路加為了報告，和美玲一起策劃的。	Un soir de mai, l'église de la Grâce organise une « Soirée des cantiques et des chants nouveaux », que Luc a préparée avec Meiling pour son devoir.	n° 281
+信心的跳躍	xìn xīn de tiào yuè	ㄒㄧㄣˋ ㄒㄧㄣ ˙ㄉㄜ ㄊㄧㄠˋ ㄩㄝˋ	le saut de la foi	大衛：齊克果把這叫做「信心的跳躍」。我好像站在懸崖邊，看得見對岸，卻不敢跳。	David : Kierkegaard appelle ça le « saut de la foi ». C'est comme si j'étais au bord d'une falaise : je vois l'autre rive, mais je n'ose pas sauter.	n° 282
+深淵	shēn yuān	ㄕㄣ ㄩㄢ	gouffre, abîme	大衛：我讀了兩年多的聖經，也查了很多資料。復活的證據比我想像的有力，三一論也沒有自相矛盾。可是，從「知道」到「相信」，中間好像隔著一道深淵。	David : Ça fait plus de deux ans que je lis la Bible, et j'ai consulté beaucoup de choses. Les arguments pour la résurrection sont plus solides que je ne l'imaginais, et la Trinité n'est pas contradictoire. Mais entre « savoir » et « croire », on dirait qu'il y a un gouffre.	n° 282
+投射	tóu shè	ㄊㄡˊ ㄕㄜˋ	projection	大衛沉默半晌，又問：還有一件事讓我不安。佛洛伊德說，宗教只是人的願望投射。萬一我只是因為孤單、需要安慰，才想相信呢？	David reste un long moment silencieux, puis demande encore : Il y a autre chose qui m'inquiète. Freud dit que la religion n'est que la projection de nos désirs. Et si je voulais croire seulement parce que je suis seul et que j'ai besoin de réconfort ?	n° 282
+疑惑	yí huò	ㄧˊ ㄏㄨㄛˋ	douter ; doute	大衛：可是這次讓我震動的，是耶穌的反應。祂沒有責備多馬，反而主動來找他，把手上的釘痕給他看，說：「不要疑惑，總要信！」	David : Mais cette fois, ce qui m'a bouleversé, c'est la réaction de Jésus. Il ne reproche rien à Thomas ; au contraire, il vient lui-même le trouver, lui montre les marques des clous dans ses mains et lui dit : « ne sois pas incrédule, mais crois. »	n° 283
+轉向	zhuǎn xiàng	ㄓㄨㄢˇ ㄒㄧㄤˋ	se tourner vers	王牧師輕輕點頭：聖經說的悔改，原意就是「轉向」。悔改歸主，不是把頭腦丟掉，而是從審判的座位上走下來，轉身面向那位一直在等你的父。	Le pasteur Wang hoche doucement la tête : Dans la Bible, se repentir signifie d'abord « se retourner ». Se convertir au Seigneur, ce n'est pas jeter sa raison, c'est descendre du siège du juge et se tourner vers le Père qui t'attend depuis toujours.	n° 283
+赦免	shè miǎn	ㄕㄜˋ ㄇㄧㄢˇ	pardonner	大衛：主耶穌，我一直把祢當作一個問題來研究。今天我承認，我才是需要被解答的那個問題。求祢赦免我的驕傲和一切的罪。	David : Seigneur Jésus, je T'ai toujours étudié comme un problème. Aujourd'hui, je reconnais que c'est moi, le problème qui a besoin d'être résolu. Pardonne mon orgueil et tous mes péchés.	n° 283
+孝敬	xiào jìng	ㄒㄧㄠˋ ㄐㄧㄥˋ	honorer (ses parents)	大衛：我說，我不會拿香祭拜，但清明節一定跟他們去掃墓，用我的方式紀念祖先。聖經也吩咐人要孝敬父母；信了耶穌，我應該成為更好的兒子，而不是更差的。	David : Je leur ai dit que je ne brûlerai pas d'encens devant les tablettes, mais qu'à la fête de Qingming, j'irai sans faute avec eux nettoyer les tombes et honorer les ancêtres à ma manière. La Bible aussi commande d'honorer ses parents : en croyant en Jésus, je dois devenir un meilleur fils, pas un moins bon.	n° 284
+洗禮班	xǐ lǐ bān	ㄒㄧˇ ㄌㄧˇ ㄅㄢ	classe de préparation au baptême	大衛笑了：王牧師說，先把秋天的洗禮班上完再說。我這個人，本來就喜歡先讀完說明書。	David rit : Le pasteur Wang dit qu'il faut d'abord suivre la classe de baptême à l'automne. De toute façon, moi, j'aime bien lire le mode d'emploi avant.	n° 284
+認信	rèn xìn	ㄖㄣˋ ㄒㄧㄣˋ	confession de foi	路加：那一刻我才明白，三一論、基督論、信經和宗教改革，最終都是為了守護這一句認信。	Luc : C'est à ce moment-là que j'ai compris que la Trinité, la christologie, les credo et la Réforme servent tous, au bout du compte, à protéger cette seule confession de foi.	n° 285
+敬拜神學	jìng bài shén xué	ㄐㄧㄥˋ ㄅㄞˋ ㄕㄣˊ ㄒㄩㄝˊ	théologie de l'adoration	又是一個下雨天。神學院的教室裡，林老師在黑板上寫下四個字：「敬拜神學」。	Encore un jour de pluie. Dans une salle du séminaire, le professeur Lin écrit au tableau quatre caractères : « théologie de l'adoration ».	n° 286
+超越	chāo yuè	ㄔㄠ ㄩㄝˋ	transcendant ; transcendance	林老師：今天我們先談一個張力：神既是超越的，又是臨在的。	Prof. Lin : Commençons aujourd'hui par une tension : Dieu est à la fois transcendant et présent.	n° 286
+臨在	lín zài	ㄌㄧㄣˊ ㄗㄞˋ	présence (manifeste) de Dieu	林老師：今天我們先談一個張力：神既是超越的，又是臨在的。	Prof. Lin : Commençons aujourd'hui par une tension : Dieu est à la fois transcendant et présent.	n° 286
+內住	nèi zhù	ㄋㄟˋ ㄓㄨˋ	habiter en (l'Esprit qui demeure dans le croyant)	林老師：舊約有會幕與聖殿，新約則更進一步：聖靈內住在信徒心裡。哥林多前書三章十六節說：	Prof. Lin : L'Ancien Testament avait le tabernacle et le Temple ; le Nouveau va plus loin : le Saint-Esprit habite dans le cœur des croyants. 1 Corinthiens 3.16 dit :	n° 286
+俯就	fǔ jiù	ㄈㄨˇ ㄐㄧㄡˋ	s'abaisser jusqu'à, condescendre	林老師：故此，崇拜之所以可能，不在於我們的熱情，而在於神先俯就我們。	Prof. Lin : Ainsi, si le culte est possible, ce n'est pas grâce à notre ferveur, mais parce que Dieu s'est d'abord abaissé jusqu'à nous.	n° 286
+祭物	jì wù	ㄐㄧˋ ㄨˋ	offrande (sacrificielle)	美玲：舊約的祭物是要付代價的，牛羊都是百姓辛苦養大的。獻祭從來不是因為心情好。	Meiling : Dans l'Ancien Testament, les offrandes coûtaient quelque chose : les bœufs et les moutons, le peuple les avait élevés à grand-peine. On n'offrait jamais un sacrifice parce qu'on était de bonne humeur.	n° 287
+頌讚	sòng zàn	ㄙㄨㄥˋ ㄗㄢˋ	louange ; célébrer	路加在旁邊翻開聖經：「希伯來書十三章十五節：『我們應當靠著耶穌，常常以頌讚為祭獻給神，這就是那承認主名之人嘴唇的果子。』」	Luc, à côté, ouvre sa Bible : « Hébreux 13.15 : "Par lui, offrons sans cesse à Dieu un sacrifice de louange, c'est-à-dire le fruit de lèvres qui confessent son nom." »	n° 287
+贖罪祭	shú zuì jì	ㄕㄨˊ ㄗㄨㄟˋ ㄐㄧˋ	sacrifice d'expiation	阿傑：可是基督不是已經一次獻上，成了永遠的贖罪祭嗎？我們還要獻什麼？	A-Jie : Mais le Christ ne s'est-il pas offert une fois pour toutes, sacrifice éternel pour le péché ? Qu'est-ce qu'on aurait encore à offrir ?	n° 287
+悅納	yuè nà	ㄩㄝˋ ㄋㄚˋ	agréer, accepter avec faveur	美玲：我也經歷過那樣的日子。站在台上，嘴唇在唱，心卻在哭。後來我才明白，那正是神所悅納的祭。	Meiling : Moi aussi, j'ai connu des jours comme ça. Sur l'estrade, mes lèvres chantaient, mais mon cœur pleurait. Ce n'est que plus tard que j'ai compris que c'était justement le sacrifice que Dieu agrée.	n° 287
+誠實	chéng shí	ㄔㄥˊ ㄕˊ	vérité ; sincérité	路加：耶穌的回答是約翰福音四章二十四節：「神是個靈，所以拜他的必須用心靈和誠實拜他。」	Luc : La réponse de Jésus, c'est Jean 4.24 : « Dieu est Esprit, et il faut que ceux qui l'adorent l'adorent en esprit et en vérité. »	n° 288
+形式	xíng shì	ㄒㄧㄥˊ ㄕˋ	forme	大衛：正因如此，我才更想知道答案。敬拜到底是什麼？是在某個地方、用某種形式嗎？	David : C'est justement pour ça que je tiens d'autant plus à la réponse. Qu'est-ce que l'adoration, au fond ? Un lieu particulier, une forme particulière ?	n° 288
+操控	cāo kòng	ㄘㄠ ㄎㄨㄥˋ	manipuler	大衛：路加，我同學說，教會的敬拜不過是燈光加音樂的情緒操控。我竟然不知道怎麼反駁。	David : Luc, un camarade m'a dit que le culte à l'église n'est que de la manipulation émotionnelle, à coups de lumières et de musique. Et je n'ai pas su quoi lui répondre !	n° 288
+僵化	jiāng huà	ㄐㄧㄤ ㄏㄨㄚˋ	se figer, se scléroser	路加：它們本身無善無惡。若有靈而無真理，敬拜就淪為情緒；若有真理而無靈，敬拜就僵化成形式。	Luc : En eux-mêmes, ils ne sont ni bons ni mauvais. L'esprit sans la vérité, et l'adoration se réduit à de l'émotion ; la vérité sans l'esprit, et elle se fige en pure forme.	n° 288
+缺一不可	quē yī bù kě	ㄑㄩㄝ ㄧ ㄅㄨˋ ㄎㄜˇ	l'un ne va pas sans l'autre	大衛沉思良久，緩緩地說：「所以是真理照亮頭腦，聖靈融化人心，兩者缺一不可。」	David réfléchit longuement, puis dit lentement : « Donc la vérité éclaire l'intelligence, l'Esprit fait fondre le cœur, et l'un ne va pas sans l'autre. »	n° 288
+華人教會	huá rén jiào huì	ㄏㄨㄚˊ ㄖㄣˊ ㄐㄧㄠˋ ㄏㄨㄟˋ	Églises chinoises	為了林老師的期末報告，路加選了一個題目：「華人教會的詩歌與教義」。	Pour le travail de fin de semestre du professeur Lin, Luc a choisi un sujet : « Cantiques et doctrine dans les Églises chinoises ».	n° 289
+教義	jiào yì	ㄐㄧㄠˋ ㄧˋ	doctrine	為了林老師的期末報告，路加選了一個題目：「華人教會的詩歌與教義」。	Pour le travail de fin de semestre du professeur Lin, Luc a choisi un sujet : « Cantiques et doctrine dans les Églises chinoises ».	n° 289
+復興運動	fù xīng yùn dòng	ㄈㄨˋ ㄒㄧㄥ ㄩㄣˋ ㄉㄨㄥˋ	mouvement de réveil	路加：上個世紀的復興運動中，華人信徒開始寫自己的詩歌；讚美之泉亦是走在這條路上。	Luc : Lors des mouvements de réveil du siècle dernier, les croyants chinois ont commencé à écrire leurs propres cantiques ; Stream of Praise marche aussi sur ce chemin.	n° 289
+飲水思源	yǐn shuǐ sī yuán	ㄧㄣˇ ㄕㄨㄟˇ ㄙ ㄩㄢˊ	quand on boit l'eau, se souvenir de la source (chengyu)	路加：伯父，我想在報告的結尾寫這本詩歌本的故事。飲水思源，我們今天能唱，是因為有人先唱過。	Luc : Monsieur Chen, j'aimerais terminer mon travail par l'histoire de ce recueil. Quand on boit l'eau, on se souvient de la source : si nous pouvons chanter aujourd'hui, c'est que d'autres ont chanté avant nous.	n° 289
+久而久之	jiǔ ér jiǔ zhī	ㄐㄧㄡˇ ㄦˊ ㄐㄧㄡˇ ㄓ	à la longue	路加：這正是我報告的主題。古代教會有一句話：「怎麼禱告，就怎麼相信。」我們唱什麼，久而久之就會信什麼。	Luc : C'est justement le sujet de mon travail. L'Église ancienne disait : « Comme on prie, ainsi on croit. » Ce que nous chantons, à la longue, nous finissons par le croire.	n° 289
+創作	chuàng zuò	ㄔㄨㄤˋ ㄗㄨㄛˋ	création, composition	他決定嘗試詩歌創作。作曲出乎意料地順利，旋律幾乎是自己流出來的；難的是作詞。	Il décide de se lancer dans la composition. La musique vient étonnamment facilement, la mélodie coule presque toute seule ; le difficile, ce sont les paroles.	n° 290
+作曲	zuò qǔ	ㄗㄨㄛˋ ㄑㄩˇ	composer la musique	他決定嘗試詩歌創作。作曲出乎意料地順利，旋律幾乎是自己流出來的；難的是作詞。	Il décide de se lancer dans la composition. La musique vient étonnamment facilement, la mélodie coule presque toute seule ; le difficile, ce sont les paroles.	n° 290
+作詞	zuò cí	ㄗㄨㄛˋ ㄘˊ	écrire les paroles	他決定嘗試詩歌創作。作曲出乎意料地順利，旋律幾乎是自己流出來的；難的是作詞。	Il décide de se lancer dans la composition. La musique vient étonnamment facilement, la mélodie coule presque toute seule ; le difficile, ce sont les paroles.	n° 290
+旋律	xuán lǜ	ㄒㄩㄢˊ ㄌㄩˋ	mélodie	他決定嘗試詩歌創作。作曲出乎意料地順利，旋律幾乎是自己流出來的；難的是作詞。	Il décide de se lancer dans la composition. La musique vient étonnamment facilement, la mélodie coule presque toute seule ; le difficile, ce sont les paroles.	n° 290
+恩上加恩	ēn shàng jiā ēn	ㄣ ㄕㄤˋ ㄐㄧㄚ ㄣ	grâce sur grâce	「我本是異鄉的客旅，祢卻先在路上等我；恩上加恩，我要一生向祢歌唱。」	« Je n'étais qu'un voyageur en terre étrangère, mais toi, tu m'attendais déjà sur le chemin ; grâce sur grâce, toute ma vie je te chanterai. »	n° 290
+證道	zhèng dào	ㄓㄥˋ ㄉㄠˋ	prêcher ; prédication	王牧師：下個月第一個主日，負責證道的人是你。這是你神學院實習的一部分。	Pasteur Wang : Le premier dimanche du mois prochain, c'est toi qui prêches. Ça fait partie de ton stage de séminaire.	n° 291
+講章	jiǎng zhāng	ㄐㄧㄤˇ ㄓㄤ	sermon (texte préparé)	王牧師：寫講章的第一步，不是想一個好點子，而是選定經文，讓經文先對你說話。	Pasteur Wang : La première étape pour écrire un sermon, ce n'est pas de trouver une bonne idée, c'est de choisir le texte biblique et de le laisser d'abord te parler.	n° 291
+神的國	shén de guó	ㄕㄣˊ ˙ㄉㄜ ㄍㄨㄛˊ	le royaume de Dieu	路加想了想，翻開馬可福音一章十五節：「日期滿了，神的國近了。你們當悔改，信福音！」	Luc réfléchit, puis ouvre Marc 1.15 : « Le temps est accompli, et le royaume de Dieu est proche. Repentez-vous, et croyez à la bonne nouvelle. »	n° 291
+務要	wù yào	ㄨˋ ㄧㄠˋ	il faut absolument	王牧師：那就更要講到讓他放下手機。保羅在提摩太後書四章二節說：「務要傳道，無論得時不得時，總要專心。」	Pasteur Wang : Raison de plus pour prêcher de façon à ce qu'il le pose. Paul dit en 2 Timothée 4.2 : « Prêche la parole, insiste en toute occasion, favorable ou non. »	n° 291
+戰戰兢兢	zhàn zhàn jīng jīng	ㄓㄢˋ ㄓㄢˋ ㄐㄧㄥ ㄐㄧㄥ	avec crainte et tremblement	他一邊修改，一邊輕聲哼著《喜愛祢的話》，心裡戰戰兢兢，卻也有一種說不出的平安。	Tout en corrigeant, il fredonne doucement « J'aime ta parole » ; il tremble intérieurement, mais ressent aussi une paix indicible.	n° 291
+已然未然	yǐ rán wèi rán	ㄧˇ ㄖㄢˊ ㄨㄟˋ ㄖㄢˊ	« déjà et pas encore »	路加：神學上稱這種張力為「已然未然」：神的國已經來臨，卻尚未完全實現。	Luc : En théologie, on appelle cette tension le « déjà et pas encore » : le royaume de Dieu est déjà venu, mais il n'est pas encore pleinement accompli.	n° 292
+末世	mò shì	ㄇㄛˋ ㄕˋ	fin des temps	路加：我們活在這兩者之間。因為「已然」，我們有喜樂；因為「未然」，我們有末世的盼望，也學會忍耐。	Luc : Nous vivons entre les deux. Parce que c'est « déjà », nous avons la joie ; parce que c'est « pas encore », nous avons l'espérance de la fin des temps, et nous apprenons la patience.	n° 292
+婚約	hūn yuē	ㄏㄨㄣ ㄩㄝ	fiançailles ; promesse de mariage	路加頓了一下，笑著說：「這就像婚約。承諾已經確定，戒指已經戴上，但婚禮還沒到。」	Luc s'arrête un instant, puis sourit : « C'est comme des fiançailles. La promesse est scellée, la bague est au doigt, mais le mariage n'a pas encore eu lieu. »	n° 292
