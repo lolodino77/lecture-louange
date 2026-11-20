@@ -113,8 +113,8 @@ vocab: 幔子=voile, rideau sacré | 至聖所=lieu très saint | 大祭司=gran
 ---
 受難週/shou4nan4zhou1 的/de5 星期五/xing1qi2wu3 晚上/wan3shang4 ，恩典教會/en1dian3jiao4hui4 的/de5 禮堂/li3tang2 沒有/mei2you3 開/kai1 大燈/da4deng1 ，只有/zhi3you3 十字架/shi2zi4jia4 旁邊/pang2bian1 兩/liang3 盞/zhan3 小燈/xiao3deng1 。
 = Le vendredi saint au soir, la salle de l'église de la Grâce n'est pas éclairée par les grands plafonniers ; seules deux petites lampes brillent près de la croix.
-美玲/mei3ling2 帶/dai4 著/zhe5 敬拜團/jing4bai4tuan2 很/hen3 輕/qing1 地/de5 唱/chang4 《寶貴/bao3gui4 十字架/shi2zi4jia4 》。歌聲/ge1sheng1 一/yi1 停/ting2 ，整/zheng3 個/ge4 會堂/hui4tang2 就/jiu4 安靜/an1jing4 得/de5 只/zhi3 聽得見/ting1de2jian4 冷氣/leng3qi4 的/de5 聲音/sheng1yin1 。
-= Meiling conduit l'équipe de louange dans un chant très doux, « La précieuse croix ». Quand le chant s'arrête, on n'entend plus dans toute la salle que le souffle de la climatisation.
+美玲/mei3ling2 帶/dai4 著/zhe5 敬拜團/jing4bai4tuan2 很/hen3 輕/qing1 地/de5 唱/chang4 《寶貴/bao3gui4 十字架/shi2zi4jia4 》。
+= Meiling conduit l'équipe de louange dans un chant très doux, « La précieuse croix ».
 張長老/zhang1zhang3lao3 走/zou3 到/dao4 前面/qian2mian4 ，手/shou3 裡/li3 拿/na2 著/zhe5 一/yi1 塊/kuai4 深/shen1 色/se4 的/de5 布/bu4 。
 = L'ancien Zhang s'avance avec dans les mains un morceau de tissu sombre.
 張長老/zhang1zhang3lao3 ：各位/ge4wei4 ，舊約/jiu4yue1 的/de5 聖殿/sheng4dian4 裡/li3 ，有/you3 一/yi1 道/dao4 幔子/man4zi5 ，把/ba3 聖所/sheng4suo3 和/he2 至聖所/zhi4sheng4suo3 隔開/ge2kai1 。
@@ -125,24 +125,18 @@ vocab: 幔子=voile, rideau sacré | 至聖所=lieu très saint | 大祭司=gran
 = Il suspend le tissu entre deux chaises pour que tout le monde voie mieux.
 路加/lu4jia1 坐/zuo4 在/zai4 第三/di4san1 排/pai2 ，忽然/hu1ran2 想起/xiang3qi3 自己/zi4ji3 剛/gang1 信主/xin4zhu3 的/de5 時候/shi2hou5 ，總/zong3 覺得/jue2de5 神/shen2 很/hen3 聖潔/sheng4jie2 ，而/er2 自己/zi4ji3 很/hen3 髒/zang1 ，好像/hao3xiang4 永遠/yong3yuan3 只能/zhi3neng2 站/zhan4 在/zai4 門外/men2wai4 。
 = Assis au troisième rang, Luc se souvient qu'au début de sa foi, il trouvait Dieu si saint et lui-même si sale qu'il avait l'impression de devoir rester dehors pour toujours.
-張長老/zhang1zhang3lao3 打開/da3kai1 馬太福音/ma3tai4fu2yin1 二十七/er4shi2qi1 章/zhang1 五十/wu3shi2 一/yi1 節/jie2 ，慢慢/man4man4 地/de5 念/nian4 ：「忽然/hu1ran2 ，殿/dian4 裡/li3 的/de5 幔子/man4zi5 從/cong2 上/shang4 到/dao4 下/xia4 裂為/lie4wei2 兩/liang3 半/ban4 。」
-= L'ancien Zhang ouvre Matthieu 27.51 et lit lentement : « Et voici, le voile du temple se déchira en deux, depuis le haut jusqu'en bas. »
+張長老/zhang1zhang3lao3 打開/da3kai1 馬太福音/ma3tai4fu2yin1 二十七/er4shi2qi1 章/zhang1 五十/wu3shi2 一/yi1 節/jie2 ，念/nian4 ：「忽然/hu1ran2 ，殿/dian4 裡/li3 的/de5 幔子/man4zi5 從/cong2 上/shang4 到/dao4 下/xia4 裂為/lie4wei2 兩/liang3 半/ban4 。」
+= L'ancien Zhang ouvre Matthieu 27.51 et lit : « Et voici, le voile du temple se déchira en deux, depuis le haut jusqu'en bas. »
 念/nian4 完/wan2 以後/yi3hou4 ，他/ta1 伸/shen1 手/shou3 把/ba3 那/na4 塊/kuai4 布/bu4 用力/yong4li4 一/yi1 拉/la1 ，布/bu4 就/jiu4 從/cong2 中間/zhong1jian1 裂開/lie4kai1 了/le5 。
 = Après avoir lu, il saisit le tissu et le tire d'un coup : le voile se déchire au milieu.
-會堂/hui4tang2 裡/li3 有/you3 人/ren2 倒吸/dao4xi1 了/le5 一/yi1 口/kou3 氣/qi4 。小光/xiao3guang1 坐/zuo4 在/zai4 前面/qian2mian4 ，眼睛/yan3jing1 睜/zheng1 得/de5 圓圓/yuan2yuan2 的/de5 。
-= Dans la salle, quelqu'un inspire brusquement. Xiao Guang, assis devant, ouvre de grands yeux ronds.
+會堂/hui4tang2 裡/li3 有/you3 人/ren2 倒吸/dao4xi1 了/le5 一/yi1 口/kou3 氣/qi4 。
+= Dans la salle, quelqu'un inspire brusquement.
 張長老/zhang1zhang3lao3 ：不是/bu4shi4 人/ren2 從/cong2 下/xia4 往/wang3 上/shang4 撕/si1 開/kai1 的/de5 ，而是/er2shi4 神/shen2 從/cong2 上/shang4 往/wang3 下/xia4 裂開/lie4kai1 的/de5 。意思/yi4si5 是/shi4 ：藉/jie4 著/zhe5 耶穌/ye1su1 的/de5 死/si3 ，那/na4 條/tiao2 把/ba3 罪人/zui4ren2 和/he2 神/shen2 隔開/ge2kai1 的/de5 路/lu4 ，如今/ru2jin1 打開/da3kai1 了/le5 。
 = Ancien Zhang : Ce n'est pas l'homme qui l'a déchiré de bas en haut ; c'est Dieu qui l'a déchiré de haut en bas. Cela veut dire que, par la mort de Jésus, le chemin qui séparait le pécheur de Dieu est désormais ouvert.
-大衛/da4wei4 今天/jin1tian1 也/ye3 來/lai2 了/le5 。他/ta1 坐/zuo4 在/zai4 路加/lu4jia1 旁邊/pang2bian1 ，低聲/di1sheng1 問/wen4 ：「所以/suo3yi3 耶穌/ye1su1 不/bu4 只是/zhi3shi4 一/yi1 個/ge4 殉道者/xun4dao4zhe3 ，而是/er2shi4 真正/zhen1zheng4 的/de5 大祭司/da4ji4si1 ？」
-= David est venu lui aussi. Assis à côté de Luc, il demande à voix basse : « Donc Jésus n'est pas seulement un martyr ; il est le véritable grand prêtre ? »
-路加/lu4jia1 點點頭/dian3dian3tou2 ：「對/dui4 ，也是/ye3shi4 真正/zhen1zheng4 的/de5 祭物/ji4wu4 。希伯來書/xi1bo2lai2shu1 說/shuo1 ，祂/ta1 一次/yi1ci4 獻上/xian4shang4 自己/zi4ji3 ，就/jiu4 成全/cheng2quan2 了/le5 贖罪/shu2zui4 。」
-= Luc hoche la tête : « Oui, et il est aussi la véritable offrande. L'épître aux Hébreux dit qu'en s'offrant lui-même une fois pour toutes, il a accompli l'expiation. »
 張長老/zhang1zhang3lao3 又/you4 念/nian4 了/le5 希伯來書/xi1bo2lai2shu1 四/si4 章/zhang1 十六/shi2liu4 節/jie2 ：「所以/suo3yi3 ，我們/wo3men5 只管/zhi3guan3 坦然無懼/tan3ran2wu2ju4 地/de5 來到/lai2dao4 施恩/shi1en1 的/de5 寶座/bao3zuo4 前/qian2 ，為要/wei4yao4 得/de2 憐恤/lian2xu4 ，蒙/meng2 恩惠/en1hui4 ，作/zuo4 隨時/sui2shi2 的/de5 幫助/bang1zhu4 。」
 = L'ancien Zhang lit encore Hébreux 4.16 : « Approchons-nous donc avec assurance du trône de la grâce, afin d'obtenir miséricorde et de trouver grâce, pour être secourus dans nos besoins. »
 小恩/xiao3en1 聽/ting1 到/dao4 這裡/zhe4li3 ，眼淚/yan3lei4 慢慢/man4man4 地/de5 滑/hua2 下來/xia4lai2 。陳奶奶/chen2nai3nai5 離世/li2shi4 以後/yi3hou4 ，她/ta1 常常/chang2chang2 覺得/jue2de5 自己/zi4ji3 的/de5 禱告/dao3gao4 很/hen3 亂/luan4 ，不知道/bu4zhi1dao4 該/gai1 怎麼/zen3me5 走/zou3 到/dao4 神/shen2 面前/mian4qian2 。
 = En entendant cela, Xiao En laisse lentement couler ses larmes. Depuis la mort de Mamie Chen, elle a souvent l'impression que ses prières sont confuses et qu'elle ne sait plus comment s'approcher de Dieu.
-聚會/ju4hui4 結束/jie2shu4 前/qian2 ，王牧師/wang2mu4shi1 請/qing3 大家/da4jia1 安靜/an1jing4 一/yi1 分鐘/fen1zhong1 。沒有人/mei2you3ren2 被/bei4 要求/yao1qiu2 一定/yi1ding4 要/yao4 說/shuo1 什麼/shen2me5 ，只/zhi3 是/shi4 讓/rang4 每/mei3 個/ge4 人/ren2 自己/zi4ji3 來到/lai2dao4 神/shen2 面前/mian4qian2 。
-= Avant la fin de la réunion, le pasteur Wang demande une minute de silence. Personne n'est obligé de dire quoi que ce soit ; chacun vient simplement devant Dieu.
 路加/lu4jia1 在/zai4 心裡/xin1li3 禱告/dao3gao4 ：「主/zhu3 啊/a5 ，謝謝/xie4xie5 祢/ni3 沒有/mei2you3 把/ba3 我/wo3 擋/dang3 在/zai4 外面/wai4mian4 。」
 = Luc prie intérieurement : « Seigneur, merci de ne pas m'avoir laissé dehors. »
 
@@ -160,18 +154,14 @@ vocab: 復活=ressusciter ; résurrection | 墳墓=tombeau | 清晨=petit matin 
 = Xiao En pose une corbeille de pain chaud sur la table et dit doucement : « Hier soir encore, j'avais le cœur lourd. Mais ce matin, en me levant, une phrase m'est venue d'un coup : “Il n'est pas ici.” »
 路加/lu4jia1 知道/zhi1dao4 她/ta1 說/shuo1 的/de5 是/shi4 天使/tian1shi3 對/dui4 婦女/fu4nv3 說/shuo1 的/de5 話/hua4 ：「祂/ta1 不/bu4 在/zai4 這裡/zhe4li3 ，照/zhao4 祂/ta1 所/suo3 說/shuo1 的/de5 ，已經/yi3jing1 復活/fu4huo2 了/le5 。」
 = Luc sait qu'elle cite les paroles de l'ange aux femmes : « Il n'est point ici ; il est ressuscité, comme il l'avait dit. »
-敬拜/jing4bai4 開始/kai1shi3 前/qian2 ，王牧師/wang2mu4shi1 請/qing3 大家/da4jia1 先/xian1 彼此/bi3ci3 問安/wen4an1 。平常/ping2chang2 大家/da4jia1 會/hui4 說/shuo1 「平安/ping2an1 」；今天/jin1tian1 他/ta1 卻/que4 笑/xiao4 著/zhe5 說/shuo1 ：「今天/jin1tian1 我們/wo3men5 換/huan4 一/yi1 句/ju4 。我/wo3 說/shuo1 『主/zhu3 已經/yi3jing1 復活/fu4huo2 了/le5 ！』，你們/ni3men5 就/jiu4 回/hui2 『祂/ta1 真/zhen1 的/de5 復活/fu4huo2 了/le5 ！』」
-= Avant le début du culte, le pasteur Wang invite l'assemblée à se saluer. D'habitude, on dit « paix » ; aujourd'hui, il sourit et propose autre chose : « Je dirai : “Le Seigneur est ressuscité !” et vous répondrez : “Il est vraiment ressuscité !” »
-會堂/hui4tang2 裡/li3 一下子/yi1xia4zi5 亮/liang4 了/le5 起來/qi3lai2 。連/lian2 平常/ping2chang2 最/zui4 安靜/an1jing4 的/de5 幾/ji3 位/wei4 長輩/zhang3bei4 ，今天/jin1tian1 也/ye3 回/hui2 得/de5 特別/te4bie2 大聲/da4sheng1 。
-= La salle s'illumine d'un coup. Même les anciens les plus réservés répondent aujourd'hui d'une voix forte.
-講道/jiang3dao4 時/shi2 ，王牧師/wang2mu4shi1 沒有/mei2you3 先/xian1 講/jiang3 大/da4 道理/dao4li3 ，而是/er2shi4 問/wen4 ：「如果/ru2guo3 耶穌/ye1su1 沒有/mei2you3 復活/fu4huo2 ，那/na4 會/hui4 怎麼樣/zen3me5yang4 ？」
-= Au moment de la prédication, le pasteur Wang ne commence pas par de grandes idées ; il demande : « Que se passerait-il si Jésus n'était pas ressuscité ? »
+講道/jiang3dao4 時/shi2 ，王牧師/wang2mu4shi1 問/wen4 ：「如果/ru2guo3 耶穌/ye1su1 沒有/mei2you3 復活/fu4huo2 ，那/na4 會/hui4 怎麼樣/zen3me5yang4 ？」
+= Au moment de la prédication, le pasteur Wang demande : « Que se passerait-il si Jésus n'était pas ressuscité ? »
 他/ta1 自己/zi4ji3 回答/hui2da2 ：「那/na4 我們/wo3men5 的/de5 罪/zui4 還/hai2 在/zai4 ，死亡/si3wang2 還/hai2 是/shi4 最後/zui4hou4 的/de5 話/hua4 ，陳奶奶/chen2nai3nai5 的/de5 墳墓/fen2mu4 也/ye3 只是/zhi3shi4 一/yi1 個/ge4 終點/zhong1dian3 。」
 = Il répond lui-même : « Alors notre péché serait encore là, la mort aurait encore le dernier mot, et la tombe de Mamie Chen ne serait qu'un point final. »
 王牧師/wang2mu4shi1 ：「可是/ke3shi4 基督/ji1du1 已經/yi3jing1 復活/fu4huo2 了/le5 。所以/suo3yi3 失望/shi1wang4 不/bu4 是/shi4 結局/jie2ju2 ，眼淚/yan3lei4 不/bu4 是/shi4 結局/jie2ju2 ，連/lian2 死亡/si3wang2 也/ye3 不/bu4 是/shi4 結局/jie2ju2 。」
 = Pasteur Wang : « Mais Christ est ressuscité. Alors la déception n'est pas la fin, les larmes ne sont pas la fin, et même la mort n'est pas la fin. »
-路加/lu4jia1 聽/ting1 著/zhe5 這些/zhe4xie1 話/hua4 ，忽然/hu1ran2 想起/xiang3qi3 去年/qu4nian2 復活節/fu4huo2jie2 前/qian2 ，自己/zi4ji3 還/hai2 在/zai4 和/he2 試探/shi4tan4 爭戰/zheng1zhan4 。那時/na4shi2 他/ta1 只/zhi3 求/qiu2 神/shen2 不/bu4 要/yao4 讓/rang4 他/ta1 跌倒/die2dao3 ；如今/ru2jin1 他/ta1 卻/que4 更/geng4 明白/ming2bai5 ，復活/fu4huo2 不/bu4 只是/zhi3shi4 一/yi1 個/ge4 教義/jiao4yi4 ，而是/er2shi4 每/mei3 一/yi1 天/tian1 重新/chong2xin1 開始/kai1shi3 的/de5 力量/li4liang4 。
-= En entendant ces paroles, Luc se souvient que l'année précédente, avant Pâques, il luttait encore contre la tentation. À l'époque, il demandait seulement à Dieu de ne pas le laisser tomber ; maintenant, il comprend mieux que la résurrection n'est pas seulement une doctrine, mais une force pour recommencer chaque jour.
+路加/lu4jia1 聽/ting1 著/zhe5 這些/zhe4xie1 話/hua4 ，忽然/hu1ran2 明白/ming2bai5 ，復活/fu4huo2 不/bu4 只是/zhi3shi4 一/yi1 個/ge4 教義/jiao4yi4 ，而是/er2shi4 每/mei3 一/yi1 天/tian1 重新/chong2xin1 開始/kai1shi3 的/de5 力量/li4liang4 。
+= En entendant ces paroles, Luc comprend soudain que la résurrection n'est pas seulement une doctrine, mais une force pour recommencer chaque jour.
 聚會/ju4hui4 結束/jie2shu4 後/hou4 ，大家/da4jia1 到/dao4 副堂/fu4tang2 吃/chi1 早餐/zao3can1 。阿傑/a1jie2 一邊/yi1bian1 剝/bo1 茶葉蛋/cha2ye4dan4 ，一邊/yi1bian1 對/dui4 大衛/da4wei4 說/shuo1 ：「你/ni3 看/kan4 ，我們/wo3men5 基督徒/ji1du1tu2 連/lian2 吃/chi1 早餐/zao3can1 都/dou1 在/zai4 宣告/xuan1gao4 復活/fu4huo2 。」
 = Après le culte, tout le monde va prendre le petit-déjeuner dans la salle annexe. En écalant un œuf au thé, A-Jie dit à David : « Tu vois, nous les chrétiens, même au petit-déjeuner on proclame la résurrection. »
 大衛/da4wei4 雖然/sui1ran2 還/hai2 沒有/mei2you3 說/shuo1 自己/zi4ji3 相信/xiang1xin4 ，卻/que4 沒有/mei2you3 像/xiang4 以前/yi3qian2 那樣/na4yang4 立刻/li4ke4 反駁/fan3bo2 。他/ta1 只是/zhi3shi4 看/kan4 著/zhe5 眾人/zhong4ren2 的/de5 臉/lian3 ，好像/hao3xiang4 在/zai4 想/xiang3 ：如果/ru2guo3 這/zhe4 件/jian4 事/shi4 是/shi4 真/zhen1 的/de5 ，那/na4 一切/yi1qie4 都/dou1 要/yao4 更新/geng1xin1 了/le5 。

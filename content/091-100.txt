@@ -177,8 +177,6 @@ vocab: 瞎眼=aveugle | 模糊=flou | 看見=voir ; apercevoir | 如今=maintena
 = Xiao En : Alors le chapitre 9 de Jean que tu lis ce soir t'ira très bien.
 晚上/wan3shang4 ，張長老/zhang1zhang3lao3 說/shuo1 起/qi3 那/na4 個/ge4 生來/sheng1lai2 瞎眼/xia1yan3 的/de5 人/ren2 ：耶穌/ye1su1 讓/rang4 他/ta1 看見/kan4jian4 了/le5 ，可是/ke3shi4 有/you3 人/ren2 不/bu4 相信/xiang1xin4 ，一直/yi1zhi2 問/wen4 他/ta1 ：這/zhe4 怎麼/zen3me5 可能/ke3neng2 ？
 = Le soir, l'ancien Zhang parle de cet homme aveugle de naissance : Jésus lui a rendu la vue, mais certains ne croyaient pas et lui demandaient sans cesse : comment est-ce possible ?
-路加/lu4jia1 ：那/na4 個/ge4 人/ren2 怎麼/zen3me5 回答/hui2da2 ？
-= Luc : Que leur a répondu cet homme ?
 張長老/zhang1zhang3lao3 ：他/ta1 說/shuo1 ：「有/you3 一件事/yi1jian4shi4 我/wo3 知道/zhi1dao4 ，從前/cong2qian2 我/wo3 是/shi4 瞎子/xia1zi5 ，如今/ru2jin1 能/neng2 看見/kan4jian4 了/le5 。」（約翰福音/yue1han4fu2yin1 9:25）
 = L'ancien Zhang : Il a dit : « Une chose, je sais : j'étais aveugle, et maintenant je vois. » (Jean 9:25)
 張長老/zhang1zhang3lao3 ：他/ta1 只/zhi3 說/shuo1 自己/zi4ji3 的/de5 經歷/jing1li4 。有時候/you3shi2hou5 ，信仰/xin4yang3 不是/bu4shi4 先/xian1 弄/nong4 懂/dong3 ，而是/er2shi4 先/xian1 被/bei4 光/guang1 照/zhao4 到/dao4 。
@@ -235,8 +233,6 @@ vocab: 哭=pleurer | 死=mourir ; mort | 復活=ressusciter ; résurrection | �
 = L'ancien Zhang dit doucement : Nous lisons justement aujourd'hui le chapitre 11 de Jean.
 張長老/zhang1zhang3lao3 ：耶穌/ye1su1 的/de5 朋友/peng2you5 拉撒路/la1sa1lu4 死/si3 了/le5 。耶穌/ye1su1 來/lai2 到/dao4 墳墓/fen2mu4 前面/qian2mian4 ，看到/kan4dao4 大家/da4jia1 都/dou1 在/zai4 哭/ku1 。
 = L'ancien Zhang : Lazare, l'ami de Jésus, est mort. Jésus arrive devant le tombeau et voit tout le monde en larmes.
-張長老/zhang1zhang3lao3 ：你/ni3 看/kan4 第三十五/di4san1shi2wu3 節/jie2 。
-= L'ancien Zhang : Regarde le verset 35.
 路加/lu4jia1 慢慢/man4man4 讀/du2 出來/chu1lai2 ：「耶穌/ye1su1 哭/ku1 了/le5 。」（約翰福音/yue1han4fu2yin1 11:35）
 = Luc lit lentement : « Jésus pleura. » (Jean 11:35)
 路加/lu4jia1 愣/leng4 住/zhu4 了/le5 ：祂/ta1 明明/ming2ming2 知道/zhi1dao4 自己/zi4ji3 要/yao4 讓/rang4 拉撒路/la1sa1lu4 復活/fu4huo2 ，為什麼/wei4shen2me5 還/hai2 要/yao4 哭/ku1 ？

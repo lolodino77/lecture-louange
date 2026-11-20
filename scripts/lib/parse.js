@@ -9,7 +9,7 @@ const TOKEN_RE = /([㐀-䶿一-鿿豈-﫿\u{20000}-\u{2FFFF}]+)\/([A-Za-zÜüÀ-
 
 // Niveaux : plage d'identifiants, longueur cible (caractères chinois).
 const LEVELS = [
-  { n: 1, from: 1, to: 60, min: 70, max: 130, name: 'Débutant', hsk: 'HSK 1' },
+  { n: 1, from: 1, to: 60, min: 70, max: 150, name: 'Débutant', hsk: 'HSK 1' },
   { n: 2, from: 61, to: 120, min: 130, max: 220, name: 'Élémentaire', hsk: 'HSK 2' },
   { n: 3, from: 121, to: 180, min: 220, max: 320, name: 'Intermédiaire', hsk: 'HSK 3' },
   { n: 4, from: 181, to: 230, min: 320, max: 430, name: 'Intermédiaire +', hsk: 'HSK 4' },

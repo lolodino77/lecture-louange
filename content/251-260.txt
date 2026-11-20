@@ -9,12 +9,14 @@ tagline: Rentrée au séminaire — alphabet grec, humilité linguistique et Luc
 song: 我要看見
 vocab: 希臘文=grec | 字母=lettre de l'alphabet | 原文=texte original | 謙卑=humble ; humilité | 初學者=débutant
 ---
-二月/er4yue4 底/di3 ，路加/lu4jia1 正式/zheng4shi4 進入/jin4ru4 台北/tai2bei3 的/de5 神學院/shen2xue2yuan4 。
-= Fin février, Luc entre officiellement au séminaire de Taipei.
+二月/er4yue4 底/di3 ，新/xin1 學期/xue2qi2 開始/kai1shi3 ，路加/lu4jia1 回到/hui2dao4 台北/tai2bei3 的/de5 神學院/shen2xue2yuan4 。
+= Fin février, un nouveau semestre commence et Luc retourne au séminaire de Taipei.
 開學/kai1xue2 第/di4 一/yi1 天/tian1 早上/zao3shang4 ，他/ta1 抱/bao4 著/zhe5 新/xin1 課本/ke4ben3 走進/zou3jin4 希臘文/xi1la4wen2 教室/jiao4shi4 ，心裡/xin1li3 竟/jing4 有/you3 一點/yi1dian3 緊張/jin3zhang1 。
 = Le premier matin de la rentrée, il entre dans la salle de grec avec ses nouveaux manuels dans les bras, et se sent étonnamment nerveux.
 老師/lao3shi1 在/zai4 黑板/hei1ban3 上/shang4 寫/xie3 下/xia4 二十四/er4shi2si4 個/ge4 希臘/xi1la4 字母/zi4mu3 ，然後/ran2hou4 說/shuo1 ：今天/jin1tian1 不/bu4 談/tan2 神學/shen2xue2 ，先/xian1 學/xue2 怎麼/zen3me5 像/xiang4 小學生/xiao3xue2sheng1 一樣/yi1yang4 拼字/pin1zi4 。
 = Le professeur écrit les vingt-quatre lettres grecques au tableau, puis dit : Aujourd'hui, pas de théologie ; nous allons d'abord apprendre à épeler comme des écoliers.
+老師/lao3shi1 接著/jie1zhe5 解釋/jie3shi4 ，無論/wu2lun4 你們/ni3men5 以前/yi3qian2 讀/du2 過/guo4 多少/duo1shao3 神學/shen2xue2 書/shu1 ，想/xiang3 直接/zhi2jie1 面對/mian4dui4 聖經/sheng4jing1 的/de5 原文/yuan2wen2 ，就/jiu4 必須/bi4xu1 從/cong2 最/zui4 基本/ji1ben3 的/de5 字母/zi4mu3 開始/kai1shi3 。
+= Le professeur explique ensuite que, quelle que soit la quantité de livres de théologie lus auparavant, pour affronter directement le texte original de la Bible il faut partir des lettres les plus élémentaires.
 全班/quan2ban1 都/dou1 笑/xiao4 了/le5 。
 = Toute la classe rit.
 路加/lu4jia1 卻/que4 突然/tu2ran2 想起/xiang3qi3 自己/zi4ji3 剛/gang1 到/dao4 台灣/tai2wan1 時/shi2 ，連/lian2 注音/zhu4yin1 都/dou1 看/kan4 不/bu4 懂/dong3 的/de5 樣子/yang4zi5 。
@@ -33,10 +35,16 @@ vocab: 希臘文=grec | 字母=lettre de l'alphabet | 原文=texte original | �
 = Puis toute la classe répète avec le professeur : alpha, bêta, gamma…
 路加/lu4jia1 念/nian4 到/dao4 一半/yi1ban4 時/shi2 ，忽然/hu1ran2 發現/fa1xian4 自己/zi4ji3 又/you4 變成/bian4cheng2 了/le5 一/yi1 個/ge4 初學者/chu1xue2zhe3 。
 = Arrivé à la moitié, Luc se rend soudain compte qu'il est redevenu un débutant.
+然而/ran2er2 ，這種/zhe4zhong3 重新/chong2xin1 開始/kai1shi3 的/de5 感覺/gan3jue2 並/bing4 不/bu4 讓/rang4 他/ta1 難堪/nan2kan1 ，反而/fan3er2 有/you3 一/yi1 種/zhong3 奇怪/qi2guai4 的/de5 輕鬆/qing1song1 。
+= Pourtant, ce recommencement ne l'humilie pas ; il lui procure au contraire un étrange sentiment de légèreté.
 下課/xia4ke4 後/hou4 ，他/ta1 打/da3 給/gei3 小恩/xiao3en1 ：我/wo3 今天/jin1tian1 學/xue2 了/le5 二十四/er4shi2si4 個/ge4 新/xin1 字母/zi4mu3 ，感覺/gan3jue2 自己/zi4ji3 又/you4 回到/hui2dao4 交換/jiao1huan4 學生/xue2sheng1 第/di4 一/yi1 週/zhou1 。
 = Après le cours, il appelle Xiao En : Aujourd'hui, j'ai appris vingt-quatre nouvelles lettres, et j'ai l'impression d'être revenu à ma première semaine d'étudiant d'échange.
 小恩/xiao3en1 在/zai4 電話/dian4hua4 那/na4 頭/tou2 笑/xiao4 了/le5 ：很好/hen3hao3 啊/a5 ，這/zhe4 表示/biao3shi4 你/ni3 還/hai2 沒有/mei2you3 以為/yi3wei2 自己/zi4ji3 什麼/shen2me5 都/dou1 懂/dong3 。
 = Xiao En rit au téléphone : C'est très bien ; cela veut dire que tu ne crois pas encore tout savoir.
+小恩/xiao3en1 又/you4 說/shuo1 ：與其/yu3qi2 假裝/jia3zhuang1 自己/zi4ji3 很/hen3 懂/dong3 ，不如/bu4ru2 誠實/cheng2shi2 地/de5 從/cong2 頭/tou2 學起/xue2qi3 ，因為/yin1wei4 神/shen2 從來/cong2lai2 沒有/mei2you3 要求/yao1qiu2 我們/wo3men5 一開始/yi1kai1shi3 就/jiu4 完美/wan2mei3 。
+= Xiao En ajoute : Plutôt que de faire semblant de tout comprendre, mieux vaut apprendre honnêtement depuis le début, car Dieu n'a jamais exigé de nous que nous soyons parfaits dès le départ.
+回到/hui2dao4 宿舍/su4she4 後/hou4 ，他/ta1 把/ba3 二十四/er4shi2si4 個/ge4 字母/zi4mu3 一/yi1 個/ge4 一/yi1 個/ge4 抄/chao1 在/zai4 小/xiao3 卡片/ka3pian4 上/shang4 ，貼/tie1 滿/man3 了/le5 書桌/shu1zhuo1 前/qian2 的/de5 牆/qiang2 。
+= De retour à son logement, il recopie les vingt-quatre lettres une à une sur de petites cartes, qu'il colle sur tout le mur devant son bureau.
 晚上/wan3shang4 靈修/ling2xiu1 時/shi2 ，路加/lu4jia1 在/zai4 筆記本/bi3ji4ben3 上/shang4 寫/xie3 下/xia4 ：學/xue2 原文/yuan2wen2 的/de5 第一/di4yi1 課/ke4 ，不是/bu4shi4 字母/zi4mu3 ，而是/er2shi4 謙卑/qian1bei1 。
 = Le soir, pendant son temps de méditation, Luc écrit dans son carnet : la première leçon des langues originales, ce ne sont pas les lettres, mais l'humilité.
 
@@ -64,14 +72,22 @@ vocab: 解經=interpréter l'Écriture | 上下文=contexte | 文類=genre litt�
 = Professeur Lin : Beaucoup aiment ce verset, parce qu'il parle de paix et d'espérance.
 林老師/lin2lao3shi1 ：可是/ke3shi4 如果/ru2guo3 你/ni3 不/bu4 看/kan4 上下文/shang4xia4wen2 ，就/jiu4 會/hui4 忘記/wang4ji4 這/zhe4 是/shi4 對/dui4 被/bei4 擄/lu3 到/dao4 巴比倫/ba1bi3lun2 的/de5 百姓/bai3xing4 說/shuo1 的/de5 話/hua4 ，而且/er2qie3 他們/ta1men5 還/hai2 要/yao4 等/deng3 七十/qi1shi2 年/nian2 。
 = Professeur Lin : Mais si vous ne regardez pas le contexte, vous oubliez que ces paroles sont adressées à un peuple exilé à Babylone, et qu'il doit encore attendre soixante-dix ans.
+林老師/lin2lao3shi1 ：換句話說/huan4ju4hua4shuo1 ，這/zhe4 節/jie2 經文/jing1wen2 的確/di2que4 是/shi4 神/shen2 的/de5 應許/ying1xu3 ，然而/ran2er2 它/ta1 的/de5 意思/yi4si5 ，必須/bi4xu1 先/xian1 放/fang4 回/hui2 被/bei4 擄/lu3 的/de5 歷史/li4shi3 裡/li3 ，才能/cai2neng2 再/zai4 談/tan2 我們/wo3men5 今天/jin1tian1 如何/ru2he2 應用/ying4yong4 。
+= Professeur Lin : Autrement dit, ce verset est bien une promesse de Dieu, mais son sens doit d'abord être replacé dans l'histoire des exilés, avant de se demander comment nous l'appliquons aujourd'hui.
 路加/lu4jia1 一邊/yi1bian1 記/ji4 筆記/bi3ji4 ，一邊/yi1bian1 想/xiang3 起/qi3 自己/zi4ji3 以前/yi3qian2 也/ye3 常/chang2 常/chang2 把/ba3 聖經/sheng4jing1 當作/dang4zuo4 靈感/ling2gan3 語錄/yu3lu4 。
 = Luc prend des notes tout en se rappelant qu'il traitait lui aussi souvent la Bible comme un recueil de citations inspirantes.
+他/ta1 發現/fa1xian4 ，過去/guo4qu4 自己/zi4ji3 其實/qi2shi2 不是/bu4shi4 在/zai4 聽/ting1 神/shen2 說話/shuo1hua4 ，而是/er2shi4 在/zai4 找/zhao3 一/yi1 句/ju4 可以/ke3yi3 安慰/an1wei4 自己/zi4ji3 的/de5 話/hua4 。
+= Il se rend compte qu'autrefois il n'écoutait pas vraiment Dieu parler, mais cherchait une phrase capable de le rassurer lui-même.
 下課/xia4ke4 後/hou4 ，大衛/da4wei4 來/lai2 找/zhao3 他/ta1 吃/chi1 午飯/wu3fan4 。
 = Après le cours, David vient déjeuner avec lui.
 大衛/da4wei4 ：所以/suo3yi3 你們/ni3men5 現在/xian4zai4 學/xue2 的/de5 ，就是/jiu4shi4 不/bu4 要/yao4 斷章取義/duan4zhang1qu3yi4 ？
 = David : Donc ce que vous apprenez maintenant, c'est à ne pas citer hors contexte ?
 路加/lu4jia1 ：對/dui4 ，而且/er2qie3 還/hai2 要/yao4 看/kan4 文類/wen2lei4 。詩篇/shi1pian1 不是/bu4shi4 保羅/bao3luo2 書信/shu1xin4 ，啟示錄/qi3shi4lu4 也/ye3 不/bu4 是/shi4 箴言/zhen1yan2 。
 = Luc : Oui, et il faut aussi regarder le genre littéraire. Les Psaumes ne sont pas les épîtres de Paul, et l'Apocalypse n'est pas le livre des Proverbes.
+大衛/da4wei4 ：可是/ke3shi4 這樣/zhe4yang4 一來/yi1lai2 ，聖經/sheng4jing1 不/bu4 就/jiu4 變得/bian4de5 離/li2 我們/wo3men5 很/hen3 遠/yuan3 了/le5 嗎/ma5 ？
+= David : Mais dans ce cas, la Bible ne devient-elle pas très lointaine pour nous ?
+路加/lu4jia1 ：不/bu4 會/hui4 。正好/zheng4hao3 相反/xiang1fan3 ，當/dang1 我們/wo3men5 看見/kan4jian4 神/shen2 曾經/ceng2jing1 如何/ru2he2 對/dui4 當時/dang1shi2 的/de5 人/ren2 說話/shuo1hua4 ，就/jiu4 更/geng4 能/neng2 明白/ming2bai5 祂/ta1 今天/jin1tian1 會/hui4 怎樣/zen3yang4 對/dui4 我們/wo3men5 說話/shuo1hua4 。
+= Luc : Non. Au contraire : quand nous voyons comment Dieu parlait aux gens de l'époque, nous comprenons mieux comment il nous parle aujourd'hui.
 大衛/da4wei4 笑/xiao4 了/le5 ：聽起來/ting1qi3lai2 很/hen3 像/xiang4 你/ni3 們/men5 在/zai4 學/xue2 怎麼/zen3me5 不/bu4 要/yao4 誤會/wu4hui4 神/shen2 。
 = David rit : On dirait que vous apprenez surtout à ne pas mal comprendre Dieu.
 路加/lu4jia1 ：沒錯/mei2cuo4 ，這/zhe4 已經/yi3jing1 是/shi4 很/hen3 大/da4 的/de5 恩典/en1dian3 了/le5 。
@@ -93,22 +109,32 @@ vocab: 希伯來文=hébreu | 舌頭=langue | 忍耐=patience
 = Professeur : Parce que l'hébreu se lit en commençant par la droite.
 全班/quan2ban1 幾乎/ji1hu1 同時/tong2shi2 發出/fa1chu1 一聲/yi1sheng1 哀號/ai1hao2 。
 = Toute la classe pousse presque en même temps un gémissement.
+老師/lao3shi1 微笑/wei2xiao4 著/zhe5 補充/bu3chong1 ：不僅/bu4jin3 方向/fang1xiang4 相反/xiang1fan3 ，母音/mu3yin1 還/hai2 只是/zhi3shi4 寫/xie3 在/zai4 字母/zi4mu3 上下/shang4xia4 的/de5 小/xiao3 點/dian3 ，所以/suo3yi3 你們/ni3men5 只能/zhi3neng2 放慢/fang4man4 速度/su4du4 。
+= Le professeur ajoute en souriant : Non seulement le sens est inversé, mais les voyelles ne sont que de petits points au-dessus et en dessous des lettres ; vous ne pouvez donc que ralentir.
 路加/lu4jia1 看/kan4 著/zhe5 課本/ke4ben3 上/shang4 那些/na4xie1 像/xiang4 小鉤子/xiao3gou1zi5 和/he2 小方塊/xiao3fang1kuai4 的/de5 字母/zi4mu3 ，忽然/hu1ran2 覺得/jue2de5 希臘文/xi1la4wen2 其實/qi2shi2 已經/yi3jing1 很/hen3 親切/qin1qie4 了/le5 。
 = En regardant les lettres du manuel, qui ressemblent à de petits crochets et de petits carrés, Luc se dit soudain que le grec était finalement assez accueillant.
 老師/lao3shi1 在/zai4 黑板/hei1ban3 上/shang4 寫/xie3 下/xia4 第一/di4yi1 個/ge4 字/zi4 ：בְּרֵאשִׁית 。
 = Le professeur écrit au tableau le premier mot : בְּרֵאשִׁית.
 老師/lao3shi1 ：這/zhe4 是/shi4 創世記/chuang4shi4ji4 第一/di4yi1 個/ge4 字/zi4 ，意思/yi4si5 是/shi4 「起初/qi3chu1 」。
 = Professeur : C'est le premier mot de la Genèse, et il signifie « au commencement ».
+老師/lao3shi1 ：舊約/jiu4yue1 的/de5 作者/zuo4zhe3 就/jiu4 是/shi4 用/yong4 這些/zhe4xie1 字/zi4 ，寫/xie3 下/xia4 神/shen2 創造/chuang4zao4 天地/tian1di4 的/de5 故事/gu4shi5 ，所以/suo3yi3 我們/wo3men5 願意/yuan4yi4 花/hua1 時間/shi2jian1 慢慢/man4man4 讀/du2 ，因為/yin1wei4 神/shen2 的/de5 話/hua4 不是/bu4shi4 用來/yong4lai2 趕/gan3 進度/jin4du4 的/de5 。
+= Professeur : C'est avec ces mots que les auteurs de l'Ancien Testament ont écrit l'histoire de la création du ciel et de la terre ; c'est pourquoi nous acceptons de prendre le temps de lire lentement, car la parole de Dieu n'est pas faite pour boucler un programme.
 路加/lu4jia1 小聲/xiao3sheng1 跟/gen1 著/zhe5 念/nian4 ，結果/jie2guo3 喉嚨/hou2long2 很/hen3 快/kuai4 就/jiu4 累/lei4 了/le5 。
 = Luc le répète à voix basse, et sa gorge se fatigue très vite.
+他/ta1 看見/kan4jian4 前面/qian2mian4 的/de5 同學/tong2xue2 一邊/yi1bian1 念/nian4 ，一邊/yi1bian1 偷偷/tou1tou1 喝/he1 水/shui3 ，才/cai2 知道/zhi1dao4 原來/yuan2lai2 大家/da4jia1 都/dou1 一樣/yi1yang4 吃力/chi1li4 。
+= Il voit un camarade devant lui qui récite tout en buvant discrètement de l'eau, et comprend que tout le monde peine autant que lui.
 旁邊/pang2bian1 的/de5 同學/tong2xue2 忍不住/ren3bu4zhu4 說/shuo1 ：我/wo3 現在/xian4zai4 終於/zhong1yu2 明白/ming2bai5 ，為什麼/wei4shen2me5 舊約/jiu4yue1 先知/xian1zhi1 常/chang2 常/chang2 聽/ting1 起來/qi3lai2 那麼/na4me5 嚴肅/yan2su4 了/le5 。
 = L'étudiant à côté de lui ne peut s'empêcher de dire : Je comprends enfin pourquoi les prophètes de l'Ancien Testament ont l'air si sévères.
 下課/xia4ke4 時/shi2 ，路加/lu4jia1 一邊/yi1bian1 收/shou1 書/shu1 ，一邊/yi1bian1 對/dui4 自己/zi4ji3 苦笑/ku3xiao4 ：我/wo3 以前/yi3qian2 以為/yi3wei2 神學/shen2xue2 主要/zhu3yao4 是/shi4 思想/si1xiang3 的/de5 操練/cao1lian4 ，現在/xian4zai4 才/cai2 發現/fa1xian4 連/lian2 舌頭/she2tou2 都/dou1 要/yao4 一起/yi1qi3 受訓/shou4xun4 。
 = En rangeant ses livres à la fin du cours, Luc sourit tristement : Je croyais que la théologie était surtout un exercice de pensée ; je découvre maintenant que même la langue doit s'entraîner.
 晚上/wan3shang4 回到/hui2dao4 教會/jiao4hui4 練團/lian4tuan2 ，阿傑/a1jie2 聽/ting1 他/ta1 模仿/mo2fang3 希伯來文/xi1bo2lai2wen2 的/de5 發音/fa1yin1 ，笑/xiao4 得/de5 差點/cha4dian3 把/ba3 吉他/ji2ta1 掉/diao4 在/zai4 地上/di4shang4 。
 = Le soir, de retour à la répétition à l'église, A-Jie l'entend imiter la prononciation de l'hébreu et rit presque au point de faire tomber sa guitare.
-阿傑/a1jie2 ：你/ni3 現在/xian4zai4 禱告/dao3gao4 的/de5 時候/shi2hou5 ，會/hui4 不/bu4 會/hui4 比/bi3 以前/yi3qian2 更/geng4 像/xiang4 舊約/jiu4yue1 先知/xian1zhi1 ？
-= A-Jie : Quand tu pries maintenant, est-ce que tu ressembles davantage à un prophète de l'Ancien Testament ?
+阿傑/a1jie2 ：那/na4 你/ni3 天天/tian1tian1 這樣/zhe4yang4 練/lian4 ，神/shen2 聽到/ting1dao4 會/hui4 不/bu4 會/hui4 覺得/jue2de5 很/hen3 好笑/hao3xiao4 ？
+= A-Jie : Alors, quand tu t'exerces ainsi tous les jours, est-ce que Dieu ne trouve pas ça très drôle ?
+路加/lu4jia1 ：我/wo3 想/xiang3 祂/ta1 不/bu4 會/hui4 在意/zai4yi4 我/wo3 的/de5 發音/fa1yin1 ，只/zhi3 在意/zai4yi4 我/wo3 有/you3 沒有/mei2you3 誠實/cheng2shi2 地/de5 開口/kai1kou3 。
+= Luc : Je pense qu'il ne se soucie pas de ma prononciation, seulement de savoir si j'ouvre la bouche avec sincérité.
+阿傑/a1jie2 又/you4 問/wen4 ：你/ni3 現在/xian4zai4 禱告/dao3gao4 的/de5 時候/shi2hou5 ，會/hui4 不/bu4 會/hui4 比/bi3 以前/yi3qian2 更/geng4 像/xiang4 舊約/jiu4yue1 先知/xian1zhi1 ？
+= A-Jie demande encore : Quand tu pries maintenant, est-ce que tu ressembles davantage à un prophète de l'Ancien Testament ?
 路加/lu4jia1 ：不/bu4 會/hui4 ，我/wo3 只/zhi3 會/hui4 更/geng4 有/you3 忍耐/ren3nai4 。
 = Luc : Non. J'aurai seulement plus de patience.
 
@@ -128,20 +154,32 @@ vocab: 靈修=méditation spirituelle | 操練=discipline, exercice | 比較=se 
 = Certains disent qu'ils sont trop occupés, d'autres qu'ils se dispersent facilement, d'autres encore qu'ils ont envie de dormir dès qu'ils prient.
 輪到/lun2dao4 路加/lu4jia1 時/shi2 ，他/ta1 想/xiang3 了/le5 一下/yi1xia4 ：我/wo3 最近/zui4jin4 最大/zui4da4 的/de5 問題/wen4ti2 ，是/shi4 會/hui4 把/ba3 靈修/ling2xiu1 當作/dang4zuo4 一/yi1 種/zhong3 作業/zuo4ye4 。
 = Quand vient le tour de Luc, il réfléchit un instant : Mon plus grand problème récent, c'est que je traite ma méditation comme un devoir à rendre.
+其他/qi2ta1 同學/tong2xue2 先是/xian1shi4 安靜/an1jing4 ，接著/jie1zhe5 有/you3 人/ren2 輕輕/qing1qing1 笑/xiao4 了/le5 ，因為/yin1wei4 大家/da4jia1 都/dou1 在/zai4 這/zhe4 句/ju4 話/hua4 裡/li3 看見/kan4jian4 了/le5 自己/zi4ji3 的/de5 影子/ying3zi5 。
+= Les autres étudiants se taisent d'abord, puis certains rient doucement, car chacun a reconnu un peu de sa propre ombre dans ces mots.
 老師/lao3shi1 立刻/li4ke4 點頭/dian3tou2 ：這/zhe4 是/shi4 神學生/shen2xue2sheng1 最/zui4 常見/chang2jian4 的/de5 病/bing4 。
 = Le professeur hoche aussitôt la tête : C'est la maladie la plus fréquente chez les séminaristes.
+老師/lao3shi1 ：因為/yin1wei4 我們/wo3men5 習慣/xi2guan4 用/yong4 成績/cheng2ji4 和/he2 效率/xiao4lv4 看待/kan4dai4 一切/yi1qie4 ，結果/jie2guo3 連/lian2 禱告/dao3gao4 也/ye3 悄悄/qiao1qiao1 變成/bian4cheng2 了/le5 一/yi1 張/zhang1 成績單/cheng2ji4dan1 。
+= Professeur : Parce que nous avons l'habitude de tout mesurer à l'aune des notes et de l'efficacité ; si bien que même la prière se transforme discrètement en bulletin de notes.
 老師/lao3shi1 ：你/ni3 們/men5 讀/du2 聖經/sheng4jing1 、寫/xie3 筆記/bi3ji4 、查/cha2 原文/yuan2wen2 ，久/jiu3 了/le5 以後/yi3hou4 ，很/hen3 容易/rong2yi4 忘記/wang4ji4 自己/zi4ji3 不是/bu4shi4 在/zai4 準備/zhun3bei4 報告/bao4gao4 ，而是/er2shi4 在/zai4 親近/qin1jin4 神/shen2 。
 = Professeur : Vous lisez la Bible, vous prenez des notes, vous consultez les langues originales, et au bout d'un moment vous oubliez facilement que vous ne préparez pas un exposé, mais que vous vous approchez de Dieu.
 老師/lao3shi1 ：靈修/ling2xiu1 不是/bu4shi4 表現/biao3xian4 ，也/ye3 不是/bu4shi4 比較/bi3jiao4 。
 = Professeur : La méditation n'est pas une performance, ni une comparaison.
 老師/lao3shi1 ：你/ni3 今天/jin1tian1 讀/du2 三/san1 章/zhang1 ，別人/bie2ren2 讀/du2 十/shi2 章/zhang1 ，這/zhe4 不/bu4 代表/dai4biao3 神/shen2 比較/bi3jiao4 愛/ai4 誰/shei2 。
 = Professeur : Si aujourd'hui tu lis trois chapitres et quelqu'un d'autre dix, cela ne veut pas dire que Dieu aime davantage l'un que l'autre.
+老師/lao3shi1 ：天父/tian1fu4 不/bu4 是/shi4 閱卷/yue4juan4 的/de5 老師/lao3shi1 ，祂/ta1 是/shi4 願意/yuan4yi4 等/deng3 你/ni3 坐/zuo4 下來/xia4lai2 的/de5 父親/fu4qin1 。
+= Professeur : Le Père céleste n'est pas un professeur qui corrige des copies ; c'est un père qui est prêt à t'attendre pendant que tu t'assieds.
 這/zhe4 句/ju4 話/hua4 讓/rang4 路加/lu4jia1 想起/xiang3qi3 自己/zi4ji3 最近/zui4jin4 常/chang2 常/chang2 偷偷/tou1tou1 跟/gen1 同學/tong2xue2 比/bi3 誰/shei2 起床/qi3chuang2 更/geng4 早/zao3 。
 = Cette phrase rappelle à Luc qu'il se compare souvent en secret à ses camarades pour savoir qui se lève le plus tôt.
+他/ta1 甚至/shen4zhi4 發現/fa1xian4 ，有時/you3shi2 候/hou5 自己/zi4ji3 禱告/dao3gao4 ，不是/bu4shi4 因為/yin1wei4 想念/xiang3nian4 神/shen2 ，而是/er2shi4 怕/pa4 少/shao3 了/le5 一/yi1 項/xiang4 「功課/gong1ke4 」就/jiu4 會/hui4 落後/luo4hou4 別人/bie2ren2 。
+= Il remarque même que parfois, s'il prie, ce n'est pas par désir de Dieu, mais par crainte de manquer un « devoir » et de prendre du retard sur les autres.
 下課/xia4ke4 後/hou4 ，他/ta1 一個人/yi1ge4ren2 留/liu2 在/zai4 禱告室/dao3gao4shi4 裡/li3 ，沒有/mei2you3 帶/dai4 任何/ren4he2 參考書/can1kao3shu1 ，只/zhi3 帶/dai4 了/le5 一/yi1 本/ben3 聖經/sheng4jing1 。
 = Après le cours, il reste seul dans la salle de prière, sans aucun livre de référence, avec seulement sa Bible.
 他/ta1 讀/du2 詩篇/shi1pian1 二十七/er4shi2qi1 篇/pian1 四/si4 節/jie2 ，讀/du2 得/de5 很/hen3 慢/man4 。
 = Il lit le Psaume 27.4, très lentement.
+他/ta1 發現/fa1xian4 ，詩人/shi1ren2 在/zai4 這/zhe4 節/jie2 裡/li3 只/zhi3 求/qiu2 一/yi1 件/jian4 事/shi4 ：就是/jiu4shi4 住/zhu4 在/zai4 耶和華/ye1he2hua2 的/de5 殿/dian4 中/zhong1 ，瞻仰/zhan1yang3 祂/ta1 的/de5 榮美/rong2mei3 。
+= Il constate que le psalmiste ne demande, dans ce verset, qu'une seule chose : habiter dans la maison de l'Éternel et contempler sa beauté.
+他/ta1 慢慢/man4man4 明白/ming2bai5 ，禱告/dao3gao4 不/bu4 需要/xu1yao4 華麗/hua2li4 的/de5 句子/ju4zi5 ，也/ye3 不/bu4 需要/xu1yao4 完整/wan2zheng3 的/de5 結論/jie2lun4 ，只要/zhi3yao4 願意/yuan4yi4 安靜/an1jing4 地/de5 留/liu2 在/zai4 祂/ta1 面前/mian4qian2 。
+= Peu à peu, il comprend que la prière n'a besoin ni de belles phrases ni de conclusion complète ; il suffit d'accepter de rester en silence devant lui.
 那/na4 一/yi1 天/tian1 他/ta1 沒有/mei2you3 寫/xie3 很/hen3 多/duo1 筆記/bi3ji4 ，卻/que4 覺得/jue2de5 自己/zi4ji3 比/bi3 前/qian2 幾/ji3 週/zhou1 更/geng4 親近/qin1jin4 神/shen2 。
 = Ce jour-là, il n'écrit pas beaucoup de notes, mais il se sent plus proche de Dieu que les semaines précédentes.
 
@@ -157,22 +195,34 @@ vocab: 實習=stage | 探訪=visite pastorale | 實驗室=laboratoire | 安慰=c
 = À la mi-avril, le pasteur Wang commence à emmener Luc en stage pastoral à l'église.
 第一/di4yi1 次/ci4 探訪/tan4fang3 的/de5 對象/dui4xiang4 ，是/shi4 一/yi1 位/wei4 剛/gang1 失去/shi1qu4 丈夫/zhang4fu5 的/de5 老/lao3 姐妹/jie3mei4 。
 = La première visite est pour une sœur âgée qui vient de perdre son mari.
+王牧師/wang2mu4shi1 在/zai4 出發/chu1fa1 前/qian2 只/zhi3 交代/jiao1dai4 了/le5 一/yi1 句/ju4 ：今天/jin1tian1 你/ni3 先/xian1 用/yong4 耳朵/er3duo5 ，不要/bu4yao4 急著/ji2zhe5 用/yong4 嘴巴/zui3ba5 。
+= Avant de partir, le pasteur Wang ne lui recommande qu'une chose : Aujourd'hui, utilise d'abord tes oreilles, ne te précipite pas à utiliser ta bouche.
 去/qu4 的/de5 路上/lu4shang4 ，路加/lu4jia1 在/zai4 心裡/xin1li3 想/xiang3 了/le5 很/hen3 多/duo1 可以/ke3yi3 安慰/an1wei4 人/ren2 的/de5 經文/jing1wen2 和/he2 神學/shen2xue2 觀念/guan1nian4 。
 = Sur le chemin, Luc pense à beaucoup de versets et d'idées théologiques qui pourraient consoler quelqu'un.
 可是/ke3shi4 一進門/yi1jin4men2 ，他/ta1 就/jiu4 發現/fa1xian4 自己/zi4ji3 準備/zhun3bei4 的/de5 那些/na4xie1 話/hua4 幾乎/ji1hu1 都/dou1 說/shuo1 不/bu4 出來/chu1lai2 。
 = Mais dès qu'il entre, il se rend compte qu'il n'arrive presque pas à dire tout ce qu'il avait préparé.
+屋子/wu1zi5 裡/li3 很/hen3 整齊/zheng3qi2 ，卻/que4 安靜/an1jing4 得/de5 讓/rang4 人/ren2 不/bu4 敢/gan3 大聲/da4sheng1 說話/shuo1hua4 ，連/lian2 牆上/qiang2shang4 時鐘/shi2zhong1 的/de5 聲音/sheng1yin1 都/dou1 顯得/xian3de5 特別/te4bie2 響/xiang3 。
+= La maison est très bien rangée, mais si silencieuse que l'on n'ose pas parler fort ; même le bruit de l'horloge au mur paraît particulièrement fort.
 那/na4 位/wei4 姐妹/jie3mei4 坐/zuo4 在/zai4 沙發/sha1fa1 上/shang4 ，手/shou3 裡/li3 抱/bao4 著/zhe5 丈夫/zhang4fu5 生前/sheng1qian2 常/chang2 常/chang2 用/yong4 的/de5 聖經/sheng4jing1 。
 = La sœur est assise sur le canapé, tenant dans ses bras la Bible que son mari utilisait souvent de son vivant.
 她/ta1 一看見/yi1kan4jian4 王牧師/wang2mu4shi1 ，眼淚/yan3lei4 就/jiu4 掉/diao4 下來/xia4lai2 了/le5 。
 = Dès qu'elle voit le pasteur Wang, les larmes lui montent aux yeux.
+她/ta1 輕聲/qing1sheng1 說/shuo1 ：他/ta1 走/zou3 了/le5 以後/yi3hou4 ，我/wo3 常/chang2 常/chang2 不/bu4 知道/zhi1dao4 該/gai1 問/wen4 神/shen2 什麼/shen2me5 ，只/zhi3 覺得/jue2de5 家/jia1 裡/li3 太/tai4 大/da4 了/le5 。
+= Elle dit doucement : Depuis son départ, je ne sais souvent pas quoi demander à Dieu ; je sens seulement que la maison est devenue trop grande.
 王牧師/wang2mu4shi1 沒有/mei2you3 立刻/li4ke4 講/jiang3 道理/dao4li3 ，只是/zhi3shi4 坐/zuo4 在/zai4 她/ta1 旁邊/pang2bian1 ，陪/pei2 她/ta1 安靜/an1jing4 了/le5 很/hen3 久/jiu3 。
 = Le pasteur Wang ne commence pas tout de suite à expliquer des vérités ; il s'assied simplement à côté d'elle et reste longtemps en silence avec elle.
 後來/hou4lai2 ，他/ta1 只/zhi3 讀/du2 了/le5 詩篇/shi1pian1 三十四/san1shi2si4 篇/pian1 十八/shi2ba1 節/jie2 ：「耶和華/ye1he2hua2 靠近/kao4jin4 傷心/shang1xin1 的/de5 人/ren2 ，拯救/zheng3jiu4 靈性/ling2xing4 痛悔/tong4hui3 的/de5 人/ren2 。」
 = Plus tard, il lit seulement le Psaume 34.18 : « L'Éternel est près de ceux qui ont le cœur brisé, et il sauve ceux qui ont l'esprit dans l'abattement. »
+她/ta1 聽/ting1 完/wan2 以後/yi3hou4 沒有/mei2you3 說/shuo1 話/hua4 ，只是/zhi3shi4 把/ba3 聖經/sheng4jing1 抱/bao4 得/de5 更/geng4 緊/jin3 ，臨走/lin2zou3 前/qian2 還/hai2 小聲/xiao3sheng1 說/shuo1 ：謝謝/xie4xie5 你們/ni3men5 今天/jin1tian1 來/lai2 坐/zuo4 。
+= Après avoir écouté, elle ne dit rien et serre seulement la Bible plus fort ; juste avant leur départ, elle murmure : Merci d'être venus vous asseoir aujourd'hui.
 回程/hui2cheng2 的/de5 公車/gong1che1 上/shang4 ，路加/lu4jia1 有點/you3dian3 沮喪/ju3sang4 ：我/wo3 本來/ben3lai2 準備/zhun3bei4 了/le5 很/hen3 多/duo1 關於/guan1yu2 復活/fu4huo2 和/he2 盼望/pan4wang4 的/de5 話/hua4 。
 = Dans le bus du retour, Luc est un peu découragé : J'avais préparé beaucoup de choses sur la résurrection et l'espérance.
+路加/lu4jia1 ：可是/ke3shi4 我/wo3 在/zai4 那裡/na4li3 坐/zuo4 了/le5 一/yi1 個/ge4 小時/xiao3shi2 ，幾乎/ji1hu1 什麼/shen2me5 都/dou1 沒有/mei2you3 說/shuo1 ，甚至/shen4zhi4 覺得/jue2de5 自己/zi4ji3 沒有/mei2you3 幫/bang1 上/shang4 任何/ren4he2 忙/mang2 。
+= Luc : Mais je suis resté assis là une heure, presque sans rien dire, et j'ai même eu l'impression de n'avoir aidé en rien.
 王牧師/wang2mu4shi1 ：那些/na4xie1 都/dou1 是/shi4 真理/zhen1li3 ，可是/ke3shi4 今天/jin1tian1 她/ta1 最/zui4 需要/xu1yao4 的/de5 ，不是/bu4shi4 一/yi1 堂/tang2 小型/xiao3xing2 神學/shen2xue2 講座/jiang3zuo4 。
 = Pasteur Wang : Tout cela est vrai, mais aujourd'hui, ce dont elle avait le plus besoin, ce n'était pas d'une petite conférence de théologie.
+王牧師/wang2mu4shi1 ：而且/er2qie3 你/ni3 並/bing4 不/bu4 是/shi4 什麼/shen2me5 都/dou1 沒有/mei2you3 做/zuo4 ，你/ni3 把/ba3 自己/zi4ji3 的/de5 時間/shi2jian1 和/he2 耳朵/er3duo5 都/dou1 留給/liu2gei3 了/le5 她/ta1 。
+= Pasteur Wang : Et tu n'as pas rien fait : tu lui as donné ton temps et tes oreilles.
 王牧師/wang2mu4shi1 ：教會/jiao4hui4 不是/bu4shi4 神學/shen2xue2 的/de5 實驗室/shi2yan4shi4 。
 = Pasteur Wang : L'Église n'est pas un laboratoire pour la théologie.
 王牧師/wang2mu4shi1 ：有時/you3shi2 候/hou5 ，最/zui4 正確/zheng4que4 的/de5 教義/jiao4yi4 ，就是/jiu4shi4 知道/zhi1dao4 什麼/shen2me5 時候/shi2hou5 先/xian1 坐/zuo4 下來/xia4lai2 陪/pei2 人/ren2 。
@@ -194,16 +244,24 @@ vocab: 末世論=eschatologie | 再來=zvenir de nouveau | 盼望=espérance | �
 = Dès qu'on mentionne l'Apocalypse et le millénium, toute la classe se réveille aussitôt.
 有/you3 人/ren2 支持/zhi1chi2 前千禧年/qian2qian1xi3nian2 ，有人/you3ren2 比較/bi3jiao4 傾向/qing1xiang4 無千禧年/wu2qian1xi3nian2 ，還/hai2 有/you3 人/ren2 說/shuo1 自己/zi4ji3 只/zhi3 想/xiang3 先/xian1 把/ba3 希臘文/xi1la4wen2 考試/kao3shi4 通過/tong1guo4 。
 = Certains soutiennent le prémillénarisme, d'autres penchent vers l'amillénarisme, et d'autres disent qu'ils veulent surtout réussir leur examen de grec.
+然而/ran2er2 ，爭論/zheng1lun4 越/yue4 熱烈/re4lie4 ，林老師/lin2lao3shi1 的/de5 表情/biao3qing2 反而/fan3er2 越/yue4 平靜/ping2jing4 ，好像/hao3xiang4 早就/zao3jiu4 知道/zhi1dao4 這/zhe4 場/chang3 討論/tao3lun4 會/hui4 怎麼/zen3me5 發展/fa1zhan3 。
+= Pourtant, plus la discussion s'échauffe, plus le visage du professeur Lin reste calme, comme s'il savait depuis longtemps comment ce débat allait évoluer.
 林老師/lin2lao3shi1 沒有/mei2you3 急著/ji2zhe5 站/zhan4 隊/dui4 ，反而/fan3er2 先/xian1 問/wen4 ：無論/wu2lun4 你/ni3 採取/cai3qu3 哪/na3 一/yi1 種/zhong3 觀點/guan1dian3 ，末世論/mo4shi4lun4 最/zui4 基本/ji1ben3 的/de5 盼望/pan4wang4 是/shi4 什麼/shen2me5 ？
 = Le professeur Lin ne prend pas tout de suite parti ; il demande d'abord : quelle est l'espérance la plus fondamentale de l'eschatologie, quelle que soit votre position ?
 教室/jiao4shi4 安靜/an1jing4 了/le5 幾/ji3 秒/miao3 。
 = La salle reste silencieuse quelques secondes.
+有人/you3ren2 低頭/di1tou2 翻/fan1 筆記/bi3ji4 ，有人/you3ren2 望/wang4 向/xiang4 窗外/chuang1wai4 ，好像/hao3xiang4 都/dou1 在/zai4 找/zhao3 一/yi1 個/ge4 比/bi3 自己/zi4ji3 的/de5 立場/li4chang3 更/geng4 深/shen1 的/de5 答案/da2an4 。
+= Les uns baissent la tête sur leurs notes, les autres regardent par la fenêtre, comme s'ils cherchaient tous une réponse plus profonde que leur propre position.
 路加/lu4jia1 回答/hui2da2 ：不是/bu4shi4 我/wo3 們/men5 逃離/tao2li2 世界/shi4jie4 ，而是/er2shi4 基督/ji1du1 再來/zai4lai2 ，使/shi3 萬有/wan4you3 更新/geng1xin1 。
 = Luc répond : Ce n'est pas que nous fuyions le monde, mais que le Christ revienne pour renouveler toutes choses.
 林老師/lin2lao3shi1 點頭/dian3tou2 ：很好/hen3hao3 。末世論/mo4shi4lun4 不是/bu4shi4 逃跑/tao2pao3 計畫/ji4hua4 ，而是/er2shi4 盼望/pan4wang4 神/shen2 最終/zui4zhong1 成全/cheng2quan2 祂/ta1 的/de5 創造/chuang4zao4 。
 = Le professeur Lin hoche la tête : Très bien. L'eschatologie n'est pas un plan d'évasion, mais l'espérance que Dieu accomplira finalement sa création.
+林老師/lin2lao3shi1 ：換句話說/huan4ju4hua4shuo1 ，你們/ni3men5 可以/ke3yi3 在/zai4 千禧年/qian1xi3nian2 的/de5 細節/xi4jie2 上/shang4 彼此/bi3ci3 辯論/bian4lun4 ，卻/que4 不/bu4 應該/ying1gai1 因此/yin1ci3 忘記/wang4ji4 ，基督/ji1du1 是/shi4 教會/jiao4hui4 的/de5 盼望/pan4wang4 ，不是/bu4shi4 某/mou3 一/yi1 派/pai4 的/de5 戰利品/zhan4li4pin3 。
+= Professeur Lin : Autrement dit, vous pouvez débattre entre vous des détails du millénium, mais vous ne devez pas pour autant oublier que le Christ est l'espérance de l'Église, et non le trophée d'un camp.
 晚上/wan3shang4 ，大衛/da4wei4 來/lai2 教會/jiao4hui4 找/zhao3 路加/lu4jia1 。
 = Le soir, David vient retrouver Luc à l'église.
+他/ta1 最近/zui4jin4 剛/gang1 讀/du2 到/dao4 啟示錄/qi3shi4lu4 的/de5 最後/zui4hou4 幾/ji3 章/zhang1 ，手/shou3 上/shang4 還/hai2 夾/jia1 著/zhe5 好幾/hao3ji3 張/zhang1 便利貼/bian4li4tie1 。
+= Il vient de lire les derniers chapitres de l'Apocalypse, et sa main tient encore plusieurs notes autocollantes.
 大衛/da4wei4 ：我/wo3 以前/yi3qian2 一聽/yi1ting1 到/dao4 基督徒/ji1du1tu2 講/jiang3 末世/mo4shi4 ，就/jiu4 覺得/jue2de5 你/ni3 們/men5 只是/zhi3shi4 想/xiang3 離開/li2kai1 這/zhe4 個/ge4 世界/shi4jie4 。
 = David : Avant, dès que j'entendais des chrétiens parler de la fin des temps, j'avais l'impression que vous vouliez juste quitter ce monde.
 路加/lu4jia1 ：很多/hen3duo1 人/ren2 的確/di2que4 會/hui4 講/jiang3 得/de5 很/hen3 像/xiang4 這樣/zhe4yang4 。
@@ -212,6 +270,8 @@ vocab: 末世論=eschatologie | 再來=zvenir de nouveau | 盼望=espérance | �
 = Luc : Mais la dernière image de la Bible, ce n'est pas des humains qui s'envolent ; c'est la cité sainte qui descend, et Dieu qui habite avec les hommes.
 大衛/da4wei4 聽/ting1 完/wan2 以後/yi3hou4 ，慢慢/man4man4 地/de5 說/shuo1 ：那/na4 這樣/zhe4yang4 的/de5 盼望/pan4wang4 ，反而/fan3er2 會/hui4 讓/rang4 人/ren2 更/geng4 願意/yuan4yi4 認真/ren4zhen1 活/huo2 在/zai4 現在/xian4zai4 。
 = Après avoir écouté, David dit lentement : Une telle espérance donne au contraire envie de vivre plus sérieusement dans le présent.
+大衛/da4wei4 又/you4 補充/bu3chong1 ：如果/ru2guo3 世界/shi4jie4 最後/zui4hou4 還/hai2 會/hui4 被/bei4 更新/geng1xin1 ，那麼/na4me5 今天/jin1tian1 照顧/zhao4gu4 窮人/qiong2ren2 、保護/bao3hu4 環境/huan2jing4 ，就/jiu4 不/bu4 是/shi4 白費/bai2fei4 心力/xin1li4 了/le5 。
+= David ajoute : Si le monde doit finalement être renouvelé, alors prendre soin des pauvres et protéger l'environnement aujourd'hui, ce n'est pas peine perdue.
 路加/lu4jia1 ：對/dui4 ，因為/yin1wei4 我/wo3 們/men5 知道/zhi1dao4 自己/zi4ji3 的/de5 勞苦/lao2ku3 在/zai4 主/zhu3 裡/li3 不是/bu4shi4 徒然/tu2ran2 的/de5 。
 = Luc : Oui, parce que nous savons que notre travail n'est pas vain dans le Seigneur.
 
@@ -227,10 +287,16 @@ vocab: 教會論=ecclésiologie | 身體=corps | 肢體=membre du corps | 彼此
 = Fin mai, le professeur Lin commence à enseigner l'ecclésiologie.
 他/ta1 在/zai4 黑板/hei1ban3 上/shang4 寫/xie3 下/xia4 保羅/bao3luo2 最/zui4 常/chang2 用/yong4 的/de5 一/yi1 個/ge4 比喻/bi3yu4 ：身體/shen1ti3 。
 = Il écrit au tableau l'image que Paul utilise le plus souvent : le corps.
+他/ta1 說/shuo1 ，在/zai4 哥林多/ge1lin2duo1 的/de5 教會/jiao4hui4 裡/li3 ，有人/you3ren2 覺得/jue2de5 自己/zi4ji3 的/de5 恩賜/en1ci4 比較/bi3jiao4 重要/zhong4yao4 ，有人/you3ren2 覺得/jue2de5 自己/zi4ji3 沒有/mei2you3 用/yong4 ，所以/suo3yi3 保羅/bao3luo2 才/cai2 寫/xie3 下/xia4 這/zhe4 個/ge4 比喻/bi3yu4 。
+= Il explique que dans l'Église de Corinthe, certains jugeaient leur don plus important et d'autres se croyaient inutiles ; c'est pourquoi Paul a écrit cette image.
 林老師/lin2lao3shi1 ：教會/jiao4hui4 不是/bu4shi4 一/yi1 群/qun2 有/you3 相同/xiang1tong2 興趣/xing4qu4 的/de5 人/ren2 組成/zu3cheng2 的/de5 社團/she4tuan2 ，而是/er2shi4 基督/ji1du1 的/de5 身體/shen1ti3 。
 = Professeur Lin : L'Église n'est pas une association de gens qui partagent les mêmes centres d'intérêt ; elle est le corps du Christ.
 林老師/lin2lao3shi1 ：既然/ji4ran2 是/shi4 身體/shen1ti3 ，就/jiu4 表示/biao3shi4 肢體/zhi1ti3 不/bu4 會/hui4 完全/wan2quan2 一樣/yi1yang4 ，卻/que4 必須/bi4xu1 彼此/bi3ci3 相連/xiang1lian2 。
 = Professeur Lin : Et si c'est un corps, cela signifie que les membres ne sont pas identiques, mais qu'ils doivent être reliés les uns aux autres.
+林老師/lin2lao3shi1 ：因此/yin1ci3 ，眼睛/yan3jing1 不/bu4 能/neng2 對/dui4 手/shou3 說/shuo1 「我/wo3 不/bu4 需要/xu1yao4 你/ni3 」，腳/jiao3 也/ye3 不/bu4 必/bi4 因為/yin1wei4 自己/zi4ji3 不是/bu4shi4 手/shou3 ，就/jiu4 覺得/jue2de5 自己/zi4ji3 不/bu4 屬於/shu3yu2 身體/shen1ti3 。
+= Professeur Lin : Par conséquent, l'œil ne peut pas dire à la main : « Je n'ai pas besoin de toi », et le pied n'a pas à penser, parce qu'il n'est pas une main, qu'il n'appartient pas au corps.
+林老師/lin2lao3shi1 又/you4 提醒/ti2xing3 大家/da4jia1 ，健康/jian4kang1 的/de5 身體/shen1ti3 ，不是/bu4shi4 每/mei3 個/ge4 部分/bu4fen4 都/dou1 一樣/yi1yang4 大聲/da4sheng1 ，而是/er2shi4 每/mei3 個/ge4 部分/bu4fen4 都/dou1 在/zai4 自己/zi4ji3 的/de5 位置/wei4zhi4 上/shang4 。
+= Le professeur Lin rappelle encore à tous qu'un corps en bonne santé n'est pas un corps dont chaque partie crie aussi fort, mais un corps où chaque partie est à sa place.
 那/na4 天/tian1 晚上/wan3shang4 練團/lian4tuan2 時/shi2 ，阿傑/a1jie2 因為/yin1wei4 音控/yin1kong4 和/he2 排歌/pai2ge1 的/de5 事/shi4 情/qing2 ，又/you4 跟/gen1 美玲/mei3ling2 有/you3 一點/yi1dian3 意見/yi4jian4 不合/bu4he2 。
 = Ce soir-là, à la répétition, A-Jie se retrouve encore en désaccord avec Meiling à propos du son et de l'ordre des chants.
 休息/xiu1xi2 時/shi2 ，他/ta1 對/dui4 路加/lu4jia1 抱怨/bao4yuan4 ：我/wo3 有時/you3shi2 候/hou5 真/zhen1 的/de5 覺得/jue2de5 ，一個人/yi1ge4ren2 服事/fu2shi4 反而/fan3er2 比較/bi3jiao4 輕鬆/qing1song1 。
@@ -243,6 +309,10 @@ vocab: 教會論=ecclésiologie | 身體=corps | 肢體=membre du corps | 彼此
 = À ce moment-là, Meiling passe justement par là : Si tu es une main, souviens-toi aussi qu'une main ne peut pas entendre la justesse toute seule.
 阿傑/a1jie2 先/xian1 是/shi4 一愣/yi1leng4 ，然後/ran2hou4 自己/zi4ji3 也/ye3 笑/xiao4 了/le5 。
 = A-Jie reste d'abord figé, puis se met lui aussi à rire.
+美玲/mei3ling2 接著/jie1zhe5 坦白/tan3bai2 地/de5 說/shuo1 ：我/wo3 也/ye3 太/tai4 在意/zai4yi4 細節/xi4jie2 ，常/chang2 常/chang2 忘記/wang4ji4 先/xian1 問/wen4 你/ni3 的/de5 想法/xiang3fa3 ，這/zhe4 也/ye3 是/shi4 我/wo3 該/gai1 道歉/dao4qian4 的/de5 。
+= Meiling continue avec franchise : Moi aussi, je fais trop attention aux détails, j'oublie souvent de te demander d'abord ton avis ; c'est moi aussi qui dois m'excuser.
+那/na4 一/yi1 刻/ke4 ，路加/lu4jia1 忽然/hu1ran2 覺得/jue2de5 ，教會論/jiao4hui4lun4 不/bu4 只/zhi3 寫/xie3 在/zai4 黑板/hei1ban3 上/shang4 ，也/ye3 寫/xie3 在/zai4 每/mei3 一/yi1 次/ci4 願意/yuan4yi4 彼此/bi3ci3 讓步/rang4bu4 的/de5 對話/dui4hua4 裡/li3 。
+= À cet instant, Luc sent soudain que l'ecclésiologie n'est pas seulement écrite au tableau, mais aussi dans chaque conversation où l'on accepte de céder l'un à l'autre.
 那/na4 一晚/yi1wan3 練習/lian4xi2 結束/jie2shu4 前/qian2 ，美玲/mei3ling2 主動/zhu3dong4 請/qing3 阿傑/a1jie2 幫/bang1 她/ta1 再/zai4 聽/ting1 一次/yi1ci4 副歌/fu4ge1 的/de5 和聲/he2sheng1 。
 = Avant la fin de la répétition, Meiling demande d'elle-même à A-Jie de réécouter avec elle les harmonies du refrain.
 阿傑/a1jie2 一邊/yi1bian1 調/tiao2 吉他/ji2ta1 ，一邊/yi1bian1 小聲/xiao3sheng1 說/shuo1 ：好/hao3 吧/ba5 ，今天/jin1tian1 我/wo3 願意/yuan4yi4 當/dang1 一/yi1 隻/zhi1 比較/bi3jiao4 順服/shun4fu2 的/de5 手/shou3 。
@@ -264,8 +334,14 @@ vocab: 宣教=mission | 文化=culture | 道成肉身=incarnation | 傾聽=écou
 = En entendant cela, Luc sent aussitôt quelque chose le frapper.
 因為/yin1wei4 他/ta1 自己/zi4ji3 就/jiu4 是/shi4 一/yi1 個/ge4 外國/wai4guo2 人/ren2 ，而且/er2qie3 常/chang2 常/chang2 不知不覺/bu4zhi1bu4jue2 地/de5 以為/yi3wei2 自己/zi4ji3 的/de5 習慣/xi2guan4 比較/bi3jiao4 合理/he2li3 。
 = Car lui-même est étranger, et il pense souvent sans s'en rendre compte que ses habitudes sont plus raisonnables.
+他/ta1 想起/xiang3qi3 自己/zi4ji3 剛/gang1 到/dao4 教會/jiao4hui4 時/shi2 ，也/ye3 曾經/ceng2jing1 覺得/jue2de5 台灣/tai2wan1 的/de5 敬拜/jing4bai4 方式/fang1shi4 太/tai4 熱鬧/re4nao4 ，卻/que4 從來/cong2lai2 沒有/mei2you3 問/wen4 過/guo4 ，這樣/zhe4yang4 的/de5 熱情/re4qing2 背後/bei4hou4 有/you3 什麼/shen2me5 故事/gu4shi5 。
+= Il se rappelle que, à son arrivée à l'église, il avait lui aussi trouvé la manière de louer des Taïwanais trop animée, sans jamais se demander quelle histoire se cachait derrière une telle ferveur.
+宣教士/xuan1jiao4shi4 接著/jie1zhe5 舉/ju3 了/le5 一/yi1 個/ge4 例子/li4zi5 ：有些/you3xie1 外國/wai4guo2 宣教士/xuan1jiao4shi4 剛/gang1 到/dao4 當地/dang1di4 ，就/jiu4 急著/ji2zhe5 把/ba3 教會/jiao4hui4 的/de5 敬拜/jing4bai4 形式/xing2shi4 照搬/zhao4ban1 過去/guo4qu4 ，結果/jie2guo3 當地/dang1di4 人/ren2 以為/yi3wei2 要/yao4 先/xian1 變成/bian4cheng2 外國/wai4guo2 人/ren2 ，才/cai2 能/neng2 信/xin4 耶穌/ye1su1 。
+= Le missionnaire donne alors un exemple : certains missionnaires étrangers, à peine arrivés sur place, s'empressent de transplanter telles quelles les formes de culte de leur Église, et les habitants croient qu'il faut d'abord devenir étranger pour croire en Jésus.
 宣教士/xuan1jiao4shi4 ：道成肉身/dao4cheng2rou4shen1 的/de5 原則/yuan2ze2 ，不/bu4 只是/zhi3shi4 耶穌/ye1su1 的/de5 事/shi4 ，也/ye3 是/shi4 宣教/xuan1jiao4 的/de5 方向/fang1xiang4 。
 = Missionnaire : Le principe de l'incarnation n'appartient pas seulement à Jésus ; il donne aussi sa direction à la mission.
+宣教士/xuan1jiao4shi4 ：耶穌/ye1su1 來到/lai2dao4 世上/shi4shang4 ，並/bing4 沒有/mei2you3 站/zhan4 在/zai4 天上/tian1shang4 發/fa1 命令/ming4ling4 ，而是/er2shi4 住/zhu4 在/zai4 人/ren2 當中/dang1zhong1 ，活/huo2 在/zai4 一/yi1 個/ge4 具體/ju4ti3 的/de5 家庭/jia1ting2 、村莊/cun1zhuang1 和/he2 語言/yu3yan2 裡/li3 。
+= Missionnaire : Jésus, venu dans le monde, n'est pas resté dans le ciel à donner des ordres ; il a habité parmi les hommes, vivant dans une famille, un village et une langue concrets.
 宣教士/xuan1jiao4shi4 ：你/ni3 要/yao4 先/xian1 學/xue2 會/hui4 傾聽/qing1ting1 ，先/xian1 學/xue2 會/hui4 愛/ai4 人/ren2 的/de5 語言/yu3yan2 、節奏/jie2zou4 和/he2 傷口/shang1kou3 ，然後/ran2hou4 才/cai2 談/tan2 見證/jian4zheng4 。
 = Missionnaire : Il faut d'abord apprendre à écouter, à aimer la langue, le rythme et les blessures des gens, avant de parler de témoignage.
 下課/xia4ke4 後/hou4 ，路加/lu4jia1 和/he2 幾/ji3 位/wei4 同學/tong2xue2 一起/yi1qi3 吃/chi1 午飯/wu3fan4 。
@@ -276,6 +352,8 @@ vocab: 宣教=mission | 文化=culture | 道成肉身=incarnation | 傾聽=écou
 = Luc ne répond pas tout de suite.
 過/guo4 了/le5 一陣子/yi1zhen4zi5 ，他/ta1 才/cai2 說/shuo1 ：一定/yi1ding4 會/hui4 。所以/suo3yi3 我/wo3 需要/xu1yao4 一直/yi1zhi2 被/bei4 教會/jiao4hui4 糾正/jiu1zheng4 。
 = Au bout d'un moment, il dit : Bien sûr que si. C'est pour cela que j'aurai toujours besoin d'être corrigé par l'Église.
+大家/da4jia1 都/dou1 沉默/chen2mo4 了/le5 一下/yi1xia4 ，其中/qi2zhong1 一/yi1 位/wei4 才/cai2 說/shuo1 ：被/bei4 糾正/jiu1zheng4 ，其實/qi2shi2 也/ye3 是/shi4 一/yi1 種/zhong3 被/bei4 愛/ai4 。
+= Tous restent un instant silencieux, puis l'un d'eux dit : Être corrigé, c'est aussi une manière d'être aimé.
 晚上/wan3shang4 回到/hui2dao4 恩典教會/en1dian3jiao4hui4 ，他/ta1 把/ba3 這/zhe4 堂/tang2 課/ke4 的/de5 內容/nei4rong2 告訴/gao4su4 小恩/xiao3en1 。
 = Le soir, de retour à l'église de la Grâce, il raconte le cours à Xiao En.
 小恩/xiao3en1 聽/ting1 完/wan2 以後/yi3hou4 笑/xiao4 著/zhe5 說/shuo1 ：很好/hen3hao3 啊/a5 ，至少/zhi4shao3 你/ni3 已經/yi3jing1 不/bu4 會/hui4 再/zai4 說/shuo1 「法國/fa3guo2 人/ren2 都/dou1 這樣/zhe4yang4 吃/chi1 麵/mian4 」了/le5 。
@@ -295,6 +373,8 @@ vocab: 知識=connaissance | 愛心=amour | 造就=édifier
 = Fin juin, les devoirs et exposés de fin de semestre tombent tous en même temps, et Luc passe presque chaque jour à la bibliothèque.
 他/ta1 讀/du2 了/le5 很/hen3 多/duo1 書/shu1 ，筆記/bi3ji4 也/ye3 越來越/yue4lai2yue4 厚/hou4 ，可是/ke3shi4 心裡/xin1li3 卻/que4 慢慢/man4man4 變/bian4 得/de5 有點/you3dian3 硬/ying4 。
 = Il lit énormément, ses notes s'épaississent, mais son cœur devient peu à peu un peu dur.
+他/ta1 常/chang2 常/chang2 一邊/yi1bian1 讀/du2 ，一邊/yi1bian1 在/zai4 心裡/xin1li3 評論/ping2lun4 別人/bie2ren2 的/de5 報告/bao4gao4 ：這/zhe4 個/ge4 論點/lun4dian3 太/tai4 淺/qian3 ，那/na4 個/ge4 引用/yin3yong4 不/bu4 夠/gou4 準確/zhun3que4 。
+= Il lui arrive souvent, tout en lisant, de critiquer intérieurement les exposés des autres : cet argument est trop mince, cette citation n'est pas assez exacte.
 有/you3 一天/yi1tian1 下午/xia4wu3 ，林老師/lin2lao3shi1 在/zai4 走廊/zou3lang2 上/shang4 遇見/yu4jian4 他/ta1 ，看/kan4 了/le5 一眼/yi1yan3 就/jiu4 問/wen4 ：你/ni3 最近/zui4jin4 很/hen3 累/lei4 ，對/dui4 嗎/ma5 ？
 = Un après-midi, le professeur Lin le croise dans le couloir et lui demande d'un seul regard : Tu es très fatigué en ce moment, n'est-ce pas ?
 路加/lu4jia1 點頭/dian3tou2 ：而且/er2qie3 我/wo3 發現/fa1xian4 自己/zi4ji3 越/yue4 讀/du2 越/yue4 容易/rong2yi4 看不起/kan4bu4qi3 別人/bie2ren2 。
@@ -303,10 +383,18 @@ vocab: 知識=connaissance | 愛心=amour | 造就=édifier
 = Le professeur Lin n'a pas l'air surpris : C'est très fréquent. Paul l'a dit depuis longtemps : « La connaissance enfle, mais l'amour édifie. »
 林老師/lin2lao3shi1 ：讀/du2 很/hen3 多/duo1 ，不/bu4 等於/deng3yu2 愛/ai4 很/hen3 多/duo1 。
 = Professeur Lin : Lire beaucoup ne veut pas dire aimer beaucoup.
+路加/lu4jia1 沉默/chen2mo4 了/le5 一陣子/yi1zhen4zi5 ，才/cai2 低聲/di1sheng1 說/shuo1 ：我/wo3 以前/yi3qian2 以為/yi3wei2 ，只要/zhi3yao4 我/wo3 讀/du2 得/de5 越/yue4 多/duo1 ，就/jiu4 越/yue4 靠近/kao4jin4 神/shen2 ，卻/que4 沒有/mei2you3 發現/fa1xian4 自己/zi4ji3 離/li2 人/ren2 越來越/yue4lai2yue4 遠/yuan3 。
+= Luc se tait un moment, puis dit à voix basse : Je croyais que plus je comprenais, plus je m'approchais de Dieu, sans voir que je m'éloignais de plus en plus des gens.
 林老師/lin2lao3shi1 ：如果/ru2guo3 神學/shen2xue2 讓/rang4 你/ni3 更/geng4 難/nan2 服事/fu2shi4 人/ren2 ，更/geng4 難/nan2 聽/ting1 人/ren2 說/shuo1 話/hua4 ，那/na4 你/ni3 學/xue2 到/dao4 的/de5 只是/zhi3shi4 一/yi1 種/zhong3 會/hui4 發脹/fa1zhang4 的/de5 知識/zhi1shi4 。
 = Professeur Lin : Si la théologie te rend plus incapable de servir, plus incapable d'écouter, alors tu n'as acquis qu'un savoir qui enfle.
+路加/lu4jia1 聽/ting1 著/zhe5 ，覺得/jue2de5 這些/zhe4xie1 話/hua4 像/xiang4 一/yi1 面/mian4 鏡子/jing4zi5 ，把/ba3 他/ta1 這/zhe4 幾/ji3 週/zhou1 悄悄/qiao1qiao1 藏/cang2 起來/qi3lai2 的/de5 驕傲/jiao1ao4 ，一下子/yi1xia4zi5 攤/tan1 在/zai4 陽光/yang2guang1 下/xia4 。
+= Luc l'écoute et sent que ces paroles sont comme un miroir qui étale d'un coup, en plein soleil, l'orgueil qu'il cachait discrètement depuis quelques semaines.
+林老師/lin2lao3shi1 ：我/wo3 不是/bu4shi4 要/yao4 你/ni3 少/shao3 讀書/du2shu1 ，而是/er2shi4 要/yao4 你/ni3 讀/du2 完/wan2 以後/yi3hou4 ，還/hai2 能/neng2 低/di1 下/xia4 頭/tou2 來/lai2 服事/fu2shi4 人/ren2 。
+= Professeur Lin : Je ne te demande pas de lire moins, mais, une fois ta lecture terminée, de pouvoir encore te pencher pour servir les autres.
 那/na4 天/tian1 晚上/wan3shang4 ，路加/lu4jia1 沒有/mei2you3 再/zai4 去/qu4 圖書館/tu2shu1guan3 ，反而/fan3er2 去/qu4 教會/jiao4hui4 幫/bang1 王師母/wang2shi1mu3 搬/ban1 椅子/yi3zi5 、洗/xi3 杯子/bei1zi5 。
 = Ce soir-là, Luc ne retourne pas à la bibliothèque ; il va plutôt aider Mme Wang à déplacer des chaises et laver des tasses à l'église.
+他/ta1 把/ba3 一/yi1 疊/die2 剛/gang1 洗/xi3 好/hao3 的/de5 杯子/bei1zi5 擦乾/ca1gan1 ，發現/fa1xian4 這些/zhe4xie1 簡單/jian3dan1 的/de5 動作/dong4zuo4 ，竟然/jing4ran2 比/bi3 寫/xie3 一/yi1 頁/ye4 筆記/bi3ji4 更/geng4 讓/rang4 他/ta1 安心/an1xin1 。
+= Il essuie une pile de tasses qu'il vient de laver et découvre que ces gestes simples le rassurent étonnamment plus que d'écrire une page de notes.
 王師母/wang2shi1mu3 看/kan4 著/zhe5 他/ta1 忙/mang2 來/lai2 忙/mang2 去/qu4 ，笑/xiao4 著/zhe5 問/wen4 ：今天/jin1tian1 怎麼/zen3me5 突然/tu2ran2 這麼/zhe4me5 勤快/qin2kuai4 ？
 = Mme Wang le regarde s'activer et demande en souriant : Pourquoi es-tu soudain si serviable aujourd'hui ?
 路加/lu4jia1 ：因為/yin1wei4 我/wo3 需要/xu1yao4 被/bei4 提醒/ti2xing3 ，自己/zi4ji3 不是/bu4shi4 一/yi1 個/ge4 會/hui4 走路/zou3lu4 的/de5 書櫃/shu1gui4 。
@@ -326,6 +414,8 @@ vocab: 不完全=incomplet | 祝福=bénédiction | 結束=finir ; fin | 總結=
 = Début juillet, la première année de séminaire s'achève enfin.
 最後/zui4hou4 一/yi1 天/tian1 下午/xia4wu3 ，林老師/lin2lao3shi1 沒有/mei2you3 上/shang4 正式/zheng4shi4 的/de5 課/ke4 ，只/zhi3 是/shi4 請/qing3 大家/da4jia1 圍/wei2 成/cheng2 一/yi1 個/ge4 圈/quan1 ，一起/yi1qi3 禱告/dao3gao4 。
 = Le dernier après-midi, le professeur Lin ne donne pas de cours formel ; il demande simplement à tous de former un cercle et de prier ensemble.
+窗外/chuang1wai4 的/de5 蟬聲/chan2sheng1 很/hen3 大/da4 ，教室/jiao4shi4 裡/li3 卻/que4 異常/yi4chang2 安靜/an1jing4 ，彷彿/fang3fu2 大家/da4jia1 都/dou1 知道/zhi1dao4 ，這/zhe4 一/yi1 年/nian2 能/neng2 帶/dai4 走/zou3 的/de5 ，不/bu4 只是/zhi3shi4 筆記/bi3ji4 ，還有/hai2you3 彼此/bi3ci3 的/de5 代禱/dai4dao3 。
+= Le chant des cigales est fort dehors, mais la salle est étonnamment calme, comme si chacun savait que ce qu'on emporte de cette année, ce ne sont pas seulement des notes, mais aussi les prières des uns pour les autres.
 輪到/lun2dao4 路加/lu4jia1 時/shi2 ，他/ta1 一開始/yi1kai1shi3 還/hai2 不/bu4 知道/zhi1dao4 該/gai1 怎麼/zen3me5 總結/zong3jie2 這/zhe4 一/yi1 年/nian2 。
 = Quand vient le tour de Luc, il ne sait d'abord pas comment résumer cette année.
 過/guo4 了/le5 一陣子/yi1zhen4zi5 ，他/ta1 才/cai2 慢慢/man4man4 開口/kai1kou3 ：主/zhu3 啊/a5 ，謝謝/xie4xie5 祢/ni3 讓/rang4 我/wo3 在/zai4 這/zhe4 一/yi1 年/nian2 裡/li3 ，重新/chong2xin1 學/xue2 會/hui4 當/dang1 一/yi1 個/ge4 初學者/chu1xue2zhe3 。
@@ -334,6 +424,8 @@ vocab: 不完全=incomplet | 祝福=bénédiction | 結束=finir ; fin | 總結=
 = Luc : J'ai appris le grec et l'hébreu, et je sais encore mieux maintenant tout ce que je ne comprends pas.
 路加/lu4jia1 ：我/wo3 學/xue2 了/le5 解經/jie3jing1 、教會論/jiao4hui4lun4 、末世論/mo4shi4lun4 和/he2 宣教學/xuan1jiao4xue2 ，卻/que4 更/geng4 明白/ming2bai5 ，若/ruo4 沒有/mei2you3 愛/ai4 ，這些/zhe4xie1 都/dou1 會/hui4 變成/bian4cheng2 空/kong1 的/de5 。
 = Luc : J'ai étudié l'herméneutique, l'ecclésiologie, l'eschatologie et la missiologie, et je comprends mieux que sans amour, tout cela devient vide.
+路加/lu4jia1 ：謝謝/xie4xie5 祢/ni3 ，用/yong4 老師/lao3shi1 的/de5 耐心/nai4xin1 、同學/tong2xue2 的/de5 提醒/ti2xing3 ，還有/hai2you3 教會/jiao4hui4 裡/li3 每/mei3 一/yi1 個/ge4 肯/ken3 陪/pei2 我/wo3 練習/lian4xi2 服事/fu2shi4 的/de5 人/ren2 ，一/yi1 次/ci4 又/you4 一/yi1 次/ci4 地/de5 糾正/jiu1zheng4 我/wo3 、造就/zao4jiu4 我/wo3 。
+= Luc : Merci à Toi, qui as utilisé la patience des professeurs, les rappels de mes camarades et chacun, dans l'Église, qui a bien voulu m'accompagner dans mon apprentissage du service, pour me corriger et m'édifier encore et encore.
 他/ta1 禱告/dao3gao4 到/dao4 這/zhe4 裡/li3 時/shi2 ，聲音/sheng1yin1 有/you3 一點/yi1dian3 發抖/fa1dou3 。
 = À ce moment de sa prière, sa voix tremble un peu.
 路加/lu4jia1 ：求/qiu2 祢/ni3 不/bu4 要/yao4 讓/rang4 我/wo3 只/zhi3 成為/cheng2wei2 一/yi1 個/ge4 會/hui4 講/jiang3 神學/shen2xue2 的/de5 人/ren2 ，卻/que4 不/bu4 會/hui4 愛/ai4 教會/jiao4hui4 、不/bu4 會/hui4 愛/ai4 人/ren2 。
@@ -346,6 +438,8 @@ vocab: 不完全=incomplet | 祝福=bénédiction | 結束=finir ; fin | 總結=
 = Le soir, Luc revient à l'église de la Grâce et tombe sur Xiao En en train de répéter un chant.
 小恩/xiao3en1 看/kan4 見/jian4 他/ta1 的/de5 表情/biao3qing2 ，就/jiu4 知道/zhi1dao4 他/ta1 這/zhe4 一/yi1 年/nian2 真的/zhen1de5 很/hen3 累/lei4 ，也/ye3 真的/zhen1de5 長大/zhang3da4 了/le5 一點/yi1dian3 。
 = En voyant son visage, Xiao En comprend qu'il a été vraiment fatigué cette année, et qu'il a aussi vraiment grandi un peu.
+小恩/xiao3en1 ：你/ni3 不/bu4 用/yong4 把/ba3 這/zhe4 一/yi1 年/nian2 都/dou1 想/xiang3 明白/ming2bai5 ，因為/yin1wei4 神/shen2 從來/cong2lai2 不是/bu4shi4 等/deng3 我們/wo3men5 全部/quan2bu4 學/xue2 會/hui4 ，才/cai2 開始/kai1shi3 祝福/zhu4fu2 我們/wo3men5 。
+= Xiao En : Tu n'as pas besoin d'avoir tout compris de cette année, car Dieu n'a jamais attendu que nous ayons tout appris pour commencer à nous bénir.
 她/ta1 沒有/mei2you3 問/wen4 太/tai4 多/duo1 ，只/zhi3 是/shi4 把/ba3 手/shou3 上/shang4 的/de5 歌譜/ge1pu3 遞/di4 給/gei3 他/ta1 ：來/lai2 吧/ba5 ，先/xian1 一起/yi1qi3 唱/chang4 一遍/yi1bian4 《這/zhe4 一/yi1 生/sheng1 最/zui4 美/mei3 的/de5 祝福/zhu4fu2 》。
 = Elle ne pose pas beaucoup de questions ; elle lui tend simplement sa partition : Viens, chantons d'abord ensemble « La plus belle bénédiction de cette vie ».
 路加/lu4jia1 接過/jie1guo4 歌譜/ge1pu3 ，忽然/hu1ran2 覺得/jue2de5 ，自己/zi4ji3 雖然/sui1ran2 還/hai2 很/hen3 不完全/bu4wan2quan2 ，卻/que4 已經/yi3jing1 走/zou3 在/zai4 一/yi1 條/tiao2 很/hen3 真實/zhen1shi2 的/de5 路/lu4 上/shang4 了/le5 。

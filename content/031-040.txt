@@ -18,10 +18,6 @@ vocab: 天堂=paradis | 哪裡=où | 抬頭=lever la tête | 白雲=nuage blanc 
 = Xiao Guang : Beaucoup de gens disent ça.
 小光/xiao3guang1 ：可是/ke3shi4 主日學/zhu3ri4xue2 老師/lao3shi1 也/ye3 說/shuo1 ，有時候/you3shi2hou5 天堂/tian1tang2 的/de5 希望/xi1wang4 也/ye3 會/hui4 在/zai4 我們/wo3men5 心裡/xin1li3 。
 = Xiao Guang : Mais la maîtresse du dimanche a aussi dit que parfois l'espérance du ciel est aussi dans notre cœur.
-路加/lu4jia1 ：這/zhe4 聽/ting1 起來/qi3lai2 很/hen3 大/da4 。
-= Luc : Ça a l'air très grand, comme idée.
-小光/xiao3guang1 ：對/dui4 啊/a5 ，所以/suo3yi3 我/wo3 才/cai2 問/wen4 你/ni3 。
-= Xiao Guang : Oui, c'est pour ça que je te demande.
 這時候/zhe4shi2hou5 ，小恩/xiao3en1 走/zou3 過來/guo4lai2 。
 = À ce moment-là, Xiao En s'approche.
 小恩/xiao3en1 ：你們/ni3men5 在/zai4 說/shuo1 什麼/shen2me5 ？
@@ -146,28 +142,16 @@ vocab: 生日=anniversaire | 卡片=carte | 祝福=bénédiction | 蛋糕=gâtea
 = Sur la table, il y a un gâteau, et à côté des cartes colorées et des stylos.
 小恩/xiao3en1 ：路加/lu4jia1 ，我們/wo3men5 一起/yi1qi3 寫/xie3 祝福/zhu4fu2 給/gei3 小光/xiao3guang1 吧/ba5 。
 = Xiao En : Luc, écrivons ensemble une bénédiction pour Xiao Guang.
-路加/lu4jia1 ：我/wo3 可以/ke3yi3 寫/xie3 中文/zhong1wen2 嗎/ma5 ？
-= Luc : Je peux l'écrire en chinois ?
-小恩/xiao3en1 ：可以/ke3yi3 啊/a5 ，寫/xie3 簡單/jian3dan1 一點/yi1dian3 就/jiu4 好/hao3 。
-= Xiao En : Bien sûr, écris juste quelque chose de simple.
 路加/lu4jia1 很/hen3 認真/ren4zhen1 地/de5 寫/xie3 ：「小光/xiao3guang1 ，生日/sheng1ri4 快樂/kuai4le4 ，願/yuan4 祢/ni3 …… 」
 = Luc écrit très sérieusement : « Xiao Guang, joyeux anniversaire, que Tu… »
 小恩/xiao3en1 一看/yi1kan4 就/jiu4 笑/xiao4 了/le5 ：你/ni3 這裡/zhe4li3 的/de5 「祢/ni3 」是/shi4 給/gei3 神/shen2 用/yong4 的/de5 。
 = Xiao En éclate de rire en voyant la carte : le caractère « 祢 » s'emploie pour Dieu.
-路加/lu4jia1 ：啊/a5 ！那/na4 我/wo3 要/yao4 重/chong2 寫/xie3 。
-= Luc : Ah ! Alors je dois recommencer.
 小光/xiao3guang1 跑/pao3 過來/guo4lai2 ：不用/bu4yong4 ！我/wo3 知道/zhi1dao4 你/ni3 是/shi4 要/yao4 給/gei3 我/wo3 祝福/zhu4fu2 。
 = Xiao Guang accourt : Pas besoin ! Je sais que tu voulais me bénir.
 美玲/mei3ling2 點上/dian3shang4 蠟燭/la4zhu2 ：好/hao3 了/le5 ，先/xian1 吹/chui1 蠟燭/la4zhu2 ，再/zai4 吃/chi1 蛋糕/dan4gao1 。
 = Meiling allume les bougies : Bon, on souffle d'abord les bougies, puis on mange le gâteau.
-大家/da4jia1 一起/yi1qi3 唱/chang4 生日/sheng1ri4 歌/ge1 ，也/ye3 輕輕/qing1qing1 唱/chang4 《這/zhe4 一生/yi1sheng1 最/zui4 美/mei3 的/de5 祝福/zhu4fu2》。
-= Tout le monde chante la chanson d'anniversaire, puis fredonne aussi « La plus belle bénédiction de cette vie ».
-小光/xiao3guang1 吹/chui1 完/wan2 蠟燭/la4zhu2 以後/yi3hou4 ，把/ba3 那/na4 張/zhang1 卡片/ka3pian4 抱/bao4 在/zai4 胸口/xiong1kou3 。
-= Après avoir soufflé les bougies, Xiao Guang serre la carte contre sa poitrine.
 小光/xiao3guang1 ：這/zhe4 張/zhang1 卡片/ka3pian4 雖然/sui1ran2 寫/xie3 錯/cuo4 了/le5 ，可是/ke3shi4 我/wo3 很/hen3 喜歡/xi3huan5 。
 = Xiao Guang : Même si cette carte a une erreur, je l'aime beaucoup.
-路加/lu4jia1 也/ye3 笑/xiao4 了/le5 ：好/hao3 ，下/xia4 次/ci4 我/wo3 先/xian1 問/wen4 小恩/xiao3en1 再/zai4 寫/xie3 。
-= Luc rit lui aussi : D'accord, la prochaine fois je demanderai d'abord à Xiao En avant d'écrire.
 
 === 036
 series: 027
@@ -181,12 +165,8 @@ vocab: 牧師=pasteur | 講道=prêcher ; sermon | 聖經=Bible | 椅子=chaise 
 = Après le culte, Xiao Guang monte discrètement sur l'estrade.
 他/ta1 拿/na2 起/qi3 一/yi1 本/ben3 很/hen3 大/da4 的/de5 聖經/sheng4jing1 ，站/zhan4 在/zai4 椅子/yi3zi5 上/shang4 。
 = Il prend une très grande Bible et monte sur une chaise.
-路加/lu4jia1 ：小光/xiao3guang1 ，你/ni3 在/zai4 做/zuo4 什麼/shen2me5 ？
-= Luc : Xiao Guang, qu'est-ce que tu fais ?
 小光/xiao3guang1 壓低/ya1di1 聲音/sheng1yin1 ：弟兄/di4xiong1 姐妹/jie3mei4 ，今天/jin1tian1 我/wo3 要/yao4 講道/jiang3dao4 。
 = Xiao Guang, d'une voix grave : Frères et sœurs, aujourd'hui je vais prêcher.
-路加/lu4jia1 差點/cha4dian3 笑/xiao4 出來/chu1lai2 。
-= Luc manque d'éclater de rire.
 小光/xiao3guang1 ：第一/di4yi1 ，大家/da4jia1 要/yao4 聽/ting1 媽媽/ma1ma5 的/de5 話/hua4 。第二/di4er4 ，蛋糕/dan4gao1 要/yao4 分/fen1 給/gei3 我/wo3 多/duo1 一點/yi1dian3 。
 = Xiao Guang : Premièrement, tout le monde doit écouter maman. Deuxièmement, il faut me donner un peu plus de gâteau.
 這時候/zhe4shi2hou5 ，王牧師/wang2mu4shi1 走/zou3 進來/jin4lai2 。
@@ -197,8 +177,6 @@ vocab: 牧師=pasteur | 講道=prêcher ; sermon | 聖經=Bible | 椅子=chaise 
 = Xiao Guang : Oui ! Quand je serai grand, je veux devenir pasteur.
 王牧師/wang2mu4shi1 ：那/na4 你/ni3 現在/xian4zai4 要/yao4 先/xian1 學/xue2 會/hui4 好好/hao3hao3 聽/ting1 神/shen2 的/de5 話/hua4 。
 = Pasteur Wang : Alors pour l'instant, tu dois d'abord apprendre à bien écouter la parole de Dieu.
-小光/xiao3guang1 點頭/dian3tou2 ：好/hao3 ，可是/ke3shi4 我/wo3 也/ye3 可以/ke3yi3 練習/lian4xi2 聲音/sheng1yin1 。
-= Xiao Guang hoche la tête : D'accord, mais je peux aussi entraîner ma voix.
 他/ta1 又/you4 大聲/da4sheng1 說/shuo1 ：主/zhu3 啊/a5 ，祢/ni3 真/zhen1 偉大/wei3da4 ！
 = Il crie encore : Seigneur, tu es vraiment grand !
 王牧師/wang2mu4shi1 笑/xiao4 著/zhe5 說/shuo1 ：這/zhe4 一句/yi1ju4 很/hen3 好/hao3 ，可以/ke3yi3 留/liu2 下來/xia4lai2 。
@@ -218,16 +196,12 @@ vocab: 天使=ange | 放假=être en vacances | 翅膀=aile | 熱=chaud | 幫忙
 = Xiao Guang s'évente avec une feuille de papier tout en regardant un dessin d'ange au mur.
 小光/xiao3guang1 ：路加/lu4jia1 ，天使/tian1shi3 會/hui4 放假/fang4jia4 嗎/ma5 ？
 = Xiao Guang : Luc, est-ce que les anges ont des vacances ?
-路加/lu4jia1 ：我/wo3 怎麼/zen3me5 會/hui4 知道/zhi1dao4 ？
-= Luc : Comment veux-tu que je le sache ?
 小光/xiao3guang1 ：如果/ru2guo3 他們/ta1men5 不/bu4 放假/fang4jia4 ，翅膀/chi4bang3 不/bu4 會/hui4 很/hen3 累/lei4 嗎/ma5 ？
 = Xiao Guang : S'ils n'ont jamais de vacances, leurs ailes ne doivent-elles pas être fatiguées ?
 小恩/xiao3en1 剛好/gang1hao3 走/zou3 進來/jin4lai2 ，聽到/ting1dao4 了/le5 最後/zui4hou4 一句/yi1ju4 。
 = Xiao En entre justement à ce moment-là et entend la dernière phrase.
 小恩/xiao3en1 ：聖經/sheng4jing1 沒有/mei2you3 說/shuo1 天使/tian1shi3 放假/fang4jia4 不/bu4 放假/fang4jia4 。
 = Xiao En : La Bible ne dit pas si les anges ont des vacances ou non.
-小光/xiao3guang1 ：那/na4 他們/ta1men5 一定/yi1ding4 很/hen3 會/hui4 幫忙/bang1mang2 。
-= Xiao Guang : Alors ils doivent vraiment beaucoup aider.
 小恩/xiao3en1 ：對/dui4 啊/a5 ，可是/ke3shi4 今天/jin1tian1 幫忙/bang1mang2 最多/zui4duo1 的/de5 是/shi4 你/ni3 媽媽/ma1ma5 。
 = Xiao En : Oui, mais aujourd'hui, celle qui aide le plus, c'est ta maman.
 美玲/mei3ling2 正在/zheng4zai4 門口/men2kou3 修/xiu1 電風扇/dian4feng1shan4 。
@@ -249,12 +223,8 @@ vocab: 午覺=sieste | 眼睛=yeux | 安靜=calme, silencieux | 故事=histoire 
 = À midi, pendant une activité pour enfants à l'église, la maîtresse demande aux enfants de s'allonger pour la sieste.
 小光/xiao3guang1 躺/tang3 在/zai4 墊子/dian4zi5 上/shang4 ，可是/ke3shi4 眼睛/yan3jing1 張/zhang1 得/de5 大大/da4da4 的/de5 。
 = Xiao Guang est allongé sur son tapis, mais ses yeux sont grands ouverts.
-路加/lu4jia1 ：你/ni3 為什麼/wei4shen2me5 不/bu4 睡/shui4 ？
-= Luc : Pourquoi tu ne dors pas ?
 小光/xiao3guang1 ：因為/yin1wei4 我/wo3 不/bu4 累/lei4 ，而且/er2qie3 我/wo3 想/xiang3 聽/ting1 故事/gu4shi5 。
 = Xiao Guang : Parce que je ne suis pas fatigué, et en plus j'ai envie d'entendre une histoire.
-路加/lu4jia1 ：可是/ke3shi4 現在/xian4zai4 是/shi4 午覺/wu3jiao4 時間/shi2jian1 。
-= Luc : Mais c'est l'heure de la sieste.
 小光/xiao3guang1 小聲/xiao3sheng1 說/shuo1 ：那/na4 你/ni3 可以/ke3yi3 用/yong4 很/hen3 小/xiao3 的/de5 聲音/sheng1yin1 說/shuo1 故事/gu4shi5 。
 = Xiao Guang murmure : Alors tu peux raconter une histoire avec une toute petite voix.
 路加/lu4jia1 想/xiang3 了/le5 一下/yi1xia4 ，就/jiu4 輕輕/qing1qing1 地/de5 說/shuo1 起來/qi3lai2 ：從前/cong2qian2 有/you3 一/yi1 個/ge4 很/hen3 愛/ai4 問/wen4 問題/wen4ti2 的/de5 小男孩/xiao3nan2hai2 ……
@@ -265,8 +235,6 @@ vocab: 午覺=sieste | 眼睛=yeux | 安靜=calme, silencieux | 故事=histoire 
 = À ce moment-là, Xiao En se met à chanter doucement « Silence » à côté d'eux.
 教室/jiao4shi4 慢慢/man4man4 安靜/an1jing4 下來/xia4lai2 ，連/lian2 小光/xiao3guang1 的/de5 眼睛/yan3jing1 也/ye3 慢慢/man4man4 關/guan1 起來/qi3lai2 了/le5 。
 = La salle devient peu à peu silencieuse, et même les yeux de Xiao Guang finissent par se fermer.
-路加/lu4jia1 看/kan4 著/zhe5 他/ta1 ，小聲/xiao3sheng1 說/shuo1 ：終於/zhong1yu2 睡/shui4 了/le5 。
-= Luc le regarde et murmure : Enfin endormi.
 
 === 039
 series: 027
@@ -278,12 +246,8 @@ vocab: 雨傘=parapluie | 下雨=pleuvoir | 禱告=prier | 淋濕=être trempé 
 ---
 聚會/ju4hui4 結束/jie2shu4 的/de5 時候/shi2hou5 ，外面/wai4mian4 突然/tu2ran2 下雨/xia4yu3 了/le5 。
 = À la fin de la réunion, il se met soudain à pleuvoir dehors.
-很多/hen3duo1 人/ren2 站/zhan4 在/zai4 門口/men2kou3 等/deng3 雨/yu3 小/xiao3 一點/yi1dian3 。
-= Beaucoup de gens restent à la porte en attendant que la pluie se calme.
 小光/xiao3guang1 從/cong2 書包/shu1bao1 裡/li3 拿/na2 出/chu1 一/yi1 把/ba3 很/hen3 小/xiao3 的/de5 雨傘/yu3san3 。
 = Xiao Guang sort de son sac un tout petit parapluie.
-路加/lu4jia1 ：這/zhe4 把/ba3 雨傘/yu3san3 太/tai4 小/xiao3 了/le5 吧/ba5 。
-= Luc : Ce parapluie est vraiment trop petit.
 小光/xiao3guang1 ：沒關係/mei2guan1xi5 ，我/wo3 可以/ke3yi3 跟/gen1 你/ni3 一起/yi1qi3 走/zou3 。
 = Xiao Guang : Ce n'est pas grave, on peut marcher ensemble.
 路加/lu4jia1 看/kan4 了/le5 看/kan4 那/na4 把/ba3 小/xiao3 雨傘/yu3san3 ：我們/wo3men5 兩/liang3 個/ge4 人/ren2 一定/yi1ding4 會/hui4 淋濕/lin2shi1 。
@@ -292,10 +256,6 @@ vocab: 雨傘=parapluie | 下雨=pleuvoir | 禱告=prier | 淋濕=être trempé 
 = Xiao Guang : Alors je vais d'abord prier.
 小光/xiao3guang1 閉上/bi4shang4 眼睛/yan3jing1 ：耶穌/ye1su1 ，求/qiu2 祢/ni3 幫助/bang1zhu4 我/wo3 和/he2 路加/lu4jia1 回家/hui2jia1 ，不要/bu4yao4 淋濕/lin2shi1 太/tai4 多/duo1 。
 = Xiao Guang ferme les yeux : Jésus, aide Luc et moi à rentrer sans être trop trempés.
-路加/lu4jia1 忍不住/ren3bu4zhu4 笑/xiao4 ：這/zhe4 個/ge4 禱告/dao3gao4 很/hen3 實際/shi2ji4 。
-= Luc ne peut s'empêcher de rire : Voilà une prière très concrète.
-他們/ta1men5 打開/da3kai1 雨傘/yu3san3 走/zou3 出去/chu1qu4 。
-= Ils ouvrent le parapluie et sortent.
 結果/jie2guo3 小光/xiao3guang1 幾乎/ji1hu1 沒有/mei2you3 淋濕/lin2shi1 ，路加/lu4jia1 的/de5 一半/yi1ban4 肩膀/jian1bang3 卻/que4 全/quan2 濕/shi1 了/le5 。
 = Résultat : Xiao Guang reste presque sec, mais la moitié de l'épaule de Luc est trempée.
 小光/xiao3guang1 抬頭/tai2tou2 說/shuo1 ：你/ni3 看/kan4 ，耶穌/ye1su1 有/you3 聽/ting1 我/wo3 的/de5 禱告/dao3gao4 。
@@ -313,14 +273,10 @@ vocab: 笑=rire, sourire | 照片=photo | 閉上=fermer | 喜樂=joie | 一定=s
 ---
 主日/zhu3ri4 下午/xia4wu3 ，大家/da4jia1 在/zai4 教會/jiao4hui4 門口/men2kou3 拍/pai1 照片/zhao4pian4 。
 = Dimanche après-midi, tout le monde prend des photos devant l'église.
-王師母/wang2shi1mu3 ：來/lai2 ，大家/da4jia1 一起/yi1qi3 笑/xiao4 ！
-= Mme Wang : Allez, tout le monde sourit !
 快門/kuai4men2 一按/yi1an4 ，小光/xiao3guang1 就/jiu4 閉上/bi4shang4 了/le5 眼睛/yan3jing1 。
 = Au moment où l'appareil déclenche, Xiao Guang ferme les yeux.
 小恩/xiao3en1 ：啊/a5 ，又/you4 一張/yi1zhang1 拍/pai1 壞/huai4 了/le5 。
 = Xiao En : Ah, encore une photo ratée.
-小光/xiao3guang1 ：我/wo3 不是/bu4shi4 故意/gu4yi4 的/de5 。
-= Xiao Guang : Je ne l'ai pas fait exprès.
 路加/lu4jia1 看/kan4 著/zhe5 照片/zhao4pian4 笑/xiao4 了/le5 ：你/ni3 看起來/kan4qi3lai2 像/xiang4 正在/zheng4zai4 禱告/dao3gao4 。
 = Luc regarde la photo et rit : On dirait que tu es en train de prier.
 小光/xiao3guang1 ：那/na4 也/ye3 很/hen3 好/hao3 啊/a5 。耶穌/ye1su1 一定/yi1ding4 喜歡/xi3huan5 笑/xiao4 ，也/ye3 喜歡/xi3huan5 看/kan4 我們/wo3men5 開心/kai1xin1 。
@@ -329,13 +285,7 @@ vocab: 笑=rire, sourire | 照片=photo | 閉上=fermer | 喜樂=joie | 一定=s
 = Luc : Comment tu sais ça ?
 小光/xiao3guang1 ：因為/yin1wei4 如果/ru2guo3 沒有/mei2you3 喜樂/xi3le4 ，為什麼/wei4shen2me5 教會/jiao4hui4 的/de5 人/ren2 常常/chang2chang2 唱/chang4 歌/ge1 ？
 = Xiao Guang : Parce que s'il n'y avait pas de joie, pourquoi les gens de l'église chanteraient-ils si souvent ?
-小恩/xiao3en1 在/zai4 旁邊/pang2bian1 點頭/dian3tou2 ：這/zhe4 個/ge4 問題/wen4ti2 很/hen3 好/hao3 。
-= Xiao En, à côté, hoche la tête : C'est une très bonne question.
-小光/xiao3guang1 ：而且/er2qie3 《喜樂/xi3le4 泉源/quan2yuan2》這/zhe4 首/shou3 歌/ge1 的/de5 名字/ming2zi5 就/jiu4 很/hen3 開心/kai1xin1 。
-= Xiao Guang : Et puis le titre du chant « Source de joie » est déjà joyeux.
 王師母/wang2shi1mu3 ：好/hao3 ，再/zai4 來/lai2 一張/yi1zhang1 。這/zhe4 次/ci4 大家/da4jia1 都/dou1 不/bu4 可以/ke3yi3 閉上/bi4shang4 眼睛/yan3jing1 。
 = Mme Wang : Bon, on en refait une. Cette fois, personne n'a le droit de fermer les yeux.
 這/zhe4 一次/yi1ci4 ，小光/xiao3guang1 真的/zhen1de5 張/zhang1 大/da4 眼睛/yan3jing1 ，笑/xiao4 得/de5 很/hen3 開心/kai1xin1 。
 = Cette fois, Xiao Guang ouvre vraiment grand les yeux et sourit de toutes ses forces.
-路加/lu4jia1 看/kan4 著/zhe5 那/na4 張/zhang1 照片/zhao4pian4 ，心/xin1 裡/li3 也/ye3 有/you3 一點/yi1dian3 喜樂/xi3le4 。
-= En regardant la photo, Luc sent lui aussi un peu de joie dans son cœur.

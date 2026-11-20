@@ -5,19 +5,20 @@ Présentation du projet : [README](../README.md). Règles d'écriture : [GUIDE_R
 
 > Le tableau d'avancement plus bas est **généré** à partir de `content/*.txt`.
 > Pour le mettre à jour : `npm run etat`. Le reste de ce document est écrit à la main
-> (dernière mise à jour : 20 novembre 2026, après l'écriture des 300 conversations).
+> (dernière mise à jour : 20 novembre 2026, après l'étoffement du niveau 5 et le réglage des longueurs).
 >
-> Estimation du reste : **environ 1 à 2 semaines**, pour l'essentiel de la **relecture humaine**
-> et du **réétoffement des conversations trop courtes** des niveaux 5 et 6 (voir plus bas).
+> Estimation du reste : l'essentiel est la **relecture humaine** (chinois, théologie, traductions,
+> versets, glossaire) et la décision sur une publication en ligne. Il n'y a plus de travail de rédaction.
 
 ## En bref
 
 - **Fait** : les **300 conversations sur 300** ; le guide de rédaction (désormais avec la norme de
   pinyin de Taïwan) ; toute la chaîne d'outils (validation, génération du site, export Anki) ;
-  le lecteur et toutes les pages du site ; le **glossaire français complet** (3 412 mots, plus aucun mot
-  sans définition) ; le **pinyin harmonisé** ; la validation passe avec **0 erreur**.
-- **Reste** : 56 avertissements de **longueur** (voir « Reste à faire »), la relecture humaine
-  (chinois, théologie, traductions, versets) et la décision sur une publication en ligne.
+  le lecteur et toutes les pages du site ; le **glossaire français complet** (3 566 mots, plus aucun mot
+  sans définition) ; le **pinyin harmonisé** ; la validation passe avec **0 erreur et 0 avertissement**
+  (toutes les longueurs sont dans la cible) ; le site a été contrôlé en navigateur.
+- **Reste** : la relecture humaine (chinois, théologie, traductions, versets, glossaire), quelques
+  points de continuité à trancher (voir « Reste à faire ») et la décision sur une publication en ligne.
 
 ---
 
@@ -70,6 +71,18 @@ Présentation du projet : [README](../README.md). Règles d'écriture : [GUIDE_R
 - **Glossaire** `data/glossaire.tsv` : 3 412 entrées écrites ; `npm run build` ne signale plus aucun mot sans définition.
 - Validation Node **débloquée** : `npm install` a installé `opencc-js` et `pinyin-pro`.
 
+### Travail de la session suivante (20 novembre 2026) : longueurs et contrôle du site
+- **Niveau 5 (231–270)** : les 34 conversations trop courtes ont été étoffées (440–520 caractères, cible 430–560) par
+  des répliques et des développements argumentatifs insérés dans le récit ; aucun verset nouveau cité mot pour mot,
+  aucune parole de chant. Quelques mots clés `vocab:` ajoutés en 261–269.
+- **Petits écarts** : 219 et 296–299 allongées ; 204 et 205 raccourcies ; au niveau 1, **cible maximale relevée à 150**
+  (`scripts/lib/parse.js` et guide) et 031, 035–040 raccourcies ; 096, 098, 114 ramenées dans la cible.
+  La conversation 298 corrigeait « 妳 » en « 你 » (Xiao En parle à Luc).
+- **Cohérence** : en 251, Luc « retourne » au séminaire (au lieu d'y entrer) ; en 235, David rappelle sa demande de lire avec Luc (230).
+- **Glossaire** : 154 définitions ajoutées pour les nouveaux mots (7 114 clés au total) ; pinyin ré-harmonisé (0 jeton à modifier).
+- **Site** : régénéré ; 311 pages répondent, les 61 415 mots des 300 conversations ont pinyin et définition ;
+  vocabulaire, cartes, grammaire, recherche et la page 266 ouverts sans erreur de console.
+
 ---
 
 ## 🔄 En cours
@@ -77,9 +90,9 @@ Présentation du projet : [README](../README.md). Règles d'écriture : [GUIDE_R
 - Rien de commencé et laissé en plan. Les conversations restent à relire et à étoffer (voir ci-dessous).
 
 <!-- ETAT:DEBUT (bloc généré par npm run etat, ne pas modifier à la main) -->
-_Généré le 20 novembre 2026 à 12:47._
+_Généré le 20 novembre 2026 à 15:34._
 
-**300 / 300 conversations rédigées** (100 %), 44 séries déclarées. Validation : 32 fichier(s) — 0 erreur(s), 56 avertissement(s).
+**300 / 300 conversations rédigées** (100 %), 44 séries déclarées. Validation : 32 fichier(s) — 0 erreur(s), 0 avertissement(s).
 
 | Niveau | Numéros | Rédigées |
 |---|---|---|
@@ -130,18 +143,15 @@ _Généré le 20 novembre 2026 à 12:47._
 
 ## ⏳ Reste à faire
 
-### 1. Conversations trop courtes ou trop longues (56 avertissements de longueur)
-`npm run validate` ne signale plus que des longueurs hors cible :
-- **Niveau 5 (231–270) : 34 conversations trop courtes** (221 à 424 caractères pour une cible de 430–560).
-  Les tranches 241–270 sont les plus courtes. À étoffer d'environ 100 à 200 caractères chacune, avec des
-  passages argumentatifs et des connecteurs plus soutenus. Alternative : abaisser la cible du niveau 5.
-- **Niveau 6 : 296–299 un peu courtes** (496–518 pour 560–720).
-- **Niveau 4 : 204 et 205 trop longues** (575, 542 pour 320–430) ; 219 un peu courte (308).
-- **Niveau 1 : 031–040, 045, 046, 049, 060 un peu longues** (132–217 pour 70–130) ; **niveau 2 : 096, 098, 114** (224–227 pour 130–220).
-Les cibles du guide sont des **cibles** : choisir entre réétoffer ces textes ou ajuster les cibles dans
-`scripts/lib/parse.js` et dans le guide.
+### 1. Points de continuité à trancher (signalés, non corrigés)
+- **Calendrier du niveau 5** : 241 commence à la mi-novembre alors que 240 se termine pendant l'Avent (retour en arrière) ;
+  261 situe la rentrée du 2ᵉ semestre en octobre « après l'été », 270 finit en décembre et 271 reprend en septembre
+  (« Luc passe en deuxième année ») : à harmoniser selon le calendrier voulu.
+- **Mamie Chen** : 241 la montre priant pour Luc la nuit (nouveau dans ce passage) ; 266 en fait la belle-mère de Maman Chen.
+- **Luc et le style de louange** : 258 rappelle qu'il a d'abord trouvé la louange taïwanaise « trop animée » ; non vérifié ailleurs.
+- **Chronologie de David** : 256 le fait lire l'Apocalypse, 267 est sa « première fois avec sa Bible » à l'église : à confirmer.
 
-### 2. Relecture humaine
+### 2. Relecture humaine (à faire par l'auteur)
 - Naturel du chinois, exactitude théologique, qualité des traductions françaises, exactitude des versets
   cités (和合本 / Louis Segond 1910). Vérifier en particulier les versets cités dans les 70 nouvelles conversations
   (Jean 1:46, 2:5, 4:14, 6:9, 8:7, 9:25, 10:3 et 10:27, 11:25 et 11:35, 12:13, 13:14, 14:1 et 14:6, 15:5, 19:30, 20:16, 21:17 et 21:19 ;
@@ -153,5 +163,5 @@ Les cibles du guide sont des **cibles** : choisir entre réétoffer ces textes o
   restent inutilisés.
 
 ### 3. Site et documentation
-- Vérifier le site en navigateur (une conversation du bloc 041–060 a été ouverte sans erreur ; le reste n'a pas été parcouru).
+- Vérifier le site en navigateur (contrôle automatique fait : 311 pages répondent, mots avec pinyin et définition, pas d'erreur de console sur les pages ouvertes) ; un parcours à la main page par page reste à faire.
 - Décider d'une **publication en ligne** éventuelle (GitHub Pages, par exemple) : décision laissée à l'auteur.

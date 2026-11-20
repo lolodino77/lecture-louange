@@ -133,7 +133,7 @@ Longueur = nombre de caractères chinois de la conversation (noms compris).
 
 | N° | Niveau | Longueur | Phrases | Grammaire indicative |
 |----|--------|----------|---------|----------------------|
-| 001–060 | 1 Débutant (≈HSK 1/TOCFL A1) | 70–130 | 8–14 lignes, phrases ≤ 12 car. | 是, 有, 很, 嗎, 呢, 吧, 不, 也, 都, 的, 在, 想, 要, 喜歡, 會, 去, 來 |
+| 001–060 | 1 Débutant (≈HSK 1/TOCFL A1) | 70–150 | 8–14 lignes, phrases ≤ 12 car. | 是, 有, 很, 嗎, 呢, 吧, 不, 也, 都, 的, 在, 想, 要, 喜歡, 會, 去, 來 |
 | 061–120 | 2 Élémentaire (≈HSK 2) | 130–220 | 10–16 lignes | 了, 過, 正在, 要…了, 比, 因為…所以, 可是, 就, 才, 得 (complément), 一點, 已經 |
 | 121–180 | 3 Intermédiaire (≈HSK 3) | 220–320 | 12–18 lignes | 把, 被, 雖然…但是, 如果…就, 越來越, 不但…而且, 除了…以外, 一…就, 只要…就 |
 | 181–230 | 4 Intermédiaire + (≈HSK 4) | 320–430 | 14–22 lignes | 即使…也, 無論…都, 既然…就, 難道, 甚至, 居然, 於是, 至於, 以及, un peu d'écrit |
